@@ -1,0 +1,48 @@
+<section>
+
+  <div class="row">
+    <div class="col s12 m9 l10">
+      <div class="base" id="geo_world_map">
+        <h5 class="center-align">Répartition décès signalés dans le monde par pays</h5>
+        <h6 class="center-align">Sélectionner les pays souhaités pour regénérer les graphs ! :)</h6>
+        <div class="center-align" id="chart_geo_world_map">
+          <span class="reset" style="display: none;"><span class="filter"></span> - <a href="" ng-click="vm.reset()">reset</a></span><br />
+        </div>
+      </div>
+    </div>
+    <div class="col hide-on-small-only m3 l2">
+      <p class="intro">Sélectionner les pays que vous disérez pour re-générer les graphiques ci-dessous. Deux types de graphique sont aujourd'hui disponible, Global et Multi. </p>
+      <ul class="section table-of-contents">
+        <li><a class="big active" ui-sref="geos.global">Global Graph</a></li>
+        <li><a class="small" href="#series_evolution_by_sex">Décès / Sexes</a></li>
+        <li><a class="small" href="#1">Décès / Cancers</a></li>
+        <li><a class="small" href="#2">Décès / Âges</a></li>
+        <li><a class="big" ui-sref="geos.multi">Multi Graph</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12">
+      <div class="base" id="series_evolution_by_sex">
+        <h5 class="center-align">Evolution des décès signalés par sexe</h5>
+        <div id="chart_series_evolution_by_sex"></div>
+      </div>
+    </div>
+</div>
+
+  <div class="row">
+    <div class="col s6" id="1">
+      <div class="base" id="row_breakdown">
+        <h5 class="center-align">Par type de cancers</h5>
+        <div id="chart_row_breakdown_by_cancer_type"></div>
+      </div>
+    </div>
+    <div class="col s6" id="2">
+      <div class="base" id="row_breakdown">
+        <h5 class="center-align">Par tranche d'âge</h5>
+        <div id="chart_row_breakdown_by_age_range"></div>
+      </div>
+    </div>
+  </div>
+</section>

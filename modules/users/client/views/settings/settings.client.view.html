@@ -1,0 +1,17 @@
+<section>
+  <div class="row">
+    <div class="col s12">
+      <div class="base">
+        <ul class="tabs" tabs>
+            <li class="tab"><a ui-sref="settings.profile">Edit Profile</a></li>
+            <li class="tab"><a ui-sref="settings.picture">Change Profile Picture</a></li>
+            <li class="tab"  ng-show="vm.user.provider === 'local'"><a ui-sref="settings.password">Change Password</a></li>
+            <li class="tab"><a ui-sref="settings.accounts">Manage Social Accounts</a></li>
+        </ul>
+        <br />
+        <div class="settings-view">
+          <div ui-view></div>
+        </div>
+      </div>
+  </div>
+</section>

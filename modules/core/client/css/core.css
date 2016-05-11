@@ -1,0 +1,166 @@
+/****************************
+ * OLD MEAN
+ ****************************/
+
+/* FIXME */
+.undecorated-link:hover {
+  text-decoration: none;
+}
+[ng\:cloak],
+[ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak {
+  display: none !important;
+}
+.header-profile-image {
+  opacity: 0.8;
+  height: 28px;
+  width: 28px;
+  border-radius: 50%;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.open .header-profile-image,
+a:hover .header-profile-image {
+  opacity: 1;
+}
+.user-header-dropdown-toggle {
+  padding-top: 11px !important;
+  padding-bottom: 11px !important;
+}
+.error-text {
+  display: none;
+}
+.has-error .help-block.error-text {
+  display: block;
+}
+.has-error .help-inline.error-text {
+  display: inline;
+}
+
+/****************************
+* Content
+****************************/
+/* base */
+.base {
+  background-color: #fff;
+  border: 1px solid #dddddd;
+  padding: 15px;
+}
+
+/* cards */
+.card {
+  font-size: 90%;
+  z-index: 0;
+  border: 1px solid #dddddd;
+}
+
+/* collections */
+.collection .collection-item.avatar .circle {
+  background: #7f8c8d;
+}
+
+.collection.with-header .collection-header .row {
+  margin-bottom: 0;
+}
+
+/****************************
+* errors
+****************************/
+
+.lost {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  left: 60px;
+  bottom: 0;
+  background: -webkit-linear-gradient(#3498db 80%, #f39c12 20%);
+  background: -webkit-gradient(#3498db 80%, #f39c12 20%);
+  background: -moz-linear-gradient(#3498db 80%, #f39c12 20%);
+  background: -ms-linear-gradient(#3498db 80%, #f39c12 20%);
+  background: -o-linear-gradient(#3498db 80%, #f39c12 20%);
+  background: linear-gradient(#3498db 80%, #f39c12 20%);
+  color: #fff;
+  padding-top: 50px;
+}
+
+.lost .r2d2 {
+  width: 200px;
+  position: absolute;
+  bottom: 10%;
+  right: 50%;
+  margin-right: -100px;
+}
+
+/****************************
+* Suggest
+****************************/
+
+.ac-container {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  z-index: 999;
+}
+.ac-container .ac-menu {
+  border: 1px solid #ccc;
+  list-style: none;
+  padding: 0;
+  background-color: white;
+  box-shadow: 0 3px 7px 0 rgba(0, 0, 0, 0.15);
+  margin: 8px 0 0 0;
+  width: 100% !important;
+  display: inline-table !important;
+}
+
+.ac-container .ac-menu .ac-menu-item a {
+  display: block;
+  line-height: 50px;
+  clear: both;
+  white-space: nowrap;
+  overflow: hidden;
+  -webkit-text-overflow: ellipsis;
+  -moz-text-overflow: ellipsis;
+  -ms-text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+.ac-container .ac-menu .ac-menu-item .highlight {
+  background-color: yellow;
+  background-color: rgba(192,192,192,0.4);
+}
+.ng-leave-active {
+  display:none !important;
+}
+.ac-container .ac-menu .ac-menu-item:last-child {
+  border-bottom: 0;
+}
+
+.ac-container .ac-menu .ac-menu-item:hover {
+  background-color: #e0eaff;
+}
+.ac-container .ac-menu a {
+  padding-left: 5px;
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+.ac-container .ac-menu .ac-state-focus {
+  background-color: #f9e1e2 !important;
+}
+
+/****************************
+* Inputs
+****************************/
+textarea {
+  height: 10em;
+  border: 1px solid #dddddd;
+}

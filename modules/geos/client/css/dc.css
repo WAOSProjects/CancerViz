@@ -1,0 +1,9 @@
+div.dc-chart {
+  float: none !important;
+}
+
+.dc-chart g.row text {
+  fill: #2c3e50;
+  font-size: 12px;
+  cursor: pointer;
+}

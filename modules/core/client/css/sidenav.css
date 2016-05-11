@@ -1,0 +1,175 @@
+/****************************
+ * sidenav
+ *****************************/
+
+
+/* animation */
+.wrapper, .sidenav,  .nav-wrapper, .head, .foot, .user {
+  -webkit-transition: all 0.3s ease;
+  /* Safari, Chrome and Opera > 12.1*/
+  -moz-transition: all 0.3s ease;
+  /* Firefox < 16*/
+  -ms-transition: all 0.3s ease;
+  /* Internet Explorer*/
+  -o-transition: all 0.3s ease;
+  /* Opera < 12.1*/
+  transition: all 0.3s ease;
+}
+
+/* normal */
+.wrapper {
+  padding-left: 60px;
+  background: #f9f9f9;
+}
+.sidenav {
+  position: fixed;
+  top: 0;
+  margin-left: -60px;
+  height: 100%;
+  width: 60px;
+  background: #16a085;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 99;
+}
+.nav-wrapper {
+  padding-left: 60px;
+}
+.sidebar-nav {
+  width: 60px;
+  list-style: none;
+}
+.wrapper .sidebar-nav span {
+  display: none;
+}
+
+/* toggled */
+.wrapper.toggled {
+  padding-left: 250px;
+}
+.wrapper.toggled .sidenav {
+  margin-left: -250px;
+  width: 250px;
+}
+.wrapper.toggled .nav-wrapper {
+  padding-left: 250px;
+}
+.wrapper.toggled .sidebar-nav {
+  width: 250px;
+}
+.wrapper.toggled .sidebar-nav span {
+  display: inline;
+  opacity: 1;
+}
+
+/* design */
+.sidebar-nav .head {
+  height:50px;
+  width:250px;
+  padding: 0 0 0 0;
+  background: #1abc9c;
+}
+.wrapper.toggled .sidebar-nav .head {
+  padding: 0 10px 0 10px;
+}
+
+.sidebar-nav .user {
+  position:absolute;
+  bottom: 50px;
+  height:60px;
+  width:100%;
+  line-height: 50px;
+  padding: 0 0 0 0;
+  background: #16a085;
+}
+.wrapper.toggled .sidebar-nav .user {
+  padding: 0 10px 0 10px;
+}
+.sidebar-nav .user a {
+  color: #fff;
+}
+.sidebar-nav .user .image {
+  opacity: 1;
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin: 12px 5px 12px 12px;
+  background: #7f8c8d;
+}
+
+.sidebar-nav .user:hover {
+background-color: #1abc9c;
+}
+
+.sidebar-nav .foot {
+  position:absolute;
+  bottom: 0;
+  height:50px;
+  width:100%;
+  background: #1abc9c;
+  line-height: 50px;
+}
+
+.dropdown-toggle {width: 100%; height: 100%; display: block; cursor: pointer; color:#fff;}
+
+.sidebar { top: 0 !important }
+.sidebar .fa { margin-right: 30px }
+.sidebar .sidebar-nav.navbar-collapse { padding-right: 0; padding-left: 0 }
+.sidebar ul li {width: auto; position: relative; display: block;}
+.sidebar ul li a { padding: 10px 20px 10px 20px; color: #c5d0de; display: block;}
+.sidebar ul li a.active,.sidebar ul li a:hover { background-color: #1abc9c; color: #fff;}
+.sidebar .arrow { float: right }
+.sidebar .fa.arrow:before { content: "\f104" }
+.sidebar .active>a>.fa.arrow:before { content: "\f107" }
+.sidebar .nav-second-level li,
+.sidebar .nav-third-level li { border-bottom: 0 !important }
+.sidebar .nav-second-level li a { padding-left: 37px }
+.sidebar .nav-third-level li a { padding-left: 52px }
+.sidebar ul li a span {display: none;}
+.sidebar ul li a {width: 250px;}
+
+.wrapper.toggled .sidebar ul li {width: 250px;}
+.wrapper.toggled .sidebar ul li a {width: 250px;}
+
+/* design */
+.head span {
+  position: relative;
+  display: block;
+  float: left;
+  height: 40px;
+  margin-top: 5px;
+}
+
+.head span img {
+  height: 34px;
+  margin-top: 3px;
+}
+
+.logo, .logo:hover {
+  float: left;
+  margin: 5px 8px 5px 8px;
+  padding: 0;
+  background: transparent;
+}
+
+.logo .shape:hover {
+  stroke: #bdc3c7;
+  transition: all 0.2s;
+}
+
+/*
+@media screen and (max-width: 768px) {
+.wrapper {
+padding-left: 0;
+}
+.wrapper.toggled {
+padding-left: 60px;
+}
+.wrapper .sidenavWrapper {
+margin-left: -60px;
+}
+.wrapper.toggled .sidenavWrapper {
+margin-left: -60px;
+}
+}*/

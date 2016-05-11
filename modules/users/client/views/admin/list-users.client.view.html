@@ -1,0 +1,34 @@
+<section>
+  <div class="row">
+    <div class="col s12">
+      <ul class="collection with-header">
+        <li class="collection-header">
+          <div class="row">
+            <span class="col s10"><h4>Users list</h4></span>
+            <input class="col s2 form-control" type="text" ng-model="vm.search" placeholder="Search" ng-change="vm.figureOutItemsToDisplay()" />
+          </div>
+        </li>
+        <li ng-repeat="user in vm.pagedItems" ui-sref="admin.user({userId: user._id})" class="collection-item avatar">
+          <img ng-src="{{user.profileImageURL}}" alt="" class="circle">
+          <b class="title" ng-bind="user.username"></b> - <span ng-bind='user.displayName'></span>
+          <p class="list-group-item-text pull-right small">
+            <span class="chip" ng-repeat="item in user.roles">{{item}}</span>
+          </p>
+          <p class="list-group-item-text" ng-bind="user.email"></p>
+          <p class="list-group-item-text" >{{user.created | date:"MM/dd/yyyy"}}</p>
+        </li>
+      </ul>
+      <pagination
+          class="center"
+          page="vm.currentPage"
+          page-size="vm.itemsPerPage"
+          total="vm.filterLength"
+          show-prev-next="true"
+          dots="...."
+          hide-if-empty="true"
+          adjacent="2"
+          scroll-top="false"
+          pagination-action="vm.pageChanged(page)" />
+    </div>
+  </div>
+</section>

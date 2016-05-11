@@ -1,0 +1,15 @@
+.intro {
+  text-align:justify;
+  color: #16a085;
+  font-size: 90%;
+  margin-right: 15px;
+}
+
+.small {
+  font-size: 80%;
+  margin-left: 5px;
+}
+
+.big {
+  margin-top: 10px;
+}

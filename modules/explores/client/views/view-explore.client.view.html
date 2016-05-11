@@ -1,0 +1,52 @@
+<section>
+  <div class="row">
+    <div class="col s12">
+      <div class="base">
+        <div ng-if="vm.deathsYears.$resolved">
+          <h5 class="center-align">Evolution du nombre de mort par an pour l'ensemble des cancers</h5>
+          <nvd3 options="vm.optionsDeathsYears" data="vm.deathsYears"></nvd3>
+        </div>
+        <div ng-if="!vm.deathsYears.$resolved" >
+          <h5 class="center-align">Loading Data ..</h5>
+          <div class="progress">
+                <div class="indeterminate"></div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s6">
+      <div class="base">
+        <div ng-if="vm.deathsCancers.$resolved">
+          <h5 class="center-align">Importance des cancers</h5>
+          <h6 class="center-align">All cancers : {{vm.deathsCancers[0].allCancers}} - All cancers but Lung : {{vm.deathsCancers[0].allCancersButLung}}</h6>
+          <nvd3 options="vm.optionsDeathsCancers" data="vm.deathsCancers"></nvd3>
+        </div>
+        <div ng-if="!vm.deathsCancers.$resolved" >
+          <h5 class="center-align">Loading Data ..</h5>
+          <div class="progress">
+                <div class="indeterminate"></div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="col s6">
+      <div class="base">
+        <div ng-if="vm.risqsCancers.$resolved">
+          <h5 class="center-align">Comparaisons à l'évaluation des risques retournés</h5>
+          <h6 class="center-align">All cancers : {{vm.risqsCancers[0].allCancers}} - All cancers but Lung : {{vm.risqsCancers[0].allCancersButLung}}</h6>
+          <nvd3 options="vm.optionsRisqsCancers" data="vm.risqsCancers"></nvd3>
+        </div>
+        <div ng-if="!vm.risqsCancers.$resolved" >
+          <h5 class="center-align">Loading Data ..</h5>
+          <div class="progress">
+                <div class="indeterminate"></div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>

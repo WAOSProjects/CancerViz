@@ -1,0 +1,28 @@
+<!-- The chat view -->
+<section class="container">
+  <div class="page-header">
+    <h1>Chat Example</h1>
+  </div>
+  <!-- The message form -->
+  <form class="col m12" ng-submit="vm.sendMessage();">
+    <div class="base">
+      <div class="input-group">
+        <input type="text" id="messageText" name="messageText" class="form-control" ng-model="vm.messageText" placeholder="Enter new message">
+        <span class="input-group-btn">
+          <button type="submit" class="btn btn-primary" ng-disabled="!vm.messageText.length">Submit</button>
+        </span>
+      </div>
+    </div>
+  </form>
+  <ul class="collection">
+    <li class="collection-item" ng-repeat="message in vm.messages">
+      <small class="right" ng-bind="message.created | date:'mediumTime'"></small>
+      <img ng-src="{{message.profileImageURL}}" alt="{{message.username}}" class="left chat-profile-image" />
+      <div>
+        <strong ng-bind="message.username"></strong>
+        <br>
+        <span ng-bind="message.text"></span>
+      </div>
+    </li>
+  </ul>
+</section>

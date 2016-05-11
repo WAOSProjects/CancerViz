@@ -1,0 +1,150 @@
+<section>
+
+  <div class="row">
+    <div class="col s12 m9 l10">
+      <div class="base" id="geo_world_map">
+        <h5 class="center-align">Répartition décès signalés dans le monde par pays</h5>
+        <h6 class="center-align">Sélectionner les pays souhaités pour regénérer les graphs ! :)</h6>
+        <div class="center-align" id="chart_geo_world_map">
+          <span class="reset" style="display: none;"><span class="filter"></span> - <a href="" ng-click="vm.reset()">reset</a></span><br />
+        </div>
+      </div>
+    </div>
+    <div class="col hide-on-small-only m3 l2">
+      <p class="intro">Sélectionner les pays que vous disérez pour re-générer les graphiques ci-dessous. Deux types de graphique sont aujourd'hui disponible, Global et Multi. </p>
+      <ul class="section table-of-contents">
+        <li><a class="big" ui-sref="geos.global">Global Graph</a></li>
+        <li><a class="big active" ui-sref="geos.multi">Multi Graph</a></li>
+        <li><a class="small" href="#1">Décès / Sexes / Âges 0-29</a></li>
+        <li><a class="small" href="#2">Décès / Sexes / Âges 30-59</a></li>
+        <li><a class="small" href="#3">Décès / Sexes / Âges 60+</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row" id="1"><div class="col s12"><h5 align="center">Global population, Male and Female, Age ranges 0-29</h5></div></div>
+    <div class="row">
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 0-4</h6>
+          <div id="chart_series_evolution_by_age_0_0"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 5-9</h6>
+          <div id="chart_series_evolution_by_age_0_1"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 10-14</h6>
+          <div id="chart_series_evolution_by_age_0_2"></div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 15-19</h6>
+          <div id="chart_series_evolution_by_age_0_3"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 20-24</h6>
+          <div id="chart_series_evolution_by_age_0_4"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 25-29</h6>
+          <div id="chart_series_evolution_by_age_0_5"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" id="2"><div class="col s12"><h5 align="center">Global population, Male and Female, Age ranges 30-59</h5></div></div>
+    <div class="row">
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 30-34</h6>
+          <div id="chart_series_evolution_by_age_1_0"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 35-39</h6>
+          <div id="chart_series_evolution_by_age_1_1"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 40-44</h6>
+          <div id="chart_series_evolution_by_age_1_2"></div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 45-49</h6>
+          <div id="chart_series_evolution_by_age_1_3"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 50-54</h6>
+          <div id="chart_series_evolution_by_age_1_4"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 55-59</h6>
+          <div id="chart_series_evolution_by_age_1_5"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" id="3"><div class="col s12"><h5 align="center">Global population, Male and Female, Age ranges 60+</h5></div></div>
+    <div class="row">
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 60-64</h6>
+          <div id="chart_series_evolution_by_age_2_0"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 65-69</h6>
+          <div id="chart_series_evolution_by_age_2_1"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 70-74</h6>
+          <div id="chart_series_evolution_by_age_2_2"></div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 75-79</h6>
+          <div id="chart_series_evolution_by_age_2_3"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 80-84</h6>
+          <div id="chart_series_evolution_by_age_2_4"></div>
+        </div>
+      </div>
+      <div class="col s4">
+        <div class="base" id="row_breakdown">
+          <h6 class="center-align">Ages 85+</h6>
+          <div id="chart_series_evolution_by_age_2_5"></div>
+        </div>
+      </div>
+    </div>
+</section>

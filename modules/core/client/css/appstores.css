@@ -1,0 +1,189 @@
+/****************************
+* App Store
+****************************/
+
+
+/* icon */
+
+.appstores .icon {
+  border-radius: 10px;
+  margin-right:15px;
+  height:65px;
+  width:65px;
+  color: #fff;
+  font-size: 70%;
+  line-height: 80px;
+  text-align: center;
+}
+
+/****************************
+* View
+****************************/
+
+/* Parallax */
+
+.appstores .app.parallax-container{
+  height: 300px;
+}
+
+.appstores .app .title {
+  padding: 0;
+  margin: 0 10px 0 0;
+  color: #2c3e50;
+  font-weight: 400;
+}
+
+.appstores .app a.toplink {
+  color: #f39c12;
+  margin: -4px 20px 0 0;
+  transition: color .3s ease;
+  text-transform: uppercase;
+  font-size: 150%;
+  margin-left: 5px;
+}
+
+.appstores .app a.toplink:hover{
+    color: #ffd8a6;
+}
+
+.appstores .app .excerpt, .appstores .app .description {
+  margin: 10px 5px 5px 5px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.appstores .app .new {
+  margin: 20px 0 0 0;
+  font-weight: 400;
+}
+
+.appstores .app .news {
+  list-style: disc;
+  margin: 5px 0 20px 30px;
+}
+
+.appstores .app .news li {
+  list-style: disc;
+}
+
+.appstores .app .chip {
+  margin: -10px 3px 0 3px;
+  height: 28px;
+  line-height: 28px;
+}
+
+
+/****************************
+ *  List
+ ***************************/
+
+/* Cards */
+
+.appstores.card:hover{
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
+  background: #f9f9f9;
+}
+
+/* icon */
+
+.appstores.card .icon {
+  margin-right:10px;
+}
+
+/* image */
+
+.appstores.card .image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height:175px;
+}
+
+.appstores.card .image:before {
+  content: '';
+  font-family: FontAwesome;
+  position:absolute;
+  width:100%;
+  height:100%;
+  line-height: 175px;
+  text-align: center;
+  color: #ecf0f1;
+  font-size: 20px;
+  font-weight: 100;
+  -webkit-transition: all 0.6s ease;
+  -moz-transition: all 0.6s ease;
+  -o-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+}
+.appstores.card .image:hover:before {
+  content: '\f002';
+  background: #000;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* content */
+
+.appstores.card .card-content .card-title {
+  line-height: 29px;
+  font-size: 150%;
+  color: #2c3e50 !important;
+  font-weight: 400;
+}
+
+.appstores.card .card-content {
+  padding:12px;
+  height:88px;
+  color: #999;
+  background: transparent;
+  border-top: #dddddd 1px solid;
+}
+
+.appstores.card a.toplink {
+  color: #f39c12;
+  margin-right: 20px;
+  transition: color .3s ease;
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+
+.appstores.card a.toplink:hover{
+      color: #ffd8a6;
+}
+
+.appstores.card .card-content .card-title .fa{
+  font-size: 90%;
+}
+
+/* trick nowrap on two lines ...*/
+.appstores.card .card-content .ellipsis {
+    overflow: hidden;
+    height: 36px;
+    line-height: 18px;
+    margin-top: 0;
+}
+.appstores.card .card-content .ellipsis:before {
+    content:"";
+    float: left;
+    width: 5px;
+    height: 36px;
+}
+.appstores.card .card-content .ellipsis > *:first-child {
+    float: right;
+    width: 100%;
+    margin-left: -5px;
+}
+.appstores.card .card-content .ellipsis:after {
+    content:"\02026";
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -o-box-sizing: content-box;
+    box-sizing: content-box;
+    float: right;
+    position: relative;
+    top: -20px;
+    left: 100%;
+    width: 3em;
+    margin-left: -3em;
+    padding-right: 5px;
+    text-align: right;
+}

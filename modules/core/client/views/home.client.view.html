@@ -1,0 +1,54 @@
+<section class="home">
+  <div class="row">
+    <div class="col s12 m8 offset-s0 offset-m2">
+      <div class="back-logo">
+        <!--{{bind-attr class="hasQuery:while-search :back-logo"}} -->
+        <h1 class="center-align">
+        <span class="initial">CV</span>
+        </h1>
+        <!-- {{bind-attr class="hasQuery:while-search :back-logo :hide-on-small-only"}} -->
+        <h2 class="center-align hide-on-small-only">
+        <small><span class="initial">C</span>ancer <span class="initial">V</span>iz</small>
+        </h2>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12">
+      <div class="base">
+        <b>L’outil présenté ici est une version « prototype ». Nous avons en effet pris connaissance des challenges <a href="http://www.epidemium.cc/">Epidemium</a> il y a seulement quelques jours.</b> <br /><br />
+        Nous nous sommes donc concentrés à mettre en œuvre rapidement :
+        <ul>
+          <li>- une « technology full-stack », basée exclusivement sur des technologies open-source, couvrant toute la chaîne de valeur, de l’acquisition des données à la publication des visualisations sur un site internet dédié, sans oublier les analyses de données intermédiaires</li>
+          <li>- un prototype opérationnel pour ce challenge sur le cancer, présentant différentes fonctionnalités possibles avec quelques exemples illustratifs</li>
+        </ul>
+        (:
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12 m6 l4" ng-repeat="item in vm.appStore.items | orderBy: 'position'" class="{{item.class}}">
+      <div class="appstores card z-depth-0">
+        <div class="card-image">
+          <a ui-sref="{{item.state}}" class="image-href">
+            <div class="image" style='background-image: url("{{item.preview}}");'></div>
+          </a>
+        </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">{{item.title}}
+                  <i class="fa fa-bars right"></i>
+              </span>
+          <span class="left icon" style='background-color: {{item.color}}; color: {{item.fontColor}};'><i class="fa {{item.icon}} fa-3x"></i></span>
+          <div class="ellipsis">
+            <p>{{item.excerpt}}</p>
+          </div>
+        </div>
+        <div class="card-reveal">
+          <span class="card-title grey-text text-darken-4">{{item.title}}<i class="fa fa-times right"></i></span>
+          <p>{{item.excerpt}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

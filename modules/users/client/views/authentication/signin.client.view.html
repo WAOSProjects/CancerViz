@@ -1,0 +1,33 @@
+<div>
+  <div class="col m12">
+    <div class="base">
+      <form name="vm.userForm" ng-submit="vm.signin(vm.userForm.$valid)" class="signin" novalidate autocomplete="off">
+        <div class="form-group" show-errors>
+          <label for="username">Username</label>
+          <input type="text" id="username" name="username" class="form-control" ng-model="vm.credentials.username" placeholder="Username" lowercase required>
+          <div ng-messages="vm.userForm.username.$error" role="alert">
+            <p class="help-block error-text" ng-message="required">Username is required.</p>
+          </div>
+        </div>
+        <div class="form-group" show-errors>
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" class="form-control" ng-model="vm.credentials.password" placeholder="Password" required>
+          <div ng-messages="vm.userForm.password.$error" role="alert">
+            <p class="help-block error-text" ng-message="required">Password is required.</p>
+          </div>
+        </div>
+        <div class="center-align form-group">
+          <button type="submit" class="btn btn-primary">Sign in</button>
+          &nbsp; or&nbsp;
+          <!--<a ui-sref="authentication.signup">Sign up</a>-->
+        </div>
+        <div class="center-align forgot-password">
+          <a ui-sref="password.forgot">Forgot your password?</a>
+        </div>
+        <uib-alert type="danger" ng-show="vm.error" class="center-align text-danger">
+          <span ng-bind="vm.error"></span>
+        </uib-alert>
+      </form>
+    </div>
+  </div>
+</div>

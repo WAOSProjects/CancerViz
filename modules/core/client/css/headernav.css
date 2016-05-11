@@ -1,0 +1,62 @@
+/****************************
+ * Navbar
+ ****************************/
+
+.header nav.top{
+  position:fixed;
+  right:0;
+  background-color: #fff;
+  border-bottom: 1px solid #dddddd;
+  z-index: 98;
+}
+
+.header nav.top .brand-logo a, .header nav.top .brand-logo span {
+  color: #4c4e54;
+  font-size: 27px;
+}
+
+.header nav.top ul a {
+  color: #2c3e50;
+}
+
+.header nav.top .row .col {
+  padding: 0 1.25rem;
+}
+
+/* List */
+.header nav.top .row .col li.item {
+  width: 50px;
+}
+
+
+/****************************
+ * Suggest
+ ****************************/
+
+.header .input-field {
+  position : static;
+}
+
+.header nav.top .search-input {
+  line-height: 30px;
+  padding: 0 5px 0 5px;
+  margin: 6px 0 0 10px;
+  border-bottom: 1px solid #2c3e50;
+  font-weight: normal;
+  font-size: 100%;
+  width: 200px;
+  display: inline-block;
+}
+
+.header .ac-container {
+  position: absolute;
+  top:41px !important;
+}
+
+.header .ac-container .ac-menu .ac-menu-item {
+  border-bottom: 1px dotted #ddd;
+  background: #fff;
+  height: 50px;
+  width: 300px;
+  color: #2c3e50;
+}

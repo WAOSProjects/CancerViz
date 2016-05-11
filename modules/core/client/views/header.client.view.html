@@ -1,0 +1,40 @@
+<div class="header" ng-controller="HeaderController as vm">
+  <!-- Nav -->
+  <nav class="top z-depth-0">
+    <div class="nav-wrapper">
+      <div class="row">
+        <div class="col s12">
+          <div class="brand-logo">
+            <span ng-repeat="item in location" ng-switch="item.state">
+              <span ng-switch-when="">{{item.value}}</span>
+              <span ng-switch-default><a href="/{{item.state}}">{{item.value}}</a></span>
+            </span>
+          </div>
+          <ul class="right hide-on-med-and-down">
+            <!-- Nav user -->
+            <li ng-show="vm.authentication.user" class="item">
+              <a tooltipped href="#" ng-click="vm.authentication.signout();" data-position="bottom" data-delay="550" data-tooltip="Sign out"><i class="fa fa-sign-out"></i></a>
+            </li>
+            <!-- Nav default Simulation -->
+            <li ng-hide="vm.authentication.user" class="item">
+              <a ui-sref="authentication.signin"><i class="fa fa-sign-in"></i></a>
+            </li>
+          </ul>
+          <ul class="right hide-on-med-and-down" ng-if="vm.nav.shouldRender(vm.authentication.user);">
+            <li ng-repeat="item in vm.nav.items | orderBy: 'position'" ng-if="item.shouldRender(vm.authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), drop: item.type === 'dropdown' }" class="item center-align {{item.class}}" drop="item.type">
+              <!-- if Dropdown  -->
+              <a ng-switch-when="dropdown" class='dropdown-button' data-activates="{{item.state}}" dropdown><i class="fa {{item.icon}}"></i></a>
+              <ul ng-switch-when="dropdown" id="{{item.state}}" class='dropdown-content'>
+                <li ng-repeat="subitem in item.items | orderBy: 'position'" ng-if="subitem.shouldRender(authentication.user);" ui-sref-active="active">
+                  <a ui-sref="{{subitem.state}}" ng-bind="subitem.title"></a>
+                </li>
+              </ul>
+              <!-- else  -->
+              <a tooltipped ng-switch-default ui-sref="{{item.state}}" data-position="bottom" data-delay="550" data-tooltip="{{item.title}}"><i class="fa {{item.icon}}"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+</div>

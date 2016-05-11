@@ -1,0 +1,19 @@
+<section>
+  <div class="row" ng-repeat="article in vm.articles">
+    <div class="col s12">
+      <div class="base">
+        <a ui-sref="articles.view({articleId: article._id})"><h4 class="list-group-item-heading" ng-bind="article.title"></h4></a>
+        <small class="list-group-item-text">
+            Posted on
+            <span ng-bind="article.created | date:'mediumDate'"></span>
+            by
+            <span ng-bind="article.user.displayName"></span>
+          </small>
+        <p class="list-group-item-text" ng-bind-html="article.content"></p>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 center-align" ng-if="vm.articles.$resolved && !vm.articles.length">
+    No articles yet, why don't you <a ui-sref="articles.create">create one</a>?
+  </div>
+</section>

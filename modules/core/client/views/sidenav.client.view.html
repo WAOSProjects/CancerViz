@@ -1,0 +1,53 @@
+<div class="sidenav" ng-controller="SidenavController as vm">
+  <div class="sidebar-nav">
+    <div class="head">
+      <a ui-sref="home">
+        <svg width="40" height="40" version="1.1" class="logo">
+          <line x1="0" x2="40" y1="10" y2="10" stroke="white" stroke-width="20" stroke-linecap="square" class="shape"/>
+          <line x1="0" x2="40" y1="30" y2="30" stroke="white" stroke-width="20" stroke-linecap="square" class="shape"/>
+          <line x1="20" x2="40" y1="20" y2="10" stroke="#24272d" stroke-width="10" stroke-linecap="square" class="shape"/>
+          <line x1="0" x2="40" y1="10" y2="35" stroke="#24272d" stroke-width="10" stroke-linecap="square" class="shape"/>
+        </svg>
+        <span style="font-size:28px; color:#24272d; font-weight: bold;">C</span><span style="font-size:28px; color:#fff;">ancer</span> <span style="font-size:28px; color:#24272d; font-weight: bold;">V</span><span style="font-size:28px; color:#fff;">iz</span>
+      </a>
+    </div>
+    <div class="sidebar">
+      <ul ng-if="vm.sideNav.shouldRender(vm.authentication.user);">
+        <li ng-repeat="item in vm.sideNav.items | orderBy: 'position'" ng-if="item.shouldRender(vm.authentication.user);" ng-switch="item.type" ng-class="{ drop: item.type === 'dropdown' }" drop="item.type">
+          <!-- if Dropdown  -->
+          <a ng-switch-when="dropdown" class='dropdown-button' data-activates="{{item.title}}" dropdown>{{::item.title}}&nbsp;<i class="material-icons right">arrow_drop_down</i></a>
+          <!-- <ul ng-switch-when="dropdown" id="{{item.title}}" class='dropdown-content'>
+            <li ng-repeat="subitem in item.items | orderBy: 'position'" ng-if="subitem.shouldRender(authentication.user);" ui-sref-active="active">
+              <a ui-sref="{{subitem.state}}" ng-bind="subitem.title"></a>
+            </li>
+          </ul> -->
+          <!-- else  -->
+          <div ng-switch-default>
+            <a ng-if="vm.$state.includes(item.state) && item.view == view" ui-sref="{{item.state}}" style="background-color: {{item.color}}; color: {{item.fontColor}};"><i class="fa {{item.icon}} fa-fw"></i><span ng-bind="item.title"></span></a>
+            <a ng-if="!vm.$state.includes(item.state) && item.view == view" ui-sref="{{item.state}}"><i class="fa {{item.icon}} fa-fw"></i><span ng-bind="item.title"></span></a>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="user">
+      <li ng-show="vm.authentication.user">
+        <a ui-sref="settings.profile">
+          <img ng-src="{{vm.authentication.user.profileImageURL}}" alt="{{vm.authentication.user.displayName}}" class="image" />
+          <span>{{vm.authentication.user.displayName}}</span>
+        </a>
+      </li>
+    </div>
+    <div class="foot">
+      <a class="dropdown-toggle center-align" ng-click="setSideblock()">
+        <i ng-if="sideblock" class="fa fa-angle-left fa-fw"></i>
+        <i ng-if="!sideblock" class="fa fa-angle-right fa-fw"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
+<script>
+$(".dropdown-toggle").click(function (e) {
+  $(".wrapper").toggleClass("toggled");
+});
+</script>

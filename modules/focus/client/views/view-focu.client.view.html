@@ -1,0 +1,18 @@
+<section>
+    <div class="row">
+      <div class="col s12">
+        <div class="base">
+          <div ng-if="vm.mustCancers.$resolved">
+            <h5 class="center-align">Comparaison des cancers les plus importants par années</h5>
+            <nvd3 options="vm.optionsMustCancers" data="vm.mustCancers"></nvd3>
+          </div>
+          <div ng-if="!vm.mustCancers.$resolved" >
+            <h5 class="center-align">Loading Data ..</h5>
+            <div class="progress">
+                  <div class="indeterminate"></div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
