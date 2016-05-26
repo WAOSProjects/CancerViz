@@ -33,7 +33,10 @@ module.exports = {
         'public/lib/crossfilter/crossfilter.min.js',
         'public/dc.2.min.js',
         'public/d3.geo.projection.min.js',
-        'public/dvdf.js'
+        'public/dvdf-0.0.3a.js',
+        'public/dvdf.js',
+        'public/d3-queue.v2.js',
+        'public/colorbrewer.min.js'
         // endbower
       ]
     },

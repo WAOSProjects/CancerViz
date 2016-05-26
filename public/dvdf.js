@@ -2,7 +2,7 @@
  ****************************************************************************************************************************************************************
  ****************************************************************************************************************************************************************
  * Data Visualisation & Dashboard Factory
- * v0.1a-0.0.3 (alpha version)
+ * v0.0.1a-0.0.3 (alpha version)
  *
  * The MIT License (MIT)
  *
@@ -30,7 +30,7 @@
  ****************************************************************************************************************************************************************
  */
 
-var dvdf = (function () {
+var dvdf_v001 = (function () {
 
 /*
  ****************************************************************************************************************************************************************
@@ -40,7 +40,7 @@ var dvdf = (function () {
  ****************************************************************************************************************************************************************
  */
 
-	var dvdf_timer_utils = (function () {
+	var dvdf_v001_timer_utils = (function () {
 //    var __TIMESTAMPING_ON = false;
 		var __TIMESTAMPING_CONSOLE_LOG = false;
 		// logging timestamping in files may be added in the future
@@ -89,7 +89,7 @@ var dvdf = (function () {
 // */
 		};
 
-		// dvdf_timer_utils
+		// dvdf_v001_timer_utils
 		return {
 //  UTILS for timestamping logs
 			init_console_log: timer_init_console_log,
@@ -112,7 +112,7 @@ var dvdf = (function () {
  ****************************************************************************************************************************************************************
  */
 
-	var dvdf_dc_utils = (function () {
+	var dvdf_v001_dc_utils = (function () {
 
 /*
  ************************************************************************************************************************
@@ -752,7 +752,7 @@ var dvdf = (function () {
 		};
 
 
-		// dvdf_dc_utils
+		// dvdf_v001_dc_utils
 		return {
 //  UTILS for managing dc_chart_parameters
 			load_dc_chart_parameters_tsv: load_dc_chart_parameters_tsv,
@@ -808,16 +808,16 @@ var dvdf = (function () {
 
 	})();
 
-	// dvdf
+	// dvdf_v001
 	return {
 		timer: {
-			utils: dvdf_timer_utils,
+			utils: dvdf_v001_timer_utils,
 		},
 		dc: {
-			utils: dvdf_dc_utils,
+			utils: dvdf_v001_dc_utils,
 		},
 	}
 
 })();
 
-//  console.log(dvdf);
+//  console.log(dvdf_v001);

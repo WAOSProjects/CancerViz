@@ -1,0 +1,2374 @@
+cancer	id.cancer	sex	year	deaths
+Bladder	C67	Female	1955	442
+Bladder	C67	Female	1956	465
+Bladder	C67	Female	1957	867
+Bladder	C67	Female	1958	2496
+Bladder	C67	Female	1959	1660
+Bladder	C67	Female	1960	1668
+Bladder	C67	Female	1961	1685
+Bladder	C67	Female	1962	4241
+Bladder	C67	Female	1963	4281
+Bladder	C67	Female	1964	4253
+Bladder	C67	Female	1965	4534
+Bladder	C67	Female	1966	4566
+Bladder	C67	Female	1967	4845
+Bladder	C67	Female	1968	6759
+Bladder	C67	Female	1969	7511
+Bladder	C67	Female	1970	8193
+Bladder	C67	Female	1971	8307
+Bladder	C67	Female	1972	8330
+Bladder	C67	Female	1973	8543
+Bladder	C67	Female	1974	8881
+Bladder	C67	Female	1975	8844
+Bladder	C67	Female	1976	10878
+Bladder	C67	Female	1977	9405
+Bladder	C67	Female	1978	6463
+Bladder	C67	Female	1979	10169
+Bladder	C67	Female	1980	12603
+Bladder	C67	Female	1981	12886
+Bladder	C67	Female	1982	13171
+Bladder	C67	Female	1983	13479
+Bladder	C67	Female	1984	13678
+Bladder	C67	Female	1985	14163
+Bladder	C67	Female	1986	14558
+Bladder	C67	Female	1987	15110
+Bladder	C67	Female	1988	15439
+Bladder	C67	Female	1989	15865
+Bladder	C67	Female	1990	16432
+Bladder	C67	Female	1991	16548
+Bladder	C67	Female	1992	16980
+Bladder	C67	Female	1993	17601
+Bladder	C67	Female	1994	17826
+Bladder	C67	Female	1995	17790
+Bladder	C67	Female	1996	18247
+Bladder	C67	Female	1997	18407
+Bladder	C67	Female	1998	17977
+Bladder	C67	Female	1999	20290
+Bladder	C67	Female	2000	20998
+Bladder	C67	Female	2001	20708
+Bladder	C67	Female	2002	21118
+Bladder	C67	Female	2003	21258
+Bladder	C67	Female	2004	20066
+Bladder	C67	Female	2005	20540
+Bladder	C67	Female	2006	22000
+Bladder	C67	Female	2007	22583
+Bladder	C67	Female	2008	23074
+Bladder	C67	Female	2009	22867
+Bladder	C67	Female	2010	23032
+Bladder	C67	Male	1955	878
+Bladder	C67	Male	1956	990
+Bladder	C67	Male	1957	2201
+Bladder	C67	Male	1958	5875
+Bladder	C67	Male	1959	3901
+Bladder	C67	Male	1960	4141
+Bladder	C67	Male	1961	4236
+Bladder	C67	Male	1962	10078
+Bladder	C67	Male	1963	10195
+Bladder	C67	Male	1964	10170
+Bladder	C67	Male	1965	10634
+Bladder	C67	Male	1966	11523
+Bladder	C67	Male	1967	11821
+Bladder	C67	Male	1968	17381
+Bladder	C67	Male	1969	19739
+Bladder	C67	Male	1970	21633
+Bladder	C67	Male	1971	22207
+Bladder	C67	Male	1972	22285
+Bladder	C67	Male	1973	22824
+Bladder	C67	Male	1974	23222
+Bladder	C67	Male	1975	23676
+Bladder	C67	Male	1976	28828
+Bladder	C67	Male	1977	25240
+Bladder	C67	Male	1978	19049
+Bladder	C67	Male	1979	28135
+Bladder	C67	Male	1980	33778
+Bladder	C67	Male	1981	34519
+Bladder	C67	Male	1982	35999
+Bladder	C67	Male	1983	36489
+Bladder	C67	Male	1984	36708
+Bladder	C67	Male	1985	38409
+Bladder	C67	Male	1986	38682
+Bladder	C67	Male	1987	40350
+Bladder	C67	Male	1988	40984
+Bladder	C67	Male	1989	41650
+Bladder	C67	Male	1990	42313
+Bladder	C67	Male	1991	43508
+Bladder	C67	Male	1992	43895
+Bladder	C67	Male	1993	45474
+Bladder	C67	Male	1994	46153
+Bladder	C67	Male	1995	45757
+Bladder	C67	Male	1996	46212
+Bladder	C67	Male	1997	44716
+Bladder	C67	Male	1998	45397
+Bladder	C67	Male	1999	54072
+Bladder	C67	Male	2000	55764
+Bladder	C67	Male	2001	55120
+Bladder	C67	Male	2002	56381
+Bladder	C67	Male	2003	57935
+Bladder	C67	Male	2004	52933
+Bladder	C67	Male	2005	54941
+Bladder	C67	Male	2006	60296
+Bladder	C67	Male	2007	61992
+Bladder	C67	Male	2008	62721
+Bladder	C67	Male	2009	63487
+Bladder	C67	Male	2010	64711
+Brain, central nervous system	C70-72	Female	1955	5011
+Brain, central nervous system	C70-72	Female	1956	4604
+Brain, central nervous system	C70-72	Female	1957	4721
+Brain, central nervous system	C70-72	Female	1958	5710
+Brain, central nervous system	C70-72	Female	1959	6020
+Brain, central nervous system	C70-72	Female	1960	6111
+Brain, central nervous system	C70-72	Female	1961	6580
+Brain, central nervous system	C70-72	Female	1962	6706
+Brain, central nervous system	C70-72	Female	1963	6219
+Brain, central nervous system	C70-72	Female	1964	6099
+Brain, central nervous system	C70-72	Female	1965	6403
+Brain, central nervous system	C70-72	Female	1966	7057
+Brain, central nervous system	C70-72	Female	1967	7799
+Brain, central nervous system	C70-72	Female	1968	4598
+Brain, central nervous system	C70-72	Female	1969	4815
+Brain, central nervous system	C70-72	Female	1970	5529
+Brain, central nervous system	C70-72	Female	1971	5952
+Brain, central nervous system	C70-72	Female	1972	5768
+Brain, central nervous system	C70-72	Female	1973	5478
+Brain, central nervous system	C70-72	Female	1974	6325
+Brain, central nervous system	C70-72	Female	1975	6403
+Brain, central nervous system	C70-72	Female	1976	7747
+Brain, central nervous system	C70-72	Female	1977	7018
+Brain, central nervous system	C70-72	Female	1978	7276
+Brain, central nervous system	C70-72	Female	1979	11339
+Brain, central nervous system	C70-72	Female	1980	11714
+Brain, central nervous system	C70-72	Female	1981	12028
+Brain, central nervous system	C70-72	Female	1982	12276
+Brain, central nervous system	C70-72	Female	1983	14008
+Brain, central nervous system	C70-72	Female	1984	14617
+Brain, central nervous system	C70-72	Female	1985	14214
+Brain, central nervous system	C70-72	Female	1986	15002
+Brain, central nervous system	C70-72	Female	1987	15854
+Brain, central nervous system	C70-72	Female	1988	15695
+Brain, central nervous system	C70-72	Female	1989	15929
+Brain, central nervous system	C70-72	Female	1990	16334
+Brain, central nervous system	C70-72	Female	1991	17210
+Brain, central nervous system	C70-72	Female	1992	18137
+Brain, central nervous system	C70-72	Female	1993	17979
+Brain, central nervous system	C70-72	Female	1994	18861
+Brain, central nervous system	C70-72	Female	1995	19256
+Brain, central nervous system	C70-72	Female	1996	21973
+Brain, central nervous system	C70-72	Female	1997	23400
+Brain, central nervous system	C70-72	Female	1998	24920
+Brain, central nervous system	C70-72	Female	1999	29093
+Brain, central nervous system	C70-72	Female	2000	31337
+Brain, central nervous system	C70-72	Female	2001	31424
+Brain, central nervous system	C70-72	Female	2002	33348
+Brain, central nervous system	C70-72	Female	2003	33781
+Brain, central nervous system	C70-72	Female	2004	32254
+Brain, central nervous system	C70-72	Female	2005	33249
+Brain, central nervous system	C70-72	Female	2006	35788
+Brain, central nervous system	C70-72	Female	2007	35935
+Brain, central nervous system	C70-72	Female	2008	37247
+Brain, central nervous system	C70-72	Female	2009	37778
+Brain, central nervous system	C70-72	Female	2010	38084
+Brain, central nervous system	C70-72	Male	1955	6995
+Brain, central nervous system	C70-72	Male	1956	6599
+Brain, central nervous system	C70-72	Male	1957	6630
+Brain, central nervous system	C70-72	Male	1958	7969
+Brain, central nervous system	C70-72	Male	1959	8289
+Brain, central nervous system	C70-72	Male	1960	8830
+Brain, central nervous system	C70-72	Male	1961	8902
+Brain, central nervous system	C70-72	Male	1962	9316
+Brain, central nervous system	C70-72	Male	1963	8388
+Brain, central nervous system	C70-72	Male	1964	8634
+Brain, central nervous system	C70-72	Male	1965	8817
+Brain, central nervous system	C70-72	Male	1966	9608
+Brain, central nervous system	C70-72	Male	1967	11046
+Brain, central nervous system	C70-72	Male	1968	6239
+Brain, central nervous system	C70-72	Male	1969	6525
+Brain, central nervous system	C70-72	Male	1970	7385
+Brain, central nervous system	C70-72	Male	1971	8210
+Brain, central nervous system	C70-72	Male	1972	7774
+Brain, central nervous system	C70-72	Male	1973	7267
+Brain, central nervous system	C70-72	Male	1974	8662
+Brain, central nervous system	C70-72	Male	1975	8608
+Brain, central nervous system	C70-72	Male	1976	9886
+Brain, central nervous system	C70-72	Male	1977	9174
+Brain, central nervous system	C70-72	Male	1978	9801
+Brain, central nervous system	C70-72	Male	1979	14728
+Brain, central nervous system	C70-72	Male	1980	15237
+Brain, central nervous system	C70-72	Male	1981	15464
+Brain, central nervous system	C70-72	Male	1982	15687
+Brain, central nervous system	C70-72	Male	1983	17761
+Brain, central nervous system	C70-72	Male	1984	18151
+Brain, central nervous system	C70-72	Male	1985	17896
+Brain, central nervous system	C70-72	Male	1986	18847
+Brain, central nervous system	C70-72	Male	1987	19609
+Brain, central nervous system	C70-72	Male	1988	19592
+Brain, central nervous system	C70-72	Male	1989	19398
+Brain, central nervous system	C70-72	Male	1990	20294
+Brain, central nervous system	C70-72	Male	1991	20827
+Brain, central nervous system	C70-72	Male	1992	21943
+Brain, central nervous system	C70-72	Male	1993	22073
+Brain, central nervous system	C70-72	Male	1994	22961
+Brain, central nervous system	C70-72	Male	1995	23611
+Brain, central nervous system	C70-72	Male	1996	26568
+Brain, central nervous system	C70-72	Male	1997	28538
+Brain, central nervous system	C70-72	Male	1998	30570
+Brain, central nervous system	C70-72	Male	1999	35634
+Brain, central nervous system	C70-72	Male	2000	38103
+Brain, central nervous system	C70-72	Male	2001	38388
+Brain, central nervous system	C70-72	Male	2002	39883
+Brain, central nervous system	C70-72	Male	2003	40563
+Brain, central nervous system	C70-72	Male	2004	39013
+Brain, central nervous system	C70-72	Male	2005	39699
+Brain, central nervous system	C70-72	Male	2006	42638
+Brain, central nervous system	C70-72	Male	2007	42853
+Brain, central nervous system	C70-72	Male	2008	44700
+Brain, central nervous system	C70-72	Male	2009	45359
+Brain, central nervous system	C70-72	Male	2010	45768
+Breast	C50	Female	1950	37772
+Breast	C50	Female	1951	40173
+Breast	C50	Female	1952	47511
+Breast	C50	Female	1953	49524
+Breast	C50	Female	1954	52309
+Breast	C50	Female	1955	57136
+Breast	C50	Female	1956	58574
+Breast	C50	Female	1957	59654
+Breast	C50	Female	1958	60591
+Breast	C50	Female	1959	62601
+Breast	C50	Female	1960	65122
+Breast	C50	Female	1961	66686
+Breast	C50	Female	1962	68232
+Breast	C50	Female	1963	71977
+Breast	C50	Female	1964	74453
+Breast	C50	Female	1965	75710
+Breast	C50	Female	1966	79225
+Breast	C50	Female	1967	82040
+Breast	C50	Female	1968	84961
+Breast	C50	Female	1969	87945
+Breast	C50	Female	1970	88696
+Breast	C50	Female	1971	89363
+Breast	C50	Female	1972	92786
+Breast	C50	Female	1973	107530
+Breast	C50	Female	1974	109513
+Breast	C50	Female	1975	112074
+Breast	C50	Female	1976	114874
+Breast	C50	Female	1977	120349
+Breast	C50	Female	1978	121253
+Breast	C50	Female	1979	110059
+Breast	C50	Female	1980	139076
+Breast	C50	Female	1981	151684
+Breast	C50	Female	1982	158807
+Breast	C50	Female	1983	152639
+Breast	C50	Female	1984	157920
+Breast	C50	Female	1985	173452
+Breast	C50	Female	1986	180111
+Breast	C50	Female	1987	186400
+Breast	C50	Female	1988	190671
+Breast	C50	Female	1989	195580
+Breast	C50	Female	1990	197883
+Breast	C50	Female	1991	201033
+Breast	C50	Female	1992	203393
+Breast	C50	Female	1993	209294
+Breast	C50	Female	1994	213768
+Breast	C50	Female	1995	215086
+Breast	C50	Female	1996	216088
+Breast	C50	Female	1997	211942
+Breast	C50	Female	1998	214335
+Breast	C50	Female	1999	221520
+Breast	C50	Female	2000	225799
+Breast	C50	Female	2001	222284
+Breast	C50	Female	2002	225168
+Breast	C50	Female	2003	227651
+Breast	C50	Female	2004	211591
+Breast	C50	Female	2005	209692
+Breast	C50	Female	2006	224397
+Breast	C50	Female	2007	225890
+Breast	C50	Female	2008	234600
+Breast	C50	Female	2009	231456
+Breast	C50	Female	2010	230805
+Gallbladder	C23-24	Female	1955	510
+Gallbladder	C23-24	Female	1956	537
+Gallbladder	C23-24	Female	1957	562
+Gallbladder	C23-24	Female	1958	1985
+Gallbladder	C23-24	Female	1959	2071
+Gallbladder	C23-24	Female	1960	2168
+Gallbladder	C23-24	Female	1961	2440
+Gallbladder	C23-24	Female	1962	5357
+Gallbladder	C23-24	Female	1963	5503
+Gallbladder	C23-24	Female	1964	5626
+Gallbladder	C23-24	Female	1965	5707
+Gallbladder	C23-24	Female	1966	6270
+Gallbladder	C23-24	Female	1967	6381
+Gallbladder	C23-24	Female	1968	8385
+Gallbladder	C23-24	Female	1969	10006
+Gallbladder	C23-24	Female	1970	12281
+Gallbladder	C23-24	Female	1971	12652
+Gallbladder	C23-24	Female	1972	12107
+Gallbladder	C23-24	Female	1973	12368
+Gallbladder	C23-24	Female	1974	12647
+Gallbladder	C23-24	Female	1975	12321
+Gallbladder	C23-24	Female	1976	17973
+Gallbladder	C23-24	Female	1977	13577
+Gallbladder	C23-24	Female	1978	11325
+Gallbladder	C23-24	Female	1979	14251
+Gallbladder	C23-24	Female	1980	14903
+Gallbladder	C23-24	Female	1981	15119
+Gallbladder	C23-24	Female	1982	15583
+Gallbladder	C23-24	Female	1983	20125
+Gallbladder	C23-24	Female	1984	20913
+Gallbladder	C23-24	Female	1985	21716
+Gallbladder	C23-24	Female	1986	22934
+Gallbladder	C23-24	Female	1987	23155
+Gallbladder	C23-24	Female	1988	23099
+Gallbladder	C23-24	Female	1989	23252
+Gallbladder	C23-24	Female	1990	22777
+Gallbladder	C23-24	Female	1991	23601
+Gallbladder	C23-24	Female	1992	23011
+Gallbladder	C23-24	Female	1993	23149
+Gallbladder	C23-24	Female	1994	23447
+Gallbladder	C23-24	Female	1995	23294
+Gallbladder	C23-24	Female	1996	24987
+Gallbladder	C23-24	Female	1997	28117
+Gallbladder	C23-24	Female	1998	29695
+Gallbladder	C23-24	Female	1999	31511
+Gallbladder	C23-24	Female	2000	32095
+Gallbladder	C23-24	Female	2001	32005
+Gallbladder	C23-24	Female	2002	32308
+Gallbladder	C23-24	Female	2003	32521
+Gallbladder	C23-24	Female	2004	30263
+Gallbladder	C23-24	Female	2005	29878
+Gallbladder	C23-24	Female	2006	31938
+Gallbladder	C23-24	Female	2007	31471
+Gallbladder	C23-24	Female	2008	31235
+Gallbladder	C23-24	Female	2009	31060
+Gallbladder	C23-24	Female	2010	31221
+Gallbladder	C23-24	Male	1955	216
+Gallbladder	C23-24	Male	1956	181
+Gallbladder	C23-24	Male	1957	476
+Gallbladder	C23-24	Male	1958	1171
+Gallbladder	C23-24	Male	1959	1242
+Gallbladder	C23-24	Male	1960	1332
+Gallbladder	C23-24	Male	1961	1371
+Gallbladder	C23-24	Male	1962	2892
+Gallbladder	C23-24	Male	1963	3004
+Gallbladder	C23-24	Male	1964	3208
+Gallbladder	C23-24	Male	1965	3364
+Gallbladder	C23-24	Male	1966	3477
+Gallbladder	C23-24	Male	1967	3547
+Gallbladder	C23-24	Male	1968	4848
+Gallbladder	C23-24	Male	1969	5552
+Gallbladder	C23-24	Male	1970	6154
+Gallbladder	C23-24	Male	1971	6444
+Gallbladder	C23-24	Male	1972	6439
+Gallbladder	C23-24	Male	1973	6625
+Gallbladder	C23-24	Male	1974	6648
+Gallbladder	C23-24	Male	1975	6651
+Gallbladder	C23-24	Male	1976	8578
+Gallbladder	C23-24	Male	1977	7361
+Gallbladder	C23-24	Male	1978	5987
+Gallbladder	C23-24	Male	1979	7759
+Gallbladder	C23-24	Male	1980	8180
+Gallbladder	C23-24	Male	1981	8466
+Gallbladder	C23-24	Male	1982	8650
+Gallbladder	C23-24	Male	1983	10372
+Gallbladder	C23-24	Male	1984	10498
+Gallbladder	C23-24	Male	1985	11330
+Gallbladder	C23-24	Male	1986	11970
+Gallbladder	C23-24	Male	1987	12534
+Gallbladder	C23-24	Male	1988	12287
+Gallbladder	C23-24	Male	1989	12640
+Gallbladder	C23-24	Male	1990	12505
+Gallbladder	C23-24	Male	1991	13180
+Gallbladder	C23-24	Male	1992	13372
+Gallbladder	C23-24	Male	1993	13236
+Gallbladder	C23-24	Male	1994	13604
+Gallbladder	C23-24	Male	1995	14933
+Gallbladder	C23-24	Male	1996	15707
+Gallbladder	C23-24	Male	1997	17294
+Gallbladder	C23-24	Male	1998	18032
+Gallbladder	C23-24	Male	1999	19268
+Gallbladder	C23-24	Male	2000	19805
+Gallbladder	C23-24	Male	2001	19605
+Gallbladder	C23-24	Male	2002	20688
+Gallbladder	C23-24	Male	2003	21650
+Gallbladder	C23-24	Male	2004	20247
+Gallbladder	C23-24	Male	2005	20467
+Gallbladder	C23-24	Male	2006	21863
+Gallbladder	C23-24	Male	2007	20899
+Gallbladder	C23-24	Male	2008	21318
+Gallbladder	C23-24	Male	2009	21822
+Gallbladder	C23-24	Male	2010	21784
+Hodgkin lymphoma	C81	Female	1955	2947
+Hodgkin lymphoma	C81	Female	1956	2793
+Hodgkin lymphoma	C81	Female	1957	2781
+Hodgkin lymphoma	C81	Female	1958	3259
+Hodgkin lymphoma	C81	Female	1959	3263
+Hodgkin lymphoma	C81	Female	1960	3464
+Hodgkin lymphoma	C81	Female	1961	3381
+Hodgkin lymphoma	C81	Female	1962	3460
+Hodgkin lymphoma	C81	Female	1963	3267
+Hodgkin lymphoma	C81	Female	1964	3826
+Hodgkin lymphoma	C81	Female	1965	3921
+Hodgkin lymphoma	C81	Female	1966	3608
+Hodgkin lymphoma	C81	Female	1967	4025
+Hodgkin lymphoma	C81	Female	1968	3904
+Hodgkin lymphoma	C81	Female	1969	3763
+Hodgkin lymphoma	C81	Female	1970	3820
+Hodgkin lymphoma	C81	Female	1971	3820
+Hodgkin lymphoma	C81	Female	1972	3693
+Hodgkin lymphoma	C81	Female	1973	3616
+Hodgkin lymphoma	C81	Female	1974	2415
+Hodgkin lymphoma	C81	Female	1975	3266
+Hodgkin lymphoma	C81	Female	1976	3369
+Hodgkin lymphoma	C81	Female	1977	2816
+Hodgkin lymphoma	C81	Female	1978	2219
+Hodgkin lymphoma	C81	Female	1979	2755
+Hodgkin lymphoma	C81	Female	1980	3545
+Hodgkin lymphoma	C81	Female	1981	3608
+Hodgkin lymphoma	C81	Female	1982	3292
+Hodgkin lymphoma	C81	Female	1983	3250
+Hodgkin lymphoma	C81	Female	1984	3124
+Hodgkin lymphoma	C81	Female	1985	3042
+Hodgkin lymphoma	C81	Female	1986	3075
+Hodgkin lymphoma	C81	Female	1987	2935
+Hodgkin lymphoma	C81	Female	1988	2890
+Hodgkin lymphoma	C81	Female	1989	2924
+Hodgkin lymphoma	C81	Female	1990	2757
+Hodgkin lymphoma	C81	Female	1991	2830
+Hodgkin lymphoma	C81	Female	1992	2766
+Hodgkin lymphoma	C81	Female	1993	2918
+Hodgkin lymphoma	C81	Female	1994	2569
+Hodgkin lymphoma	C81	Female	1995	2602
+Hodgkin lymphoma	C81	Female	1996	2719
+Hodgkin lymphoma	C81	Female	1997	2720
+Hodgkin lymphoma	C81	Female	1998	2696
+Hodgkin lymphoma	C81	Female	1999	2984
+Hodgkin lymphoma	C81	Female	2000	2964
+Hodgkin lymphoma	C81	Female	2001	2923
+Hodgkin lymphoma	C81	Female	2002	2822
+Hodgkin lymphoma	C81	Female	2003	2893
+Hodgkin lymphoma	C81	Female	2004	2685
+Hodgkin lymphoma	C81	Female	2005	2597
+Hodgkin lymphoma	C81	Female	2006	2800
+Hodgkin lymphoma	C81	Female	2007	2804
+Hodgkin lymphoma	C81	Female	2008	2774
+Hodgkin lymphoma	C81	Female	2009	2742
+Hodgkin lymphoma	C81	Female	2010	2710
+Hodgkin lymphoma	C81	Male	1955	4744
+Hodgkin lymphoma	C81	Male	1956	4323
+Hodgkin lymphoma	C81	Male	1957	4478
+Hodgkin lymphoma	C81	Male	1958	4965
+Hodgkin lymphoma	C81	Male	1959	5347
+Hodgkin lymphoma	C81	Male	1960	5367
+Hodgkin lymphoma	C81	Male	1961	5710
+Hodgkin lymphoma	C81	Male	1962	5780
+Hodgkin lymphoma	C81	Male	1963	5260
+Hodgkin lymphoma	C81	Male	1964	6196
+Hodgkin lymphoma	C81	Male	1965	6233
+Hodgkin lymphoma	C81	Male	1966	5764
+Hodgkin lymphoma	C81	Male	1967	6418
+Hodgkin lymphoma	C81	Male	1968	5975
+Hodgkin lymphoma	C81	Male	1969	5922
+Hodgkin lymphoma	C81	Male	1970	6071
+Hodgkin lymphoma	C81	Male	1971	6100
+Hodgkin lymphoma	C81	Male	1972	5640
+Hodgkin lymphoma	C81	Male	1973	5574
+Hodgkin lymphoma	C81	Male	1974	3719
+Hodgkin lymphoma	C81	Male	1975	5011
+Hodgkin lymphoma	C81	Male	1976	4918
+Hodgkin lymphoma	C81	Male	1977	4331
+Hodgkin lymphoma	C81	Male	1978	3392
+Hodgkin lymphoma	C81	Male	1979	4137
+Hodgkin lymphoma	C81	Male	1980	5171
+Hodgkin lymphoma	C81	Male	1981	5069
+Hodgkin lymphoma	C81	Male	1982	4778
+Hodgkin lymphoma	C81	Male	1983	4733
+Hodgkin lymphoma	C81	Male	1984	4741
+Hodgkin lymphoma	C81	Male	1985	4440
+Hodgkin lymphoma	C81	Male	1986	4601
+Hodgkin lymphoma	C81	Male	1987	4388
+Hodgkin lymphoma	C81	Male	1988	4108
+Hodgkin lymphoma	C81	Male	1989	4151
+Hodgkin lymphoma	C81	Male	1990	3924
+Hodgkin lymphoma	C81	Male	1991	3843
+Hodgkin lymphoma	C81	Male	1992	3864
+Hodgkin lymphoma	C81	Male	1993	3888
+Hodgkin lymphoma	C81	Male	1994	3376
+Hodgkin lymphoma	C81	Male	1995	3432
+Hodgkin lymphoma	C81	Male	1996	3650
+Hodgkin lymphoma	C81	Male	1997	3591
+Hodgkin lymphoma	C81	Male	1998	3788
+Hodgkin lymphoma	C81	Male	1999	3984
+Hodgkin lymphoma	C81	Male	2000	3874
+Hodgkin lymphoma	C81	Male	2001	3891
+Hodgkin lymphoma	C81	Male	2002	3779
+Hodgkin lymphoma	C81	Male	2003	3883
+Hodgkin lymphoma	C81	Male	2004	3736
+Hodgkin lymphoma	C81	Male	2005	3427
+Hodgkin lymphoma	C81	Male	2006	3679
+Hodgkin lymphoma	C81	Male	2007	3616
+Hodgkin lymphoma	C81	Male	2008	3635
+Hodgkin lymphoma	C81	Male	2009	3720
+Hodgkin lymphoma	C81	Male	2010	3548
+Intestine	C17-21	Female	1950	38918
+Intestine	C17-21	Female	1951	37510
+Intestine	C17-21	Female	1952	45275
+Intestine	C17-21	Female	1953	46576
+Intestine	C17-21	Female	1954	48784
+Intestine	C17-21	Female	1955	53000
+Intestine	C17-21	Female	1956	53620
+Intestine	C17-21	Female	1957	54915
+Intestine	C17-21	Female	1958	56046
+Intestine	C17-21	Female	1959	58087
+Intestine	C17-21	Female	1960	59874
+Intestine	C17-21	Female	1961	60193
+Intestine	C17-21	Female	1962	61821
+Intestine	C17-21	Female	1963	64111
+Intestine	C17-21	Female	1964	65413
+Intestine	C17-21	Female	1965	66444
+Intestine	C17-21	Female	1966	69359
+Intestine	C17-21	Female	1967	71228
+Intestine	C17-21	Female	1968	74131
+Intestine	C17-21	Female	1969	76061
+Intestine	C17-21	Female	1970	76973
+Intestine	C17-21	Female	1971	76696
+Intestine	C17-21	Female	1972	79172
+Intestine	C17-21	Female	1973	95240
+Intestine	C17-21	Female	1974	97846
+Intestine	C17-21	Female	1975	99762
+Intestine	C17-21	Female	1976	102374
+Intestine	C17-21	Female	1977	105230
+Intestine	C17-21	Female	1978	108362
+Intestine	C17-21	Female	1979	84152
+Intestine	C17-21	Female	1980	101200
+Intestine	C17-21	Female	1981	101879
+Intestine	C17-21	Female	1982	102924
+Intestine	C17-21	Female	1983	105442
+Intestine	C17-21	Female	1984	107370
+Intestine	C17-21	Female	1985	110070
+Intestine	C17-21	Female	1986	112693
+Intestine	C17-21	Female	1987	114312
+Intestine	C17-21	Female	1988	116238
+Intestine	C17-21	Female	1989	117226
+Intestine	C17-21	Female	1990	117799
+Intestine	C17-21	Female	1991	120857
+Intestine	C17-21	Female	1992	121136
+Intestine	C17-21	Female	1993	123831
+Intestine	C17-21	Female	1994	124998
+Intestine	C17-21	Female	1995	125629
+Intestine	C17-21	Female	1996	130465
+Intestine	C17-21	Female	1997	131102
+Intestine	C17-21	Female	1998	135263
+Intestine	C17-21	Female	1999	141243
+Intestine	C17-21	Female	2000	143589
+Intestine	C17-21	Female	2001	143561
+Intestine	C17-21	Female	2002	145303
+Intestine	C17-21	Female	2003	147631
+Intestine	C17-21	Female	2004	135485
+Intestine	C17-21	Female	2005	134629
+Intestine	C17-21	Female	2006	144988
+Intestine	C17-21	Female	2007	147404
+Intestine	C17-21	Female	2008	151756
+Intestine	C17-21	Female	2009	149109
+Intestine	C17-21	Female	2010	150252
+Intestine	C17-21	Male	1950	36230
+Intestine	C17-21	Male	1951	35944
+Intestine	C17-21	Male	1952	42146
+Intestine	C17-21	Male	1953	43470
+Intestine	C17-21	Male	1954	45301
+Intestine	C17-21	Male	1955	48849
+Intestine	C17-21	Male	1956	49698
+Intestine	C17-21	Male	1957	50649
+Intestine	C17-21	Male	1958	51237
+Intestine	C17-21	Male	1959	52765
+Intestine	C17-21	Male	1960	54085
+Intestine	C17-21	Male	1961	54823
+Intestine	C17-21	Male	1962	55937
+Intestine	C17-21	Male	1963	58315
+Intestine	C17-21	Male	1964	59503
+Intestine	C17-21	Male	1965	61040
+Intestine	C17-21	Male	1966	63860
+Intestine	C17-21	Male	1967	64772
+Intestine	C17-21	Male	1968	68602
+Intestine	C17-21	Male	1969	70567
+Intestine	C17-21	Male	1970	71337
+Intestine	C17-21	Male	1971	71279
+Intestine	C17-21	Male	1972	73587
+Intestine	C17-21	Male	1973	86387
+Intestine	C17-21	Male	1974	89281
+Intestine	C17-21	Male	1975	91071
+Intestine	C17-21	Male	1976	93354
+Intestine	C17-21	Male	1977	97597
+Intestine	C17-21	Male	1978	99455
+Intestine	C17-21	Male	1979	81259
+Intestine	C17-21	Male	1980	95133
+Intestine	C17-21	Male	1981	96357
+Intestine	C17-21	Male	1982	97455
+Intestine	C17-21	Male	1983	99697
+Intestine	C17-21	Male	1984	102322
+Intestine	C17-21	Male	1985	105714
+Intestine	C17-21	Male	1986	108814
+Intestine	C17-21	Male	1987	111916
+Intestine	C17-21	Male	1988	113708
+Intestine	C17-21	Male	1989	115772
+Intestine	C17-21	Male	1990	118065
+Intestine	C17-21	Male	1991	120719
+Intestine	C17-21	Male	1992	123078
+Intestine	C17-21	Male	1993	125454
+Intestine	C17-21	Male	1994	127794
+Intestine	C17-21	Male	1995	129577
+Intestine	C17-21	Male	1996	135284
+Intestine	C17-21	Male	1997	137655
+Intestine	C17-21	Male	1998	142434
+Intestine	C17-21	Male	1999	149536
+Intestine	C17-21	Male	2000	152679
+Intestine	C17-21	Male	2001	154239
+Intestine	C17-21	Male	2002	157383
+Intestine	C17-21	Male	2003	159431
+Intestine	C17-21	Male	2004	148075
+Intestine	C17-21	Male	2005	147286
+Intestine	C17-21	Male	2006	160944
+Intestine	C17-21	Male	2007	164413
+Intestine	C17-21	Male	2008	170307
+Intestine	C17-21	Male	2009	169063
+Intestine	C17-21	Male	2010	172422
+Kidney	C64	Female	1955	4066
+Kidney	C64	Female	1956	3749
+Kidney	C64	Female	1957	3888
+Kidney	C64	Female	1958	4642
+Kidney	C64	Female	1959	4713
+Kidney	C64	Female	1960	4888
+Kidney	C64	Female	1961	5274
+Kidney	C64	Female	1962	5370
+Kidney	C64	Female	1963	4869
+Kidney	C64	Female	1964	5094
+Kidney	C64	Female	1965	5114
+Kidney	C64	Female	1966	5643
+Kidney	C64	Female	1967	6391
+Kidney	C64	Female	1968	2612
+Kidney	C64	Female	1969	2470
+Kidney	C64	Female	1970	2291
+Kidney	C64	Female	1971	2793
+Kidney	C64	Female	1972	3074
+Kidney	C64	Female	1973	3216
+Kidney	C64	Female	1974	3285
+Kidney	C64	Female	1975	3535
+Kidney	C64	Female	1976	3565
+Kidney	C64	Female	1977	3715
+Kidney	C64	Female	1978	3943
+Kidney	C64	Female	1979	7371
+Kidney	C64	Female	1980	7329
+Kidney	C64	Female	1981	7401
+Kidney	C64	Female	1982	7783
+Kidney	C64	Female	1983	10157
+Kidney	C64	Female	1984	10492
+Kidney	C64	Female	1985	10858
+Kidney	C64	Female	1986	9554
+Kidney	C64	Female	1987	10263
+Kidney	C64	Female	1988	10390
+Kidney	C64	Female	1989	10686
+Kidney	C64	Female	1990	12972
+Kidney	C64	Female	1991	13575
+Kidney	C64	Female	1992	13628
+Kidney	C64	Female	1993	13622
+Kidney	C64	Female	1994	14393
+Kidney	C64	Female	1995	14993
+Kidney	C64	Female	1996	15360
+Kidney	C64	Female	1997	16475
+Kidney	C64	Female	1998	17509
+Kidney	C64	Female	1999	18690
+Kidney	C64	Female	2000	19192
+Kidney	C64	Female	2001	19496
+Kidney	C64	Female	2002	19594
+Kidney	C64	Female	2003	20042
+Kidney	C64	Female	2004	19179
+Kidney	C64	Female	2005	19113
+Kidney	C64	Female	2006	20467
+Kidney	C64	Female	2007	20597
+Kidney	C64	Female	2008	21147
+Kidney	C64	Female	2009	21057
+Kidney	C64	Female	2010	21720
+Kidney	C64	Male	1950	1
+Kidney	C64	Male	1951	2
+Kidney	C64	Male	1955	6152
+Kidney	C64	Male	1956	5624
+Kidney	C64	Male	1957	5958
+Kidney	C64	Male	1958	7006
+Kidney	C64	Male	1959	7336
+Kidney	C64	Male	1960	7468
+Kidney	C64	Male	1961	7973
+Kidney	C64	Male	1962	8275
+Kidney	C64	Male	1963	7568
+Kidney	C64	Male	1964	7792
+Kidney	C64	Male	1965	8060
+Kidney	C64	Male	1966	8572
+Kidney	C64	Male	1967	9900
+Kidney	C64	Male	1968	3897
+Kidney	C64	Male	1969	3656
+Kidney	C64	Male	1970	3424
+Kidney	C64	Male	1971	4167
+Kidney	C64	Male	1972	4735
+Kidney	C64	Male	1973	4822
+Kidney	C64	Male	1974	4998
+Kidney	C64	Male	1975	5405
+Kidney	C64	Male	1976	5588
+Kidney	C64	Male	1977	5789
+Kidney	C64	Male	1978	6146
+Kidney	C64	Male	1979	11856
+Kidney	C64	Male	1980	12156
+Kidney	C64	Male	1981	12056
+Kidney	C64	Male	1982	12979
+Kidney	C64	Male	1983	15919
+Kidney	C64	Male	1984	16817
+Kidney	C64	Male	1985	16948
+Kidney	C64	Male	1986	15326
+Kidney	C64	Male	1987	16633
+Kidney	C64	Male	1988	16821
+Kidney	C64	Male	1989	17445
+Kidney	C64	Male	1990	20725
+Kidney	C64	Male	1991	21215
+Kidney	C64	Male	1992	21533
+Kidney	C64	Male	1993	21877
+Kidney	C64	Male	1994	23124
+Kidney	C64	Male	1995	23214
+Kidney	C64	Male	1996	24570
+Kidney	C64	Male	1997	26784
+Kidney	C64	Male	1998	28475
+Kidney	C64	Male	1999	30146
+Kidney	C64	Male	2000	31182
+Kidney	C64	Male	2001	31840
+Kidney	C64	Male	2002	32394
+Kidney	C64	Male	2003	33403
+Kidney	C64	Male	2004	31492
+Kidney	C64	Male	2005	31887
+Kidney	C64	Male	2006	34535
+Kidney	C64	Male	2007	34966
+Kidney	C64	Male	2008	36199
+Kidney	C64	Male	2009	36610
+Kidney	C64	Male	2010	37463
+Larynx	C32	Female	1950	921
+Larynx	C32	Female	1951	784
+Larynx	C32	Female	1952	1056
+Larynx	C32	Female	1953	1027
+Larynx	C32	Female	1954	1076
+Larynx	C32	Female	1955	1292
+Larynx	C32	Female	1956	1299
+Larynx	C32	Female	1957	1323
+Larynx	C32	Female	1958	1274
+Larynx	C32	Female	1959	1368
+Larynx	C32	Female	1960	1428
+Larynx	C32	Female	1961	1358
+Larynx	C32	Female	1962	1416
+Larynx	C32	Female	1963	1537
+Larynx	C32	Female	1964	1454
+Larynx	C32	Female	1965	1587
+Larynx	C32	Female	1966	1625
+Larynx	C32	Female	1967	1714
+Larynx	C32	Female	1968	1691
+Larynx	C32	Female	1969	1810
+Larynx	C32	Female	1970	1699
+Larynx	C32	Female	1971	1709
+Larynx	C32	Female	1972	1814
+Larynx	C32	Female	1973	1970
+Larynx	C32	Female	1974	2046
+Larynx	C32	Female	1975	2068
+Larynx	C32	Female	1976	2183
+Larynx	C32	Female	1977	2221
+Larynx	C32	Female	1978	2186
+Larynx	C32	Female	1979	2216
+Larynx	C32	Female	1980	2933
+Larynx	C32	Female	1981	3024
+Larynx	C32	Female	1982	3157
+Larynx	C32	Female	1983	2842
+Larynx	C32	Female	1984	2958
+Larynx	C32	Female	1985	3374
+Larynx	C32	Female	1986	3533
+Larynx	C32	Female	1987	3479
+Larynx	C32	Female	1988	3563
+Larynx	C32	Female	1989	3730
+Larynx	C32	Female	1990	3600
+Larynx	C32	Female	1991	3785
+Larynx	C32	Female	1992	3967
+Larynx	C32	Female	1993	4051
+Larynx	C32	Female	1994	4154
+Larynx	C32	Female	1995	3950
+Larynx	C32	Female	1996	4046
+Larynx	C32	Female	1997	3915
+Larynx	C32	Female	1998	3933
+Larynx	C32	Female	1999	4117
+Larynx	C32	Female	2000	4076
+Larynx	C32	Female	2001	4073
+Larynx	C32	Female	2002	4222
+Larynx	C32	Female	2003	4124
+Larynx	C32	Female	2004	3716
+Larynx	C32	Female	2005	3791
+Larynx	C32	Female	2006	3857
+Larynx	C32	Female	2007	3730
+Larynx	C32	Female	2008	4012
+Larynx	C32	Female	2009	3715
+Larynx	C32	Female	2010	3799
+Larynx	C32	Male	1950	5888
+Larynx	C32	Male	1951	4998
+Larynx	C32	Male	1952	7610
+Larynx	C32	Male	1953	7692
+Larynx	C32	Male	1954	7960
+Larynx	C32	Male	1955	9212
+Larynx	C32	Male	1956	9338
+Larynx	C32	Male	1957	9660
+Larynx	C32	Male	1958	9936
+Larynx	C32	Male	1959	10249
+Larynx	C32	Male	1960	10862
+Larynx	C32	Male	1961	11357
+Larynx	C32	Male	1962	11587
+Larynx	C32	Male	1963	12647
+Larynx	C32	Male	1964	12825
+Larynx	C32	Male	1965	13128
+Larynx	C32	Male	1966	14072
+Larynx	C32	Male	1967	14603
+Larynx	C32	Male	1968	14945
+Larynx	C32	Male	1969	16146
+Larynx	C32	Male	1970	16055
+Larynx	C32	Male	1971	15993
+Larynx	C32	Male	1972	16144
+Larynx	C32	Male	1973	17867
+Larynx	C32	Male	1974	18367
+Larynx	C32	Male	1975	18639
+Larynx	C32	Male	1976	19127
+Larynx	C32	Male	1977	19968
+Larynx	C32	Male	1978	20251
+Larynx	C32	Male	1979	19529
+Larynx	C32	Male	1980	25139
+Larynx	C32	Male	1981	27769
+Larynx	C32	Male	1982	29033
+Larynx	C32	Male	1983	26735
+Larynx	C32	Male	1984	27151
+Larynx	C32	Male	1985	31222
+Larynx	C32	Male	1986	32143
+Larynx	C32	Male	1987	32927
+Larynx	C32	Male	1988	33584
+Larynx	C32	Male	1989	34073
+Larynx	C32	Male	1990	34588
+Larynx	C32	Male	1991	34895
+Larynx	C32	Male	1992	35681
+Larynx	C32	Male	1993	36546
+Larynx	C32	Male	1994	36792
+Larynx	C32	Male	1995	36089
+Larynx	C32	Male	1996	35520
+Larynx	C32	Male	1997	34200
+Larynx	C32	Male	1998	33843
+Larynx	C32	Male	1999	34429
+Larynx	C32	Male	2000	34486
+Larynx	C32	Male	2001	34004
+Larynx	C32	Male	2002	33709
+Larynx	C32	Male	2003	33455
+Larynx	C32	Male	2004	30123
+Larynx	C32	Male	2005	30078
+Larynx	C32	Male	2006	31145
+Larynx	C32	Male	2007	31053
+Larynx	C32	Male	2008	31191
+Larynx	C32	Male	2009	30576
+Larynx	C32	Male	2010	29651
+Leukaemia	C91-95	Female	1950	6637
+Leukaemia	C91-95	Female	1951	7473
+Leukaemia	C91-95	Female	1952	9146
+Leukaemia	C91-95	Female	1953	9826
+Leukaemia	C91-95	Female	1954	10584
+Leukaemia	C91-95	Female	1955	11663
+Leukaemia	C91-95	Female	1956	12680
+Leukaemia	C91-95	Female	1957	12945
+Leukaemia	C91-95	Female	1958	13210
+Leukaemia	C91-95	Female	1959	14646
+Leukaemia	C91-95	Female	1960	15144
+Leukaemia	C91-95	Female	1961	15576
+Leukaemia	C91-95	Female	1962	16318
+Leukaemia	C91-95	Female	1963	17508
+Leukaemia	C91-95	Female	1964	17764
+Leukaemia	C91-95	Female	1965	17939
+Leukaemia	C91-95	Female	1966	18883
+Leukaemia	C91-95	Female	1967	19174
+Leukaemia	C91-95	Female	1968	20035
+Leukaemia	C91-95	Female	1969	20828
+Leukaemia	C91-95	Female	1970	20459
+Leukaemia	C91-95	Female	1971	20235
+Leukaemia	C91-95	Female	1972	20791
+Leukaemia	C91-95	Female	1973	23205
+Leukaemia	C91-95	Female	1974	23784
+Leukaemia	C91-95	Female	1975	24658
+Leukaemia	C91-95	Female	1976	24920
+Leukaemia	C91-95	Female	1977	26157
+Leukaemia	C91-95	Female	1978	26321
+Leukaemia	C91-95	Female	1979	24559
+Leukaemia	C91-95	Female	1980	31567
+Leukaemia	C91-95	Female	1981	34281
+Leukaemia	C91-95	Female	1982	35593
+Leukaemia	C91-95	Female	1983	33643
+Leukaemia	C91-95	Female	1984	34412
+Leukaemia	C91-95	Female	1985	38597
+Leukaemia	C91-95	Female	1986	39179
+Leukaemia	C91-95	Female	1987	41029
+Leukaemia	C91-95	Female	1988	41604
+Leukaemia	C91-95	Female	1989	42598
+Leukaemia	C91-95	Female	1990	42639
+Leukaemia	C91-95	Female	1991	43422
+Leukaemia	C91-95	Female	1992	44328
+Leukaemia	C91-95	Female	1993	44462
+Leukaemia	C91-95	Female	1994	45240
+Leukaemia	C91-95	Female	1995	45317
+Leukaemia	C91-95	Female	1996	46404
+Leukaemia	C91-95	Female	1997	45722
+Leukaemia	C91-95	Female	1998	46643
+Leukaemia	C91-95	Female	1999	48984
+Leukaemia	C91-95	Female	2000	50274
+Leukaemia	C91-95	Female	2001	48349
+Leukaemia	C91-95	Female	2002	49683
+Leukaemia	C91-95	Female	2003	50366
+Leukaemia	C91-95	Female	2004	46437
+Leukaemia	C91-95	Female	2005	45893
+Leukaemia	C91-95	Female	2006	49292
+Leukaemia	C91-95	Female	2007	49053
+Leukaemia	C91-95	Female	2008	50670
+Leukaemia	C91-95	Female	2009	50051
+Leukaemia	C91-95	Female	2010	49518
+Leukaemia	C91-95	Male	1950	8680
+Leukaemia	C91-95	Male	1951	9822
+Leukaemia	C91-95	Male	1952	11677
+Leukaemia	C91-95	Male	1953	12725
+Leukaemia	C91-95	Male	1954	13651
+Leukaemia	C91-95	Male	1955	15394
+Leukaemia	C91-95	Male	1956	16121
+Leukaemia	C91-95	Male	1957	16786
+Leukaemia	C91-95	Male	1958	17366
+Leukaemia	C91-95	Male	1959	18615
+Leukaemia	C91-95	Male	1960	19441
+Leukaemia	C91-95	Male	1961	20233
+Leukaemia	C91-95	Male	1962	20934
+Leukaemia	C91-95	Male	1963	22084
+Leukaemia	C91-95	Male	1964	22532
+Leukaemia	C91-95	Male	1965	22774
+Leukaemia	C91-95	Male	1966	23984
+Leukaemia	C91-95	Male	1967	24229
+Leukaemia	C91-95	Male	1968	25495
+Leukaemia	C91-95	Male	1969	26317
+Leukaemia	C91-95	Male	1970	25584
+Leukaemia	C91-95	Male	1971	25229
+Leukaemia	C91-95	Male	1972	26031
+Leukaemia	C91-95	Male	1973	28890
+Leukaemia	C91-95	Male	1974	29535
+Leukaemia	C91-95	Male	1975	30656
+Leukaemia	C91-95	Male	1976	31114
+Leukaemia	C91-95	Male	1977	32525
+Leukaemia	C91-95	Male	1978	32432
+Leukaemia	C91-95	Male	1979	30686
+Leukaemia	C91-95	Male	1980	37843
+Leukaemia	C91-95	Male	1981	40777
+Leukaemia	C91-95	Male	1982	42388
+Leukaemia	C91-95	Male	1983	39702
+Leukaemia	C91-95	Male	1984	40285
+Leukaemia	C91-95	Male	1985	45404
+Leukaemia	C91-95	Male	1986	46666
+Leukaemia	C91-95	Male	1987	49131
+Leukaemia	C91-95	Male	1988	49409
+Leukaemia	C91-95	Male	1989	50708
+Leukaemia	C91-95	Male	1990	50509
+Leukaemia	C91-95	Male	1991	51333
+Leukaemia	C91-95	Male	1992	52590
+Leukaemia	C91-95	Male	1993	52810
+Leukaemia	C91-95	Male	1994	53852
+Leukaemia	C91-95	Male	1995	54160
+Leukaemia	C91-95	Male	1996	54603
+Leukaemia	C91-95	Male	1997	54264
+Leukaemia	C91-95	Male	1998	55563
+Leukaemia	C91-95	Male	1999	58482
+Leukaemia	C91-95	Male	2000	60232
+Leukaemia	C91-95	Male	2001	58132
+Leukaemia	C91-95	Male	2002	59995
+Leukaemia	C91-95	Male	2003	60565
+Leukaemia	C91-95	Male	2004	56170
+Leukaemia	C91-95	Male	2005	56020
+Leukaemia	C91-95	Male	2006	59870
+Leukaemia	C91-95	Male	2007	60211
+Leukaemia	C91-95	Male	2008	62643
+Leukaemia	C91-95	Male	2009	62280
+Leukaemia	C91-95	Male	2010	61368
+Lip, oral cavity and pharynx	C00-14	Female	1950	2524
+Lip, oral cavity and pharynx	C00-14	Female	1951	2773
+Lip, oral cavity and pharynx	C00-14	Female	1952	3197
+Lip, oral cavity and pharynx	C00-14	Female	1953	3237
+Lip, oral cavity and pharynx	C00-14	Female	1954	3556
+Lip, oral cavity and pharynx	C00-14	Female	1955	3998
+Lip, oral cavity and pharynx	C00-14	Female	1956	3995
+Lip, oral cavity and pharynx	C00-14	Female	1957	4208
+Lip, oral cavity and pharynx	C00-14	Female	1958	4368
+Lip, oral cavity and pharynx	C00-14	Female	1959	4471
+Lip, oral cavity and pharynx	C00-14	Female	1960	4729
+Lip, oral cavity and pharynx	C00-14	Female	1961	4806
+Lip, oral cavity and pharynx	C00-14	Female	1962	4934
+Lip, oral cavity and pharynx	C00-14	Female	1963	5407
+Lip, oral cavity and pharynx	C00-14	Female	1964	5491
+Lip, oral cavity and pharynx	C00-14	Female	1965	5312
+Lip, oral cavity and pharynx	C00-14	Female	1966	5672
+Lip, oral cavity and pharynx	C00-14	Female	1967	5428
+Lip, oral cavity and pharynx	C00-14	Female	1968	6236
+Lip, oral cavity and pharynx	C00-14	Female	1969	6494
+Lip, oral cavity and pharynx	C00-14	Female	1970	6182
+Lip, oral cavity and pharynx	C00-14	Female	1971	6206
+Lip, oral cavity and pharynx	C00-14	Female	1972	6360
+Lip, oral cavity and pharynx	C00-14	Female	1973	7121
+Lip, oral cavity and pharynx	C00-14	Female	1974	7137
+Lip, oral cavity and pharynx	C00-14	Female	1975	7664
+Lip, oral cavity and pharynx	C00-14	Female	1976	7517
+Lip, oral cavity and pharynx	C00-14	Female	1977	7863
+Lip, oral cavity and pharynx	C00-14	Female	1978	7861
+Lip, oral cavity and pharynx	C00-14	Female	1979	7928
+Lip, oral cavity and pharynx	C00-14	Female	1980	9907
+Lip, oral cavity and pharynx	C00-14	Female	1981	10674
+Lip, oral cavity and pharynx	C00-14	Female	1982	11004
+Lip, oral cavity and pharynx	C00-14	Female	1983	10224
+Lip, oral cavity and pharynx	C00-14	Female	1984	10762
+Lip, oral cavity and pharynx	C00-14	Female	1985	11738
+Lip, oral cavity and pharynx	C00-14	Female	1986	12359
+Lip, oral cavity and pharynx	C00-14	Female	1987	12441
+Lip, oral cavity and pharynx	C00-14	Female	1988	12553
+Lip, oral cavity and pharynx	C00-14	Female	1989	12790
+Lip, oral cavity and pharynx	C00-14	Female	1990	13050
+Lip, oral cavity and pharynx	C00-14	Female	1991	13186
+Lip, oral cavity and pharynx	C00-14	Female	1992	14235
+Lip, oral cavity and pharynx	C00-14	Female	1993	14209
+Lip, oral cavity and pharynx	C00-14	Female	1994	14944
+Lip, oral cavity and pharynx	C00-14	Female	1995	15015
+Lip, oral cavity and pharynx	C00-14	Female	1996	15423
+Lip, oral cavity and pharynx	C00-14	Female	1997	15152
+Lip, oral cavity and pharynx	C00-14	Female	1998	15783
+Lip, oral cavity and pharynx	C00-14	Female	1999	16316
+Lip, oral cavity and pharynx	C00-14	Female	2000	16887
+Lip, oral cavity and pharynx	C00-14	Female	2001	16336
+Lip, oral cavity and pharynx	C00-14	Female	2002	17268
+Lip, oral cavity and pharynx	C00-14	Female	2003	17500
+Lip, oral cavity and pharynx	C00-14	Female	2004	15862
+Lip, oral cavity and pharynx	C00-14	Female	2005	15985
+Lip, oral cavity and pharynx	C00-14	Female	2006	17047
+Lip, oral cavity and pharynx	C00-14	Female	2007	17209
+Lip, oral cavity and pharynx	C00-14	Female	2008	18089
+Lip, oral cavity and pharynx	C00-14	Female	2009	17613
+Lip, oral cavity and pharynx	C00-14	Female	2010	18055
+Lip, oral cavity and pharynx	C00-14	Male	1950	8579
+Lip, oral cavity and pharynx	C00-14	Male	1951	8922
+Lip, oral cavity and pharynx	C00-14	Male	1952	10456
+Lip, oral cavity and pharynx	C00-14	Male	1953	10857
+Lip, oral cavity and pharynx	C00-14	Male	1954	11535
+Lip, oral cavity and pharynx	C00-14	Male	1955	12575
+Lip, oral cavity and pharynx	C00-14	Male	1956	12656
+Lip, oral cavity and pharynx	C00-14	Male	1957	13089
+Lip, oral cavity and pharynx	C00-14	Male	1958	13019
+Lip, oral cavity and pharynx	C00-14	Male	1959	13915
+Lip, oral cavity and pharynx	C00-14	Male	1960	14129
+Lip, oral cavity and pharynx	C00-14	Male	1961	14519
+Lip, oral cavity and pharynx	C00-14	Male	1962	14923
+Lip, oral cavity and pharynx	C00-14	Male	1963	15771
+Lip, oral cavity and pharynx	C00-14	Male	1964	16069
+Lip, oral cavity and pharynx	C00-14	Male	1965	16215
+Lip, oral cavity and pharynx	C00-14	Male	1966	16799
+Lip, oral cavity and pharynx	C00-14	Male	1967	16841
+Lip, oral cavity and pharynx	C00-14	Male	1968	18468
+Lip, oral cavity and pharynx	C00-14	Male	1969	19381
+Lip, oral cavity and pharynx	C00-14	Male	1970	19242
+Lip, oral cavity and pharynx	C00-14	Male	1971	19475
+Lip, oral cavity and pharynx	C00-14	Male	1972	19794
+Lip, oral cavity and pharynx	C00-14	Male	1973	21291
+Lip, oral cavity and pharynx	C00-14	Male	1974	22054
+Lip, oral cavity and pharynx	C00-14	Male	1975	22931
+Lip, oral cavity and pharynx	C00-14	Male	1976	23306
+Lip, oral cavity and pharynx	C00-14	Male	1977	24609
+Lip, oral cavity and pharynx	C00-14	Male	1978	24366
+Lip, oral cavity and pharynx	C00-14	Male	1979	24974
+Lip, oral cavity and pharynx	C00-14	Male	1980	30337
+Lip, oral cavity and pharynx	C00-14	Male	1981	33278
+Lip, oral cavity and pharynx	C00-14	Male	1982	34899
+Lip, oral cavity and pharynx	C00-14	Male	1983	33638
+Lip, oral cavity and pharynx	C00-14	Male	1984	34485
+Lip, oral cavity and pharynx	C00-14	Male	1985	38445
+Lip, oral cavity and pharynx	C00-14	Male	1986	40488
+Lip, oral cavity and pharynx	C00-14	Male	1987	41475
+Lip, oral cavity and pharynx	C00-14	Male	1988	43128
+Lip, oral cavity and pharynx	C00-14	Male	1989	44298
+Lip, oral cavity and pharynx	C00-14	Male	1990	45913
+Lip, oral cavity and pharynx	C00-14	Male	1991	47289
+Lip, oral cavity and pharynx	C00-14	Male	1992	48760
+Lip, oral cavity and pharynx	C00-14	Male	1993	50003
+Lip, oral cavity and pharynx	C00-14	Male	1994	50793
+Lip, oral cavity and pharynx	C00-14	Male	1995	51020
+Lip, oral cavity and pharynx	C00-14	Male	1996	51092
+Lip, oral cavity and pharynx	C00-14	Male	1997	50337
+Lip, oral cavity and pharynx	C00-14	Male	1998	51449
+Lip, oral cavity and pharynx	C00-14	Male	1999	53399
+Lip, oral cavity and pharynx	C00-14	Male	2000	53771
+Lip, oral cavity and pharynx	C00-14	Male	2001	54280
+Lip, oral cavity and pharynx	C00-14	Male	2002	55475
+Lip, oral cavity and pharynx	C00-14	Male	2003	55883
+Lip, oral cavity and pharynx	C00-14	Male	2004	51308
+Lip, oral cavity and pharynx	C00-14	Male	2005	50828
+Lip, oral cavity and pharynx	C00-14	Male	2006	53391
+Lip, oral cavity and pharynx	C00-14	Male	2007	54450
+Lip, oral cavity and pharynx	C00-14	Male	2008	56592
+Lip, oral cavity and pharynx	C00-14	Male	2009	55595
+Lip, oral cavity and pharynx	C00-14	Male	2010	56272
+Liver	C22	Female	1955	127
+Liver	C22	Female	1956	130
+Liver	C22	Female	1957	626
+Liver	C22	Female	1958	2103
+Liver	C22	Female	1959	2196
+Liver	C22	Female	1960	2358
+Liver	C22	Female	1961	2540
+Liver	C22	Female	1962	2612
+Liver	C22	Female	1963	2204
+Liver	C22	Female	1964	2325
+Liver	C22	Female	1965	2323
+Liver	C22	Female	1966	2343
+Liver	C22	Female	1967	2269
+Liver	C22	Female	1968	259
+Liver	C22	Female	1979	7087
+Liver	C22	Female	1980	12115
+Liver	C22	Female	1981	12260
+Liver	C22	Female	1982	13262
+Liver	C22	Female	1983	13940
+Liver	C22	Female	1984	13255
+Liver	C22	Female	1985	13475
+Liver	C22	Female	1986	14318
+Liver	C22	Female	1987	14990
+Liver	C22	Female	1988	16363
+Liver	C22	Female	1989	16792
+Liver	C22	Female	1990	17346
+Liver	C22	Female	1991	18336
+Liver	C22	Female	1992	20308
+Liver	C22	Female	1993	20712
+Liver	C22	Female	1994	24250
+Liver	C22	Female	1995	27536
+Liver	C22	Female	1996	30477
+Liver	C22	Female	1997	31925
+Liver	C22	Female	1998	35548
+Liver	C22	Female	1999	42247
+Liver	C22	Female	2000	44740
+Liver	C22	Female	2001	43873
+Liver	C22	Female	2002	48432
+Liver	C22	Female	2003	51452
+Liver	C22	Female	2004	47892
+Liver	C22	Female	2005	48678
+Liver	C22	Female	2006	53462
+Liver	C22	Female	2007	50130
+Liver	C22	Female	2008	52812
+Liver	C22	Female	2009	52376
+Liver	C22	Female	2010	53123
+Liver	C22	Male	1950	2
+Liver	C22	Male	1951	2
+Liver	C22	Male	1955	113
+Liver	C22	Male	1956	144
+Liver	C22	Male	1957	580
+Liver	C22	Male	1958	2864
+Liver	C22	Male	1959	3047
+Liver	C22	Male	1960	3435
+Liver	C22	Male	1961	3688
+Liver	C22	Male	1962	3830
+Liver	C22	Male	1963	3453
+Liver	C22	Male	1964	3443
+Liver	C22	Male	1965	3441
+Liver	C22	Male	1966	3644
+Liver	C22	Male	1967	3571
+Liver	C22	Male	1968	345
+Liver	C22	Male	1979	13730
+Liver	C22	Male	1980	19226
+Liver	C22	Male	1981	20404
+Liver	C22	Male	1982	22576
+Liver	C22	Male	1983	24289
+Liver	C22	Male	1984	24516
+Liver	C22	Male	1985	25347
+Liver	C22	Male	1986	27598
+Liver	C22	Male	1987	29523
+Liver	C22	Male	1988	32184
+Liver	C22	Male	1989	33864
+Liver	C22	Male	1990	34988
+Liver	C22	Male	1991	38830
+Liver	C22	Male	1992	43792
+Liver	C22	Male	1993	45830
+Liver	C22	Male	1994	52669
+Liver	C22	Male	1995	59854
+Liver	C22	Male	1996	64036
+Liver	C22	Male	1997	65188
+Liver	C22	Male	1998	70395
+Liver	C22	Male	1999	80284
+Liver	C22	Male	2000	86096
+Liver	C22	Male	2001	81506
+Liver	C22	Male	2002	92495
+Liver	C22	Male	2003	97393
+Liver	C22	Male	2004	89003
+Liver	C22	Male	2005	90310
+Liver	C22	Male	2006	98684
+Liver	C22	Male	2007	90607
+Liver	C22	Male	2008	96515
+Liver	C22	Male	2009	94406
+Liver	C22	Male	2010	95622
+Lung	C33-34	Female	1950	7635
+Lung	C33-34	Female	1951	8451
+Lung	C33-34	Female	1952	10416
+Lung	C33-34	Female	1953	11132
+Lung	C33-34	Female	1954	12011
+Lung	C33-34	Female	1955	14031
+Lung	C33-34	Female	1956	14911
+Lung	C33-34	Female	1957	15678
+Lung	C33-34	Female	1958	16399
+Lung	C33-34	Female	1959	17549
+Lung	C33-34	Female	1960	18490
+Lung	C33-34	Female	1961	20191
+Lung	C33-34	Female	1962	21251
+Lung	C33-34	Female	1963	23310
+Lung	C33-34	Female	1964	24753
+Lung	C33-34	Female	1965	25910
+Lung	C33-34	Female	1966	28384
+Lung	C33-34	Female	1967	30062
+Lung	C33-34	Female	1968	32796
+Lung	C33-34	Female	1969	35073
+Lung	C33-34	Female	1970	36526
+Lung	C33-34	Female	1971	38191
+Lung	C33-34	Female	1972	41144
+Lung	C33-34	Female	1973	46520
+Lung	C33-34	Female	1974	49813
+Lung	C33-34	Female	1975	52807
+Lung	C33-34	Female	1976	56032
+Lung	C33-34	Female	1977	60545
+Lung	C33-34	Female	1978	63934
+Lung	C33-34	Female	1979	62894
+Lung	C33-34	Female	1980	80747
+Lung	C33-34	Female	1981	88795
+Lung	C33-34	Female	1982	94785
+Lung	C33-34	Female	1983	94583
+Lung	C33-34	Female	1984	99364
+Lung	C33-34	Female	1985	110810
+Lung	C33-34	Female	1986	116757
+Lung	C33-34	Female	1987	129558
+Lung	C33-34	Female	1988	134894
+Lung	C33-34	Female	1989	141471
+Lung	C33-34	Female	1990	145603
+Lung	C33-34	Female	1991	151291
+Lung	C33-34	Female	1992	157325
+Lung	C33-34	Female	1993	161885
+Lung	C33-34	Female	1994	166856
+Lung	C33-34	Female	1995	170412
+Lung	C33-34	Female	1996	174858
+Lung	C33-34	Female	1997	176494
+Lung	C33-34	Female	1998	182069
+Lung	C33-34	Female	1999	188783
+Lung	C33-34	Female	2000	195959
+Lung	C33-34	Female	2001	184677
+Lung	C33-34	Female	2002	192530
+Lung	C33-34	Female	2003	196040
+Lung	C33-34	Female	2004	191435
+Lung	C33-34	Female	2005	193825
+Lung	C33-34	Female	2006	207762
+Lung	C33-34	Female	2007	211619
+Lung	C33-34	Female	2008	218311
+Lung	C33-34	Female	2009	219849
+Lung	C33-34	Female	2010	223198
+Lung	C33-34	Male	1950	33019
+Lung	C33-34	Male	1951	37396
+Lung	C33-34	Male	1952	45816
+Lung	C33-34	Male	1953	52341
+Lung	C33-34	Male	1954	58475
+Lung	C33-34	Male	1955	67547
+Lung	C33-34	Male	1956	73612
+Lung	C33-34	Male	1957	78507
+Lung	C33-34	Male	1958	82239
+Lung	C33-34	Male	1959	90236
+Lung	C33-34	Male	1960	96537
+Lung	C33-34	Male	1961	103065
+Lung	C33-34	Male	1962	109405
+Lung	C33-34	Male	1963	118385
+Lung	C33-34	Male	1964	125144
+Lung	C33-34	Male	1965	130773
+Lung	C33-34	Male	1966	141919
+Lung	C33-34	Male	1967	149861
+Lung	C33-34	Male	1968	159288
+Lung	C33-34	Male	1969	168246
+Lung	C33-34	Male	1970	172555
+Lung	C33-34	Male	1971	175660
+Lung	C33-34	Male	1972	182805
+Lung	C33-34	Male	1973	214067
+Lung	C33-34	Male	1974	222197
+Lung	C33-34	Male	1975	229285
+Lung	C33-34	Male	1976	238187
+Lung	C33-34	Male	1977	251882
+Lung	C33-34	Male	1978	260780
+Lung	C33-34	Male	1979	240649
+Lung	C33-34	Male	1980	309312
+Lung	C33-34	Male	1981	337402
+Lung	C33-34	Male	1982	352496
+Lung	C33-34	Male	1983	339088
+Lung	C33-34	Male	1984	347791
+Lung	C33-34	Male	1985	386750
+Lung	C33-34	Male	1986	399799
+Lung	C33-34	Male	1987	427071
+Lung	C33-34	Male	1988	436071
+Lung	C33-34	Male	1989	446696
+Lung	C33-34	Male	1990	453208
+Lung	C33-34	Male	1991	460547
+Lung	C33-34	Male	1992	465348
+Lung	C33-34	Male	1993	472715
+Lung	C33-34	Male	1994	476188
+Lung	C33-34	Male	1995	476420
+Lung	C33-34	Male	1996	472661
+Lung	C33-34	Male	1997	462831
+Lung	C33-34	Male	1998	469586
+Lung	C33-34	Male	1999	484596
+Lung	C33-34	Male	2000	490032
+Lung	C33-34	Male	2001	461142
+Lung	C33-34	Male	2002	466922
+Lung	C33-34	Male	2003	466532
+Lung	C33-34	Male	2004	433880
+Lung	C33-34	Male	2005	431267
+Lung	C33-34	Male	2006	461204
+Lung	C33-34	Male	2007	463120
+Lung	C33-34	Male	2008	471000
+Lung	C33-34	Male	2009	465421
+Lung	C33-34	Male	2010	462627
+Melanoma of skin	C43	Female	1955	618
+Melanoma of skin	C43	Female	1956	477
+Melanoma of skin	C43	Female	1957	512
+Melanoma of skin	C43	Female	1958	807
+Melanoma of skin	C43	Female	1959	835
+Melanoma of skin	C43	Female	1960	1882
+Melanoma of skin	C43	Female	1961	2040
+Melanoma of skin	C43	Female	1962	2098
+Melanoma of skin	C43	Female	1963	2019
+Melanoma of skin	C43	Female	1964	2015
+Melanoma of skin	C43	Female	1965	2066
+Melanoma of skin	C43	Female	1966	2309
+Melanoma of skin	C43	Female	1967	2704
+Melanoma of skin	C43	Female	1968	1811
+Melanoma of skin	C43	Female	1969	1672
+Melanoma of skin	C43	Female	1970	1887
+Melanoma of skin	C43	Female	1971	1993
+Melanoma of skin	C43	Female	1972	1918
+Melanoma of skin	C43	Female	1973	1856
+Melanoma of skin	C43	Female	1974	2054
+Melanoma of skin	C43	Female	1975	2092
+Melanoma of skin	C43	Female	1976	3070
+Melanoma of skin	C43	Female	1977	2531
+Melanoma of skin	C43	Female	1978	2582
+Melanoma of skin	C43	Female	1979	5040
+Melanoma of skin	C43	Female	1980	6192
+Melanoma of skin	C43	Female	1981	6576
+Melanoma of skin	C43	Female	1982	6911
+Melanoma of skin	C43	Female	1983	6892
+Melanoma of skin	C43	Female	1984	7171
+Melanoma of skin	C43	Female	1985	7449
+Melanoma of skin	C43	Female	1986	7995
+Melanoma of skin	C43	Female	1987	8063
+Melanoma of skin	C43	Female	1988	8401
+Melanoma of skin	C43	Female	1989	8765
+Melanoma of skin	C43	Female	1990	8900
+Melanoma of skin	C43	Female	1991	9058
+Melanoma of skin	C43	Female	1992	9007
+Melanoma of skin	C43	Female	1993	9629
+Melanoma of skin	C43	Female	1994	10048
+Melanoma of skin	C43	Female	1995	10098
+Melanoma of skin	C43	Female	1996	10310
+Melanoma of skin	C43	Female	1997	10021
+Melanoma of skin	C43	Female	1998	10281
+Melanoma of skin	C43	Female	1999	12090
+Melanoma of skin	C43	Female	2000	12618
+Melanoma of skin	C43	Female	2001	12984
+Melanoma of skin	C43	Female	2002	12958
+Melanoma of skin	C43	Female	2003	13477
+Melanoma of skin	C43	Female	2004	12515
+Melanoma of skin	C43	Female	2005	13407
+Melanoma of skin	C43	Female	2006	14350
+Melanoma of skin	C43	Female	2007	15007
+Melanoma of skin	C43	Female	2008	15253
+Melanoma of skin	C43	Female	2009	15696
+Melanoma of skin	C43	Female	2010	15988
+Melanoma of skin	C43	Male	1955	606
+Melanoma of skin	C43	Male	1956	559
+Melanoma of skin	C43	Male	1957	627
+Melanoma of skin	C43	Male	1958	780
+Melanoma of skin	C43	Male	1959	897
+Melanoma of skin	C43	Male	1960	2119
+Melanoma of skin	C43	Male	1961	2163
+Melanoma of skin	C43	Male	1962	2325
+Melanoma of skin	C43	Male	1963	2311
+Melanoma of skin	C43	Male	1964	2483
+Melanoma of skin	C43	Male	1965	2642
+Melanoma of skin	C43	Male	1966	2639
+Melanoma of skin	C43	Male	1967	3178
+Melanoma of skin	C43	Male	1968	1787
+Melanoma of skin	C43	Male	1969	1811
+Melanoma of skin	C43	Male	1970	2041
+Melanoma of skin	C43	Male	1971	1968
+Melanoma of skin	C43	Male	1972	2049
+Melanoma of skin	C43	Male	1973	2080
+Melanoma of skin	C43	Male	1974	2181
+Melanoma of skin	C43	Male	1975	2370
+Melanoma of skin	C43	Male	1976	3143
+Melanoma of skin	C43	Male	1977	2635
+Melanoma of skin	C43	Male	1978	2723
+Melanoma of skin	C43	Male	1979	6185
+Melanoma of skin	C43	Male	1980	7298
+Melanoma of skin	C43	Male	1981	7715
+Melanoma of skin	C43	Male	1982	8143
+Melanoma of skin	C43	Male	1983	8276
+Melanoma of skin	C43	Male	1984	8797
+Melanoma of skin	C43	Male	1985	9045
+Melanoma of skin	C43	Male	1986	9573
+Melanoma of skin	C43	Male	1987	10163
+Melanoma of skin	C43	Male	1988	10254
+Melanoma of skin	C43	Male	1989	10719
+Melanoma of skin	C43	Male	1990	11018
+Melanoma of skin	C43	Male	1991	11412
+Melanoma of skin	C43	Male	1992	11663
+Melanoma of skin	C43	Male	1993	12237
+Melanoma of skin	C43	Male	1994	12541
+Melanoma of skin	C43	Male	1995	12860
+Melanoma of skin	C43	Male	1996	13145
+Melanoma of skin	C43	Male	1997	12986
+Melanoma of skin	C43	Male	1998	13706
+Melanoma of skin	C43	Male	1999	15136
+Melanoma of skin	C43	Male	2000	15772
+Melanoma of skin	C43	Male	2001	16435
+Melanoma of skin	C43	Male	2002	16387
+Melanoma of skin	C43	Male	2003	17291
+Melanoma of skin	C43	Male	2004	16620
+Melanoma of skin	C43	Male	2005	16902
+Melanoma of skin	C43	Male	2006	19067
+Melanoma of skin	C43	Male	2007	19855
+Melanoma of skin	C43	Male	2008	20691
+Melanoma of skin	C43	Male	2009	21522
+Melanoma of skin	C43	Male	2010	22044
+Mesothelioma	C45	Female	1994	31
+Mesothelioma	C45	Female	1995	182
+Mesothelioma	C45	Female	1996	362
+Mesothelioma	C45	Female	1997	430
+Mesothelioma	C45	Female	1998	822
+Mesothelioma	C45	Female	1999	1696
+Mesothelioma	C45	Female	2000	1738
+Mesothelioma	C45	Female	2001	2067
+Mesothelioma	C45	Female	2002	2080
+Mesothelioma	C45	Female	2003	2520
+Mesothelioma	C45	Female	2004	2155
+Mesothelioma	C45	Female	2005	2134
+Mesothelioma	C45	Female	2006	2727
+Mesothelioma	C45	Female	2007	2793
+Mesothelioma	C45	Female	2008	2940
+Mesothelioma	C45	Female	2009	2919
+Mesothelioma	C45	Female	2010	3073
+Mesothelioma	C45	Male	1994	87
+Mesothelioma	C45	Male	1995	444
+Mesothelioma	C45	Male	1996	1089
+Mesothelioma	C45	Male	1997	1349
+Mesothelioma	C45	Male	1998	2501
+Mesothelioma	C45	Male	1999	5252
+Mesothelioma	C45	Male	2000	6038
+Mesothelioma	C45	Male	2001	7721
+Mesothelioma	C45	Male	2002	8134
+Mesothelioma	C45	Male	2003	8980
+Mesothelioma	C45	Male	2004	8513
+Mesothelioma	C45	Male	2005	8109
+Mesothelioma	C45	Male	2006	9818
+Mesothelioma	C45	Male	2007	10039
+Mesothelioma	C45	Male	2008	10445
+Mesothelioma	C45	Male	2009	10816
+Mesothelioma	C45	Male	2010	10941
+Multiple myeloma	C88+C90	Female	1955	746
+Multiple myeloma	C88+C90	Female	1956	624
+Multiple myeloma	C88+C90	Female	1957	701
+Multiple myeloma	C88+C90	Female	1958	1164
+Multiple myeloma	C88+C90	Female	1959	1303
+Multiple myeloma	C88+C90	Female	1960	2757
+Multiple myeloma	C88+C90	Female	1961	2847
+Multiple myeloma	C88+C90	Female	1962	3004
+Multiple myeloma	C88+C90	Female	1963	2807
+Multiple myeloma	C88+C90	Female	1964	3553
+Multiple myeloma	C88+C90	Female	1965	3619
+Multiple myeloma	C88+C90	Female	1966	3288
+Multiple myeloma	C88+C90	Female	1967	4277
+Multiple myeloma	C88+C90	Female	1968	4442
+Multiple myeloma	C88+C90	Female	1969	4712
+Multiple myeloma	C88+C90	Female	1970	5038
+Multiple myeloma	C88+C90	Female	1971	5442
+Multiple myeloma	C88+C90	Female	1972	5588
+Multiple myeloma	C88+C90	Female	1973	6011
+Multiple myeloma	C88+C90	Female	1974	3865
+Multiple myeloma	C88+C90	Female	1975	6442
+Multiple myeloma	C88+C90	Female	1976	7908
+Multiple myeloma	C88+C90	Female	1977	7232
+Multiple myeloma	C88+C90	Female	1978	4637
+Multiple myeloma	C88+C90	Female	1979	7969
+Multiple myeloma	C88+C90	Female	1980	8286
+Multiple myeloma	C88+C90	Female	1981	8561
+Multiple myeloma	C88+C90	Female	1982	8953
+Multiple myeloma	C88+C90	Female	1983	9924
+Multiple myeloma	C88+C90	Female	1984	10655
+Multiple myeloma	C88+C90	Female	1985	11205
+Multiple myeloma	C88+C90	Female	1986	11674
+Multiple myeloma	C88+C90	Female	1987	11955
+Multiple myeloma	C88+C90	Female	1988	12683
+Multiple myeloma	C88+C90	Female	1989	13038
+Multiple myeloma	C88+C90	Female	1990	13262
+Multiple myeloma	C88+C90	Female	1991	13482
+Multiple myeloma	C88+C90	Female	1992	13698
+Multiple myeloma	C88+C90	Female	1993	14678
+Multiple myeloma	C88+C90	Female	1994	14980
+Multiple myeloma	C88+C90	Female	1995	15715
+Multiple myeloma	C88+C90	Female	1996	16383
+Multiple myeloma	C88+C90	Female	1997	16968
+Multiple myeloma	C88+C90	Female	1998	18194
+Multiple myeloma	C88+C90	Female	1999	20437
+Multiple myeloma	C88+C90	Female	2000	20977
+Multiple myeloma	C88+C90	Female	2001	21300
+Multiple myeloma	C88+C90	Female	2002	21804
+Multiple myeloma	C88+C90	Female	2003	22548
+Multiple myeloma	C88+C90	Female	2004	20612
+Multiple myeloma	C88+C90	Female	2005	20580
+Multiple myeloma	C88+C90	Female	2006	22508
+Multiple myeloma	C88+C90	Female	2007	23090
+Multiple myeloma	C88+C90	Female	2008	23169
+Multiple myeloma	C88+C90	Female	2009	23282
+Multiple myeloma	C88+C90	Female	2010	23824
+Multiple myeloma	C88+C90	Male	1951	0
+Multiple myeloma	C88+C90	Male	1955	818
+Multiple myeloma	C88+C90	Male	1956	779
+Multiple myeloma	C88+C90	Male	1957	837
+Multiple myeloma	C88+C90	Male	1958	1315
+Multiple myeloma	C88+C90	Male	1959	1478
+Multiple myeloma	C88+C90	Male	1960	3258
+Multiple myeloma	C88+C90	Male	1961	3511
+Multiple myeloma	C88+C90	Male	1962	3578
+Multiple myeloma	C88+C90	Male	1963	3303
+Multiple myeloma	C88+C90	Male	1964	3912
+Multiple myeloma	C88+C90	Male	1965	3993
+Multiple myeloma	C88+C90	Male	1966	3933
+Multiple myeloma	C88+C90	Male	1967	4709
+Multiple myeloma	C88+C90	Male	1968	4963
+Multiple myeloma	C88+C90	Male	1969	5006
+Multiple myeloma	C88+C90	Male	1970	5343
+Multiple myeloma	C88+C90	Male	1971	5783
+Multiple myeloma	C88+C90	Male	1972	5997
+Multiple myeloma	C88+C90	Male	1973	6241
+Multiple myeloma	C88+C90	Male	1974	4012
+Multiple myeloma	C88+C90	Male	1975	6948
+Multiple myeloma	C88+C90	Male	1976	8161
+Multiple myeloma	C88+C90	Male	1977	7632
+Multiple myeloma	C88+C90	Male	1978	4883
+Multiple myeloma	C88+C90	Male	1979	8217
+Multiple myeloma	C88+C90	Male	1980	8558
+Multiple myeloma	C88+C90	Male	1981	8658
+Multiple myeloma	C88+C90	Male	1982	9003
+Multiple myeloma	C88+C90	Male	1983	10119
+Multiple myeloma	C88+C90	Male	1984	10454
+Multiple myeloma	C88+C90	Male	1985	11253
+Multiple myeloma	C88+C90	Male	1986	11561
+Multiple myeloma	C88+C90	Male	1987	12230
+Multiple myeloma	C88+C90	Male	1988	12312
+Multiple myeloma	C88+C90	Male	1989	12887
+Multiple myeloma	C88+C90	Male	1990	13172
+Multiple myeloma	C88+C90	Male	1991	13274
+Multiple myeloma	C88+C90	Male	1992	13626
+Multiple myeloma	C88+C90	Male	1993	14428
+Multiple myeloma	C88+C90	Male	1994	14852
+Multiple myeloma	C88+C90	Male	1995	15642
+Multiple myeloma	C88+C90	Male	1996	16389
+Multiple myeloma	C88+C90	Male	1997	17418
+Multiple myeloma	C88+C90	Male	1998	18474
+Multiple myeloma	C88+C90	Male	1999	20198
+Multiple myeloma	C88+C90	Male	2000	20987
+Multiple myeloma	C88+C90	Male	2001	21310
+Multiple myeloma	C88+C90	Male	2002	22385
+Multiple myeloma	C88+C90	Male	2003	22922
+Multiple myeloma	C88+C90	Male	2004	21331
+Multiple myeloma	C88+C90	Male	2005	21273
+Multiple myeloma	C88+C90	Male	2006	23332
+Multiple myeloma	C88+C90	Male	2007	24311
+Multiple myeloma	C88+C90	Male	2008	24758
+Multiple myeloma	C88+C90	Male	2009	24943
+Multiple myeloma	C88+C90	Male	2010	25355
+Non-Hodgkin lymphoma	C82-85,C96	Female	1955	1824
+Non-Hodgkin lymphoma	C82-85,C96	Female	1956	1749
+Non-Hodgkin lymphoma	C82-85,C96	Female	1957	1916
+Non-Hodgkin lymphoma	C82-85,C96	Female	1958	2587
+Non-Hodgkin lymphoma	C82-85,C96	Female	1959	2666
+Non-Hodgkin lymphoma	C82-85,C96	Female	1960	5604
+Non-Hodgkin lymphoma	C82-85,C96	Female	1961	6113
+Non-Hodgkin lymphoma	C82-85,C96	Female	1962	6299
+Non-Hodgkin lymphoma	C82-85,C96	Female	1963	6076
+Non-Hodgkin lymphoma	C82-85,C96	Female	1964	6335
+Non-Hodgkin lymphoma	C82-85,C96	Female	1965	6488
+Non-Hodgkin lymphoma	C82-85,C96	Female	1966	7187
+Non-Hodgkin lymphoma	C82-85,C96	Female	1967	8277
+Non-Hodgkin lymphoma	C82-85,C96	Female	1968	4292
+Non-Hodgkin lymphoma	C82-85,C96	Female	1969	4551
+Non-Hodgkin lymphoma	C82-85,C96	Female	1970	4744
+Non-Hodgkin lymphoma	C82-85,C96	Female	1971	5174
+Non-Hodgkin lymphoma	C82-85,C96	Female	1972	5290
+Non-Hodgkin lymphoma	C82-85,C96	Female	1973	5480
+Non-Hodgkin lymphoma	C82-85,C96	Female	1974	5573
+Non-Hodgkin lymphoma	C82-85,C96	Female	1975	5455
+Non-Hodgkin lymphoma	C82-85,C96	Female	1976	6653
+Non-Hodgkin lymphoma	C82-85,C96	Female	1977	5957
+Non-Hodgkin lymphoma	C82-85,C96	Female	1978	6283
+Non-Hodgkin lymphoma	C82-85,C96	Female	1979	12377
+Non-Hodgkin lymphoma	C82-85,C96	Female	1980	13404
+Non-Hodgkin lymphoma	C82-85,C96	Female	1981	13980
+Non-Hodgkin lymphoma	C82-85,C96	Female	1982	14566
+Non-Hodgkin lymphoma	C82-85,C96	Female	1983	16598
+Non-Hodgkin lymphoma	C82-85,C96	Female	1984	17739
+Non-Hodgkin lymphoma	C82-85,C96	Female	1985	18415
+Non-Hodgkin lymphoma	C82-85,C96	Female	1986	20006
+Non-Hodgkin lymphoma	C82-85,C96	Female	1987	20839
+Non-Hodgkin lymphoma	C82-85,C96	Female	1988	21780
+Non-Hodgkin lymphoma	C82-85,C96	Female	1989	22692
+Non-Hodgkin lymphoma	C82-85,C96	Female	1990	23219
+Non-Hodgkin lymphoma	C82-85,C96	Female	1991	24903
+Non-Hodgkin lymphoma	C82-85,C96	Female	1992	25648
+Non-Hodgkin lymphoma	C82-85,C96	Female	1993	26627
+Non-Hodgkin lymphoma	C82-85,C96	Female	1994	28201
+Non-Hodgkin lymphoma	C82-85,C96	Female	1995	29450
+Non-Hodgkin lymphoma	C82-85,C96	Female	1996	31039
+Non-Hodgkin lymphoma	C82-85,C96	Female	1997	33487
+Non-Hodgkin lymphoma	C82-85,C96	Female	1998	34933
+Non-Hodgkin lymphoma	C82-85,C96	Female	1999	37461
+Non-Hodgkin lymphoma	C82-85,C96	Female	2000	38436
+Non-Hodgkin lymphoma	C82-85,C96	Female	2001	38052
+Non-Hodgkin lymphoma	C82-85,C96	Female	2002	38469
+Non-Hodgkin lymphoma	C82-85,C96	Female	2003	38575
+Non-Hodgkin lymphoma	C82-85,C96	Female	2004	35705
+Non-Hodgkin lymphoma	C82-85,C96	Female	2005	35490
+Non-Hodgkin lymphoma	C82-85,C96	Female	2006	38474
+Non-Hodgkin lymphoma	C82-85,C96	Female	2007	38779
+Non-Hodgkin lymphoma	C82-85,C96	Female	2008	40018
+Non-Hodgkin lymphoma	C82-85,C96	Female	2009	40001
+Non-Hodgkin lymphoma	C82-85,C96	Female	2010	40158
+Non-Hodgkin lymphoma	C82-85,C96	Male	1955	2609
+Non-Hodgkin lymphoma	C82-85,C96	Male	1956	2684
+Non-Hodgkin lymphoma	C82-85,C96	Male	1957	2931
+Non-Hodgkin lymphoma	C82-85,C96	Male	1958	3785
+Non-Hodgkin lymphoma	C82-85,C96	Male	1959	4039
+Non-Hodgkin lymphoma	C82-85,C96	Male	1960	8145
+Non-Hodgkin lymphoma	C82-85,C96	Male	1961	8633
+Non-Hodgkin lymphoma	C82-85,C96	Male	1962	8752
+Non-Hodgkin lymphoma	C82-85,C96	Male	1963	8443
+Non-Hodgkin lymphoma	C82-85,C96	Male	1964	8709
+Non-Hodgkin lymphoma	C82-85,C96	Male	1965	9041
+Non-Hodgkin lymphoma	C82-85,C96	Male	1966	9873
+Non-Hodgkin lymphoma	C82-85,C96	Male	1967	11356
+Non-Hodgkin lymphoma	C82-85,C96	Male	1968	6212
+Non-Hodgkin lymphoma	C82-85,C96	Male	1969	6199
+Non-Hodgkin lymphoma	C82-85,C96	Male	1970	6615
+Non-Hodgkin lymphoma	C82-85,C96	Male	1971	7286
+Non-Hodgkin lymphoma	C82-85,C96	Male	1972	7385
+Non-Hodgkin lymphoma	C82-85,C96	Male	1973	7304
+Non-Hodgkin lymphoma	C82-85,C96	Male	1974	7624
+Non-Hodgkin lymphoma	C82-85,C96	Male	1975	7391
+Non-Hodgkin lymphoma	C82-85,C96	Male	1976	8889
+Non-Hodgkin lymphoma	C82-85,C96	Male	1977	7922
+Non-Hodgkin lymphoma	C82-85,C96	Male	1978	8494
+Non-Hodgkin lymphoma	C82-85,C96	Male	1979	15218
+Non-Hodgkin lymphoma	C82-85,C96	Male	1980	16024
+Non-Hodgkin lymphoma	C82-85,C96	Male	1981	16117
+Non-Hodgkin lymphoma	C82-85,C96	Male	1982	17261
+Non-Hodgkin lymphoma	C82-85,C96	Male	1983	19536
+Non-Hodgkin lymphoma	C82-85,C96	Male	1984	20189
+Non-Hodgkin lymphoma	C82-85,C96	Male	1985	21614
+Non-Hodgkin lymphoma	C82-85,C96	Male	1986	23259
+Non-Hodgkin lymphoma	C82-85,C96	Male	1987	23874
+Non-Hodgkin lymphoma	C82-85,C96	Male	1988	24444
+Non-Hodgkin lymphoma	C82-85,C96	Male	1989	25824
+Non-Hodgkin lymphoma	C82-85,C96	Male	1990	26720
+Non-Hodgkin lymphoma	C82-85,C96	Male	1991	27828
+Non-Hodgkin lymphoma	C82-85,C96	Male	1992	29008
+Non-Hodgkin lymphoma	C82-85,C96	Male	1993	29453
+Non-Hodgkin lymphoma	C82-85,C96	Male	1994	31594
+Non-Hodgkin lymphoma	C82-85,C96	Male	1995	33254
+Non-Hodgkin lymphoma	C82-85,C96	Male	1996	35756
+Non-Hodgkin lymphoma	C82-85,C96	Male	1997	38131
+Non-Hodgkin lymphoma	C82-85,C96	Male	1998	39515
+Non-Hodgkin lymphoma	C82-85,C96	Male	1999	42847
+Non-Hodgkin lymphoma	C82-85,C96	Male	2000	44220
+Non-Hodgkin lymphoma	C82-85,C96	Male	2001	44410
+Non-Hodgkin lymphoma	C82-85,C96	Male	2002	44444
+Non-Hodgkin lymphoma	C82-85,C96	Male	2003	44806
+Non-Hodgkin lymphoma	C82-85,C96	Male	2004	41546
+Non-Hodgkin lymphoma	C82-85,C96	Male	2005	41436
+Non-Hodgkin lymphoma	C82-85,C96	Male	2006	44842
+Non-Hodgkin lymphoma	C82-85,C96	Male	2007	46391
+Non-Hodgkin lymphoma	C82-85,C96	Male	2008	47470
+Non-Hodgkin lymphoma	C82-85,C96	Male	2009	47577
+Non-Hodgkin lymphoma	C82-85,C96	Male	2010	47683
+Oesophagus	C15	Female	1950	3449
+Oesophagus	C15	Female	1951	3530
+Oesophagus	C15	Female	1952	4297
+Oesophagus	C15	Female	1953	4523
+Oesophagus	C15	Female	1954	4666
+Oesophagus	C15	Female	1955	5258
+Oesophagus	C15	Female	1956	5407
+Oesophagus	C15	Female	1957	5520
+Oesophagus	C15	Female	1958	5519
+Oesophagus	C15	Female	1959	5879
+Oesophagus	C15	Female	1960	6023
+Oesophagus	C15	Female	1961	6223
+Oesophagus	C15	Female	1962	6301
+Oesophagus	C15	Female	1963	6600
+Oesophagus	C15	Female	1964	7007
+Oesophagus	C15	Female	1965	6949
+Oesophagus	C15	Female	1966	7576
+Oesophagus	C15	Female	1967	7736
+Oesophagus	C15	Female	1968	8204
+Oesophagus	C15	Female	1969	8389
+Oesophagus	C15	Female	1970	8379
+Oesophagus	C15	Female	1971	8105
+Oesophagus	C15	Female	1972	8008
+Oesophagus	C15	Female	1973	8938
+Oesophagus	C15	Female	1974	9216
+Oesophagus	C15	Female	1975	9338
+Oesophagus	C15	Female	1976	9512
+Oesophagus	C15	Female	1977	10089
+Oesophagus	C15	Female	1978	10380
+Oesophagus	C15	Female	1979	10054
+Oesophagus	C15	Female	1980	13959
+Oesophagus	C15	Female	1981	16096
+Oesophagus	C15	Female	1982	17154
+Oesophagus	C15	Female	1983	14282
+Oesophagus	C15	Female	1984	14640
+Oesophagus	C15	Female	1985	17586
+Oesophagus	C15	Female	1986	18290
+Oesophagus	C15	Female	1987	22823
+Oesophagus	C15	Female	1988	23989
+Oesophagus	C15	Female	1989	24658
+Oesophagus	C15	Female	1990	23873
+Oesophagus	C15	Female	1991	23740
+Oesophagus	C15	Female	1992	23937
+Oesophagus	C15	Female	1993	24810
+Oesophagus	C15	Female	1994	24868
+Oesophagus	C15	Female	1995	24491
+Oesophagus	C15	Female	1996	24637
+Oesophagus	C15	Female	1997	23901
+Oesophagus	C15	Female	1998	23964
+Oesophagus	C15	Female	1999	25025
+Oesophagus	C15	Female	2000	24536
+Oesophagus	C15	Female	2001	20386
+Oesophagus	C15	Female	2002	20578
+Oesophagus	C15	Female	2003	20696
+Oesophagus	C15	Female	2004	20109
+Oesophagus	C15	Female	2005	19348
+Oesophagus	C15	Female	2006	19828
+Oesophagus	C15	Female	2007	20091
+Oesophagus	C15	Female	2008	19767
+Oesophagus	C15	Female	2009	19971
+Oesophagus	C15	Female	2010	20188
+Oesophagus	C15	Male	1950	10251
+Oesophagus	C15	Male	1951	9248
+Oesophagus	C15	Male	1952	12605
+Oesophagus	C15	Male	1953	12989
+Oesophagus	C15	Male	1954	13110
+Oesophagus	C15	Male	1955	14402
+Oesophagus	C15	Male	1956	14846
+Oesophagus	C15	Male	1957	15363
+Oesophagus	C15	Male	1958	15555
+Oesophagus	C15	Male	1959	16609
+Oesophagus	C15	Male	1960	17059
+Oesophagus	C15	Male	1961	17553
+Oesophagus	C15	Male	1962	18284
+Oesophagus	C15	Male	1963	18885
+Oesophagus	C15	Male	1964	19694
+Oesophagus	C15	Male	1965	19803
+Oesophagus	C15	Male	1966	21789
+Oesophagus	C15	Male	1967	22157
+Oesophagus	C15	Male	1968	23213
+Oesophagus	C15	Male	1969	23386
+Oesophagus	C15	Male	1970	23797
+Oesophagus	C15	Male	1971	22955
+Oesophagus	C15	Male	1972	23362
+Oesophagus	C15	Male	1973	25472
+Oesophagus	C15	Male	1974	26266
+Oesophagus	C15	Male	1975	26931
+Oesophagus	C15	Male	1976	27225
+Oesophagus	C15	Male	1977	29144
+Oesophagus	C15	Male	1978	29538
+Oesophagus	C15	Male	1979	29840
+Oesophagus	C15	Male	1980	36084
+Oesophagus	C15	Male	1981	40557
+Oesophagus	C15	Male	1982	42886
+Oesophagus	C15	Male	1983	39168
+Oesophagus	C15	Male	1984	40296
+Oesophagus	C15	Male	1985	47194
+Oesophagus	C15	Male	1986	48126
+Oesophagus	C15	Male	1987	59021
+Oesophagus	C15	Male	1988	60216
+Oesophagus	C15	Male	1989	63058
+Oesophagus	C15	Male	1990	63066
+Oesophagus	C15	Male	1991	64266
+Oesophagus	C15	Male	1992	65491
+Oesophagus	C15	Male	1993	68007
+Oesophagus	C15	Male	1994	68971
+Oesophagus	C15	Male	1995	68494
+Oesophagus	C15	Male	1996	69070
+Oesophagus	C15	Male	1997	68810
+Oesophagus	C15	Male	1998	69250
+Oesophagus	C15	Male	1999	71923
+Oesophagus	C15	Male	2000	72206
+Oesophagus	C15	Male	2001	63129
+Oesophagus	C15	Male	2002	64444
+Oesophagus	C15	Male	2003	65744
+Oesophagus	C15	Male	2004	63030
+Oesophagus	C15	Male	2005	63149
+Oesophagus	C15	Male	2006	65167
+Oesophagus	C15	Male	2007	66017
+Oesophagus	C15	Male	2008	66505
+Oesophagus	C15	Male	2009	66804
+Oesophagus	C15	Male	2010	67326
+Ovary	C56	Female	1979	25113
+Ovary	C56	Female	1980	26007
+Ovary	C56	Female	1981	25932
+Ovary	C56	Female	1982	26858
+Ovary	C56	Female	1983	33475
+Ovary	C56	Female	1984	35237
+Ovary	C56	Female	1985	35028
+Ovary	C56	Female	1986	31491
+Ovary	C56	Female	1987	33116
+Ovary	C56	Female	1988	33747
+Ovary	C56	Female	1989	33764
+Ovary	C56	Female	1990	40377
+Ovary	C56	Female	1991	41325
+Ovary	C56	Female	1992	41773
+Ovary	C56	Female	1993	42069
+Ovary	C56	Female	1994	44063
+Ovary	C56	Female	1995	44556
+Ovary	C56	Female	1996	47183
+Ovary	C56	Female	1997	50624
+Ovary	C56	Female	1998	52424
+Ovary	C56	Female	1999	56085
+Ovary	C56	Female	2000	57725
+Ovary	C56	Female	2001	58720
+Ovary	C56	Female	2002	60247
+Ovary	C56	Female	2003	60795
+Ovary	C56	Female	2004	57062
+Ovary	C56	Female	2005	57317
+Ovary	C56	Female	2006	61849
+Ovary	C56	Female	2007	61902
+Ovary	C56	Female	2008	63661
+Ovary	C56	Female	2009	63027
+Ovary	C56	Female	2010	63148
+Pancreas	C25	Female	1955	10950
+Pancreas	C25	Female	1956	9900
+Pancreas	C25	Female	1957	10131
+Pancreas	C25	Female	1958	12684
+Pancreas	C25	Female	1959	13118
+Pancreas	C25	Female	1960	13710
+Pancreas	C25	Female	1961	14513
+Pancreas	C25	Female	1962	15538
+Pancreas	C25	Female	1963	13755
+Pancreas	C25	Female	1964	14177
+Pancreas	C25	Female	1965	15056
+Pancreas	C25	Female	1966	16187
+Pancreas	C25	Female	1967	19525
+Pancreas	C25	Female	1968	19714
+Pancreas	C25	Female	1969	19878
+Pancreas	C25	Female	1970	21519
+Pancreas	C25	Female	1971	22455
+Pancreas	C25	Female	1972	22506
+Pancreas	C25	Female	1973	23128
+Pancreas	C25	Female	1974	24243
+Pancreas	C25	Female	1975	24675
+Pancreas	C25	Female	1976	29088
+Pancreas	C25	Female	1977	25605
+Pancreas	C25	Female	1978	16898
+Pancreas	C25	Female	1979	27904
+Pancreas	C25	Female	1980	35420
+Pancreas	C25	Female	1981	35822
+Pancreas	C25	Female	1982	37138
+Pancreas	C25	Female	1983	38290
+Pancreas	C25	Female	1984	39501
+Pancreas	C25	Female	1985	40994
+Pancreas	C25	Female	1986	43297
+Pancreas	C25	Female	1987	44757
+Pancreas	C25	Female	1988	45440
+Pancreas	C25	Female	1989	46851
+Pancreas	C25	Female	1990	47701
+Pancreas	C25	Female	1991	48825
+Pancreas	C25	Female	1992	49587
+Pancreas	C25	Female	1993	51494
+Pancreas	C25	Female	1994	52435
+Pancreas	C25	Female	1995	52943
+Pancreas	C25	Female	1996	56365
+Pancreas	C25	Female	1997	58484
+Pancreas	C25	Female	1998	61310
+Pancreas	C25	Female	1999	71349
+Pancreas	C25	Female	2000	74158
+Pancreas	C25	Female	2001	75980
+Pancreas	C25	Female	2002	77985
+Pancreas	C25	Female	2003	79908
+Pancreas	C25	Female	2004	76813
+Pancreas	C25	Female	2005	80389
+Pancreas	C25	Female	2006	88238
+Pancreas	C25	Female	2007	91892
+Pancreas	C25	Female	2008	95336
+Pancreas	C25	Female	2009	96837
+Pancreas	C25	Female	2010	99274
+Pancreas	C25	Male	1950	3
+Pancreas	C25	Male	1951	2
+Pancreas	C25	Male	1955	14239
+Pancreas	C25	Male	1956	13083
+Pancreas	C25	Male	1957	13570
+Pancreas	C25	Male	1958	16412
+Pancreas	C25	Male	1959	17236
+Pancreas	C25	Male	1960	17854
+Pancreas	C25	Male	1961	19175
+Pancreas	C25	Male	1962	19899
+Pancreas	C25	Male	1963	17898
+Pancreas	C25	Male	1964	18767
+Pancreas	C25	Male	1965	19428
+Pancreas	C25	Male	1966	20640
+Pancreas	C25	Male	1967	24674
+Pancreas	C25	Male	1968	25243
+Pancreas	C25	Male	1969	25181
+Pancreas	C25	Male	1970	26966
+Pancreas	C25	Male	1971	27955
+Pancreas	C25	Male	1972	27596
+Pancreas	C25	Male	1973	28433
+Pancreas	C25	Male	1974	29081
+Pancreas	C25	Male	1975	29566
+Pancreas	C25	Male	1976	34076
+Pancreas	C25	Male	1977	30664
+Pancreas	C25	Male	1978	20470
+Pancreas	C25	Male	1979	32717
+Pancreas	C25	Male	1980	39917
+Pancreas	C25	Male	1981	40438
+Pancreas	C25	Male	1982	40866
+Pancreas	C25	Male	1983	41739
+Pancreas	C25	Male	1984	42727
+Pancreas	C25	Male	1985	44576
+Pancreas	C25	Male	1986	45764
+Pancreas	C25	Male	1987	47388
+Pancreas	C25	Male	1988	48074
+Pancreas	C25	Male	1989	49082
+Pancreas	C25	Male	1990	49645
+Pancreas	C25	Male	1991	50687
+Pancreas	C25	Male	1992	51438
+Pancreas	C25	Male	1993	52820
+Pancreas	C25	Male	1994	53948
+Pancreas	C25	Male	1995	54366
+Pancreas	C25	Male	1996	57882
+Pancreas	C25	Male	1997	59818
+Pancreas	C25	Male	1998	63195
+Pancreas	C25	Male	1999	73494
+Pancreas	C25	Male	2000	75946
+Pancreas	C25	Male	2001	77347
+Pancreas	C25	Male	2002	80271
+Pancreas	C25	Male	2003	82020
+Pancreas	C25	Male	2004	79577
+Pancreas	C25	Male	2005	83014
+Pancreas	C25	Male	2006	90237
+Pancreas	C25	Male	2007	94185
+Pancreas	C25	Male	2008	98024
+Pancreas	C25	Male	2009	99351
+Pancreas	C25	Male	2010	101182
+Prostate	C61	Male	1950	19710
+Prostate	C61	Male	1951	20826
+Prostate	C61	Male	1952	24932
+Prostate	C61	Male	1953	26617
+Prostate	C61	Male	1954	28831
+Prostate	C61	Male	1955	31859
+Prostate	C61	Male	1956	33743
+Prostate	C61	Male	1957	34635
+Prostate	C61	Male	1958	35551
+Prostate	C61	Male	1959	36265
+Prostate	C61	Male	1960	37939
+Prostate	C61	Male	1961	39042
+Prostate	C61	Male	1962	40705
+Prostate	C61	Male	1963	43102
+Prostate	C61	Male	1964	43530
+Prostate	C61	Male	1965	44427
+Prostate	C61	Male	1966	46215
+Prostate	C61	Male	1967	47439
+Prostate	C61	Male	1968	50325
+Prostate	C61	Male	1969	51486
+Prostate	C61	Male	1970	52175
+Prostate	C61	Male	1971	52584
+Prostate	C61	Male	1972	54242
+Prostate	C61	Male	1973	63285
+Prostate	C61	Male	1974	65765
+Prostate	C61	Male	1975	67700
+Prostate	C61	Male	1976	70038
+Prostate	C61	Male	1977	72486
+Prostate	C61	Male	1978	75134
+Prostate	C61	Male	1979	68666
+Prostate	C61	Male	1980	82363
+Prostate	C61	Male	1981	86854
+Prostate	C61	Male	1982	90297
+Prostate	C61	Male	1983	91589
+Prostate	C61	Male	1984	94347
+Prostate	C61	Male	1985	102180
+Prostate	C61	Male	1986	107353
+Prostate	C61	Male	1987	111111
+Prostate	C61	Male	1988	115837
+Prostate	C61	Male	1989	119665
+Prostate	C61	Male	1990	124742
+Prostate	C61	Male	1991	127662
+Prostate	C61	Male	1992	131966
+Prostate	C61	Male	1993	136781
+Prostate	C61	Male	1994	141419
+Prostate	C61	Male	1995	143083
+Prostate	C61	Male	1996	147759
+Prostate	C61	Male	1997	145587
+Prostate	C61	Male	1998	148658
+Prostate	C61	Male	1999	152943
+Prostate	C61	Male	2000	154477
+Prostate	C61	Male	2001	157031
+Prostate	C61	Male	2002	159553
+Prostate	C61	Male	2003	163004
+Prostate	C61	Male	2004	153296
+Prostate	C61	Male	2005	152021
+Prostate	C61	Male	2006	164363
+Prostate	C61	Male	2007	169879
+Prostate	C61	Male	2008	174125
+Prostate	C61	Male	2009	174247
+Prostate	C61	Male	2010	176565
+Stomach	C16	Female	1950	38685
+Stomach	C16	Female	1951	44756
+Stomach	C16	Female	1952	53250
+Stomach	C16	Female	1953	56400
+Stomach	C16	Female	1954	57968
+Stomach	C16	Female	1955	65157
+Stomach	C16	Female	1956	66026
+Stomach	C16	Female	1957	65949
+Stomach	C16	Female	1958	66537
+Stomach	C16	Female	1959	69652
+Stomach	C16	Female	1960	70953
+Stomach	C16	Female	1961	70849
+Stomach	C16	Female	1962	71362
+Stomach	C16	Female	1963	75766
+Stomach	C16	Female	1964	74794
+Stomach	C16	Female	1965	74249
+Stomach	C16	Female	1966	76087
+Stomach	C16	Female	1967	75396
+Stomach	C16	Female	1968	77107
+Stomach	C16	Female	1969	78085
+Stomach	C16	Female	1970	76089
+Stomach	C16	Female	1971	73783
+Stomach	C16	Female	1972	74745
+Stomach	C16	Female	1973	86117
+Stomach	C16	Female	1974	86072
+Stomach	C16	Female	1975	85026
+Stomach	C16	Female	1976	82934
+Stomach	C16	Female	1977	84222
+Stomach	C16	Female	1978	82092
+Stomach	C16	Female	1979	70283
+Stomach	C16	Female	1980	108788
+Stomach	C16	Female	1981	119826
+Stomach	C16	Female	1982	120087
+Stomach	C16	Female	1983	104968
+Stomach	C16	Female	1984	105077
+Stomach	C16	Female	1985	121300
+Stomach	C16	Female	1986	121381
+Stomach	C16	Female	1987	127704
+Stomach	C16	Female	1988	127392
+Stomach	C16	Female	1989	127622
+Stomach	C16	Female	1990	124773
+Stomach	C16	Female	1991	123361
+Stomach	C16	Female	1992	123049
+Stomach	C16	Female	1993	119409
+Stomach	C16	Female	1994	118016
+Stomach	C16	Female	1995	116364
+Stomach	C16	Female	1996	113240
+Stomach	C16	Female	1997	110713
+Stomach	C16	Female	1998	110105
+Stomach	C16	Female	1999	111777
+Stomach	C16	Female	2000	111230
+Stomach	C16	Female	2001	100890
+Stomach	C16	Female	2002	99662
+Stomach	C16	Female	2003	98742
+Stomach	C16	Female	2004	91125
+Stomach	C16	Female	2005	88703
+Stomach	C16	Female	2006	91832
+Stomach	C16	Female	2007	92834
+Stomach	C16	Female	2008	92153
+Stomach	C16	Female	2009	90294
+Stomach	C16	Female	2010	88320
+Stomach	C16	Male	1950	57269
+Stomach	C16	Male	1951	66228
+Stomach	C16	Male	1952	76903
+Stomach	C16	Male	1953	81236
+Stomach	C16	Male	1954	83157
+Stomach	C16	Male	1955	93283
+Stomach	C16	Male	1956	93903
+Stomach	C16	Male	1957	94963
+Stomach	C16	Male	1958	95461
+Stomach	C16	Male	1959	100579
+Stomach	C16	Male	1960	101557
+Stomach	C16	Male	1961	102767
+Stomach	C16	Male	1962	102492
+Stomach	C16	Male	1963	109238
+Stomach	C16	Male	1964	108539
+Stomach	C16	Male	1965	107193
+Stomach	C16	Male	1966	110230
+Stomach	C16	Male	1967	109525
+Stomach	C16	Male	1968	111770
+Stomach	C16	Male	1969	114735
+Stomach	C16	Male	1970	111347
+Stomach	C16	Male	1971	108156
+Stomach	C16	Male	1972	108745
+Stomach	C16	Male	1973	122493
+Stomach	C16	Male	1974	121517
+Stomach	C16	Male	1975	120753
+Stomach	C16	Male	1976	119002
+Stomach	C16	Male	1977	120587
+Stomach	C16	Male	1978	116840
+Stomach	C16	Male	1979	105950
+Stomach	C16	Male	1980	148868
+Stomach	C16	Male	1981	165066
+Stomach	C16	Male	1982	165175
+Stomach	C16	Male	1983	146585
+Stomach	C16	Male	1984	147267
+Stomach	C16	Male	1985	170764
+Stomach	C16	Male	1986	172440
+Stomach	C16	Male	1987	185757
+Stomach	C16	Male	1988	185042
+Stomach	C16	Male	1989	187516
+Stomach	C16	Male	1990	184101
+Stomach	C16	Male	1991	183128
+Stomach	C16	Male	1992	183283
+Stomach	C16	Male	1993	180879
+Stomach	C16	Male	1994	179889
+Stomach	C16	Male	1995	177641
+Stomach	C16	Male	1996	174683
+Stomach	C16	Male	1997	170005
+Stomach	C16	Male	1998	170387
+Stomach	C16	Male	1999	175086
+Stomach	C16	Male	2000	173414
+Stomach	C16	Male	2001	154627
+Stomach	C16	Male	2002	154006
+Stomach	C16	Male	2003	152977
+Stomach	C16	Male	2004	142044
+Stomach	C16	Male	2005	139165
+Stomach	C16	Male	2006	143111
+Stomach	C16	Male	2007	145567
+Stomach	C16	Male	2008	144391
+Stomach	C16	Male	2009	143065
+Stomach	C16	Male	2010	139546
+Testis	C62	Male	1955	1018
+Testis	C62	Male	1956	867
+Testis	C62	Male	1957	847
+Testis	C62	Male	1958	1142
+Testis	C62	Male	1959	1150
+Testis	C62	Male	1960	1913
+Testis	C62	Male	1961	1970
+Testis	C62	Male	1962	1931
+Testis	C62	Male	1963	1755
+Testis	C62	Male	1964	1799
+Testis	C62	Male	1965	1812
+Testis	C62	Male	1966	2103
+Testis	C62	Male	1967	2265
+Testis	C62	Male	1968	1580
+Testis	C62	Male	1969	1538
+Testis	C62	Male	1970	1753
+Testis	C62	Male	1971	1832
+Testis	C62	Male	1972	1823
+Testis	C62	Male	1973	1757
+Testis	C62	Male	1974	1803
+Testis	C62	Male	1975	1768
+Testis	C62	Male	1976	2361
+Testis	C62	Male	1977	1870
+Testis	C62	Male	1978	1742
+Testis	C62	Male	1979	2046
+Testis	C62	Male	1980	2747
+Testis	C62	Male	1981	2683
+Testis	C62	Male	1982	2525
+Testis	C62	Male	1983	2503
+Testis	C62	Male	1984	2339
+Testis	C62	Male	1985	2341
+Testis	C62	Male	1986	2304
+Testis	C62	Male	1987	2358
+Testis	C62	Male	1988	2208
+Testis	C62	Male	1989	2212
+Testis	C62	Male	1990	2091
+Testis	C62	Male	1991	2054
+Testis	C62	Male	1992	1969
+Testis	C62	Male	1993	2007
+Testis	C62	Male	1994	1905
+Testis	C62	Male	1995	1869
+Testis	C62	Male	1996	2155
+Testis	C62	Male	1997	2173
+Testis	C62	Male	1998	2639
+Testis	C62	Male	1999	2736
+Testis	C62	Male	2000	2842
+Testis	C62	Male	2001	2729
+Testis	C62	Male	2002	2894
+Testis	C62	Male	2003	2887
+Testis	C62	Male	2004	2740
+Testis	C62	Male	2005	2735
+Testis	C62	Male	2006	2862
+Testis	C62	Male	2007	2842
+Testis	C62	Male	2008	2835
+Testis	C62	Male	2009	2961
+Testis	C62	Male	2010	2879
+Thyroid	C73	Female	1955	2031
+Thyroid	C73	Female	1956	1997
+Thyroid	C73	Female	1957	1953
+Thyroid	C73	Female	1958	2260
+Thyroid	C73	Female	1959	2391
+Thyroid	C73	Female	1960	2385
+Thyroid	C73	Female	1961	2532
+Thyroid	C73	Female	1962	2584
+Thyroid	C73	Female	1963	2237
+Thyroid	C73	Female	1964	2408
+Thyroid	C73	Female	1965	2413
+Thyroid	C73	Female	1966	2586
+Thyroid	C73	Female	1967	2805
+Thyroid	C73	Female	1968	2503
+Thyroid	C73	Female	1969	2735
+Thyroid	C73	Female	1970	3072
+Thyroid	C73	Female	1971	3250
+Thyroid	C73	Female	1972	3201
+Thyroid	C73	Female	1973	3101
+Thyroid	C73	Female	1974	3163
+Thyroid	C73	Female	1975	3240
+Thyroid	C73	Female	1976	3881
+Thyroid	C73	Female	1977	3354
+Thyroid	C73	Female	1978	2650
+Thyroid	C73	Female	1979	3237
+Thyroid	C73	Female	1980	3232
+Thyroid	C73	Female	1981	3252
+Thyroid	C73	Female	1982	3310
+Thyroid	C73	Female	1983	4007
+Thyroid	C73	Female	1984	3991
+Thyroid	C73	Female	1985	3959
+Thyroid	C73	Female	1986	4203
+Thyroid	C73	Female	1987	4059
+Thyroid	C73	Female	1988	4064
+Thyroid	C73	Female	1989	4039
+Thyroid	C73	Female	1990	4227
+Thyroid	C73	Female	1991	4186
+Thyroid	C73	Female	1992	4457
+Thyroid	C73	Female	1993	4555
+Thyroid	C73	Female	1994	4548
+Thyroid	C73	Female	1995	4436
+Thyroid	C73	Female	1996	4952
+Thyroid	C73	Female	1997	5251
+Thyroid	C73	Female	1998	5760
+Thyroid	C73	Female	1999	6142
+Thyroid	C73	Female	2000	6299
+Thyroid	C73	Female	2001	6303
+Thyroid	C73	Female	2002	6448
+Thyroid	C73	Female	2003	6578
+Thyroid	C73	Female	2004	5783
+Thyroid	C73	Female	2005	6094
+Thyroid	C73	Female	2006	6612
+Thyroid	C73	Female	2007	6385
+Thyroid	C73	Female	2008	6977
+Thyroid	C73	Female	2009	6603
+Thyroid	C73	Female	2010	6691
+Thyroid	C73	Male	1955	896
+Thyroid	C73	Male	1956	918
+Thyroid	C73	Male	1957	967
+Thyroid	C73	Male	1958	1045
+Thyroid	C73	Male	1959	1036
+Thyroid	C73	Male	1960	1160
+Thyroid	C73	Male	1961	1143
+Thyroid	C73	Male	1962	1188
+Thyroid	C73	Male	1963	1089
+Thyroid	C73	Male	1964	1129
+Thyroid	C73	Male	1965	1117
+Thyroid	C73	Male	1966	1244
+Thyroid	C73	Male	1967	1271
+Thyroid	C73	Male	1968	1298
+Thyroid	C73	Male	1969	1325
+Thyroid	C73	Male	1970	1428
+Thyroid	C73	Male	1971	1515
+Thyroid	C73	Male	1972	1469
+Thyroid	C73	Male	1973	1420
+Thyroid	C73	Male	1974	1509
+Thyroid	C73	Male	1975	1439
+Thyroid	C73	Male	1976	1820
+Thyroid	C73	Male	1977	1600
+Thyroid	C73	Male	1978	1213
+Thyroid	C73	Male	1979	1496
+Thyroid	C73	Male	1980	1523
+Thyroid	C73	Male	1981	1537
+Thyroid	C73	Male	1982	1550
+Thyroid	C73	Male	1983	1824
+Thyroid	C73	Male	1984	1876
+Thyroid	C73	Male	1985	1962
+Thyroid	C73	Male	1986	1970
+Thyroid	C73	Male	1987	2039
+Thyroid	C73	Male	1988	1996
+Thyroid	C73	Male	1989	2001
+Thyroid	C73	Male	1990	2014
+Thyroid	C73	Male	1991	2081
+Thyroid	C73	Male	1992	2150
+Thyroid	C73	Male	1993	2124
+Thyroid	C73	Male	1994	2217
+Thyroid	C73	Male	1995	2328
+Thyroid	C73	Male	1996	2518
+Thyroid	C73	Male	1997	2696
+Thyroid	C73	Male	1998	2910
+Thyroid	C73	Male	1999	3226
+Thyroid	C73	Male	2000	3267
+Thyroid	C73	Male	2001	3320
+Thyroid	C73	Male	2002	3352
+Thyroid	C73	Male	2003	3533
+Thyroid	C73	Male	2004	3128
+Thyroid	C73	Male	2005	3104
+Thyroid	C73	Male	2006	3488
+Thyroid	C73	Male	2007	3581
+Thyroid	C73	Male	2008	3761
+Thyroid	C73	Male	2009	3804
+Thyroid	C73	Male	2010	3761
+Uterus	C53-55	Female	1955	29853
+Uterus	C53-55	Female	1956	25570
+Uterus	C53-55	Female	1957	25418
+Uterus	C53-55	Female	1958	29918
+Uterus	C53-55	Female	1959	30220
+Uterus	C53-55	Female	1960	44903
+Uterus	C53-55	Female	1961	46729
+Uterus	C53-55	Female	1962	46984
+Uterus	C53-55	Female	1963	42683
+Uterus	C53-55	Female	1964	42763
+Uterus	C53-55	Female	1965	42754
+Uterus	C53-55	Female	1966	46367
+Uterus	C53-55	Female	1967	50293
+Uterus	C53-55	Female	1968	33603
+Uterus	C53-55	Female	1969	33367
+Uterus	C53-55	Female	1970	38072
+Uterus	C53-55	Female	1971	41281
+Uterus	C53-55	Female	1972	37871
+Uterus	C53-55	Female	1973	37919
+Uterus	C53-55	Female	1974	37306
+Uterus	C53-55	Female	1975	33644
+Uterus	C53-55	Female	1976	41456
+Uterus	C53-55	Female	1977	33689
+Uterus	C53-55	Female	1978	33992
+Uterus	C53-55	Female	1979	52174
+Uterus	C53-55	Female	1980	77201
+Uterus	C53-55	Female	1981	85510
+Uterus	C53-55	Female	1982	86045
+Uterus	C53-55	Female	1983	77793
+Uterus	C53-55	Female	1984	78123
+Uterus	C53-55	Female	1985	89420
+Uterus	C53-55	Female	1986	91479
+Uterus	C53-55	Female	1987	91639
+Uterus	C53-55	Female	1988	91836
+Uterus	C53-55	Female	1989	91538
+Uterus	C53-55	Female	1990	92444
+Uterus	C53-55	Female	1991	89991
+Uterus	C53-55	Female	1992	94207
+Uterus	C53-55	Female	1993	94252
+Uterus	C53-55	Female	1994	96472
+Uterus	C53-55	Female	1995	95108
+Uterus	C53-55	Female	1996	97467
+Uterus	C53-55	Female	1997	94668
+Uterus	C53-55	Female	1998	95998
+Uterus	C53-55	Female	1999	100344
+Uterus	C53-55	Female	2000	100407
+Uterus	C53-55	Female	2001	98692
+Uterus	C53-55	Female	2002	100012
+Uterus	C53-55	Female	2003	100956
+Uterus	C53-55	Female	2004	94823
+Uterus	C53-55	Female	2005	94290
+Uterus	C53-55	Female	2006	97885
+Uterus	C53-55	Female	2007	97531
+Uterus	C53-55	Female	2008	100460
+Uterus	C53-55	Female	2009	99491
+Uterus	C53-55	Female	2010	98235

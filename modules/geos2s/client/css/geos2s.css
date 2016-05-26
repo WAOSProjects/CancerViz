@@ -1,0 +1,50 @@
+/*
+ * OVERRIDING materialize.css
+html {
+  font-family: Calibri, serif;
+}
+ */
+
+.btn {
+    /*
+      border: none;
+      border-radius: 2px;
+      display: inline-block;
+     */
+    /*
+     ** ORIGINAL
+      height: 36px;
+      line-height: 36px;
+     */
+    height: 20px;
+    line-height: 20px;
+    /*
+      outline: 0;
+      padding: 0 2rem;
+      text-transform: uppercase;
+      vertical-align: middle;
+      -webkit-tap-highlight-color: transparent;
+     */
+}
+
+.BIG_BTN {
+    height: 36px;
+    line-height: 36px;
+    fill: blue;
+}
+
+
+/*
+ * OVERRIDING dc.css
+ */
+.dc-chart g.row text {
+    /*
+     ** ORIGINAL
+      fill: white;
+     */
+    fill: black;
+    /*
+      font-size: 12px;
+      cursor: pointer;
+     */
+}

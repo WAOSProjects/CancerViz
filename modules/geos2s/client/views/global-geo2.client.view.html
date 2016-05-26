@@ -1,0 +1,68 @@
+<div class="section">
+  <div class="row" id="row_global_map">
+
+    <div class="col s6" id="global_map">
+      <div id="chart_geo_world_map">
+        <h6 align="center">Breakdown of worldwide reported deaths by country
+          <br /> Click on the countries to view charts related to a subset of countries
+        </h6>
+        <h6 align="center">
+          <span class="reset" style="display: none;">Countries selected: <span class="filter"></span></span>
+          <a class="reset" href="" ng-click="vm.reset()" style="display: none;">Reset </a>
+          <a class="reset" href=""  style="display: none;"> / </a>
+          <a class="reset" href="" ng-click="vm.resetAll()" style="display: none;"> Reset All</a>
+        </h6>
+      </div>
+    </div>
+
+    <div class="col s6" id="global_charts">
+
+      <div class="row" id="row_evolution_by_sex">
+        <div id="chart_series_evolution_by_sex">
+          <div class="row" id="BIG_BUTTON" align="center">
+            <a class="waves-effect waves-light btn BIG_BTN" ng-click="vm.load_detailed_data()">Load detailed data (env. 30 seconds) to filter by year range</a>
+          </div>
+          <h6 align="center">Evolution of worldwide reported deaths by sex
+            <span class="reset" style="display: none;">Years selected: <span class="filter"></span></span>
+            <a class="reset" href="" ng-click="vm.resetData()" style="display: none;">Reset</a>
+            <a class="reset" href=""  style="display: none;"> / </a>
+            <a class="reset" href="" ng-click="vm.resetAll()" style="display: none;">Reset All</a>
+            <!--
+            -->
+          </h6>
+          <div class="row" id="chart_series_evolution_by_sex_buttons" align="center">
+            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_series_evolution_by_sex', 'bar')">bar</a>
+            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_series_evolution_by_sex', 'line')">line</a>
+            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_series_evolution_by_sex', 'series')">series</a>
+          </div>
+        </div>
+        <div id="chart_bar_evolution_by_sex">
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="row" id="row_breakdowns">
+        <h6 align="center">Breakdown of worldwide reported deaths
+        </h6>
+        <div class="col s6" id="chart_row_breakdown_by_cancer_type">
+          <h6 align="center">By cancer type
+          </h6>
+          <div class="row" id="chart_row_breakdown_by_cancer_type_buttons" align="center">
+            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_cancer_type', 'pie')">pie</a>
+            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_cancer_type', 'row')">row</a>
+          </div>
+        </div>
+        <div class="col s6" id="chart_row_breakdown_by_age_range">
+          <h6 align="center">By age range
+          </h6>
+          <div class="row" id="chart_row_breakdown_by_age_range_buttons" align="center">
+            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_age_range', 'pie')">pie</a>
+            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_age_range', 'row')">row</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+</div>

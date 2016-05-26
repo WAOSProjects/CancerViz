@@ -1,0 +1,2737 @@
+age	country_name	sex	deaths
+0-4	Albania	Female	183
+0-4	Albania	Male	233
+0-4	Argentina	Female	2853
+0-4	Argentina	Male	3586
+0-4	Armenia	Female	206
+0-4	Armenia	Male	252
+0-4	Australia	Female	1884
+0-4	Australia	Male	2432
+0-4	Austria	Female	796
+0-4	Austria	Male	910
+0-4	Azerbaijan	Female	553
+0-4	Azerbaijan	Male	749
+0-4	Belarus	Female	456
+0-4	Belarus	Male	613
+0-4	Belgium	Female	1022
+0-4	Belgium	Male	1328
+0-4	Belize	Female	17
+0-4	Belize	Male	25
+0-4	Brazil	Female	10906
+0-4	Brazil	Male	12934
+0-4	Bulgaria	Female	884
+0-4	Bulgaria	Male	1080
+0-4	Canada	Female	3245
+0-4	Canada	Male	4004
+0-4	Chile	Female	1779
+0-4	Chile	Male	2136
+0-4	China	Female	2832
+0-4	China	Male	3559
+0-4	Colombia	Female	3784
+0-4	Colombia	Male	4447
+0-4	Costa Rica	Female	410
+0-4	Costa Rica	Male	477
+0-4	Croatia	Female	156
+0-4	Croatia	Male	196
+0-4	Cuba	Female	1167
+0-4	Cuba	Male	1494
+0-4	Czech Rep.	Female	2086
+0-4	Czech Rep.	Male	2821
+0-4	Denmark	Female	724
+0-4	Denmark	Male	815
+0-4	Dominican Rep.	Female	450
+0-4	Dominican Rep.	Male	510
+0-4	Ecuador	Female	1037
+0-4	Ecuador	Male	1272
+0-4	Egypt	Female	2913
+0-4	Egypt	Male	3869
+0-4	El Salvador	Female	306
+0-4	El Salvador	Male	357
+0-4	Estonia	Female	66
+0-4	Estonia	Male	99
+0-4	Finland	Female	592
+0-4	Finland	Male	801
+0-4	France	Female	5978
+0-4	France	Male	7395
+0-4	Georgia	Female	139
+0-4	Georgia	Male	154
+0-4	Germany	Female	2642
+0-4	Germany	Male	3225
+0-4	Greece	Female	1062
+0-4	Greece	Male	1185
+0-4	Guatemala	Female	1095
+0-4	Guatemala	Male	1326
+0-4	Hungary	Female	1194
+0-4	Hungary	Male	1552
+0-4	Iceland	Female	31
+0-4	Iceland	Male	31
+0-4	Ireland	Female	458
+0-4	Ireland	Male	622
+0-4	Israel	Female	290
+0-4	Israel	Male	428
+0-4	Italy	Female	7045
+0-4	Italy	Male	8869
+0-4	Japan	Female	10581
+0-4	Japan	Male	13734
+0-4	Kazakhstan	Female	723
+0-4	Kazakhstan	Male	981
+0-4	Korea	Female	1697
+0-4	Korea	Male	2069
+0-4	Kuwait	Female	153
+0-4	Kuwait	Male	189
+0-4	Kyrgyzstan	Female	249
+0-4	Kyrgyzstan	Male	326
+0-4	Latvia	Female	167
+0-4	Latvia	Male	190
+0-4	Lithuania	Female	230
+0-4	Lithuania	Male	227
+0-4	Luxembourg	Female	18
+0-4	Luxembourg	Male	17
+0-4	Mexico	Female	10890
+0-4	Mexico	Male	13104
+0-4	Moldova	Female	259
+0-4	Moldova	Male	330
+0-4	Netherlands	Female	1924
+0-4	Netherlands	Male	2251
+0-4	New Zealand	Female	552
+0-4	New Zealand	Male	689
+0-4	Nicaragua	Female	259
+0-4	Nicaragua	Male	274
+0-4	Norway	Female	529
+0-4	Norway	Male	648
+0-4	Panama	Female	261
+0-4	Panama	Male	304
+0-4	Paraguay	Female	236
+0-4	Paraguay	Male	230
+0-4	Peru	Female	1466
+0-4	Peru	Male	1775
+0-4	Philippines	Female	2888
+0-4	Philippines	Male	3892
+0-4	Poland	Female	4387
+0-4	Poland	Male	5329
+0-4	Portugal	Female	1377
+0-4	Portugal	Male	1624
+0-4	Romania	Female	2552
+0-4	Romania	Male	3340
+0-4	Russia	Female	9635
+0-4	Russia	Male	11730
+0-4	Serbia	Female	89
+0-4	Serbia	Male	123
+0-4	Slovakia	Female	128
+0-4	Slovakia	Male	150
+0-4	Slovenia	Female	49
+0-4	Slovenia	Male	40
+0-4	South Africa	Female	955
+0-4	South Africa	Male	1169
+0-4	Spain	Female	4441
+0-4	Spain	Male	5616
+0-4	Suriname	Female	41
+0-4	Suriname	Male	34
+0-4	Sweden	Female	936
+0-4	Sweden	Male	1118
+0-4	Switzerland	Female	749
+0-4	Switzerland	Male	905
+0-4	Tajikistan	Female	273
+0-4	Tajikistan	Male	339
+0-4	Thailand	Female	2578
+0-4	Thailand	Male	3321
+0-4	Trinidad and Tobago	Female	153
+0-4	Trinidad and Tobago	Male	196
+0-4	Turkmenistan	Female	247
+0-4	Turkmenistan	Male	309
+0-4	Ukraine	Female	3294
+0-4	Ukraine	Male	4089
+0-4	United Kingdom	Female	6559
+0-4	United Kingdom	Male	8185
+0-4	United States	Female	28052
+0-4	United States	Male	34366
+0-4	Uruguay	Female	376
+0-4	Uruguay	Male	483
+0-4	Uzbekistan	Female	1529
+0-4	Uzbekistan	Male	2020
+0-4	Venezuela	Female	2626
+0-4	Venezuela	Male	3278
+10-14	Albania	Female	94
+10-14	Albania	Male	135
+10-14	Argentina	Female	2044
+10-14	Argentina	Male	2668
+10-14	Armenia	Female	114
+10-14	Armenia	Male	171
+10-14	Australia	Female	1235
+10-14	Australia	Male	1692
+10-14	Austria	Female	506
+10-14	Austria	Male	624
+10-14	Azerbaijan	Female	357
+10-14	Azerbaijan	Male	512
+10-14	Belarus	Female	329
+10-14	Belarus	Male	443
+10-14	Belgium	Female	761
+10-14	Belgium	Male	978
+10-14	Belize	Female	12
+10-14	Belize	Male	5
+10-14	Brazil	Female	8039
+10-14	Brazil	Male	10138
+10-14	Bulgaria	Female	651
+10-14	Bulgaria	Male	890
+10-14	Canada	Female	2032
+10-14	Canada	Male	2699
+10-14	Chile	Female	1202
+10-14	Chile	Male	1487
+10-14	China	Female	2681
+10-14	China	Male	3694
+10-14	Colombia	Female	2892
+10-14	Colombia	Male	3596
+10-14	Costa Rica	Female	331
+10-14	Costa Rica	Male	432
+10-14	Croatia	Female	91
+10-14	Croatia	Male	140
+10-14	Cuba	Female	848
+10-14	Cuba	Male	1128
+10-14	Czech Rep.	Female	1424
+10-14	Czech Rep.	Male	2001
+10-14	Denmark	Female	367
+10-14	Denmark	Male	550
+10-14	Dominican Rep.	Female	302
+10-14	Dominican Rep.	Male	320
+10-14	Ecuador	Female	879
+10-14	Ecuador	Male	1034
+10-14	Egypt	Female	1725
+10-14	Egypt	Male	2243
+10-14	El Salvador	Female	302
+10-14	El Salvador	Male	364
+10-14	Estonia	Female	54
+10-14	Estonia	Male	78
+10-14	Finland	Female	420
+10-14	Finland	Male	548
+10-14	France	Female	3926
+10-14	France	Male	5538
+10-14	Georgia	Female	123
+10-14	Georgia	Male	177
+10-14	Germany	Female	2399
+10-14	Germany	Male	3321
+10-14	Greece	Female	673
+10-14	Greece	Male	931
+10-14	Guatemala	Female	743
+10-14	Guatemala	Male	827
+10-14	Hungary	Female	887
+10-14	Hungary	Male	1183
+10-14	Iceland	Female	17
+10-14	Iceland	Male	29
+10-14	Ireland	Female	313
+10-14	Ireland	Male	364
+10-14	Israel	Female	246
+10-14	Israel	Male	321
+10-14	Italy	Female	4949
+10-14	Italy	Male	6916
+10-14	Japan	Female	7955
+10-14	Japan	Male	10147
+10-14	Kazakhstan	Female	461
+10-14	Kazakhstan	Male	560
+10-14	Korea	Female	1530
+10-14	Korea	Male	2107
+10-14	Kuwait	Female	92
+10-14	Kuwait	Male	143
+10-14	Kyrgyzstan	Female	197
+10-14	Kyrgyzstan	Male	254
+10-14	Latvia	Female	111
+10-14	Latvia	Male	153
+10-14	Lithuania	Female	151
+10-14	Lithuania	Male	181
+10-14	Luxembourg	Female	16
+10-14	Luxembourg	Male	16
+10-14	Mexico	Female	9012
+10-14	Mexico	Male	10900
+10-14	Moldova	Female	187
+10-14	Moldova	Male	285
+10-14	Netherlands	Female	1158
+10-14	Netherlands	Male	1581
+10-14	New Zealand	Female	380
+10-14	New Zealand	Male	473
+10-14	Nicaragua	Female	233
+10-14	Nicaragua	Male	310
+10-14	Norway	Female	326
+10-14	Norway	Male	463
+10-14	Panama	Female	200
+10-14	Panama	Male	242
+10-14	Paraguay	Female	169
+10-14	Paraguay	Male	204
+10-14	Peru	Female	1312
+10-14	Peru	Male	1714
+10-14	Philippines	Female	2299
+10-14	Philippines	Male	2972
+10-14	Poland	Female	2757
+10-14	Poland	Male	3882
+10-14	Portugal	Female	903
+10-14	Portugal	Male	1314
+10-14	Romania	Female	1658
+10-14	Romania	Male	2340
+10-14	Russia	Female	6654
+10-14	Russia	Male	8929
+10-14	Serbia	Female	64
+10-14	Serbia	Male	112
+10-14	Slovakia	Female	110
+10-14	Slovakia	Male	143
+10-14	Slovenia	Female	36
+10-14	Slovenia	Male	60
+10-14	South Africa	Female	817
+10-14	South Africa	Male	950
+10-14	Spain	Female	3157
+10-14	Spain	Male	4249
+10-14	Suriname	Female	25
+10-14	Suriname	Male	34
+10-14	Sweden	Female	591
+10-14	Sweden	Male	820
+10-14	Switzerland	Female	482
+10-14	Switzerland	Male	639
+10-14	Tajikistan	Female	190
+10-14	Tajikistan	Male	301
+10-14	Thailand	Female	1896
+10-14	Thailand	Male	2601
+10-14	Trinidad and Tobago	Female	113
+10-14	Trinidad and Tobago	Male	117
+10-14	Turkmenistan	Female	118
+10-14	Turkmenistan	Male	160
+10-14	Ukraine	Female	2157
+10-14	Ukraine	Male	2977
+10-14	United Kingdom	Female	4403
+10-14	United Kingdom	Male	5898
+10-14	United States	Female	19474
+10-14	United States	Male	25393
+10-14	Uruguay	Female	258
+10-14	Uruguay	Male	360
+10-14	Uzbekistan	Female	1173
+10-14	Uzbekistan	Male	1598
+10-14	Venezuela	Female	1940
+10-14	Venezuela	Male	2342
+15-19	Albania	Female	139
+15-19	Albania	Male	178
+15-19	Argentina	Female	2400
+15-19	Argentina	Male	3744
+15-19	Armenia	Female	173
+15-19	Armenia	Male	304
+15-19	Australia	Female	1514
+15-19	Australia	Male	2253
+15-19	Austria	Female	664
+15-19	Austria	Male	1028
+15-19	Azerbaijan	Female	491
+15-19	Azerbaijan	Male	732
+15-19	Belarus	Female	459
+15-19	Belarus	Male	688
+15-19	Belgium	Female	928
+15-19	Belgium	Male	1358
+15-19	Belize	Female	16
+15-19	Belize	Male	9
+15-19	Brazil	Female	10116
+15-19	Brazil	Male	14552
+15-19	Bulgaria	Female	805
+15-19	Bulgaria	Male	1204
+15-19	Canada	Female	2379
+15-19	Canada	Male	3743
+15-19	Chile	Female	1483
+15-19	Chile	Male	2304
+15-19	China	Female	3434
+15-19	China	Male	4997
+15-19	Colombia	Female	3850
+15-19	Colombia	Male	5056
+15-19	Costa Rica	Female	480
+15-19	Costa Rica	Male	681
+15-19	Croatia	Female	160
+15-19	Croatia	Male	257
+15-19	Cuba	Female	1012
+15-19	Cuba	Male	1530
+15-19	Czech Rep.	Female	1716
+15-19	Czech Rep.	Male	2551
+15-19	Denmark	Female	544
+15-19	Denmark	Male	784
+15-19	Dominican Rep.	Female	345
+15-19	Dominican Rep.	Male	449
+15-19	Ecuador	Female	1066
+15-19	Ecuador	Male	1360
+15-19	Egypt	Female	2108
+15-19	Egypt	Male	2892
+15-19	El Salvador	Female	417
+15-19	El Salvador	Male	501
+15-19	Estonia	Female	63
+15-19	Estonia	Male	129
+15-19	Finland	Female	492
+15-19	Finland	Male	727
+15-19	France	Female	5110
+15-19	France	Male	7600
+15-19	Georgia	Female	172
+15-19	Georgia	Male	272
+15-19	Germany	Female	3557
+15-19	Germany	Male	5547
+15-19	Greece	Female	820
+15-19	Greece	Male	1242
+15-19	Guatemala	Female	1011
+15-19	Guatemala	Male	1276
+15-19	Hungary	Female	1108
+15-19	Hungary	Male	1691
+15-19	Iceland	Female	19
+15-19	Iceland	Male	54
+15-19	Ireland	Female	390
+15-19	Ireland	Male	607
+15-19	Israel	Female	305
+15-19	Israel	Male	440
+15-19	Italy	Female	6181
+15-19	Italy	Male	9089
+15-19	Japan	Female	10257
+15-19	Japan	Male	14534
+15-19	Kazakhstan	Female	632
+15-19	Kazakhstan	Male	875
+15-19	Korea	Female	2135
+15-19	Korea	Male	3441
+15-19	Kuwait	Female	98
+15-19	Kuwait	Male	159
+15-19	Kyrgyzstan	Female	297
+15-19	Kyrgyzstan	Male	387
+15-19	Latvia	Female	155
+15-19	Latvia	Male	198
+15-19	Lithuania	Female	182
+15-19	Lithuania	Male	294
+15-19	Luxembourg	Female	17
+15-19	Luxembourg	Male	31
+15-19	Mexico	Female	10037
+15-19	Mexico	Male	14032
+15-19	Moldova	Female	242
+15-19	Moldova	Male	346
+15-19	Netherlands	Female	1510
+15-19	Netherlands	Male	2303
+15-19	New Zealand	Female	436
+15-19	New Zealand	Male	628
+15-19	Nicaragua	Female	304
+15-19	Nicaragua	Male	390
+15-19	Norway	Female	390
+15-19	Norway	Male	589
+15-19	Panama	Female	238
+15-19	Panama	Male	326
+15-19	Paraguay	Female	186
+15-19	Paraguay	Male	268
+15-19	Peru	Female	1749
+15-19	Peru	Male	2279
+15-19	Philippines	Female	3044
+15-19	Philippines	Male	3760
+15-19	Poland	Female	3582
+15-19	Poland	Male	5270
+15-19	Portugal	Female	1190
+15-19	Portugal	Male	1702
+15-19	Romania	Female	2141
+15-19	Romania	Male	3208
+15-19	Russia	Female	9640
+15-19	Russia	Male	13731
+15-19	Serbia	Female	132
+15-19	Serbia	Male	187
+15-19	Slovakia	Female	164
+15-19	Slovakia	Male	232
+15-19	Slovenia	Female	41
+15-19	Slovenia	Male	95
+15-19	South Africa	Female	1243
+15-19	South Africa	Male	1541
+15-19	Spain	Female	3808
+15-19	Spain	Male	5877
+15-19	Suriname	Female	33
+15-19	Suriname	Male	56
+15-19	Sweden	Female	679
+15-19	Sweden	Male	1075
+15-19	Switzerland	Female	609
+15-19	Switzerland	Male	928
+15-19	Tajikistan	Female	259
+15-19	Tajikistan	Male	380
+15-19	Thailand	Female	2912
+15-19	Thailand	Male	3987
+15-19	Trinidad and Tobago	Female	139
+15-19	Trinidad and Tobago	Male	175
+15-19	Turkmenistan	Female	137
+15-19	Turkmenistan	Male	173
+15-19	Ukraine	Female	3210
+15-19	Ukraine	Male	4495
+15-19	United Kingdom	Female	5516
+15-19	United Kingdom	Male	8334
+15-19	United States	Female	22962
+15-19	United States	Male	34959
+15-19	Uruguay	Female	319
+15-19	Uruguay	Male	439
+15-19	Uzbekistan	Female	1361
+15-19	Uzbekistan	Male	1840
+15-19	Venezuela	Female	2175
+15-19	Venezuela	Male	3121
+20-24	Albania	Female	173
+20-24	Albania	Male	226
+20-24	Argentina	Female	2930
+20-24	Argentina	Male	4268
+20-24	Armenia	Female	261
+20-24	Armenia	Male	257
+20-24	Australia	Female	1712
+20-24	Australia	Male	2657
+20-24	Austria	Female	812
+20-24	Austria	Male	1284
+20-24	Azerbaijan	Female	624
+20-24	Azerbaijan	Male	709
+20-24	Belarus	Female	660
+20-24	Belarus	Male	887
+20-24	Belgium	Female	1130
+20-24	Belgium	Male	1589
+20-24	Belize	Female	17
+20-24	Belize	Male	19
+20-24	Brazil	Female	11911
+20-24	Brazil	Male	15661
+20-24	Bulgaria	Female	998
+20-24	Bulgaria	Male	1581
+20-24	Canada	Female	2857
+20-24	Canada	Male	4320
+20-24	Chile	Female	1694
+20-24	Chile	Male	2795
+20-24	China	Female	5154
+20-24	China	Male	7078
+20-24	Colombia	Female	4174
+20-24	Colombia	Male	5089
+20-24	Costa Rica	Female	450
+20-24	Costa Rica	Male	666
+20-24	Croatia	Female	197
+20-24	Croatia	Male	313
+20-24	Cuba	Female	1294
+20-24	Cuba	Male	1547
+20-24	Czech Rep.	Female	2090
+20-24	Czech Rep.	Male	3177
+20-24	Denmark	Female	615
+20-24	Denmark	Male	1039
+20-24	Dominican Rep.	Female	443
+20-24	Dominican Rep.	Male	492
+20-24	Ecuador	Female	1193
+20-24	Ecuador	Male	1464
+20-24	Egypt	Female	2332
+20-24	Egypt	Male	3285
+20-24	El Salvador	Female	503
+20-24	El Salvador	Male	521
+20-24	Estonia	Female	102
+20-24	Estonia	Male	126
+20-24	Finland	Female	601
+20-24	Finland	Male	831
+20-24	France	Female	5906
+20-24	France	Male	9283
+20-24	Georgia	Female	303
+20-24	Georgia	Male	349
+20-24	Germany	Female	4589
+20-24	Germany	Male	7742
+20-24	Greece	Female	1039
+20-24	Greece	Male	1487
+20-24	Guatemala	Female	1205
+20-24	Guatemala	Male	1364
+20-24	Hungary	Female	1391
+20-24	Hungary	Male	2179
+20-24	Iceland	Female	27
+20-24	Iceland	Male	56
+20-24	Ireland	Female	469
+20-24	Ireland	Male	629
+20-24	Israel	Female	390
+20-24	Israel	Male	510
+20-24	Italy	Female	7468
+20-24	Italy	Male	10390
+20-24	Japan	Female	13933
+20-24	Japan	Male	16538
+20-24	Kazakhstan	Female	849
+20-24	Kazakhstan	Male	979
+20-24	Korea	Female	3118
+20-24	Korea	Male	3692
+20-24	Kuwait	Female	89
+20-24	Kuwait	Male	170
+20-24	Kyrgyzstan	Female	334
+20-24	Kyrgyzstan	Male	442
+20-24	Latvia	Female	192
+20-24	Latvia	Male	283
+20-24	Lithuania	Female	204
+20-24	Lithuania	Male	322
+20-24	Luxembourg	Female	20
+20-24	Luxembourg	Male	48
+20-24	Mexico	Female	10736
+20-24	Mexico	Male	14149
+20-24	Moldova	Female	275
+20-24	Moldova	Male	349
+20-24	Netherlands	Female	1830
+20-24	Netherlands	Male	2794
+20-24	New Zealand	Female	474
+20-24	New Zealand	Male	716
+20-24	Nicaragua	Female	360
+20-24	Nicaragua	Male	411
+20-24	Norway	Female	444
+20-24	Norway	Male	763
+20-24	Panama	Female	264
+20-24	Panama	Male	342
+20-24	Paraguay	Female	178
+20-24	Paraguay	Male	250
+20-24	Peru	Female	1999
+20-24	Peru	Male	2399
+20-24	Philippines	Female	3486
+20-24	Philippines	Male	3963
+20-24	Poland	Female	4234
+20-24	Poland	Male	6314
+20-24	Portugal	Female	1459
+20-24	Portugal	Male	1828
+20-24	Romania	Female	2605
+20-24	Romania	Male	3657
+20-24	Russia	Female	13284
+20-24	Russia	Male	17116
+20-24	Serbia	Female	182
+20-24	Serbia	Male	314
+20-24	Slovakia	Female	184
+20-24	Slovakia	Male	296
+20-24	Slovenia	Female	83
+20-24	Slovenia	Male	130
+20-24	South Africa	Female	2405
+20-24	South Africa	Male	1978
+20-24	Spain	Female	4565
+20-24	Spain	Male	6472
+20-24	Suriname	Female	41
+20-24	Suriname	Male	47
+20-24	Sweden	Female	824
+20-24	Sweden	Male	1269
+20-24	Switzerland	Female	677
+20-24	Switzerland	Male	1209
+20-24	Tajikistan	Female	341
+20-24	Tajikistan	Male	438
+20-24	Thailand	Female	4724
+20-24	Thailand	Male	5546
+20-24	Trinidad and Tobago	Female	179
+20-24	Trinidad and Tobago	Male	176
+20-24	Turkmenistan	Female	170
+20-24	Turkmenistan	Male	204
+20-24	Ukraine	Female	4557
+20-24	Ukraine	Male	5831
+20-24	United Kingdom	Female	6944
+20-24	United Kingdom	Male	10358
+20-24	United States	Female	28445
+20-24	United States	Male	42500
+20-24	Uruguay	Female	352
+20-24	Uruguay	Male	563
+20-24	Uzbekistan	Female	1582
+20-24	Uzbekistan	Male	2016
+20-24	Venezuela	Female	2455
+20-24	Venezuela	Male	2880
+25-29	Albania	Female	249
+25-29	Albania	Male	283
+25-29	Argentina	Female	4990
+25-29	Argentina	Male	4983
+25-29	Armenia	Female	420
+25-29	Armenia	Male	392
+25-29	Australia	Female	2948
+25-29	Australia	Male	3427
+25-29	Austria	Female	1480
+25-29	Austria	Male	1661
+25-29	Azerbaijan	Female	911
+25-29	Azerbaijan	Male	864
+25-29	Belarus	Female	1067
+25-29	Belarus	Male	1130
+25-29	Belgium	Female	1845
+25-29	Belgium	Male	2023
+25-29	Belize	Female	20
+25-29	Belize	Male	19
+25-29	Brazil	Female	18852
+25-29	Brazil	Male	17400
+25-29	Bulgaria	Female	1738
+25-29	Bulgaria	Male	2012
+25-29	Canada	Female	4806
+25-29	Canada	Male	5417
+25-29	Chile	Female	2799
+25-29	Chile	Male	3238
+25-29	China	Female	8561
+25-29	China	Male	11710
+25-29	Colombia	Female	6089
+25-29	Colombia	Male	5460
+25-29	Costa Rica	Female	622
+25-29	Costa Rica	Male	652
+25-29	Croatia	Female	385
+25-29	Croatia	Male	432
+25-29	Cuba	Female	1959
+25-29	Cuba	Male	1777
+25-29	Czech Rep.	Female	3407
+25-29	Czech Rep.	Male	4013
+25-29	Denmark	Female	1098
+25-29	Denmark	Male	1283
+25-29	Dominican Rep.	Female	735
+25-29	Dominican Rep.	Male	541
+25-29	Ecuador	Female	1612
+25-29	Ecuador	Male	1536
+25-29	Egypt	Female	2684
+25-29	Egypt	Male	3127
+25-29	El Salvador	Female	809
+25-29	El Salvador	Male	547
+25-29	Estonia	Female	144
+25-29	Estonia	Male	174
+25-29	Finland	Female	858
+25-29	Finland	Male	1081
+25-29	France	Female	9353
+25-29	France	Male	12001
+25-29	Georgia	Female	447
+25-29	Georgia	Male	536
+25-29	Germany	Female	8310
+25-29	Germany	Male	10265
+25-29	Greece	Female	1650
+25-29	Greece	Male	1828
+25-29	Guatemala	Female	1538
+25-29	Guatemala	Male	1479
+25-29	Hungary	Female	2535
+25-29	Hungary	Male	2955
+25-29	Iceland	Female	40
+25-29	Iceland	Male	54
+25-29	Ireland	Female	693
+25-29	Ireland	Male	842
+25-29	Israel	Female	579
+25-29	Israel	Male	623
+25-29	Italy	Female	11854
+25-29	Italy	Male	13093
+25-29	Japan	Female	26021
+25-29	Japan	Male	23435
+25-29	Kazakhstan	Female	1313
+25-29	Kazakhstan	Male	1243
+25-29	Korea	Female	5754
+25-29	Korea	Male	5710
+25-29	Kuwait	Female	152
+25-29	Kuwait	Male	170
+25-29	Kyrgyzstan	Female	571
+25-29	Kyrgyzstan	Male	580
+25-29	Latvia	Female	298
+25-29	Latvia	Male	343
+25-29	Lithuania	Female	432
+25-29	Lithuania	Male	410
+25-29	Luxembourg	Female	43
+25-29	Luxembourg	Male	55
+25-29	Mexico	Female	14954
+25-29	Mexico	Male	14384
+25-29	Moldova	Female	506
+25-29	Moldova	Male	485
+25-29	Netherlands	Female	3010
+25-29	Netherlands	Male	3469
+25-29	New Zealand	Female	783
+25-29	New Zealand	Male	963
+25-29	Nicaragua	Female	511
+25-29	Nicaragua	Male	362
+25-29	Norway	Female	727
+25-29	Norway	Male	928
+25-29	Panama	Female	436
+25-29	Panama	Male	352
+25-29	Paraguay	Female	301
+25-29	Paraguay	Male	282
+25-29	Peru	Female	2818
+25-29	Peru	Male	2573
+25-29	Philippines	Female	4809
+25-29	Philippines	Male	4859
+25-29	Poland	Female	7126
+25-29	Poland	Male	7837
+25-29	Portugal	Female	2065
+25-29	Portugal	Male	2135
+25-29	Romania	Female	4357
+25-29	Romania	Male	4373
+25-29	Russia	Female	22648
+25-29	Russia	Male	22984
+25-29	Serbia	Female	319
+25-29	Serbia	Male	400
+25-29	Slovakia	Female	319
+25-29	Slovakia	Male	424
+25-29	Slovenia	Female	153
+25-29	Slovenia	Male	181
+25-29	South Africa	Female	4655
+25-29	South Africa	Male	3507
+25-29	Spain	Female	6977
+25-29	Spain	Male	8182
+25-29	Suriname	Female	59
+25-29	Suriname	Male	50
+25-29	Sweden	Female	1492
+25-29	Sweden	Male	1683
+25-29	Switzerland	Female	1208
+25-29	Switzerland	Male	1601
+25-29	Tajikistan	Female	516
+25-29	Tajikistan	Male	559
+25-29	Thailand	Female	7902
+25-29	Thailand	Male	10444
+25-29	Trinidad and Tobago	Female	296
+25-29	Trinidad and Tobago	Male	223
+25-29	Turkmenistan	Female	251
+25-29	Turkmenistan	Male	257
+25-29	Ukraine	Female	7552
+25-29	Ukraine	Male	7476
+25-29	United Kingdom	Female	12188
+25-29	United Kingdom	Male	13811
+25-29	United States	Female	48740
+25-29	United States	Male	54132
+25-29	Uruguay	Female	653
+25-29	Uruguay	Male	677
+25-29	Uzbekistan	Female	2335
+25-29	Uzbekistan	Male	2493
+25-29	Venezuela	Female	3943
+25-29	Venezuela	Male	2988
+30-34	Albania	Female	322
+30-34	Albania	Male	396
+30-34	Argentina	Female	9347
+30-34	Argentina	Male	6813
+30-34	Armenia	Female	780
+30-34	Armenia	Male	578
+30-34	Australia	Female	5520
+30-34	Australia	Male	5284
+30-34	Austria	Female	2991
+30-34	Austria	Male	2405
+30-34	Azerbaijan	Female	1536
+30-34	Azerbaijan	Male	1234
+30-34	Belarus	Female	1964
+30-34	Belarus	Male	1777
+30-34	Belgium	Female	3621
+30-34	Belgium	Male	3133
+30-34	Belize	Female	37
+30-34	Belize	Male	20
+30-34	Brazil	Female	32139
+30-34	Brazil	Male	23284
+30-34	Bulgaria	Female	3231
+30-34	Bulgaria	Male	2862
+30-34	Canada	Female	9313
+30-34	Canada	Male	7687
+30-34	Chile	Female	5199
+30-34	Chile	Male	3964
+30-34	China	Female	15081
+30-34	China	Male	21925
+30-34	Colombia	Female	10208
+30-34	Colombia	Male	6788
+30-34	Costa Rica	Female	1012
+30-34	Costa Rica	Male	787
+30-34	Croatia	Female	713
+30-34	Croatia	Male	695
+30-34	Cuba	Female	3505
+30-34	Cuba	Male	2360
+30-34	Czech Rep.	Female	6478
+30-34	Czech Rep.	Male	6125
+30-34	Denmark	Female	2261
+30-34	Denmark	Male	1858
+30-34	Dominican Rep.	Female	1174
+30-34	Dominican Rep.	Male	751
+30-34	Ecuador	Female	2386
+30-34	Ecuador	Male	1766
+30-34	Egypt	Female	3610
+30-34	Egypt	Male	3544
+30-34	El Salvador	Female	1320
+30-34	El Salvador	Male	668
+30-34	Estonia	Female	303
+30-34	Estonia	Male	256
+30-34	Finland	Female	1579
+30-34	Finland	Male	1539
+30-34	France	Female	18062
+30-34	France	Male	17390
+30-34	Georgia	Female	902
+30-34	Georgia	Male	719
+30-34	Germany	Female	17243
+30-34	Germany	Male	15635
+30-34	Greece	Female	2973
+30-34	Greece	Male	2576
+30-34	Guatemala	Female	2311
+30-34	Guatemala	Male	1663
+30-34	Hungary	Female	5308
+30-34	Hungary	Male	4420
+30-34	Iceland	Female	105
+30-34	Iceland	Male	72
+30-34	Ireland	Female	1309
+30-34	Ireland	Male	1102
+30-34	Israel	Female	1152
+30-34	Israel	Male	868
+30-34	Italy	Female	21823
+30-34	Italy	Male	19450
+30-34	Japan	Female	50445
+30-34	Japan	Male	37856
+30-34	Kazakhstan	Female	2280
+30-34	Kazakhstan	Male	1842
+30-34	Korea	Female	10117
+30-34	Korea	Male	10008
+30-34	Kuwait	Female	197
+30-34	Kuwait	Male	219
+30-34	Kyrgyzstan	Female	979
+30-34	Kyrgyzstan	Male	774
+30-34	Latvia	Female	544
+30-34	Latvia	Male	521
+30-34	Lithuania	Female	830
+30-34	Lithuania	Male	590
+30-34	Luxembourg	Female	91
+30-34	Luxembourg	Male	90
+30-34	Mexico	Female	24906
+30-34	Mexico	Male	15905
+30-34	Moldova	Female	908
+30-34	Moldova	Male	703
+30-34	Netherlands	Female	5922
+30-34	Netherlands	Male	4994
+30-34	New Zealand	Female	1593
+30-34	New Zealand	Male	1266
+30-34	Nicaragua	Female	759
+30-34	Nicaragua	Male	446
+30-34	Norway	Female	1443
+30-34	Norway	Male	1356
+30-34	Panama	Female	650
+30-34	Panama	Male	419
+30-34	Paraguay	Female	498
+30-34	Paraguay	Male	298
+30-34	Peru	Female	4429
+30-34	Peru	Male	2946
+30-34	Philippines	Female	7540
+30-34	Philippines	Male	6887
+30-34	Poland	Female	13208
+30-34	Poland	Male	11505
+30-34	Portugal	Female	3702
+30-34	Portugal	Male	3181
+30-34	Romania	Female	8246
+30-34	Romania	Male	6817
+30-34	Russia	Female	41475
+30-34	Russia	Male	36147
+30-34	Serbia	Female	679
+30-34	Serbia	Male	587
+30-34	Slovakia	Female	618
+30-34	Slovakia	Male	572
+30-34	Slovenia	Female	329
+30-34	Slovenia	Male	306
+30-34	South Africa	Female	7598
+30-34	South Africa	Male	5678
+30-34	Spain	Female	13108
+30-34	Spain	Male	12271
+30-34	Suriname	Female	107
+30-34	Suriname	Male	70
+30-34	Sweden	Female	2799
+30-34	Sweden	Male	2296
+30-34	Switzerland	Female	2180
+30-34	Switzerland	Male	2149
+30-34	Tajikistan	Female	751
+30-34	Tajikistan	Male	683
+30-34	Thailand	Female	11515
+30-34	Thailand	Male	15209
+30-34	Trinidad and Tobago	Female	522
+30-34	Trinidad and Tobago	Male	273
+30-34	Turkmenistan	Female	337
+30-34	Turkmenistan	Male	300
+30-34	Ukraine	Female	13814
+30-34	Ukraine	Male	11452
+30-34	United Kingdom	Female	24134
+30-34	United Kingdom	Male	19676
+30-34	United States	Female	95637
+30-34	United States	Male	79086
+30-34	Uruguay	Female	1361
+30-34	Uruguay	Male	982
+30-34	Uzbekistan	Female	3503
+30-34	Uzbekistan	Male	2986
+30-34	Venezuela	Female	6752
+30-34	Venezuela	Male	3890
+35-39	Albania	Female	564
+35-39	Albania	Male	505
+35-39	Argentina	Female	16427
+35-39	Argentina	Male	11354
+35-39	Armenia	Female	1363
+35-39	Armenia	Male	930
+35-39	Australia	Female	10163
+35-39	Australia	Male	8051
+35-39	Austria	Female	5592
+35-39	Austria	Male	3942
+35-39	Azerbaijan	Female	2261
+35-39	Azerbaijan	Male	1884
+35-39	Belarus	Female	3471
+35-39	Belarus	Male	3258
+35-39	Belgium	Female	6927
+35-39	Belgium	Male	5399
+35-39	Belize	Female	67
+35-39	Belize	Male	30
+35-39	Brazil	Female	52103
+35-39	Brazil	Male	35330
+35-39	Bulgaria	Female	5700
+35-39	Bulgaria	Male	5055
+35-39	Canada	Female	18460
+35-39	Canada	Male	12669
+35-39	Chile	Female	8911
+35-39	Chile	Male	5541
+35-39	China	Female	23893
+35-39	China	Male	37647
+35-39	Colombia	Female	16826
+35-39	Colombia	Male	8953
+35-39	Costa Rica	Female	1506
+35-39	Costa Rica	Male	1033
+35-39	Croatia	Female	1566
+35-39	Croatia	Male	1546
+35-39	Cuba	Female	6043
+35-39	Cuba	Male	3716
+35-39	Czech Rep.	Female	11627
+35-39	Czech Rep.	Male	10702
+35-39	Denmark	Female	4304
+35-39	Denmark	Male	2911
+35-39	Dominican Rep.	Female	1865
+35-39	Dominican Rep.	Male	1050
+35-39	Ecuador	Female	3976
+35-39	Ecuador	Male	2169
+35-39	Egypt	Female	5603
+35-39	Egypt	Male	5089
+35-39	El Salvador	Female	2135
+35-39	El Salvador	Male	816
+35-39	Estonia	Female	569
+35-39	Estonia	Male	460
+35-39	Finland	Female	2977
+35-39	Finland	Male	2461
+35-39	France	Female	34684
+35-39	France	Male	33316
+35-39	Georgia	Female	1416
+35-39	Georgia	Male	1178
+35-39	Germany	Female	34927
+35-39	Germany	Male	28836
+35-39	Greece	Female	5283
+35-39	Greece	Male	4353
+35-39	Guatemala	Female	3424
+35-39	Guatemala	Male	1890
+35-39	Hungary	Female	10215
+35-39	Hungary	Male	8521
+35-39	Iceland	Female	161
+35-39	Iceland	Male	93
+35-39	Ireland	Female	2595
+35-39	Ireland	Male	1751
+35-39	Israel	Female	1932
+35-39	Israel	Male	1273
+35-39	Italy	Female	40370
+35-39	Italy	Male	33117
+35-39	Japan	Female	87334
+35-39	Japan	Male	65899
+35-39	Kazakhstan	Female	3369
+35-39	Kazakhstan	Male	2838
+35-39	Korea	Female	15205
+35-39	Korea	Male	17885
+35-39	Kuwait	Female	360
+35-39	Kuwait	Male	313
+35-39	Kyrgyzstan	Female	1529
+35-39	Kyrgyzstan	Male	1209
+35-39	Latvia	Female	1082
+35-39	Latvia	Male	927
+35-39	Lithuania	Female	1605
+35-39	Lithuania	Male	1197
+35-39	Luxembourg	Female	198
+35-39	Luxembourg	Male	174
+35-39	Mexico	Female	40971
+35-39	Mexico	Male	19557
+35-39	Moldova	Female	1562
+35-39	Moldova	Male	1167
+35-39	Netherlands	Female	11215
+35-39	Netherlands	Male	8037
+35-39	New Zealand	Female	2792
+35-39	New Zealand	Male	1907
+35-39	Nicaragua	Female	1117
+35-39	Nicaragua	Male	489
+35-39	Norway	Female	2898
+35-39	Norway	Male	2068
+35-39	Panama	Female	1065
+35-39	Panama	Male	548
+35-39	Paraguay	Female	877
+35-39	Paraguay	Male	409
+35-39	Peru	Female	7128
+35-39	Peru	Male	3619
+35-39	Philippines	Female	11659
+35-39	Philippines	Male	10011
+35-39	Poland	Female	24974
+35-39	Poland	Male	20652
+35-39	Portugal	Female	6616
+35-39	Portugal	Male	5345
+35-39	Romania	Female	14682
+35-39	Romania	Male	12378
+35-39	Russia	Female	70947
+35-39	Russia	Male	64085
+35-39	Serbia	Female	1315
+35-39	Serbia	Male	971
+35-39	Slovakia	Female	1289
+35-39	Slovakia	Male	1156
+35-39	Slovenia	Female	626
+35-39	Slovenia	Male	602
+35-39	South Africa	Female	11282
+35-39	South Africa	Male	8402
+35-39	Spain	Female	24225
+35-39	Spain	Male	21675
+35-39	Suriname	Female	177
+35-39	Suriname	Male	102
+35-39	Sweden	Female	5417
+35-39	Sweden	Male	3738
+35-39	Switzerland	Female	4213
+35-39	Switzerland	Male	3385
+35-39	Tajikistan	Female	1043
+35-39	Tajikistan	Male	885
+35-39	Thailand	Female	16843
+35-39	Thailand	Male	19886
+35-39	Trinidad and Tobago	Female	844
+35-39	Trinidad and Tobago	Male	376
+35-39	Turkmenistan	Female	477
+35-39	Turkmenistan	Male	420
+35-39	Ukraine	Female	24054
+35-39	Ukraine	Male	20725
+35-39	United Kingdom	Female	46938
+35-39	United Kingdom	Male	33372
+35-39	United States	Female	181932
+35-39	United States	Male	131852
+35-39	Uruguay	Female	2319
+35-39	Uruguay	Male	1749
+35-39	Uzbekistan	Female	4771
+35-39	Uzbekistan	Male	3759
+35-39	Venezuela	Female	10568
+35-39	Venezuela	Male	5316
+40-44	Albania	Female	799
+40-44	Albania	Male	847
+40-44	Argentina	Female	26126
+40-44	Argentina	Male	21595
+40-44	Armenia	Female	1988
+40-44	Armenia	Male	1600
+40-44	Australia	Female	17480
+40-44	Australia	Male	14182
+40-44	Austria	Female	10198
+40-44	Austria	Male	7619
+40-44	Azerbaijan	Female	2946
+40-44	Azerbaijan	Male	2833
+40-44	Belarus	Female	5561
+40-44	Belarus	Male	6624
+40-44	Belgium	Female	13093
+40-44	Belgium	Male	11107
+40-44	Belize	Female	85
+40-44	Belize	Male	37
+40-44	Brazil	Female	78854
+40-44	Brazil	Male	61518
+40-44	Bulgaria	Female	9372
+40-44	Bulgaria	Male	10088
+40-44	Canada	Female	32614
+40-44	Canada	Male	23065
+40-44	Chile	Female	13775
+40-44	Chile	Male	8793
+40-44	China	Female	35114
+40-44	China	Male	58419
+40-44	Colombia	Female	23532
+40-44	Colombia	Male	12715
+40-44	Costa Rica	Female	2252
+40-44	Costa Rica	Male	1496
+40-44	Croatia	Female	2604
+40-44	Croatia	Male	3378
+40-44	Cuba	Female	9431
+40-44	Cuba	Male	6427
+40-44	Czech Rep.	Female	20759
+40-44	Czech Rep.	Male	21791
+40-44	Denmark	Female	8141
+40-44	Denmark	Male	5278
+40-44	Dominican Rep.	Female	2439
+40-44	Dominican Rep.	Male	1322
+40-44	Ecuador	Female	5494
+40-44	Ecuador	Male	2788
+40-44	Egypt	Female	7836
+40-44	Egypt	Male	7828
+40-44	El Salvador	Female	2833
+40-44	El Salvador	Male	953
+40-44	Estonia	Female	1025
+40-44	Estonia	Male	869
+40-44	Finland	Female	5237
+40-44	Finland	Male	4555
+40-44	France	Female	62777
+40-44	France	Male	75457
+40-44	Georgia	Female	2341
+40-44	Georgia	Male	1959
+40-44	Germany	Female	63935
+40-44	Germany	Male	59758
+40-44	Greece	Female	9307
+40-44	Greece	Male	8048
+40-44	Guatemala	Female	4778
+40-44	Guatemala	Male	2212
+40-44	Hungary	Female	18079
+40-44	Hungary	Male	19093
+40-44	Iceland	Female	269
+40-44	Iceland	Male	182
+40-44	Ireland	Female	4581
+40-44	Ireland	Male	3305
+40-44	Israel	Female	3175
+40-44	Israel	Male	2033
+40-44	Italy	Female	70273
+40-44	Italy	Male	64166
+40-44	Japan	Female	139755
+40-44	Japan	Male	117239
+40-44	Kazakhstan	Female	5031
+40-44	Kazakhstan	Male	5043
+40-44	Korea	Female	21068
+40-44	Korea	Male	32592
+40-44	Kuwait	Female	462
+40-44	Kuwait	Male	415
+40-44	Kyrgyzstan	Female	2030
+40-44	Kyrgyzstan	Male	1897
+40-44	Latvia	Female	2004
+40-44	Latvia	Male	1959
+40-44	Lithuania	Female	2666
+40-44	Lithuania	Male	2455
+40-44	Luxembourg	Female	380
+40-44	Luxembourg	Male	364
+40-44	Mexico	Female	57395
+40-44	Mexico	Male	25389
+40-44	Moldova	Female	2294
+40-44	Moldova	Male	2461
+40-44	Netherlands	Female	19766
+40-44	Netherlands	Male	14660
+40-44	New Zealand	Female	4695
+40-44	New Zealand	Male	3099
+40-44	Nicaragua	Female	1369
+40-44	Nicaragua	Male	638
+40-44	Norway	Female	5018
+40-44	Norway	Male	3536
+40-44	Panama	Female	1487
+40-44	Panama	Male	806
+40-44	Paraguay	Female	1226
+40-44	Paraguay	Male	595
+40-44	Peru	Female	10027
+40-44	Peru	Male	4812
+40-44	Philippines	Female	16539
+40-44	Philippines	Male	13897
+40-44	Poland	Female	44181
+40-44	Poland	Male	41500
+40-44	Portugal	Female	10909
+40-44	Portugal	Male	9856
+40-44	Romania	Female	24333
+40-44	Romania	Male	25030
+40-44	Russia	Female	122455
+40-44	Russia	Male	137978
+40-44	Serbia	Female	2788
+40-44	Serbia	Male	2468
+40-44	Slovakia	Female	2366
+40-44	Slovakia	Male	3095
+40-44	Slovenia	Female	1182
+40-44	Slovenia	Male	1269
+40-44	South Africa	Female	15921
+40-44	South Africa	Male	12617
+40-44	Spain	Female	41697
+40-44	Spain	Male	42348
+40-44	Suriname	Female	250
+40-44	Suriname	Male	137
+40-44	Sweden	Female	10025
+40-44	Sweden	Male	6497
+40-44	Switzerland	Female	7466
+40-44	Switzerland	Male	6397
+40-44	Tajikistan	Female	1305
+40-44	Tajikistan	Male	1124
+40-44	Thailand	Female	24819
+40-44	Thailand	Male	27800
+40-44	Trinidad and Tobago	Female	1310
+40-44	Trinidad and Tobago	Male	611
+40-44	Turkmenistan	Female	608
+40-44	Turkmenistan	Male	607
+40-44	Ukraine	Female	40361
+40-44	Ukraine	Male	42789
+40-44	United Kingdom	Female	86618
+40-44	United Kingdom	Male	62669
+40-44	United States	Female	321026
+40-44	United States	Male	246002
+40-44	Uruguay	Female	3882
+40-44	Uruguay	Male	3486
+40-44	Uzbekistan	Female	6527
+40-44	Uzbekistan	Male	5256
+40-44	Venezuela	Female	15349
+40-44	Venezuela	Male	8342
+45-49	Albania	Female	1118
+45-49	Albania	Male	1221
+45-49	Argentina	Female	38727
+45-49	Argentina	Male	39047
+45-49	Armenia	Female	2826
+45-49	Armenia	Male	2760
+45-49	Australia	Female	27743
+45-49	Australia	Male	25474
+45-49	Austria	Female	17182
+45-49	Austria	Male	14996
+45-49	Azerbaijan	Female	3742
+45-49	Azerbaijan	Male	4280
+45-49	Belarus	Female	8685
+45-49	Belarus	Male	13307
+45-49	Belgium	Female	21712
+45-49	Belgium	Male	22651
+45-49	Belize	Female	139
+45-49	Belize	Male	64
+45-49	Brazil	Female	107503
+45-49	Brazil	Male	101877
+45-49	Bulgaria	Female	14961
+45-49	Bulgaria	Male	18912
+45-49	Canada	Female	52481
+45-49	Canada	Male	42591
+45-49	Chile	Female	20019
+45-49	Chile	Male	14167
+45-49	China	Female	45502
+45-49	China	Male	78019
+45-49	Colombia	Female	30845
+45-49	Colombia	Male	18234
+45-49	Costa Rica	Female	2860
+45-49	Costa Rica	Male	2162
+45-49	Croatia	Female	4466
+45-49	Croatia	Male	6936
+45-49	Cuba	Female	13371
+45-49	Cuba	Male	10988
+45-49	Czech Rep.	Female	33900
+45-49	Czech Rep.	Male	42098
+45-49	Denmark	Female	13986
+45-49	Denmark	Male	9857
+45-49	Dominican Rep.	Female	2984
+45-49	Dominican Rep.	Male	1773
+45-49	Ecuador	Female	7096
+45-49	Ecuador	Male	3720
+45-49	Egypt	Female	10700
+45-49	Egypt	Male	12519
+45-49	El Salvador	Female	3529
+45-49	El Salvador	Male	1263
+45-49	Estonia	Female	1636
+45-49	Estonia	Male	2029
+45-49	Finland	Female	9031
+45-49	Finland	Male	8646
+45-49	France	Female	104304
+45-49	France	Male	155540
+45-49	Georgia	Female	3334
+45-49	Georgia	Male	3289
+45-49	Germany	Female	109098
+45-49	Germany	Male	118693
+45-49	Greece	Female	14431
+45-49	Greece	Male	15358
+45-49	Guatemala	Female	6115
+45-49	Guatemala	Male	2915
+45-49	Hungary	Female	30341
+45-49	Hungary	Male	38093
+45-49	Iceland	Female	428
+45-49	Iceland	Male	339
+45-49	Ireland	Female	7514
+45-49	Ireland	Male	5978
+45-49	Israel	Female	4853
+45-49	Israel	Male	3547
+45-49	Italy	Female	112775
+45-49	Italy	Male	123870
+45-49	Japan	Female	208800
+45-49	Japan	Male	213517
+45-49	Kazakhstan	Female	8560
+45-49	Kazakhstan	Male	11027
+45-49	Korea	Female	29211
+45-49	Korea	Male	55206
+45-49	Kuwait	Female	590
+45-49	Kuwait	Male	559
+45-49	Kyrgyzstan	Female	2777
+45-49	Kyrgyzstan	Male	3146
+45-49	Latvia	Female	3466
+45-49	Latvia	Male	3952
+45-49	Lithuania	Female	4354
+45-49	Lithuania	Male	5029
+45-49	Luxembourg	Female	609
+45-49	Luxembourg	Male	724
+45-49	Mexico	Female	75346
+45-49	Mexico	Male	35634
+45-49	Moldova	Female	3932
+45-49	Moldova	Male	4873
+45-49	Netherlands	Female	32701
+45-49	Netherlands	Male	27352
+45-49	New Zealand	Female	7245
+45-49	New Zealand	Male	5537
+45-49	Nicaragua	Female	1778
+45-49	Nicaragua	Male	778
+45-49	Norway	Female	8383
+45-49	Norway	Male	6382
+45-49	Panama	Female	1751
+45-49	Panama	Male	1120
+45-49	Paraguay	Female	1607
+45-49	Paraguay	Male	987
+45-49	Peru	Female	13431
+45-49	Peru	Male	6442
+45-49	Philippines	Female	20879
+45-49	Philippines	Male	19227
+45-49	Poland	Female	72136
+45-49	Poland	Male	81381
+45-49	Portugal	Female	16636
+45-49	Portugal	Male	17272
+45-49	Romania	Female	37665
+45-49	Romania	Male	47555
+45-49	Russia	Female	195789
+45-49	Russia	Male	274539
+45-49	Serbia	Female	5389
+45-49	Serbia	Male	6248
+45-49	Slovakia	Female	4072
+45-49	Slovakia	Male	6487
+45-49	Slovenia	Female	1983
+45-49	Slovenia	Male	2594
+45-49	South Africa	Female	20342
+45-49	South Africa	Male	19873
+45-49	Spain	Female	63527
+45-49	Spain	Male	78047
+45-49	Suriname	Female	314
+45-49	Suriname	Male	181
+45-49	Sweden	Female	17156
+45-49	Sweden	Male	11791
+45-49	Switzerland	Female	12958
+45-49	Switzerland	Male	12356
+45-49	Tajikistan	Female	1464
+45-49	Tajikistan	Male	1624
+45-49	Thailand	Female	32332
+45-49	Thailand	Male	38593
+45-49	Trinidad and Tobago	Female	1742
+45-49	Trinidad and Tobago	Male	1053
+45-49	Turkmenistan	Female	855
+45-49	Turkmenistan	Male	1081
+45-49	Ukraine	Female	64753
+45-49	Ukraine	Male	85625
+45-49	United Kingdom	Female	147137
+45-49	United Kingdom	Male	121853
+45-49	United States	Female	519412
+45-49	United States	Male	458112
+45-49	Uruguay	Female	6079
+45-49	Uruguay	Male	6682
+45-49	Uzbekistan	Female	7735
+45-49	Uzbekistan	Male	8055
+45-49	Venezuela	Female	19783
+45-49	Venezuela	Male	12552
+5-9	Albania	Female	124
+5-9	Albania	Male	189
+5-9	Argentina	Female	2289
+5-9	Argentina	Male	3031
+5-9	Armenia	Female	126
+5-9	Armenia	Male	205
+5-9	Australia	Female	1579
+5-9	Australia	Male	2056
+5-9	Austria	Female	567
+5-9	Austria	Male	800
+5-9	Azerbaijan	Female	421
+5-9	Azerbaijan	Male	624
+5-9	Belarus	Female	343
+5-9	Belarus	Male	488
+5-9	Belgium	Female	828
+5-9	Belgium	Male	1168
+5-9	Belize	Female	9
+5-9	Belize	Male	14
+5-9	Brazil	Female	8197
+5-9	Brazil	Male	11167
+5-9	Bulgaria	Female	681
+5-9	Bulgaria	Male	958
+5-9	Canada	Female	2560
+5-9	Canada	Male	3571
+5-9	Chile	Female	1270
+5-9	Chile	Male	1812
+5-9	China	Female	2291
+5-9	China	Male	3414
+5-9	Colombia	Female	2928
+5-9	Colombia	Male	4042
+5-9	Costa Rica	Female	317
+5-9	Costa Rica	Male	478
+5-9	Croatia	Female	121
+5-9	Croatia	Male	178
+5-9	Cuba	Female	978
+5-9	Cuba	Male	1381
+5-9	Czech Rep.	Female	1571
+5-9	Czech Rep.	Male	2315
+5-9	Denmark	Female	485
+5-9	Denmark	Male	731
+5-9	Dominican Rep.	Female	247
+5-9	Dominican Rep.	Male	359
+5-9	Ecuador	Female	811
+5-9	Ecuador	Male	1078
+5-9	Egypt	Female	1660
+5-9	Egypt	Male	2382
+5-9	El Salvador	Female	218
+5-9	El Salvador	Male	333
+5-9	Estonia	Female	79
+5-9	Estonia	Male	85
+5-9	Finland	Female	508
+5-9	Finland	Male	624
+5-9	France	Female	4293
+5-9	France	Male	6292
+5-9	Georgia	Female	126
+5-9	Georgia	Male	193
+5-9	Germany	Female	2572
+5-9	Germany	Male	3442
+5-9	Greece	Female	746
+5-9	Greece	Male	1160
+5-9	Guatemala	Female	720
+5-9	Guatemala	Male	902
+5-9	Hungary	Female	903
+5-9	Hungary	Male	1396
+5-9	Iceland	Female	29
+5-9	Iceland	Male	35
+5-9	Ireland	Female	334
+5-9	Ireland	Male	513
+5-9	Israel	Female	288
+5-9	Israel	Male	414
+5-9	Italy	Female	5448
+5-9	Italy	Male	8035
+5-9	Japan	Female	7464
+5-9	Japan	Male	10628
+5-9	Kazakhstan	Female	485
+5-9	Kazakhstan	Male	654
+5-9	Korea	Female	1375
+5-9	Korea	Male	1890
+5-9	Kuwait	Female	97
+5-9	Kuwait	Male	179
+5-9	Kyrgyzstan	Female	186
+5-9	Kyrgyzstan	Male	266
+5-9	Latvia	Female	103
+5-9	Latvia	Male	185
+5-9	Lithuania	Female	176
+5-9	Lithuania	Male	219
+5-9	Luxembourg	Female	10
+5-9	Luxembourg	Male	20
+5-9	Mexico	Female	8969
+5-9	Mexico	Male	11829
+5-9	Moldova	Female	196
+5-9	Moldova	Male	287
+5-9	Netherlands	Female	1383
+5-9	Netherlands	Male	1872
+5-9	New Zealand	Female	419
+5-9	New Zealand	Male	567
+5-9	Nicaragua	Female	211
+5-9	Nicaragua	Male	275
+5-9	Norway	Female	440
+5-9	Norway	Male	579
+5-9	Panama	Female	191
+5-9	Panama	Male	247
+5-9	Paraguay	Female	172
+5-9	Paraguay	Male	208
+5-9	Peru	Female	1207
+5-9	Peru	Male	1636
+5-9	Philippines	Female	2077
+5-9	Philippines	Male	2945
+5-9	Poland	Female	3332
+5-9	Poland	Male	4533
+5-9	Portugal	Female	1037
+5-9	Portugal	Male	1521
+5-9	Romania	Female	2017
+5-9	Romania	Male	2806
+5-9	Russia	Female	7277
+5-9	Russia	Male	10086
+5-9	Serbia	Female	65
+5-9	Serbia	Male	115
+5-9	Slovakia	Female	107
+5-9	Slovakia	Male	141
+5-9	Slovenia	Female	44
+5-9	Slovenia	Male	57
+5-9	South Africa	Female	683
+5-9	South Africa	Male	911
+5-9	Spain	Female	3363
+5-9	Spain	Male	5193
+5-9	Suriname	Female	15
+5-9	Suriname	Male	32
+5-9	Sweden	Female	791
+5-9	Sweden	Male	968
+5-9	Switzerland	Female	594
+5-9	Switzerland	Male	802
+5-9	Tajikistan	Female	213
+5-9	Tajikistan	Male	301
+5-9	Thailand	Female	1794
+5-9	Thailand	Male	2523
+5-9	Trinidad and Tobago	Female	116
+5-9	Trinidad and Tobago	Male	139
+5-9	Turkmenistan	Female	138
+5-9	Turkmenistan	Male	190
+5-9	Ukraine	Female	2398
+5-9	Ukraine	Male	3399
+5-9	United Kingdom	Female	5074
+5-9	United Kingdom	Male	7141
+5-9	United States	Female	23336
+5-9	United States	Male	31006
+5-9	Uruguay	Female	271
+5-9	Uruguay	Male	413
+5-9	Uzbekistan	Female	1160
+5-9	Uzbekistan	Male	1723
+5-9	Venezuela	Female	1983
+5-9	Venezuela	Male	2729
+50-54	Albania	Female	1316
+50-54	Albania	Male	1963
+50-54	Argentina	Female	53158
+50-54	Argentina	Male	65918
+50-54	Armenia	Female	3595
+50-54	Armenia	Male	4548
+50-54	Australia	Female	39771
+50-54	Australia	Male	43515
+50-54	Austria	Female	26070
+50-54	Austria	Male	27487
+50-54	Azerbaijan	Female	4672
+50-54	Azerbaijan	Male	7083
+50-54	Belarus	Female	12960
+50-54	Belarus	Male	23487
+50-54	Belgium	Female	33150
+50-54	Belgium	Male	41024
+50-54	Belize	Female	146
+50-54	Belize	Male	103
+50-54	Brazil	Female	133501
+50-54	Brazil	Male	148705
+50-54	Bulgaria	Female	21232
+50-54	Bulgaria	Male	31691
+50-54	Canada	Female	74907
+50-54	Canada	Male	74443
+50-54	Chile	Female	26163
+50-54	Chile	Male	22352
+50-54	China	Female	60249
+50-54	China	Male	106259
+50-54	Colombia	Female	37974
+50-54	Colombia	Male	26284
+50-54	Costa Rica	Female	3395
+50-54	Costa Rica	Male	3182
+50-54	Croatia	Female	6903
+50-54	Croatia	Male	12834
+50-54	Cuba	Female	17989
+50-54	Cuba	Male	17938
+50-54	Czech Rep.	Female	51955
+50-54	Czech Rep.	Male	75452
+50-54	Denmark	Female	21629
+50-54	Denmark	Male	18458
+50-54	Dominican Rep.	Female	3570
+50-54	Dominican Rep.	Male	2675
+50-54	Ecuador	Female	8723
+50-54	Ecuador	Male	5215
+50-54	Egypt	Female	14258
+50-54	Egypt	Male	17768
+50-54	El Salvador	Female	3942
+50-54	El Salvador	Male	1836
+50-54	Estonia	Female	2635
+50-54	Estonia	Male	3724
+50-54	Finland	Female	13463
+50-54	Finland	Male	16091
+50-54	France	Female	154974
+50-54	France	Male	268023
+50-54	Georgia	Female	4475
+50-54	Georgia	Male	5453
+50-54	Germany	Female	169445
+50-54	Germany	Male	205308
+50-54	Greece	Female	20937
+50-54	Greece	Male	27401
+50-54	Guatemala	Female	6856
+50-54	Guatemala	Male	3736
+50-54	Hungary	Female	44326
+50-54	Hungary	Male	62844
+50-54	Iceland	Female	628
+50-54	Iceland	Male	522
+50-54	Ireland	Female	11145
+50-54	Ireland	Male	10688
+50-54	Israel	Female	6875
+50-54	Israel	Male	5803
+50-54	Italy	Female	164301
+50-54	Italy	Male	219590
+50-54	Japan	Female	294236
+50-54	Japan	Male	372762
+50-54	Kazakhstan	Female	12122
+50-54	Kazakhstan	Male	18914
+50-54	Korea	Female	36505
+50-54	Korea	Male	80834
+50-54	Kuwait	Female	646
+50-54	Kuwait	Male	812
+50-54	Kyrgyzstan	Female	3430
+50-54	Kyrgyzstan	Male	4742
+50-54	Latvia	Female	5063
+50-54	Latvia	Male	7485
+50-54	Lithuania	Female	6078
+50-54	Lithuania	Male	9205
+50-54	Luxembourg	Female	904
+50-54	Luxembourg	Male	1283
+50-54	Mexico	Female	87650
+50-54	Mexico	Male	51403
+50-54	Moldova	Female	4911
+50-54	Moldova	Male	7608
+50-54	Netherlands	Female	47437
+50-54	Netherlands	Male	48807
+50-54	New Zealand	Female	10464
+50-54	New Zealand	Male	9357
+50-54	Nicaragua	Female	1898
+50-54	Nicaragua	Male	995
+50-54	Norway	Female	12425
+50-54	Norway	Male	11080
+50-54	Panama	Female	2274
+50-54	Panama	Male	1798
+50-54	Paraguay	Female	1890
+50-54	Paraguay	Male	1472
+50-54	Peru	Female	15592
+50-54	Peru	Male	8989
+50-54	Philippines	Female	23113
+50-54	Philippines	Male	24823
+50-54	Poland	Female	107971
+50-54	Poland	Male	143475
+50-54	Portugal	Female	22921
+50-54	Portugal	Male	27790
+50-54	Romania	Female	51864
+50-54	Romania	Male	76559
+50-54	Russia	Female	287150
+50-54	Russia	Male	485409
+50-54	Serbia	Female	8369
+50-54	Serbia	Male	11528
+50-54	Slovakia	Female	5830
+50-54	Slovakia	Male	10899
+50-54	Slovenia	Female	3071
+50-54	Slovenia	Male	4806
+50-54	South Africa	Female	23935
+50-54	South Africa	Male	27393
+50-54	Spain	Female	88697
+50-54	Spain	Male	129983
+50-54	Suriname	Female	344
+50-54	Suriname	Male	291
+50-54	Sweden	Female	26529
+50-54	Sweden	Male	21377
+50-54	Switzerland	Female	19510
+50-54	Switzerland	Male	22262
+50-54	Tajikistan	Female	1877
+50-54	Tajikistan	Male	2554
+50-54	Thailand	Female	38404
+50-54	Thailand	Male	49270
+50-54	Trinidad and Tobago	Female	2184
+50-54	Trinidad and Tobago	Male	1439
+50-54	Turkmenistan	Female	1094
+50-54	Turkmenistan	Male	1691
+50-54	Ukraine	Female	94216
+50-54	Ukraine	Male	150248
+50-54	United Kingdom	Female	225726
+50-54	United Kingdom	Male	226452
+50-54	United States	Female	756804
+50-54	United States	Male	785943
+50-54	Uruguay	Female	8573
+50-54	Uruguay	Male	11743
+50-54	Uzbekistan	Female	9843
+50-54	Uzbekistan	Male	12061
+50-54	Venezuela	Female	23010
+50-54	Venezuela	Male	18003
+55-59	Albania	Female	1474
+55-59	Albania	Male	3071
+55-59	Argentina	Female	67873
+55-59	Argentina	Male	97351
+55-59	Armenia	Female	4384
+55-59	Armenia	Male	6754
+55-59	Australia	Female	51636
+55-59	Australia	Male	67900
+55-59	Austria	Female	37082
+55-59	Austria	Male	45494
+55-59	Azerbaijan	Female	5376
+55-59	Azerbaijan	Male	9627
+55-59	Belarus	Female	17334
+55-59	Belarus	Male	33650
+55-59	Belgium	Female	45798
+55-59	Belgium	Male	67488
+55-59	Belize	Female	150
+55-59	Belize	Male	140
+55-59	Brazil	Female	152323
+55-59	Brazil	Male	190882
+55-59	Bulgaria	Female	28220
+55-59	Bulgaria	Male	47007
+55-59	Canada	Female	98271
+55-59	Canada	Male	116198
+55-59	Chile	Female	32434
+55-59	Chile	Male	32510
+55-59	China	Female	82170
+55-59	China	Male	150262
+55-59	Colombia	Female	42271
+55-59	Colombia	Male	34645
+55-59	Costa Rica	Female	4030
+55-59	Costa Rica	Male	4228
+55-59	Croatia	Female	9368
+55-59	Croatia	Male	19452
+55-59	Cuba	Female	22694
+55-59	Cuba	Male	26219
+55-59	Czech Rep.	Female	74269
+55-59	Czech Rep.	Male	119445
+55-59	Denmark	Female	30278
+55-59	Denmark	Male	30265
+55-59	Dominican Rep.	Female	3307
+55-59	Dominican Rep.	Male	3248
+55-59	Ecuador	Female	9467
+55-59	Ecuador	Male	7125
+55-59	Egypt	Female	13850
+55-59	Egypt	Male	19823
+55-59	El Salvador	Female	4130
+55-59	El Salvador	Male	2280
+55-59	Estonia	Female	3657
+55-59	Estonia	Male	6006
+55-59	Finland	Female	18703
+55-59	Finland	Male	26491
+55-59	France	Female	208759
+55-59	France	Male	393360
+55-59	Georgia	Female	5781
+55-59	Georgia	Male	7719
+55-59	Germany	Female	233486
+55-59	Germany	Male	310870
+55-59	Greece	Female	27500
+55-59	Greece	Male	44581
+55-59	Guatemala	Female	7482
+55-59	Guatemala	Male	4801
+55-59	Hungary	Female	59276
+55-59	Hungary	Male	88940
+55-59	Iceland	Female	895
+55-59	Iceland	Male	827
+55-59	Ireland	Female	14201
+55-59	Ireland	Male	16623
+55-59	Israel	Female	9278
+55-59	Israel	Male	8814
+55-59	Italy	Female	222785
+55-59	Italy	Male	348949
+55-59	Japan	Female	379001
+55-59	Japan	Male	593128
+55-59	Kazakhstan	Female	15050
+55-59	Kazakhstan	Male	24673
+55-59	Korea	Female	43898
+55-59	Korea	Male	104641
+55-59	Kuwait	Female	605
+55-59	Kuwait	Male	813
+55-59	Kyrgyzstan	Female	4148
+55-59	Kyrgyzstan	Male	6421
+55-59	Latvia	Female	7244
+55-59	Latvia	Male	11573
+55-59	Lithuania	Female	8227
+55-59	Lithuania	Male	13579
+55-59	Luxembourg	Female	1333
+55-59	Luxembourg	Male	2092
+55-59	Mexico	Female	97806
+55-59	Mexico	Male	69978
+55-59	Moldova	Female	6140
+55-59	Moldova	Male	9807
+55-59	Netherlands	Female	62444
+55-59	Netherlands	Male	79692
+55-59	New Zealand	Female	13206
+55-59	New Zealand	Male	14525
+55-59	Nicaragua	Female	2049
+55-59	Nicaragua	Male	1249
+55-59	Norway	Female	17652
+55-59	Norway	Male	18480
+55-59	Panama	Female	2380
+55-59	Panama	Male	2422
+55-59	Paraguay	Female	1946
+55-59	Paraguay	Male	1935
+55-59	Peru	Female	17071
+55-59	Peru	Male	11922
+55-59	Philippines	Female	23523
+55-59	Philippines	Male	29685
+55-59	Poland	Female	139932
+55-59	Poland	Male	210749
+55-59	Portugal	Female	29253
+55-59	Portugal	Male	40457
+55-59	Romania	Female	64650
+55-59	Romania	Male	105191
+55-59	Russia	Female	391462
+55-59	Russia	Male	690946
+55-59	Serbia	Female	10270
+55-59	Serbia	Male	15638
+55-59	Slovakia	Female	7529
+55-59	Slovakia	Male	14246
+55-59	Slovenia	Female	4011
+55-59	Slovenia	Male	7426
+55-59	South Africa	Female	26477
+55-59	South Africa	Male	33862
+55-59	Spain	Female	114072
+55-59	Spain	Male	193490
+55-59	Suriname	Female	368
+55-59	Suriname	Male	342
+55-59	Sweden	Female	38240
+55-59	Sweden	Male	35985
+55-59	Switzerland	Female	27178
+55-59	Switzerland	Male	36454
+55-59	Tajikistan	Female	2173
+55-59	Tajikistan	Male	3344
+55-59	Thailand	Female	40852
+55-59	Thailand	Male	58185
+55-59	Trinidad and Tobago	Female	2383
+55-59	Trinidad and Tobago	Male	2086
+55-59	Turkmenistan	Female	1604
+55-59	Turkmenistan	Male	2468
+55-59	Ukraine	Female	126251
+55-59	Ukraine	Male	217275
+55-59	United Kingdom	Female	314587
+55-59	United Kingdom	Male	379080
+55-59	United States	Female	1001132
+55-59	United States	Male	1190972
+55-59	Uruguay	Female	10736
+55-59	Uruguay	Male	17313
+55-59	Uzbekistan	Female	11586
+55-59	Uzbekistan	Male	16293
+55-59	Venezuela	Female	24923
+55-59	Venezuela	Male	23391
+60-64	Albania	Female	1705
+60-64	Albania	Male	4392
+60-64	Argentina	Female	81418
+60-64	Argentina	Male	126476
+60-64	Armenia	Female	5363
+60-64	Armenia	Male	8723
+60-64	Australia	Female	65163
+60-64	Australia	Male	96629
+60-64	Austria	Female	50384
+60-64	Austria	Male	66409
+60-64	Azerbaijan	Female	6536
+60-64	Azerbaijan	Male	11533
+60-64	Belarus	Female	22512
+60-64	Belarus	Male	41280
+60-64	Belgium	Female	59344
+60-64	Belgium	Male	97263
+60-64	Belize	Female	161
+60-64	Belize	Male	192
+60-64	Brazil	Female	167108
+60-64	Brazil	Male	224966
+60-64	Bulgaria	Female	34747
+60-64	Bulgaria	Male	60272
+60-64	Canada	Female	121396
+60-64	Canada	Male	162863
+60-64	Chile	Female	38932
+60-64	Chile	Male	44154
+60-64	China	Female	109081
+60-64	China	Male	206110
+60-64	Colombia	Female	48990
+60-64	Colombia	Male	46148
+60-64	Costa Rica	Female	4544
+60-64	Costa Rica	Male	5427
+60-64	Croatia	Female	13106
+60-64	Croatia	Male	25418
+60-64	Cuba	Female	26932
+60-64	Cuba	Male	36365
+60-64	Czech Rep.	Female	97175
+60-64	Czech Rep.	Male	161081
+60-64	Denmark	Female	38925
+60-64	Denmark	Male	44958
+60-64	Dominican Rep.	Female	3994
+60-64	Dominican Rep.	Male	4629
+60-64	Ecuador	Female	10864
+60-64	Ecuador	Male	9464
+60-64	Egypt	Female	13127
+60-64	Egypt	Male	20268
+60-64	El Salvador	Female	4551
+60-64	El Salvador	Male	3026
+60-64	Estonia	Female	4907
+60-64	Estonia	Male	7769
+60-64	Finland	Female	24332
+60-64	Finland	Male	37278
+60-64	France	Female	266009
+60-64	France	Male	509544
+60-64	Georgia	Female	6987
+60-64	Georgia	Male	9032
+60-64	Germany	Female	326610
+60-64	Germany	Male	445011
+60-64	Greece	Female	34978
+60-64	Greece	Male	64393
+60-64	Guatemala	Female	8126
+60-64	Guatemala	Male	6165
+60-64	Hungary	Female	74944
+60-64	Hungary	Male	112920
+60-64	Iceland	Female	1017
+60-64	Iceland	Male	1093
+60-64	Ireland	Female	18956
+60-64	Ireland	Male	24043
+60-64	Israel	Female	11737
+60-64	Israel	Male	12087
+60-64	Italy	Female	289671
+60-64	Italy	Male	491683
+60-64	Japan	Female	460812
+60-64	Japan	Male	821152
+60-64	Kazakhstan	Female	15985
+60-64	Kazakhstan	Male	23453
+60-64	Korea	Female	52922
+60-64	Korea	Male	124778
+60-64	Kuwait	Female	782
+60-64	Kuwait	Male	1075
+60-64	Kyrgyzstan	Female	4804
+60-64	Kyrgyzstan	Male	7332
+60-64	Latvia	Female	9012
+60-64	Latvia	Male	14135
+60-64	Lithuania	Female	10398
+60-64	Lithuania	Male	17076
+60-64	Luxembourg	Female	1781
+60-64	Luxembourg	Male	2844
+60-64	Mexico	Female	107231
+60-64	Mexico	Male	92918
+60-64	Moldova	Female	7097
+60-64	Moldova	Male	10233
+60-64	Netherlands	Female	77912
+60-64	Netherlands	Male	116369
+60-64	New Zealand	Female	16532
+60-64	New Zealand	Male	21122
+60-64	Nicaragua	Female	2101
+60-64	Nicaragua	Male	1636
+60-64	Norway	Female	23081
+60-64	Norway	Male	27678
+60-64	Panama	Female	2662
+60-64	Panama	Male	3437
+60-64	Paraguay	Female	2054
+60-64	Paraguay	Male	2385
+60-64	Peru	Female	19374
+60-64	Peru	Male	16216
+60-64	Philippines	Female	24161
+60-64	Philippines	Male	32652
+60-64	Poland	Female	168313
+60-64	Poland	Male	263968
+60-64	Portugal	Female	37155
+60-64	Portugal	Male	55024
+60-64	Romania	Female	78034
+60-64	Romania	Male	127019
+60-64	Russia	Female	476280
+60-64	Russia	Male	781407
+60-64	Serbia	Female	12168
+60-64	Serbia	Male	18911
+60-64	Slovakia	Female	9376
+60-64	Slovakia	Male	17720
+60-64	Slovenia	Female	5265
+60-64	Slovenia	Male	9393
+60-64	South Africa	Female	28980
+60-64	South Africa	Male	36037
+60-64	Spain	Female	145589
+60-64	Spain	Male	266198
+60-64	Suriname	Female	443
+60-64	Suriname	Male	477
+60-64	Sweden	Female	50710
+60-64	Sweden	Male	56262
+60-64	Switzerland	Female	35225
+60-64	Switzerland	Male	51658
+60-64	Tajikistan	Female	2621
+60-64	Tajikistan	Male	3963
+60-64	Thailand	Female	39166
+60-64	Thailand	Male	60064
+60-64	Trinidad and Tobago	Female	2541
+60-64	Trinidad and Tobago	Male	2676
+60-64	Turkmenistan	Female	1895
+60-64	Turkmenistan	Male	2373
+60-64	Ukraine	Female	156528
+60-64	Ukraine	Male	253146
+60-64	United Kingdom	Female	414061
+60-64	United Kingdom	Male	556250
+60-64	United States	Female	1254457
+60-64	United States	Male	1625705
+60-64	Uruguay	Female	13457
+60-64	Uruguay	Male	23255
+60-64	Uzbekistan	Female	13784
+60-64	Uzbekistan	Male	18864
+60-64	Venezuela	Female	27386
+60-64	Venezuela	Male	28678
+65-69	Albania	Female	1982
+65-69	Albania	Male	5206
+65-69	Argentina	Female	92982
+65-69	Argentina	Male	142800
+65-69	Armenia	Female	5508
+65-69	Armenia	Male	8637
+65-69	Australia	Female	76893
+65-69	Australia	Male	121362
+65-69	Austria	Female	64822
+65-69	Austria	Male	84537
+65-69	Azerbaijan	Female	6463
+65-69	Azerbaijan	Male	10481
+65-69	Belarus	Female	25981
+65-69	Belarus	Male	40299
+65-69	Belgium	Female	73565
+65-69	Belgium	Male	123123
+65-69	Belize	Female	190
+65-69	Belize	Male	233
+65-69	Brazil	Female	176709
+65-69	Brazil	Male	245898
+65-69	Bulgaria	Female	40548
+65-69	Bulgaria	Male	66902
+65-69	Canada	Female	142985
+65-69	Canada	Male	202711
+65-69	Chile	Female	44641
+65-69	Chile	Male	52525
+65-69	China	Female	121715
+65-69	China	Male	226433
+65-69	Colombia	Female	51278
+65-69	Colombia	Male	52722
+65-69	Costa Rica	Female	5159
+65-69	Costa Rica	Male	6884
+65-69	Croatia	Female	16588
+65-69	Croatia	Male	28983
+65-69	Cuba	Female	29837
+65-69	Cuba	Male	46034
+65-69	Czech Rep.	Female	117031
+65-69	Czech Rep.	Male	183563
+65-69	Denmark	Female	46929
+65-69	Denmark	Male	58079
+65-69	Dominican Rep.	Female	3748
+65-69	Dominican Rep.	Male	5058
+65-69	Ecuador	Female	11534
+65-69	Ecuador	Male	11467
+65-69	Egypt	Female	11169
+65-69	Egypt	Male	18615
+65-69	El Salvador	Female	4691
+65-69	El Salvador	Male	3515
+65-69	Estonia	Female	5789
+65-69	Estonia	Male	8567
+65-69	Finland	Female	30415
+65-69	Finland	Male	44278
+65-69	France	Female	335014
+65-69	France	Male	601569
+65-69	Georgia	Female	7638
+65-69	Georgia	Male	9612
+65-69	Germany	Female	437187
+65-69	Germany	Male	587337
+65-69	Greece	Female	43944
+65-69	Greece	Male	83199
+65-69	Guatemala	Female	8359
+65-69	Guatemala	Male	7275
+65-69	Hungary	Female	91231
+65-69	Hungary	Male	130540
+65-69	Iceland	Female	1326
+65-69	Iceland	Male	1479
+65-69	Ireland	Female	22466
+65-69	Ireland	Male	31893
+65-69	Israel	Female	14838
+65-69	Israel	Male	16778
+65-69	Italy	Female	359989
+65-69	Italy	Male	604771
+65-69	Japan	Female	547074
+65-69	Japan	Male	1008574
+65-69	Kazakhstan	Female	18282
+65-69	Kazakhstan	Male	23294
+65-69	Korea	Female	62192
+65-69	Korea	Male	135794
+65-69	Kuwait	Female	683
+65-69	Kuwait	Male	924
+65-69	Kyrgyzstan	Female	5167
+65-69	Kyrgyzstan	Male	7239
+65-69	Latvia	Female	11013
+65-69	Latvia	Male	15360
+65-69	Lithuania	Female	12071
+65-69	Lithuania	Male	18828
+65-69	Luxembourg	Female	2216
+65-69	Luxembourg	Male	3623
+65-69	Mexico	Female	111685
+65-69	Mexico	Male	110417
+65-69	Moldova	Female	7355
+65-69	Moldova	Male	10403
+65-69	Netherlands	Female	92465
+65-69	Netherlands	Male	150014
+65-69	New Zealand	Female	19642
+65-69	New Zealand	Male	26757
+65-69	Nicaragua	Female	2125
+65-69	Nicaragua	Male	1894
+65-69	Norway	Female	27222
+65-69	Norway	Male	36912
+65-69	Panama	Female	2852
+65-69	Panama	Male	3895
+65-69	Paraguay	Female	2091
+65-69	Paraguay	Male	2761
+65-69	Peru	Female	20715
+65-69	Peru	Male	19764
+65-69	Philippines	Female	22860
+65-69	Philippines	Male	31088
+65-69	Poland	Female	194478
+65-69	Poland	Male	293837
+65-69	Portugal	Female	44682
+65-69	Portugal	Male	66826
+65-69	Romania	Female	88955
+65-69	Romania	Male	136895
+65-69	Russia	Female	587605
+65-69	Russia	Male	801780
+65-69	Serbia	Female	15958
+65-69	Serbia	Male	24806
+65-69	Slovakia	Female	11712
+65-69	Slovakia	Male	20033
+65-69	Slovenia	Female	6750
+65-69	Slovenia	Male	10642
+65-69	South Africa	Female	29764
+65-69	South Africa	Male	37143
+65-69	Spain	Female	177888
+65-69	Spain	Male	327522
+65-69	Suriname	Female	501
+65-69	Suriname	Male	548
+65-69	Sweden	Female	63670
+65-69	Sweden	Male	78395
+65-69	Switzerland	Female	43779
+65-69	Switzerland	Male	65243
+65-69	Tajikistan	Female	2677
+65-69	Tajikistan	Male	3692
+65-69	Thailand	Female	33745
+65-69	Thailand	Male	54721
+65-69	Trinidad and Tobago	Female	2935
+65-69	Trinidad and Tobago	Male	3302
+65-69	Turkmenistan	Female	1893
+65-69	Turkmenistan	Male	2140
+65-69	Ukraine	Female	183367
+65-69	Ukraine	Male	254983
+65-69	United Kingdom	Female	508491
+65-69	United Kingdom	Male	708995
+65-69	United States	Female	1485734
+65-69	United States	Male	1974550
+65-69	Uruguay	Female	16142
+65-69	Uruguay	Male	27260
+65-69	Uzbekistan	Female	13786
+65-69	Uzbekistan	Male	17058
+65-69	Venezuela	Female	27022
+65-69	Venezuela	Male	30216
+70-74	Albania	Female	2122
+70-74	Albania	Male	5065
+70-74	Argentina	Female	103555
+70-74	Argentina	Male	147675
+70-74	Armenia	Female	5287
+70-74	Armenia	Male	7254
+70-74	Australia	Female	87380
+70-74	Australia	Male	134153
+70-74	Austria	Female	77874
+70-74	Austria	Male	92216
+70-74	Azerbaijan	Female	5595
+70-74	Azerbaijan	Male	7566
+70-74	Belarus	Female	27017
+70-74	Belarus	Male	33443
+70-74	Belgium	Female	88656
+70-74	Belgium	Male	136725
+70-74	Belize	Female	177
+70-74	Belize	Male	289
+70-74	Brazil	Female	174870
+70-74	Brazil	Male	241651
+70-74	Bulgaria	Female	42793
+70-74	Bulgaria	Male	62365
+70-74	Canada	Female	159394
+70-74	Canada	Male	225592
+70-74	Chile	Female	46982
+70-74	Chile	Male	55206
+70-74	China	Female	123618
+70-74	China	Male	210789
+70-74	Colombia	Female	51226
+70-74	Colombia	Male	56459
+70-74	Costa Rica	Female	5658
+70-74	Costa Rica	Male	7838
+70-74	Croatia	Female	19236
+70-74	Croatia	Male	28178
+70-74	Cuba	Female	31014
+70-74	Cuba	Male	51890
+70-74	Czech Rep.	Female	129574
+70-74	Czech Rep.	Male	175424
+70-74	Denmark	Female	53540
+70-74	Denmark	Male	66363
+70-74	Dominican Rep.	Female	3901
+70-74	Dominican Rep.	Male	6027
+70-74	Ecuador	Female	12070
+70-74	Ecuador	Male	13650
+70-74	Egypt	Female	9719
+70-74	Egypt	Male	15846
+70-74	El Salvador	Female	4630
+70-74	El Salvador	Male	3832
+70-74	Estonia	Female	6602
+70-74	Estonia	Male	8051
+70-74	Finland	Female	36280
+70-74	Finland	Male	46203
+70-74	France	Female	411574
+70-74	France	Male	653036
+70-74	Georgia	Female	7345
+70-74	Georgia	Male	8201
+70-74	Germany	Female	542791
+70-74	Germany	Male	666272
+70-74	Greece	Female	52461
+70-74	Greece	Male	94454
+70-74	Guatemala	Female	8181
+70-74	Guatemala	Male	8091
+70-74	Hungary	Female	103518
+70-74	Hungary	Male	130887
+70-74	Iceland	Female	1480
+70-74	Iceland	Male	1800
+70-74	Ireland	Female	26821
+70-74	Ireland	Male	36534
+70-74	Israel	Female	17971
+70-74	Israel	Male	20695
+70-74	Italy	Female	417443
+70-74	Italy	Male	646340
+70-74	Japan	Female	618137
+70-74	Japan	Male	1080395
+70-74	Kazakhstan	Female	17999
+70-74	Kazakhstan	Male	19728
+70-74	Korea	Female	67013
+70-74	Korea	Male	123241
+70-74	Kuwait	Female	658
+70-74	Kuwait	Male	963
+70-74	Kyrgyzstan	Female	5073
+70-74	Kyrgyzstan	Male	5646
+70-74	Latvia	Female	12251
+70-74	Latvia	Male	14355
+70-74	Lithuania	Female	13373
+70-74	Lithuania	Male	17356
+70-74	Luxembourg	Female	2598
+70-74	Luxembourg	Male	3947
+70-74	Mexico	Female	109686
+70-74	Mexico	Male	118150
+70-74	Moldova	Female	6722
+70-74	Moldova	Male	7904
+70-74	Netherlands	Female	106725
+70-74	Netherlands	Male	169275
+70-74	New Zealand	Female	21539
+70-74	New Zealand	Male	29684
+70-74	Nicaragua	Female	1989
+70-74	Nicaragua	Male	2056
+70-74	Norway	Female	33021
+70-74	Norway	Male	44287
+70-74	Panama	Female	2844
+70-74	Panama	Male	4238
+70-74	Paraguay	Female	2048
+70-74	Paraguay	Male	2944
+70-74	Peru	Female	20480
+70-74	Peru	Male	22560
+70-74	Philippines	Female	19950
+70-74	Philippines	Male	25159
+70-74	Poland	Female	208354
+70-74	Poland	Male	279791
+70-74	Portugal	Female	51057
+70-74	Portugal	Male	71511
+70-74	Romania	Female	91241
+70-74	Romania	Male	122746
+70-74	Russia	Female	637191
+70-74	Russia	Male	667286
+70-74	Serbia	Female	18849
+70-74	Serbia	Male	26800
+70-74	Slovakia	Female	13871
+70-74	Slovakia	Male	20506
+70-74	Slovenia	Female	7927
+70-74	Slovenia	Male	10779
+70-74	South Africa	Female	27808
+70-74	South Africa	Male	33738
+70-74	Spain	Female	211453
+70-74	Spain	Male	362089
+70-74	Suriname	Female	440
+70-74	Suriname	Male	618
+70-74	Sweden	Female	75502
+70-74	Sweden	Male	96468
+70-74	Switzerland	Female	52155
+70-74	Switzerland	Male	73455
+70-74	Tajikistan	Female	2439
+70-74	Tajikistan	Male	3072
+70-74	Thailand	Female	23075
+70-74	Thailand	Male	37812
+70-74	Trinidad and Tobago	Female	2700
+70-74	Trinidad and Tobago	Male	3429
+70-74	Turkmenistan	Female	1648
+70-74	Turkmenistan	Male	1677
+70-74	Ukraine	Female	181736
+70-74	Ukraine	Male	205164
+70-74	United Kingdom	Female	585471
+70-74	United Kingdom	Male	773997
+70-74	United States	Female	1621691
+70-74	United States	Male	2094610
+70-74	Uruguay	Female	18125
+70-74	Uruguay	Male	28339
+70-74	Uzbekistan	Female	12407
+70-74	Uzbekistan	Male	12823
+70-74	Venezuela	Female	25685
+70-74	Venezuela	Male	30583
+75-79	Albania	Female	1803
+75-79	Albania	Male	3783
+75-79	Argentina	Female	104072
+75-79	Argentina	Male	130509
+75-79	Armenia	Female	3785
+75-79	Armenia	Male	4437
+75-79	Australia	Female	89447
+75-79	Australia	Male	125168
+75-79	Austria	Female	84303
+75-79	Austria	Male	85233
+75-79	Azerbaijan	Female	4130
+75-79	Azerbaijan	Male	4305
+75-79	Belarus	Female	22052
+75-79	Belarus	Male	21068
+75-79	Belgium	Female	96056
+75-79	Belgium	Male	127294
+75-79	Belize	Female	163
+75-79	Belize	Male	236
+75-79	Brazil	Female	155932
+75-79	Brazil	Male	204110
+75-79	Bulgaria	Female	36853
+75-79	Bulgaria	Male	46828
+75-79	Canada	Female	161201
+75-79	Canada	Male	212786
+75-79	Chile	Female	44777
+75-79	Chile	Male	48932
+75-79	China	Female	99368
+75-79	China	Male	145062
+75-79	Colombia	Female	44955
+75-79	Colombia	Male	50853
+75-79	Costa Rica	Female	5524
+75-79	Costa Rica	Male	7680
+75-79	Croatia	Female	20095
+75-79	Croatia	Male	23308
+75-79	Cuba	Female	29070
+75-79	Cuba	Male	51180
+75-79	Czech Rep.	Female	129506
+75-79	Czech Rep.	Male	142632
+75-79	Denmark	Female	54962
+75-79	Denmark	Male	64009
+75-79	Dominican Rep.	Female	3136
+75-79	Dominican Rep.	Male	5458
+75-79	Ecuador	Female	11626
+75-79	Ecuador	Male	13494
+75-79	Egypt	Female	6500
+75-79	Egypt	Male	10452
+75-79	El Salvador	Female	4058
+75-79	El Salvador	Male	3627
+75-79	Estonia	Female	6552
+75-79	Estonia	Male	6150
+75-79	Finland	Female	37879
+75-79	Finland	Male	40045
+75-79	France	Female	463714
+75-79	France	Male	617363
+75-79	Georgia	Female	5598
+75-79	Georgia	Male	5509
+75-79	Germany	Female	609026
+75-79	Germany	Male	620935
+75-79	Greece	Female	54093
+75-79	Greece	Male	88422
+75-79	Guatemala	Female	7411
+75-79	Guatemala	Male	7740
+75-79	Hungary	Female	99855
+75-79	Hungary	Male	108409
+75-79	Iceland	Female	1488
+75-79	Iceland	Male	1849
+75-79	Ireland	Female	25971
+75-79	Ireland	Male	33289
+75-79	Israel	Female	18859
+75-79	Israel	Male	21222
+75-79	Italy	Female	436338
+75-79	Italy	Male	577803
+75-79	Japan	Female	626071
+75-79	Japan	Male	967539
+75-79	Kazakhstan	Female	15341
+75-79	Kazakhstan	Male	13599
+75-79	Korea	Female	62668
+75-79	Korea	Male	88780
+75-79	Kuwait	Female	421
+75-79	Kuwait	Male	612
+75-79	Kyrgyzstan	Female	3948
+75-79	Kyrgyzstan	Male	3445
+75-79	Latvia	Female	11669
+75-79	Latvia	Male	10878
+75-79	Lithuania	Female	12857
+75-79	Lithuania	Male	14029
+75-79	Luxembourg	Female	2878
+75-79	Luxembourg	Male	3620
+75-79	Mexico	Female	96219
+75-79	Mexico	Male	108035
+75-79	Moldova	Female	5057
+75-79	Moldova	Male	5191
+75-79	Netherlands	Female	113997
+75-79	Netherlands	Male	162854
+75-79	New Zealand	Female	21168
+75-79	New Zealand	Male	27875
+75-79	Nicaragua	Female	1778
+75-79	Nicaragua	Male	1843
+75-79	Norway	Female	35981
+75-79	Norway	Male	46123
+75-79	Panama	Female	2693
+75-79	Panama	Male	3974
+75-79	Paraguay	Female	2055
+75-79	Paraguay	Male	2746
+75-79	Peru	Female	19667
+75-79	Peru	Male	22148
+75-79	Philippines	Female	15705
+75-79	Philippines	Male	18617
+75-79	Poland	Female	191417
+75-79	Poland	Male	211602
+75-79	Portugal	Female	50875
+75-79	Portugal	Male	64540
+75-79	Romania	Female	74384
+75-79	Romania	Male	86225
+75-79	Russia	Female	552306
+75-79	Russia	Male	426999
+75-79	Serbia	Female	17243
+75-79	Serbia	Male	20507
+75-79	Slovakia	Female	13421
+75-79	Slovakia	Male	16066
+75-79	Slovenia	Female	8665
+75-79	Slovenia	Male	9502
+75-79	South Africa	Female	23223
+75-79	South Africa	Male	27227
+75-79	Spain	Female	225652
+75-79	Spain	Male	337909
+75-79	Suriname	Female	381
+75-79	Suriname	Male	510
+75-79	Sweden	Female	81150
+75-79	Sweden	Male	101540
+75-79	Switzerland	Female	56305
+75-79	Switzerland	Male	71844
+75-79	Tajikistan	Female	1776
+75-79	Tajikistan	Male	2114
+75-79	Thailand	Female	15065
+75-79	Thailand	Male	23106
+75-79	Trinidad and Tobago	Female	2243
+75-79	Trinidad and Tobago	Male	3138
+75-79	Turkmenistan	Female	1168
+75-79	Turkmenistan	Male	969
+75-79	Ukraine	Female	145240
+75-79	Ukraine	Male	130465
+75-79	United Kingdom	Female	598895
+75-79	United Kingdom	Male	701252
+75-79	United States	Female	1595206
+75-79	United States	Male	1910954
+75-79	Uruguay	Female	18657
+75-79	Uruguay	Male	24877
+75-79	Uzbekistan	Female	9088
+75-79	Uzbekistan	Male	8431
+75-79	Venezuela	Female	22245
+75-79	Venezuela	Male	26266
+80-84	Albania	Female	1226
+80-84	Albania	Male	1963
+80-84	Argentina	Female	85136
+80-84	Argentina	Male	90412
+80-84	Armenia	Female	2134
+80-84	Armenia	Male	2086
+80-84	Australia	Female	78067
+80-84	Australia	Male	92883
+80-84	Austria	Female	73580
+80-84	Austria	Male	60663
+80-84	Azerbaijan	Female	2385
+80-84	Azerbaijan	Male	2073
+80-84	Belarus	Female	12244
+80-84	Belarus	Male	9862
+80-84	Belgium	Female	85906
+80-84	Belgium	Male	91808
+80-84	Belize	Female	146
+80-84	Belize	Male	170
+80-84	Brazil	Female	116649
+80-84	Brazil	Male	138070
+80-84	Bulgaria	Female	22336
+80-84	Bulgaria	Male	24280
+80-84	Canada	Female	138288
+80-84	Canada	Male	161062
+80-84	Chile	Female	35180
+80-84	Chile	Male	34117
+80-84	China	Female	64957
+80-84	China	Male	75875
+80-84	Colombia	Female	33160
+80-84	Colombia	Male	35793
+80-84	Costa Rica	Female	4618
+80-84	Costa Rica	Male	6285
+80-84	Croatia	Female	15322
+80-84	Croatia	Male	13767
+80-84	Cuba	Female	24249
+80-84	Cuba	Male	41792
+80-84	Czech Rep.	Female	93571
+80-84	Czech Rep.	Male	81398
+80-84	Denmark	Female	46626
+80-84	Denmark	Male	47545
+80-84	Dominican Rep.	Female	2621
+80-84	Dominican Rep.	Male	4567
+80-84	Ecuador	Female	10032
+80-84	Ecuador	Male	11129
+80-84	Egypt	Female	3909
+80-84	Egypt	Male	5658
+80-84	El Salvador	Female	3103
+80-84	El Salvador	Male	2754
+80-84	Estonia	Female	4743
+80-84	Estonia	Male	3473
+80-84	Finland	Female	31769
+80-84	Finland	Male	26492
+80-84	France	Female	437409
+80-84	France	Male	466307
+80-84	Georgia	Female	3166
+80-84	Georgia	Male	2495
+80-84	Germany	Female	569215
+80-84	Germany	Male	454382
+80-84	Greece	Female	44816
+80-84	Greece	Male	63895
+80-84	Guatemala	Female	5414
+80-84	Guatemala	Male	5484
+80-84	Hungary	Female	75245
+80-84	Hungary	Male	65952
+80-84	Iceland	Female	1276
+80-84	Iceland	Male	1458
+80-84	Ireland	Female	21036
+80-84	Ireland	Male	23670
+80-84	Israel	Female	16755
+80-84	Israel	Male	17415
+80-84	Italy	Female	369533
+80-84	Italy	Male	400265
+80-84	Japan	Female	540404
+80-84	Japan	Male	678938
+80-84	Kazakhstan	Female	8562
+80-84	Kazakhstan	Male	5993
+80-84	Korea	Female	44572
+80-84	Korea	Male	48304
+80-84	Kuwait	Female	273
+80-84	Kuwait	Male	446
+80-84	Kyrgyzstan	Female	2099
+80-84	Kyrgyzstan	Male	1459
+80-84	Latvia	Female	8338
+80-84	Latvia	Male	6011
+80-84	Lithuania	Female	9713
+80-84	Lithuania	Male	8730
+80-84	Luxembourg	Female	2534
+80-84	Luxembourg	Male	2529
+80-84	Mexico	Female	72823
+80-84	Mexico	Male	80547
+80-84	Moldova	Female	2252
+80-84	Moldova	Male	1883
+80-84	Netherlands	Female	103402
+80-84	Netherlands	Male	121294
+80-84	New Zealand	Female	17852
+80-84	New Zealand	Male	20392
+80-84	Nicaragua	Female	1239
+80-84	Nicaragua	Male	1406
+80-84	Norway	Female	32621
+80-84	Norway	Male	37503
+80-84	Panama	Female	2104
+80-84	Panama	Male	3257
+80-84	Paraguay	Female	1647
+80-84	Paraguay	Male	2104
+80-84	Peru	Female	15609
+80-84	Peru	Male	16903
+80-84	Philippines	Female	10117
+80-84	Philippines	Male	10556
+80-84	Poland	Female	131818
+80-84	Poland	Male	112908
+80-84	Portugal	Female	40072
+80-84	Portugal	Male	43425
+80-84	Romania	Female	42231
+80-84	Romania	Male	42548
+80-84	Russia	Female	332700
+80-84	Russia	Male	187210
+80-84	Serbia	Female	9462
+80-84	Serbia	Male	9274
+80-84	Slovakia	Female	10835
+80-84	Slovakia	Male	10535
+80-84	Slovenia	Female	7720
+80-84	Slovenia	Male	6390
+80-84	South Africa	Female	16461
+80-84	South Africa	Male	18077
+80-84	Spain	Female	197081
+80-84	Spain	Male	245336
+80-84	Suriname	Female	247
+80-84	Suriname	Male	338
+80-84	Sweden	Female	72509
+80-84	Sweden	Male	82790
+80-84	Switzerland	Female	51687
+80-84	Switzerland	Male	56215
+80-84	Tajikistan	Female	969
+80-84	Tajikistan	Male	1020
+80-84	Thailand	Female	7599
+80-84	Thailand	Male	10278
+80-84	Trinidad and Tobago	Female	1709
+80-84	Trinidad and Tobago	Male	2367
+80-84	Turkmenistan	Female	597
+80-84	Turkmenistan	Male	475
+80-84	Ukraine	Female	77239
+80-84	Ukraine	Male	57437
+80-84	United Kingdom	Female	508601
+80-84	United Kingdom	Male	489831
+80-84	United States	Female	1345368
+80-84	United States	Male	1421279
+80-84	Uruguay	Female	16026
+80-84	Uruguay	Male	17763
+80-84	Uzbekistan	Female	5011
+80-84	Uzbekistan	Male	4338
+80-84	Venezuela	Female	16637
+80-84	Venezuela	Male	18092
+85+	Albania	Female	1075
+85+	Albania	Male	1119
+85+	Argentina	Female	76717
+85+	Argentina	Male	60912
+85+	Armenia	Female	1084
+85+	Armenia	Male	817
+85+	Australia	Female	81125
+85+	Australia	Male	69659
+85+	Austria	Female	63302
+85+	Austria	Male	39160
+85+	Azerbaijan	Female	2322
+85+	Azerbaijan	Male	1584
+85+	Belarus	Female	6278
+85+	Belarus	Male	4198
+85+	Belgium	Female	83854
+85+	Belgium	Male	63483
+85+	Belize	Female	148
+85+	Belize	Male	192
+85+	Brazil	Female	103723
+85+	Brazil	Male	101843
+85+	Bulgaria	Female	11217
+85+	Bulgaria	Male	10593
+85+	Canada	Female	149337
+85+	Canada	Male	129672
+85+	Chile	Female	32704
+85+	Chile	Male	25147
+85+	China	Female	42228
+85+	China	Male	35194
+85+	Colombia	Female	31261
+85+	Colombia	Male	30243
+85+	Costa Rica	Female	5062
+85+	Costa Rica	Male	6406
+85+	Croatia	Female	9910
+85+	Croatia	Male	6914
+85+	Cuba	Female	26142
+85+	Cuba	Male	41505
+85+	Czech Rep.	Female	59378
+85+	Czech Rep.	Male	36418
+85+	Denmark	Female	44168
+85+	Denmark	Male	33708
+85+	Dominican Rep.	Female	3016
+85+	Dominican Rep.	Male	5025
+85+	Ecuador	Female	11752
+85+	Ecuador	Male	11204
+85+	Egypt	Female	2509
+85+	Egypt	Male	2791
+85+	El Salvador	Female	3172
+85+	El Salvador	Male	2831
+85+	Estonia	Female	3189
+85+	Estonia	Male	1816
+85+	Finland	Female	26953
+85+	Finland	Male	16894
+85+	France	Female	497264
+85+	France	Male	359839
+85+	Georgia	Female	1731
+85+	Georgia	Male	1102
+85+	Germany	Female	560348
+85+	Germany	Male	316037
+85+	Greece	Female	38301
+85+	Greece	Male	46382
+85+	Guatemala	Female	4557
+85+	Guatemala	Male	4589
+85+	Hungary	Female	52541
+85+	Hungary	Male	35126
+85+	Iceland	Female	1239
+85+	Iceland	Male	1219
+85+	Ireland	Female	17319
+85+	Ireland	Male	14646
+85+	Israel	Female	16439
+85+	Israel	Male	16194
+85+	Italy	Female	346368
+85+	Italy	Male	265559
+85+	Japan	Female	584837
+85+	Japan	Male	484748
+85+	Kazakhstan	Female	4222
+85+	Kazakhstan	Male	2348
+85+	Korea	Female	29657
+85+	Korea	Male	22858
+85+	Kuwait	Female	228
+85+	Kuwait	Male	369
+85+	Kyrgyzstan	Female	1098
+85+	Kyrgyzstan	Male	569
+85+	Latvia	Female	5126
+85+	Latvia	Male	2945
+85+	Lithuania	Female	6570
+85+	Lithuania	Male	5272
+85+	Luxembourg	Female	2408
+85+	Luxembourg	Male	1648
+85+	Mexico	Female	76762
+85+	Mexico	Male	75915
+85+	Moldova	Female	951
+85+	Moldova	Male	663
+85+	Netherlands	Female	107467
+85+	Netherlands	Male	89064
+85+	New Zealand	Female	18531
+85+	New Zealand	Male	15042
+85+	Nicaragua	Female	1380
+85+	Nicaragua	Male	1423
+85+	Norway	Female	32798
+85+	Norway	Male	29293
+85+	Panama	Female	2438
+85+	Panama	Male	3098
+85+	Paraguay	Female	1710
+85+	Paraguay	Male	1921
+85+	Peru	Female	17014
+85+	Peru	Male	16009
+85+	Philippines	Female	7207
+85+	Philippines	Male	6835
+85+	Poland	Female	82918
+85+	Poland	Male	51734
+85+	Portugal	Female	33214
+85+	Portugal	Male	27834
+85+	Romania	Female	21284
+85+	Romania	Male	18425
+85+	Russia	Female	164744
+85+	Russia	Male	68472
+85+	Serbia	Female	4294
+85+	Serbia	Male	3620
+85+	Slovakia	Female	7826
+85+	Slovakia	Male	6039
+85+	Slovenia	Female	6472
+85+	Slovenia	Male	4050
+85+	South Africa	Female	14128
+85+	South Africa	Male	12663
+85+	Spain	Female	192748
+85+	Spain	Male	176150
+85+	Suriname	Female	210
+85+	Suriname	Male	197
+85+	Sweden	Female	69407
+85+	Sweden	Male	63621
+85+	Switzerland	Female	52819
+85+	Switzerland	Male	43077
+85+	Tajikistan	Female	719
+85+	Tajikistan	Male	650
+85+	Thailand	Female	4816
+85+	Thailand	Male	5265
+85+	Trinidad and Tobago	Female	1620
+85+	Trinidad and Tobago	Male	1661
+85+	Turkmenistan	Female	356
+85+	Turkmenistan	Male	210
+85+	Ukraine	Female	32027
+85+	Ukraine	Male	19512
+85+	United Kingdom	Female	492514
+85+	United Kingdom	Male	326916
+85+	United States	Female	1399670
+85+	United States	Male	1127248
+85+	Uruguay	Female	16369
+85+	Uruguay	Male	13087
+85+	Uzbekistan	Female	3131
+85+	Uzbekistan	Male	2347
+85+	Venezuela	Female	15714
+85+	Venezuela	Male	14781

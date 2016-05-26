@@ -1,0 +1,6344 @@
+country_name	sex	year	deaths
+Albania	Female	1987	643
+Albania	Female	1988	720
+Albania	Female	1989	690
+Albania	Female	1992	610
+Albania	Female	1993	553
+Albania	Female	1994	508
+Albania	Female	1995	643
+Albania	Female	1996	778
+Albania	Female	1997	741
+Albania	Female	1998	781
+Albania	Female	1999	870
+Albania	Female	2000	789
+Albania	Female	2001	774
+Albania	Female	2002	887
+Albania	Female	2003	998
+Albania	Female	2004	1011
+Albania	Female	2005	914
+Albania	Female	2006	973
+Albania	Female	2007	800
+Albania	Female	2008	899
+Albania	Female	2009	886
+Albania	Male	1987	1251
+Albania	Male	1988	1456
+Albania	Male	1989	1367
+Albania	Male	1992	1189
+Albania	Male	1993	1084
+Albania	Male	1994	1005
+Albania	Male	1995	1411
+Albania	Male	1996	1546
+Albania	Male	1997	1436
+Albania	Male	1998	1532
+Albania	Male	1999	1584
+Albania	Male	2000	1555
+Albania	Male	2001	1372
+Albania	Male	2002	1554
+Albania	Male	2003	1748
+Albania	Male	2004	1707
+Albania	Male	2005	1646
+Albania	Male	2006	1610
+Albania	Male	2007	1468
+Albania	Male	2008	1656
+Albania	Male	2009	1598
+Argentina	Female	1966	11702
+Argentina	Female	1967	13680
+Argentina	Female	1968	14555
+Argentina	Female	1969	15050
+Argentina	Female	1970	14733
+Argentina	Female	1977	16250
+Argentina	Female	1978	16762
+Argentina	Female	1979	16924
+Argentina	Female	1982	17420
+Argentina	Female	1983	17647
+Argentina	Female	1984	18322
+Argentina	Female	1985	18331
+Argentina	Female	1986	18526
+Argentina	Female	1987	18887
+Argentina	Female	1988	19701
+Argentina	Female	1989	20078
+Argentina	Female	1990	20245
+Argentina	Female	1991	20694
+Argentina	Female	1992	21093
+Argentina	Female	1993	21276
+Argentina	Female	1994	22084
+Argentina	Female	1995	21893
+Argentina	Female	1996	23093
+Argentina	Female	1997	23191
+Argentina	Female	1998	23889
+Argentina	Female	1999	23925
+Argentina	Female	2000	24219
+Argentina	Female	2001	24584
+Argentina	Female	2002	24467
+Argentina	Female	2003	25378
+Argentina	Female	2004	25399
+Argentina	Female	2005	25999
+Argentina	Female	2006	26200
+Argentina	Female	2007	26479
+Argentina	Female	2008	26249
+Argentina	Female	2009	26877
+Argentina	Female	2010	27242
+Argentina	Male	1950	38
+Argentina	Male	1951	41
+Argentina	Male	1966	17190
+Argentina	Male	1967	20076
+Argentina	Male	1968	21335
+Argentina	Male	1969	21607
+Argentina	Male	1970	21052
+Argentina	Male	1977	22243
+Argentina	Male	1978	22642
+Argentina	Male	1979	23237
+Argentina	Male	1982	22500
+Argentina	Male	1983	23150
+Argentina	Male	1984	23753
+Argentina	Male	1985	23472
+Argentina	Male	1986	23782
+Argentina	Male	1987	24662
+Argentina	Male	1988	24806
+Argentina	Male	1989	25537
+Argentina	Male	1990	25628
+Argentina	Male	1991	26270
+Argentina	Male	1992	26080
+Argentina	Male	1993	26189
+Argentina	Male	1994	26957
+Argentina	Male	1995	26769
+Argentina	Male	1996	27982
+Argentina	Male	1997	28232
+Argentina	Male	1998	28921
+Argentina	Male	1999	29266
+Argentina	Male	2000	29171
+Argentina	Male	2001	29444
+Argentina	Male	2002	28848
+Argentina	Male	2003	29559
+Argentina	Male	2004	29526
+Argentina	Male	2005	30245
+Argentina	Male	2006	30697
+Argentina	Male	2007	30851
+Argentina	Male	2008	30418
+Argentina	Male	2009	30280
+Argentina	Male	2010	30686
+Armenia	Female	1981	1026
+Armenia	Female	1982	1069
+Armenia	Female	1985	1220
+Armenia	Female	1986	1196
+Armenia	Female	1987	1293
+Armenia	Female	1988	1273
+Armenia	Female	1989	1351
+Armenia	Female	1990	1517
+Armenia	Female	1991	1499
+Armenia	Female	1992	1559
+Armenia	Female	1993	1465
+Armenia	Female	1994	1321
+Armenia	Female	1995	1451
+Armenia	Female	1996	1556
+Armenia	Female	1997	1573
+Armenia	Female	1998	1787
+Armenia	Female	1999	1736
+Armenia	Female	2000	1800
+Armenia	Female	2001	1855
+Armenia	Female	2002	1868
+Armenia	Female	2003	1960
+Armenia	Female	2006	1976
+Armenia	Female	2008	2040
+Armenia	Female	2009	2014
+Armenia	Female	2010	1992
+Armenia	Male	1981	1333
+Armenia	Male	1982	1373
+Armenia	Male	1985	1523
+Armenia	Male	1986	1503
+Armenia	Male	1987	1656
+Armenia	Male	1988	1739
+Armenia	Male	1989	1787
+Armenia	Male	1990	1967
+Armenia	Male	1991	2069
+Armenia	Male	1992	2000
+Armenia	Male	1993	2036
+Armenia	Male	1994	1787
+Armenia	Male	1995	1933
+Armenia	Male	1996	2107
+Armenia	Male	1997	2081
+Armenia	Male	1998	2042
+Armenia	Male	1999	2228
+Armenia	Male	2000	2158
+Armenia	Male	2001	2273
+Armenia	Male	2002	2365
+Armenia	Male	2003	2396
+Armenia	Male	2006	2494
+Armenia	Male	2008	2630
+Armenia	Male	2009	2578
+Armenia	Male	2010	2647
+Australia	Female	1950	5075
+Australia	Female	1951	5104
+Australia	Female	1952	5321
+Australia	Female	1953	5537
+Australia	Female	1954	5568
+Australia	Female	1955	5615
+Australia	Female	1956	5850
+Australia	Female	1957	5877
+Australia	Female	1958	5814
+Australia	Female	1959	6114
+Australia	Female	1960	6092
+Australia	Female	1961	6308
+Australia	Female	1962	6402
+Australia	Female	1963	6808
+Australia	Female	1964	6858
+Australia	Female	1965	6793
+Australia	Female	1966	7098
+Australia	Female	1967	7246
+Australia	Female	1968	7556
+Australia	Female	1969	7687
+Australia	Female	1970	8062
+Australia	Female	1971	8143
+Australia	Female	1972	8277
+Australia	Female	1973	8620
+Australia	Female	1974	8635
+Australia	Female	1975	8846
+Australia	Female	1976	9220
+Australia	Female	1977	9349
+Australia	Female	1978	9381
+Australia	Female	1979	9482
+Australia	Female	1980	9955
+Australia	Female	1981	10065
+Australia	Female	1982	10669
+Australia	Female	1983	11164
+Australia	Female	1984	11580
+Australia	Female	1985	11863
+Australia	Female	1986	12050
+Australia	Female	1987	12399
+Australia	Female	1988	12651
+Australia	Female	1989	13028
+Australia	Female	1990	13089
+Australia	Female	1991	13700
+Australia	Female	1992	13677
+Australia	Female	1993	14152
+Australia	Female	1994	14409
+Australia	Female	1995	14521
+Australia	Female	1996	15010
+Australia	Female	1997	15005
+Australia	Female	1998	15151
+Australia	Female	1999	15201
+Australia	Female	2000	15547
+Australia	Female	2001	16026
+Australia	Female	2002	16434
+Australia	Female	2003	16469
+Australia	Female	2004	16618
+Australia	Female	2006	16877
+Australia	Female	2007	17095
+Australia	Female	2008	18004
+Australia	Female	2009	17804
+Australia	Female	2010	18309
+Australia	Male	1950	5354
+Australia	Male	1951	5515
+Australia	Male	1952	5813
+Australia	Male	1953	5970
+Australia	Male	1954	6042
+Australia	Male	1955	6271
+Australia	Male	1956	6430
+Australia	Male	1957	6801
+Australia	Male	1958	6832
+Australia	Male	1959	7128
+Australia	Male	1960	7204
+Australia	Male	1961	7380
+Australia	Male	1962	7661
+Australia	Male	1963	7967
+Australia	Male	1964	8304
+Australia	Male	1965	8338
+Australia	Male	1966	8689
+Australia	Male	1967	8923
+Australia	Male	1968	9562
+Australia	Male	1969	9661
+Australia	Male	1970	10057
+Australia	Male	1971	10195
+Australia	Male	1972	10507
+Australia	Male	1973	10775
+Australia	Male	1974	11334
+Australia	Male	1975	11508
+Australia	Male	1976	11790
+Australia	Male	1977	12013
+Australia	Male	1978	12506
+Australia	Male	1979	12656
+Australia	Male	1980	13375
+Australia	Male	1981	13742
+Australia	Male	1982	14160
+Australia	Male	1983	14525
+Australia	Male	1984	14975
+Australia	Male	1985	15488
+Australia	Male	1986	15647
+Australia	Male	1987	16279
+Australia	Male	1988	16746
+Australia	Male	1989	17390
+Australia	Male	1990	17218
+Australia	Male	1991	17488
+Australia	Male	1992	18209
+Australia	Male	1993	18369
+Australia	Male	1994	19393
+Australia	Male	1995	18860
+Australia	Male	1996	19441
+Australia	Male	1997	19285
+Australia	Male	1998	19881
+Australia	Male	1999	19910
+Australia	Male	2000	20293
+Australia	Male	2001	20692
+Australia	Male	2002	21027
+Australia	Male	2003	21001
+Australia	Male	2004	21421
+Australia	Male	2006	21876
+Australia	Male	2007	22287
+Australia	Male	2008	23356
+Australia	Male	2009	23206
+Australia	Male	2010	24051
+Austria	Female	1955	8031
+Austria	Female	1956	8378
+Austria	Female	1957	8567
+Austria	Female	1958	8601
+Austria	Female	1959	8695
+Austria	Female	1960	8580
+Austria	Female	1961	8823
+Austria	Female	1962	8713
+Austria	Female	1963	9087
+Austria	Female	1964	9260
+Austria	Female	1965	9243
+Austria	Female	1966	9444
+Austria	Female	1967	9447
+Austria	Female	1968	9522
+Austria	Female	1969	9439
+Austria	Female	1970	9595
+Austria	Female	1971	9472
+Austria	Female	1972	9481
+Austria	Female	1973	9414
+Austria	Female	1974	9729
+Austria	Female	1975	9402
+Austria	Female	1976	9443
+Austria	Female	1977	9550
+Austria	Female	1978	9235
+Austria	Female	1979	9225
+Austria	Female	1980	9530
+Austria	Female	1981	9541
+Austria	Female	1982	9592
+Austria	Female	1983	9459
+Austria	Female	1984	9663
+Austria	Female	1985	9526
+Austria	Female	1986	9392
+Austria	Female	1987	9665
+Austria	Female	1988	9578
+Austria	Female	1989	9514
+Austria	Female	1990	9664
+Austria	Female	1991	9522
+Austria	Female	1992	9689
+Austria	Female	1993	9642
+Austria	Female	1994	9546
+Austria	Female	1995	9530
+Austria	Female	1996	9205
+Austria	Female	1997	9214
+Austria	Female	1998	9032
+Austria	Female	1999	9100
+Austria	Female	2000	9225
+Austria	Female	2001	8968
+Austria	Female	2002	8878
+Austria	Female	2003	9177
+Austria	Female	2004	9200
+Austria	Female	2005	9134
+Austria	Female	2006	8962
+Austria	Female	2007	8988
+Austria	Female	2008	9224
+Austria	Female	2009	9173
+Austria	Female	2010	9296
+Austria	Male	1955	8284
+Austria	Male	1956	8471
+Austria	Male	1957	8657
+Austria	Male	1958	8870
+Austria	Male	1959	8861
+Austria	Male	1960	9093
+Austria	Male	1961	9264
+Austria	Male	1962	9172
+Austria	Male	1963	9302
+Austria	Male	1964	9264
+Austria	Male	1965	9737
+Austria	Male	1966	9604
+Austria	Male	1967	9761
+Austria	Male	1968	9814
+Austria	Male	1969	9567
+Austria	Male	1970	9778
+Austria	Male	1971	9792
+Austria	Male	1972	9652
+Austria	Male	1973	9785
+Austria	Male	1974	9760
+Austria	Male	1975	9606
+Austria	Male	1976	9741
+Austria	Male	1977	9485
+Austria	Male	1978	9710
+Austria	Male	1979	9668
+Austria	Male	1980	9754
+Austria	Male	1981	9622
+Austria	Male	1982	9457
+Austria	Male	1983	9367
+Austria	Male	1984	9531
+Austria	Male	1985	9311
+Austria	Male	1986	9304
+Austria	Male	1987	9418
+Austria	Male	1988	9413
+Austria	Male	1989	9474
+Austria	Male	1990	9666
+Austria	Male	1991	9795
+Austria	Male	1992	9710
+Austria	Male	1993	9879
+Austria	Male	1994	9500
+Austria	Male	1995	9624
+Austria	Male	1996	9614
+Austria	Male	1997	9631
+Austria	Male	1998	9624
+Austria	Male	1999	9610
+Austria	Male	2000	9524
+Austria	Male	2001	9519
+Austria	Male	2002	9745
+Austria	Male	2003	10054
+Austria	Male	2004	10047
+Austria	Male	2005	9997
+Austria	Male	2006	10097
+Austria	Male	2007	9988
+Austria	Male	2008	10561
+Austria	Male	2009	10469
+Austria	Male	2010	10465
+Azerbaijan	Female	1981	2062
+Azerbaijan	Female	1982	2254
+Azerbaijan	Female	1985	2298
+Azerbaijan	Female	1986	2502
+Azerbaijan	Female	1987	2423
+Azerbaijan	Female	1988	2394
+Azerbaijan	Female	1989	2112
+Azerbaijan	Female	1990	1983
+Azerbaijan	Female	1991	1939
+Azerbaijan	Female	1992	2104
+Azerbaijan	Female	1993	2018
+Azerbaijan	Female	1994	2117
+Azerbaijan	Female	1995	2022
+Azerbaijan	Female	1996	1904
+Azerbaijan	Female	1997	1989
+Azerbaijan	Female	1998	2123
+Azerbaijan	Female	1999	2264
+Azerbaijan	Female	2000	2144
+Azerbaijan	Female	2001	2368
+Azerbaijan	Female	2002	2587
+Azerbaijan	Female	2003	2744
+Azerbaijan	Female	2004	2759
+Azerbaijan	Female	2007	2211
+Azerbaijan	Male	1981	2735
+Azerbaijan	Male	1982	2800
+Azerbaijan	Male	1985	2853
+Azerbaijan	Male	1986	3176
+Azerbaijan	Male	1987	3225
+Azerbaijan	Male	1988	3350
+Azerbaijan	Male	1989	3033
+Azerbaijan	Male	1990	2821
+Azerbaijan	Male	1991	2864
+Azerbaijan	Male	1992	2967
+Azerbaijan	Male	1993	2896
+Azerbaijan	Male	1994	2868
+Azerbaijan	Male	1995	2736
+Azerbaijan	Male	1996	2794
+Azerbaijan	Male	1997	2815
+Azerbaijan	Male	1998	2810
+Azerbaijan	Male	1999	2933
+Azerbaijan	Male	2000	2929
+Azerbaijan	Male	2001	3087
+Azerbaijan	Male	2002	3272
+Azerbaijan	Male	2003	3553
+Azerbaijan	Male	2004	3348
+Azerbaijan	Male	2007	2808
+Belarus	Female	1981	5782
+Belarus	Female	1982	5819
+Belarus	Female	1985	6402
+Belarus	Female	1986	6638
+Belarus	Female	1987	6839
+Belarus	Female	1988	7040
+Belarus	Female	1989	7277
+Belarus	Female	1990	7482
+Belarus	Female	1991	7584
+Belarus	Female	1992	7820
+Belarus	Female	1993	7628
+Belarus	Female	1994	7599
+Belarus	Female	1995	7869
+Belarus	Female	1997	7778
+Belarus	Female	1998	7925
+Belarus	Female	1999	8063
+Belarus	Female	2000	7857
+Belarus	Female	2001	7974
+Belarus	Female	2002	7868
+Belarus	Female	2003	7518
+Belarus	Female	2007	7531
+Belarus	Female	2008	7641
+Belarus	Female	2009	7439
+Belarus	Male	1981	6699
+Belarus	Male	1982	7037
+Belarus	Male	1985	8064
+Belarus	Male	1986	8433
+Belarus	Male	1987	8738
+Belarus	Male	1988	9314
+Belarus	Male	1989	9909
+Belarus	Male	1990	10058
+Belarus	Male	1991	10418
+Belarus	Male	1992	10984
+Belarus	Male	1993	11169
+Belarus	Male	1994	11189
+Belarus	Male	1995	11561
+Belarus	Male	1997	11674
+Belarus	Male	1998	11628
+Belarus	Male	1999	11749
+Belarus	Male	2000	11579
+Belarus	Male	2001	11482
+Belarus	Male	2002	11477
+Belarus	Male	2003	11204
+Belarus	Male	2007	10639
+Belarus	Male	2008	10766
+Belarus	Male	2009	10731
+Belgium	Female	1954	8932
+Belgium	Female	1955	9073
+Belgium	Female	1956	9158
+Belgium	Female	1957	9314
+Belgium	Female	1958	9535
+Belgium	Female	1959	9426
+Belgium	Female	1960	9741
+Belgium	Female	1961	9709
+Belgium	Female	1962	10164
+Belgium	Female	1963	10142
+Belgium	Female	1964	9981
+Belgium	Female	1965	10093
+Belgium	Female	1966	10300
+Belgium	Female	1967	10243
+Belgium	Female	1968	10408
+Belgium	Female	1969	10154
+Belgium	Female	1970	10332
+Belgium	Female	1971	10516
+Belgium	Female	1972	10412
+Belgium	Female	1973	10367
+Belgium	Female	1974	10397
+Belgium	Female	1975	10621
+Belgium	Female	1976	10571
+Belgium	Female	1977	10580
+Belgium	Female	1978	11200
+Belgium	Female	1979	10972
+Belgium	Female	1980	10993
+Belgium	Female	1981	11307
+Belgium	Female	1982	11366
+Belgium	Female	1983	11393
+Belgium	Female	1984	11379
+Belgium	Female	1985	11333
+Belgium	Female	1986	11615
+Belgium	Female	1987	11192
+Belgium	Female	1988	11313
+Belgium	Female	1989	11601
+Belgium	Female	1990	11336
+Belgium	Female	1991	11450
+Belgium	Female	1992	11637
+Belgium	Female	1993	11626
+Belgium	Female	1994	11792
+Belgium	Female	1995	11903
+Belgium	Female	1996	11643
+Belgium	Female	1997	11805
+Belgium	Female	1998	11849
+Belgium	Female	1999	11568
+Belgium	Female	2000	11163
+Belgium	Female	2001	11229
+Belgium	Female	2002	11311
+Belgium	Female	2003	11152
+Belgium	Female	2004	11081
+Belgium	Female	2005	11163
+Belgium	Female	2006	11301
+Belgium	Female	2007	11649
+Belgium	Female	2008	11834
+Belgium	Female	2009	11880
+Belgium	Female	2010	11991
+Belgium	Male	1954	9032
+Belgium	Male	1955	9329
+Belgium	Male	1956	9456
+Belgium	Male	1957	9734
+Belgium	Male	1958	9903
+Belgium	Male	1959	10300
+Belgium	Male	1960	10960
+Belgium	Male	1961	11040
+Belgium	Male	1962	11392
+Belgium	Male	1963	11853
+Belgium	Male	1964	11613
+Belgium	Male	1965	12152
+Belgium	Male	1966	12245
+Belgium	Male	1967	12681
+Belgium	Male	1968	12848
+Belgium	Male	1969	13029
+Belgium	Male	1970	12999
+Belgium	Male	1971	13461
+Belgium	Male	1972	13551
+Belgium	Male	1973	13819
+Belgium	Male	1974	13808
+Belgium	Male	1975	14161
+Belgium	Male	1976	14156
+Belgium	Male	1977	14566
+Belgium	Male	1978	15202
+Belgium	Male	1979	15112
+Belgium	Male	1980	15273
+Belgium	Male	1981	15676
+Belgium	Male	1982	15455
+Belgium	Male	1983	15648
+Belgium	Male	1984	15574
+Belgium	Male	1985	15883
+Belgium	Male	1986	15605
+Belgium	Male	1987	15650
+Belgium	Male	1988	15966
+Belgium	Male	1989	15694
+Belgium	Male	1990	15587
+Belgium	Male	1991	15575
+Belgium	Male	1992	15751
+Belgium	Male	1993	16098
+Belgium	Male	1994	16026
+Belgium	Male	1995	16271
+Belgium	Male	1996	15968
+Belgium	Male	1997	16069
+Belgium	Male	1998	15637
+Belgium	Male	1999	15329
+Belgium	Male	2000	15166
+Belgium	Male	2001	15129
+Belgium	Male	2002	15124
+Belgium	Male	2003	14822
+Belgium	Male	2004	14710
+Belgium	Male	2005	15103
+Belgium	Male	2006	14862
+Belgium	Male	2007	14952
+Belgium	Male	2008	15413
+Belgium	Male	2009	15143
+Belgium	Male	2010	15381
+Belize	Female	1964	31
+Belize	Female	1965	22
+Belize	Female	1966	29
+Belize	Female	1967	13
+Belize	Female	1968	17
+Belize	Female	1969	28
+Belize	Female	1970	20
+Belize	Female	1971	23
+Belize	Female	1972	37
+Belize	Female	1973	26
+Belize	Female	1974	25
+Belize	Female	1975	31
+Belize	Female	1976	23
+Belize	Female	1977	21
+Belize	Female	1979	18
+Belize	Female	1983	25
+Belize	Female	1984	20
+Belize	Female	1986	23
+Belize	Female	1987	25
+Belize	Female	1989	32
+Belize	Female	1990	27
+Belize	Female	1991	21
+Belize	Female	1993	28
+Belize	Female	1994	37
+Belize	Female	1995	36
+Belize	Female	1996	33
+Belize	Female	1997	53
+Belize	Female	1998	87
+Belize	Female	1999	64
+Belize	Female	2000	68
+Belize	Female	2001	75
+Belize	Female	2002	61
+Belize	Female	2003	65
+Belize	Female	2004	88
+Belize	Female	2005	67
+Belize	Female	2006	75
+Belize	Female	2007	91
+Belize	Female	2008	75
+Belize	Female	2009	66
+Belize	Female	2010	94
+Belize	Male	1964	21
+Belize	Male	1965	23
+Belize	Male	1966	12
+Belize	Male	1967	7
+Belize	Male	1968	18
+Belize	Male	1969	14
+Belize	Male	1970	20
+Belize	Male	1971	22
+Belize	Male	1972	31
+Belize	Male	1973	20
+Belize	Male	1974	15
+Belize	Male	1975	22
+Belize	Male	1976	20
+Belize	Male	1977	24
+Belize	Male	1979	12
+Belize	Male	1983	33
+Belize	Male	1984	29
+Belize	Male	1986	27
+Belize	Male	1987	39
+Belize	Male	1989	30
+Belize	Male	1990	27
+Belize	Male	1991	30
+Belize	Male	1993	29
+Belize	Male	1994	40
+Belize	Male	1995	46
+Belize	Male	1996	36
+Belize	Male	1997	78
+Belize	Male	1998	93
+Belize	Male	1999	92
+Belize	Male	2000	69
+Belize	Male	2001	80
+Belize	Male	2002	78
+Belize	Male	2003	63
+Belize	Male	2004	69
+Belize	Male	2005	98
+Belize	Male	2006	85
+Belize	Male	2007	92
+Belize	Male	2008	81
+Belize	Male	2009	91
+Belize	Male	2010	81
+Brazil	Female	1979	25266
+Brazil	Female	1980	26925
+Brazil	Female	1981	27686
+Brazil	Female	1982	28455
+Brazil	Female	1983	29536
+Brazil	Female	1984	30185
+Brazil	Female	1985	31242
+Brazil	Female	1986	32795
+Brazil	Female	1987	33866
+Brazil	Female	1988	34953
+Brazil	Female	1989	35635
+Brazil	Female	1990	36859
+Brazil	Female	1991	38172
+Brazil	Female	1992	39994
+Brazil	Female	1993	41072
+Brazil	Female	1994	43055
+Brazil	Female	1995	44210
+Brazil	Female	1996	46545
+Brazil	Female	1997	48389
+Brazil	Female	1998	50080
+Brazil	Female	1999	52517
+Brazil	Female	2000	54750
+Brazil	Female	2001	57163
+Brazil	Female	2002	58770
+Brazil	Female	2003	61227
+Brazil	Female	2004	63948
+Brazil	Female	2005	66884
+Brazil	Female	2006	70759
+Brazil	Female	2007	73068
+Brazil	Female	2008	75950
+Brazil	Female	2009	78220
+Brazil	Female	2010	81259
+Brazil	Male	1979	30813
+Brazil	Male	1980	32570
+Brazil	Male	1981	33745
+Brazil	Male	1982	34774
+Brazil	Male	1983	36387
+Brazil	Male	1984	37364
+Brazil	Male	1985	38255
+Brazil	Male	1986	39514
+Brazil	Male	1987	40863
+Brazil	Male	1988	42076
+Brazil	Male	1989	42567
+Brazil	Male	1990	43674
+Brazil	Male	1991	45036
+Brazil	Male	1992	47363
+Brazil	Male	1993	49004
+Brazil	Male	1994	50373
+Brazil	Male	1995	51684
+Brazil	Male	1996	55222
+Brazil	Male	1997	57492
+Brazil	Male	1998	59606
+Brazil	Male	1999	61782
+Brazil	Male	2000	64585
+Brazil	Male	2001	66911
+Brazil	Male	2002	69602
+Brazil	Male	2003	72010
+Brazil	Male	2004	75445
+Brazil	Male	2005	78788
+Brazil	Male	2006	82504
+Brazil	Male	2007	85741
+Brazil	Male	2008	88571
+Brazil	Male	2009	91034
+Brazil	Male	2010	94631
+Bulgaria	Female	1964	4512
+Bulgaria	Female	1965	4452
+Bulgaria	Female	1966	4564
+Bulgaria	Female	1967	4550
+Bulgaria	Female	1968	4756
+Bulgaria	Female	1969	4653
+Bulgaria	Female	1970	4647
+Bulgaria	Female	1971	4693
+Bulgaria	Female	1972	4826
+Bulgaria	Female	1973	4851
+Bulgaria	Female	1974	4980
+Bulgaria	Female	1975	4931
+Bulgaria	Female	1976	4997
+Bulgaria	Female	1977	5017
+Bulgaria	Female	1978	5351
+Bulgaria	Female	1979	5456
+Bulgaria	Female	1980	5128
+Bulgaria	Female	1981	5522
+Bulgaria	Female	1982	5644
+Bulgaria	Female	1983	5736
+Bulgaria	Female	1984	6012
+Bulgaria	Female	1985	6201
+Bulgaria	Female	1986	6071
+Bulgaria	Female	1987	6044
+Bulgaria	Female	1988	6166
+Bulgaria	Female	1989	6227
+Bulgaria	Female	1990	6144
+Bulgaria	Female	1991	6381
+Bulgaria	Female	1992	6337
+Bulgaria	Female	1993	6349
+Bulgaria	Female	1994	6502
+Bulgaria	Female	1995	6622
+Bulgaria	Female	1996	6746
+Bulgaria	Female	1997	6661
+Bulgaria	Female	1998	6438
+Bulgaria	Female	1999	6691
+Bulgaria	Female	2000	6521
+Bulgaria	Female	2001	6413
+Bulgaria	Female	2002	6595
+Bulgaria	Female	2003	6465
+Bulgaria	Female	2004	6613
+Bulgaria	Female	2005	7458
+Bulgaria	Female	2006	7279
+Bulgaria	Female	2007	7459
+Bulgaria	Female	2008	7489
+Bulgaria	Female	2009	7019
+Bulgaria	Female	2010	6798
+Bulgaria	Male	1964	6301
+Bulgaria	Male	1965	6344
+Bulgaria	Male	1966	6593
+Bulgaria	Male	1967	6676
+Bulgaria	Male	1968	6824
+Bulgaria	Male	1969	6735
+Bulgaria	Male	1970	6605
+Bulgaria	Male	1971	6957
+Bulgaria	Male	1972	7000
+Bulgaria	Male	1973	7089
+Bulgaria	Male	1974	7136
+Bulgaria	Male	1975	7108
+Bulgaria	Male	1976	7173
+Bulgaria	Male	1977	7430
+Bulgaria	Male	1978	7225
+Bulgaria	Male	1979	7571
+Bulgaria	Male	1980	7163
+Bulgaria	Male	1981	7864
+Bulgaria	Male	1982	8088
+Bulgaria	Male	1983	8318
+Bulgaria	Male	1984	8376
+Bulgaria	Male	1985	8478
+Bulgaria	Male	1986	8666
+Bulgaria	Male	1987	8993
+Bulgaria	Male	1988	8918
+Bulgaria	Male	1989	9079
+Bulgaria	Male	1990	8898
+Bulgaria	Male	1991	9128
+Bulgaria	Male	1992	9153
+Bulgaria	Male	1993	9228
+Bulgaria	Male	1994	9659
+Bulgaria	Male	1995	9449
+Bulgaria	Male	1996	9452
+Bulgaria	Male	1997	9330
+Bulgaria	Male	1998	9285
+Bulgaria	Male	1999	9211
+Bulgaria	Male	2000	8764
+Bulgaria	Male	2001	9059
+Bulgaria	Male	2002	9190
+Bulgaria	Male	2003	9260
+Bulgaria	Male	2004	9566
+Bulgaria	Male	2005	10319
+Bulgaria	Male	2006	10271
+Bulgaria	Male	2007	10368
+Bulgaria	Male	2008	10529
+Bulgaria	Male	2009	9987
+Bulgaria	Male	2010	9764
+Canada	Female	1950	8359
+Canada	Female	1951	8520
+Canada	Female	1952	8627
+Canada	Female	1953	8943
+Canada	Female	1954	9131
+Canada	Female	1955	9269
+Canada	Female	1956	9493
+Canada	Female	1957	9791
+Canada	Female	1958	9949
+Canada	Female	1959	10323
+Canada	Female	1960	10572
+Canada	Female	1961	10431
+Canada	Female	1962	11043
+Canada	Female	1963	11361
+Canada	Female	1964	11541
+Canada	Female	1965	11787
+Canada	Female	1966	11852
+Canada	Female	1967	12492
+Canada	Female	1968	12794
+Canada	Female	1969	13146
+Canada	Female	1970	13434
+Canada	Female	1971	13637
+Canada	Female	1972	14379
+Canada	Female	1973	14675
+Canada	Female	1974	15095
+Canada	Female	1975	14954
+Canada	Female	1976	15266
+Canada	Female	1977	15843
+Canada	Female	1978	16339
+Canada	Female	1979	17073
+Canada	Female	1980	17389
+Canada	Female	1981	17972
+Canada	Female	1982	18508
+Canada	Female	1983	19003
+Canada	Female	1984	19872
+Canada	Female	1985	20799
+Canada	Female	1986	21264
+Canada	Female	1987	21859
+Canada	Female	1988	22649
+Canada	Female	1989	22955
+Canada	Female	1990	23560
+Canada	Female	1991	24294
+Canada	Female	1992	24785
+Canada	Female	1993	25709
+Canada	Female	1994	26310
+Canada	Female	1995	26475
+Canada	Female	1996	27584
+Canada	Female	1997	27142
+Canada	Female	1998	28205
+Canada	Female	1999	28624
+Canada	Female	2000	29318
+Canada	Female	2001	29754
+Canada	Female	2002	30691
+Canada	Female	2003	31295
+Canada	Female	2004	31800
+Canada	Female	2005	31866
+Canada	Female	2006	32186
+Canada	Female	2007	33031
+Canada	Female	2008	33485
+Canada	Female	2009	33677
+Canada	Female	2010	34346
+Canada	Male	1950	9125
+Canada	Male	1951	9295
+Canada	Male	1952	9958
+Canada	Male	1953	10175
+Canada	Male	1954	10560
+Canada	Male	1955	11024
+Canada	Male	1956	11373
+Canada	Male	1957	11596
+Canada	Male	1958	11845
+Canada	Male	1959	11919
+Canada	Male	1960	12605
+Canada	Male	1961	13217
+Canada	Male	1962	13476
+Canada	Male	1963	13715
+Canada	Male	1964	14096
+Canada	Male	1965	14262
+Canada	Male	1966	14995
+Canada	Male	1967	15515
+Canada	Male	1968	15818
+Canada	Male	1969	16480
+Canada	Male	1970	17048
+Canada	Male	1971	17397
+Canada	Male	1972	17885
+Canada	Male	1973	18393
+Canada	Male	1974	18655
+Canada	Male	1975	19039
+Canada	Male	1976	19490
+Canada	Male	1977	20178
+Canada	Male	1978	20834
+Canada	Male	1979	21504
+Canada	Male	1980	22172
+Canada	Male	1981	22439
+Canada	Male	1982	23436
+Canada	Male	1983	23861
+Canada	Male	1984	24903
+Canada	Male	1985	25534
+Canada	Male	1986	26184
+Canada	Male	1987	26753
+Canada	Male	1988	28100
+Canada	Male	1989	28345
+Canada	Male	1990	28865
+Canada	Male	1991	29669
+Canada	Male	1992	30053
+Canada	Male	1993	30483
+Canada	Male	1994	31014
+Canada	Male	1995	31329
+Canada	Male	1996	31654
+Canada	Male	1997	31550
+Canada	Male	1998	32392
+Canada	Male	1999	33026
+Canada	Male	2000	33406
+Canada	Male	2001	34062
+Canada	Male	2002	34451
+Canada	Male	2003	34750
+Canada	Male	2004	35204
+Canada	Male	2005	35526
+Canada	Male	2006	35666
+Canada	Male	2007	36611
+Canada	Male	2008	37111
+Canada	Male	2009	37497
+Canada	Male	2010	37575
+Chile	Female	1955	3314
+Chile	Female	1956	3404
+Chile	Female	1957	3627
+Chile	Female	1958	3648
+Chile	Female	1959	3820
+Chile	Female	1960	4027
+Chile	Female	1961	3974
+Chile	Female	1962	4042
+Chile	Female	1963	4281
+Chile	Female	1964	4458
+Chile	Female	1965	4451
+Chile	Female	1966	4681
+Chile	Female	1967	4674
+Chile	Female	1968	4857
+Chile	Female	1969	4990
+Chile	Female	1970	5135
+Chile	Female	1971	5100
+Chile	Female	1972	5069
+Chile	Female	1973	5370
+Chile	Female	1974	5240
+Chile	Female	1975	5239
+Chile	Female	1976	5432
+Chile	Female	1977	5287
+Chile	Female	1978	5318
+Chile	Female	1979	5653
+Chile	Female	1980	5676
+Chile	Female	1981	5811
+Chile	Female	1982	5816
+Chile	Female	1984	5996
+Chile	Female	1985	6422
+Chile	Female	1986	6421
+Chile	Female	1987	6709
+Chile	Female	1988	6810
+Chile	Female	1989	6942
+Chile	Female	1990	7227
+Chile	Female	1991	7273
+Chile	Female	1992	7425
+Chile	Female	1993	7648
+Chile	Female	1994	7732
+Chile	Female	1995	8141
+Chile	Female	1996	8316
+Chile	Female	1997	8323
+Chile	Female	1998	8649
+Chile	Female	1999	8823
+Chile	Female	2000	8972
+Chile	Female	2001	9007
+Chile	Female	2002	9332
+Chile	Female	2003	9582
+Chile	Female	2004	9673
+Chile	Female	2005	9931
+Chile	Female	2006	10059
+Chile	Female	2007	10045
+Chile	Female	2008	10248
+Chile	Female	2009	10891
+Chile	Female	2010	10953
+Chile	Male	1955	3004
+Chile	Male	1956	3189
+Chile	Male	1957	3195
+Chile	Male	1958	3360
+Chile	Male	1959	3857
+Chile	Male	1960	3615
+Chile	Male	1961	3727
+Chile	Male	1962	3787
+Chile	Male	1963	3996
+Chile	Male	1964	3986
+Chile	Male	1965	4092
+Chile	Male	1966	4267
+Chile	Male	1967	4426
+Chile	Male	1968	4621
+Chile	Male	1969	4723
+Chile	Male	1970	4720
+Chile	Male	1971	4893
+Chile	Male	1972	5070
+Chile	Male	1973	5143
+Chile	Male	1974	4882
+Chile	Male	1975	5198
+Chile	Male	1976	5258
+Chile	Male	1977	5264
+Chile	Male	1978	5226
+Chile	Male	1979	5569
+Chile	Male	1980	5610
+Chile	Male	1981	5649
+Chile	Male	1982	5937
+Chile	Male	1984	6025
+Chile	Male	1985	6233
+Chile	Male	1986	6224
+Chile	Male	1987	6371
+Chile	Male	1988	6615
+Chile	Male	1989	6752
+Chile	Male	1990	6935
+Chile	Male	1991	7355
+Chile	Male	1992	7423
+Chile	Male	1993	7760
+Chile	Male	1994	7922
+Chile	Male	1995	8288
+Chile	Male	1996	8431
+Chile	Male	1997	8711
+Chile	Male	1998	8839
+Chile	Male	1999	9094
+Chile	Male	2000	9323
+Chile	Male	2001	9437
+Chile	Male	2002	9852
+Chile	Male	2003	10150
+Chile	Male	2004	10263
+Chile	Male	2005	10585
+Chile	Male	2006	10773
+Chile	Male	2007	10674
+Chile	Male	2008	10840
+Chile	Male	2009	11798
+Chile	Male	2010	12243
+China	Female	1955	614
+China	Female	1956	666
+China	Female	1957	689
+China	Female	1958	863
+China	Female	1959	883
+China	Female	1960	956
+China	Female	1961	1096
+China	Female	1962	1199
+China	Female	1963	1230
+China	Female	1964	1308
+China	Female	1965	1407
+China	Female	1966	1506
+China	Female	1967	1524
+China	Female	1968	1582
+China	Female	1969	1669
+China	Female	1970	1698
+China	Female	1971	1768
+China	Female	1972	1820
+China	Female	1973	1853
+China	Female	1974	1895
+China	Female	1975	2083
+China	Female	1976	2180
+China	Female	1977	2256
+China	Female	1978	2381
+China	Female	1979	2429
+China	Female	1980	2429
+China	Female	1981	2561
+China	Female	1982	2596
+China	Female	1983	2686
+China	Female	1984	2811
+China	Female	1985	2944
+China	Female	1986	3132
+China	Female	1987	44022
+China	Female	1988	44741
+China	Female	1989	53564
+China	Female	1990	48278
+China	Female	1991	52459
+China	Female	1992	53148
+China	Female	1993	53335
+China	Female	1994	53779
+China	Female	1995	51174
+China	Female	1996	51858
+China	Female	1997	55781
+China	Female	1998	56918
+China	Female	1999	62470
+China	Female	2000	62340
+China	Female	2001	4306
+China	Female	2002	4503
+China	Female	2003	4354
+China	Female	2004	4608
+China	Female	2005	4813
+China	Female	2006	4707
+China	Female	2007	4716
+China	Female	2008	4939
+China	Female	2009	5157
+China	Female	2010	5245
+China	Male	1955	621
+China	Male	1956	662
+China	Male	1957	761
+China	Male	1958	950
+China	Male	1959	972
+China	Male	1960	1029
+China	Male	1961	1184
+China	Male	1962	1289
+China	Male	1963	1467
+China	Male	1964	1608
+China	Male	1965	1748
+China	Male	1966	1743
+China	Male	1967	1856
+China	Male	1968	2000
+China	Male	1969	2170
+China	Male	1970	2266
+China	Male	1971	2469
+China	Male	1972	2555
+China	Male	1973	2685
+China	Male	1974	2788
+China	Male	1975	3022
+China	Male	1976	3188
+China	Male	1977	3396
+China	Male	1978	3596
+China	Male	1979	3774
+China	Male	1980	4001
+China	Male	1981	4025
+China	Male	1982	4213
+China	Male	1983	4539
+China	Male	1984	4535
+China	Male	1985	4590
+China	Male	1986	4919
+China	Male	1987	71992
+China	Male	1988	69879
+China	Male	1989	89453
+China	Male	1990	81312
+China	Male	1991	88476
+China	Male	1992	88654
+China	Male	1993	88976
+China	Male	1994	88906
+China	Male	1995	86170
+China	Male	1996	86292
+China	Male	1997	92095
+China	Male	1998	93882
+China	Male	1999	102837
+China	Male	2000	102796
+China	Male	2001	7099
+China	Male	2002	7153
+China	Male	2003	7155
+China	Male	2004	7182
+China	Male	2005	7496
+China	Male	2006	7388
+China	Male	2007	7601
+China	Male	2008	7517
+China	Male	2009	7681
+China	Male	2010	7833
+Colombia	Female	1953	3013
+Colombia	Female	1954	2851
+Colombia	Female	1955	3027
+Colombia	Female	1956	3177
+Colombia	Female	1957	3268
+Colombia	Female	1958	3482
+Colombia	Female	1959	3631
+Colombia	Female	1960	3950
+Colombia	Female	1961	3977
+Colombia	Female	1962	4253
+Colombia	Female	1963	4635
+Colombia	Female	1964	4782
+Colombia	Female	1965	4726
+Colombia	Female	1966	5156
+Colombia	Female	1967	5406
+Colombia	Female	1968	5572
+Colombia	Female	1969	5248
+Colombia	Female	1972	5997
+Colombia	Female	1974	6543
+Colombia	Female	1975	6665
+Colombia	Female	1976	6656
+Colombia	Female	1977	6991
+Colombia	Female	1984	8765
+Colombia	Female	1985	9652
+Colombia	Female	1986	9477
+Colombia	Female	1987	9946
+Colombia	Female	1988	9805
+Colombia	Female	1989	10234
+Colombia	Female	1990	10084
+Colombia	Female	1991	10578
+Colombia	Female	1992	10436
+Colombia	Female	1993	10943
+Colombia	Female	1994	11162
+Colombia	Female	1995	11508
+Colombia	Female	1996	12036
+Colombia	Female	1997	12396
+Colombia	Female	1998	12359
+Colombia	Female	1999	13177
+Colombia	Female	2000	13799
+Colombia	Female	2001	13819
+Colombia	Female	2002	14572
+Colombia	Female	2003	15217
+Colombia	Female	2004	15367
+Colombia	Female	2005	15495
+Colombia	Female	2006	15686
+Colombia	Female	2007	16251
+Colombia	Female	2008	16482
+Colombia	Female	2009	16807
+Colombia	Female	2010	17184
+Colombia	Male	1953	2058
+Colombia	Male	1954	1933
+Colombia	Male	1955	2098
+Colombia	Male	1956	2244
+Colombia	Male	1957	2474
+Colombia	Male	1958	2497
+Colombia	Male	1959	2779
+Colombia	Male	1960	2826
+Colombia	Male	1961	2936
+Colombia	Male	1962	3193
+Colombia	Male	1963	3403
+Colombia	Male	1964	3663
+Colombia	Male	1965	3599
+Colombia	Male	1966	4016
+Colombia	Male	1967	4354
+Colombia	Male	1968	4447
+Colombia	Male	1969	4273
+Colombia	Male	1972	4772
+Colombia	Male	1974	5591
+Colombia	Male	1975	5621
+Colombia	Male	1976	5728
+Colombia	Male	1977	5959
+Colombia	Male	1984	7985
+Colombia	Male	1985	8736
+Colombia	Male	1986	8669
+Colombia	Male	1987	9219
+Colombia	Male	1988	8871
+Colombia	Male	1989	9283
+Colombia	Male	1990	9388
+Colombia	Male	1991	9860
+Colombia	Male	1992	9763
+Colombia	Male	1993	10131
+Colombia	Male	1994	10503
+Colombia	Male	1995	10739
+Colombia	Male	1996	11160
+Colombia	Male	1997	12014
+Colombia	Male	1998	11851
+Colombia	Male	1999	12964
+Colombia	Male	2000	13344
+Colombia	Male	2001	13487
+Colombia	Male	2002	14019
+Colombia	Male	2003	14571
+Colombia	Male	2004	14738
+Colombia	Male	2005	15275
+Colombia	Male	2006	15471
+Colombia	Male	2007	16044
+Colombia	Male	2008	16082
+Colombia	Male	2009	16311
+Colombia	Male	2010	16585
+Costa Rica	Female	1961	442
+Costa Rica	Female	1962	449
+Costa Rica	Female	1963	482
+Costa Rica	Female	1964	491
+Costa Rica	Female	1965	516
+Costa Rica	Female	1966	556
+Costa Rica	Female	1967	584
+Costa Rica	Female	1968	575
+Costa Rica	Female	1969	521
+Costa Rica	Female	1970	552
+Costa Rica	Female	1971	531
+Costa Rica	Female	1972	606
+Costa Rica	Female	1973	562
+Costa Rica	Female	1974	632
+Costa Rica	Female	1975	601
+Costa Rica	Female	1976	652
+Costa Rica	Female	1977	628
+Costa Rica	Female	1978	691
+Costa Rica	Female	1979	681
+Costa Rica	Female	1980	652
+Costa Rica	Female	1981	705
+Costa Rica	Female	1982	784
+Costa Rica	Female	1983	820
+Costa Rica	Female	1985	957
+Costa Rica	Female	1986	987
+Costa Rica	Female	1987	1048
+Costa Rica	Female	1988	1052
+Costa Rica	Female	1989	1024
+Costa Rica	Female	1990	951
+Costa Rica	Female	1991	1082
+Costa Rica	Female	1992	1103
+Costa Rica	Female	1993	1195
+Costa Rica	Female	1994	1206
+Costa Rica	Female	1995	1291
+Costa Rica	Female	1996	1328
+Costa Rica	Female	1997	1305
+Costa Rica	Female	1998	1381
+Costa Rica	Female	1999	1380
+Costa Rica	Female	2000	1400
+Costa Rica	Female	2001	1502
+Costa Rica	Female	2002	1417
+Costa Rica	Female	2003	1542
+Costa Rica	Female	2004	1563
+Costa Rica	Female	2005	1569
+Costa Rica	Female	2006	1621
+Costa Rica	Female	2007	1464
+Costa Rica	Female	2008	1559
+Costa Rica	Female	2009	1651
+Costa Rica	Female	2010	1939
+Costa Rica	Male	1961	426
+Costa Rica	Male	1962	491
+Costa Rica	Male	1963	555
+Costa Rica	Male	1964	553
+Costa Rica	Male	1965	604
+Costa Rica	Male	1966	582
+Costa Rica	Male	1967	577
+Costa Rica	Male	1968	618
+Costa Rica	Male	1969	616
+Costa Rica	Male	1970	559
+Costa Rica	Male	1971	605
+Costa Rica	Male	1972	637
+Costa Rica	Male	1973	650
+Costa Rica	Male	1974	692
+Costa Rica	Male	1975	754
+Costa Rica	Male	1976	726
+Costa Rica	Male	1977	777
+Costa Rica	Male	1978	749
+Costa Rica	Male	1979	808
+Costa Rica	Male	1980	848
+Costa Rica	Male	1981	848
+Costa Rica	Male	1982	969
+Costa Rica	Male	1983	1028
+Costa Rica	Male	1985	1132
+Costa Rica	Male	1986	1121
+Costa Rica	Male	1987	1188
+Costa Rica	Male	1988	1273
+Costa Rica	Male	1989	1330
+Costa Rica	Male	1990	1250
+Costa Rica	Male	1991	1223
+Costa Rica	Male	1992	1409
+Costa Rica	Male	1993	1366
+Costa Rica	Male	1994	1405
+Costa Rica	Male	1995	1471
+Costa Rica	Male	1996	1511
+Costa Rica	Male	1997	1496
+Costa Rica	Male	1998	1559
+Costa Rica	Male	1999	1675
+Costa Rica	Male	2000	1618
+Costa Rica	Male	2001	1834
+Costa Rica	Male	2002	1705
+Costa Rica	Male	2003	1849
+Costa Rica	Male	2004	1986
+Costa Rica	Male	2005	1792
+Costa Rica	Male	2006	1906
+Costa Rica	Male	2007	1926
+Costa Rica	Male	2008	1887
+Costa Rica	Male	2009	1920
+Costa Rica	Male	2010	2290
+Croatia	Female	1985	3785
+Croatia	Female	1986	3872
+Croatia	Female	1987	4012
+Croatia	Female	1988	4223
+Croatia	Female	1989	4389
+Croatia	Female	1990	4488
+Croatia	Female	1991	4327
+Croatia	Female	1992	4197
+Croatia	Female	1993	4233
+Croatia	Female	1994	4168
+Croatia	Female	1995	4239
+Croatia	Female	1996	4308
+Croatia	Female	1997	4392
+Croatia	Female	1998	4716
+Croatia	Female	1999	4641
+Croatia	Female	2000	4850
+Croatia	Female	2001	4784
+Croatia	Female	2002	4998
+Croatia	Female	2003	5024
+Croatia	Female	2004	4979
+Croatia	Female	2005	5209
+Croatia	Female	2006	5186
+Croatia	Female	2007	5174
+Croatia	Female	2008	5476
+Croatia	Female	2009	5586
+Croatia	Female	2010	5731
+Croatia	Male	1985	5535
+Croatia	Male	1986	5409
+Croatia	Male	1987	5695
+Croatia	Male	1988	5967
+Croatia	Male	1989	6092
+Croatia	Male	1990	6257
+Croatia	Male	1991	6149
+Croatia	Male	1992	5958
+Croatia	Male	1993	6141
+Croatia	Male	1994	6148
+Croatia	Male	1995	6181
+Croatia	Male	1996	6253
+Croatia	Male	1997	6650
+Croatia	Male	1998	6696
+Croatia	Male	1999	6899
+Croatia	Male	2000	6831
+Croatia	Male	2001	6939
+Croatia	Male	2002	7076
+Croatia	Male	2003	7349
+Croatia	Male	2004	7305
+Croatia	Male	2005	7430
+Croatia	Male	2006	7366
+Croatia	Male	2007	7506
+Croatia	Male	2008	7608
+Croatia	Male	2009	7732
+Croatia	Male	2010	7753
+Cuba	Female	1964	3016
+Cuba	Female	1968	3281
+Cuba	Female	1969	3188
+Cuba	Female	1970	3349
+Cuba	Female	1971	3424
+Cuba	Female	1972	3594
+Cuba	Female	1973	3548
+Cuba	Female	1974	3601
+Cuba	Female	1975	3790
+Cuba	Female	1976	4020
+Cuba	Female	1977	4025
+Cuba	Female	1978	3820
+Cuba	Female	1979	4013
+Cuba	Female	1980	4266
+Cuba	Female	1981	4265
+Cuba	Female	1982	4380
+Cuba	Female	1983	4524
+Cuba	Female	1984	4884
+Cuba	Female	1985	4892
+Cuba	Female	1986	4930
+Cuba	Female	1987	5091
+Cuba	Female	1988	5326
+Cuba	Female	1989	5483
+Cuba	Female	1990	5712
+Cuba	Female	1991	5660
+Cuba	Female	1992	5931
+Cuba	Female	1993	5843
+Cuba	Female	1994	6082
+Cuba	Female	1995	6132
+Cuba	Female	1996	6476
+Cuba	Female	1997	6416
+Cuba	Female	1998	6567
+Cuba	Female	1999	7068
+Cuba	Female	2000	7051
+Cuba	Female	2001	7371
+Cuba	Female	2002	7493
+Cuba	Female	2003	7932
+Cuba	Female	2004	7859
+Cuba	Female	2005	8101
+Cuba	Female	2006	8464
+Cuba	Female	2007	8810
+Cuba	Female	2008	9211
+Cuba	Female	2009	9165
+Cuba	Female	2010	9481
+Cuba	Male	1964	4369
+Cuba	Male	1968	4710
+Cuba	Male	1969	4886
+Cuba	Male	1970	5109
+Cuba	Male	1971	5249
+Cuba	Male	1972	5334
+Cuba	Male	1973	5449
+Cuba	Male	1974	5508
+Cuba	Male	1975	5451
+Cuba	Male	1976	5807
+Cuba	Male	1977	5989
+Cuba	Male	1978	5788
+Cuba	Male	1979	6076
+Cuba	Male	1980	6150
+Cuba	Male	1981	6416
+Cuba	Male	1982	6326
+Cuba	Male	1983	6671
+Cuba	Male	1984	6863
+Cuba	Male	1985	6901
+Cuba	Male	1986	7113
+Cuba	Male	1987	7220
+Cuba	Male	1988	7649
+Cuba	Male	1989	7751
+Cuba	Male	1990	7940
+Cuba	Male	1991	7979
+Cuba	Male	1992	8181
+Cuba	Male	1993	8192
+Cuba	Male	1994	8381
+Cuba	Male	1995	8484
+Cuba	Male	1996	8645
+Cuba	Male	1997	8783
+Cuba	Male	1998	9127
+Cuba	Male	1999	9353
+Cuba	Male	2000	9375
+Cuba	Male	2001	9459
+Cuba	Male	2002	10015
+Cuba	Male	2003	10387
+Cuba	Male	2004	10914
+Cuba	Male	2005	11099
+Cuba	Male	2006	11324
+Cuba	Male	2007	11651
+Cuba	Male	2008	12098
+Cuba	Male	2009	12266
+Cuba	Male	2010	12833
+Czech Rep.	Female	1953	9666
+Czech Rep.	Female	1954	9922
+Czech Rep.	Female	1955	10203
+Czech Rep.	Female	1956	10227
+Czech Rep.	Female	1957	10666
+Czech Rep.	Female	1958	10626
+Czech Rep.	Female	1959	11026
+Czech Rep.	Female	1960	11289
+Czech Rep.	Female	1961	11518
+Czech Rep.	Female	1962	11638
+Czech Rep.	Female	1963	11963
+Czech Rep.	Female	1964	12591
+Czech Rep.	Female	1965	12662
+Czech Rep.	Female	1966	12803
+Czech Rep.	Female	1967	13065
+Czech Rep.	Female	1968	13389
+Czech Rep.	Female	1969	13368
+Czech Rep.	Female	1970	13510
+Czech Rep.	Female	1971	13896
+Czech Rep.	Female	1972	14277
+Czech Rep.	Female	1973	14124
+Czech Rep.	Female	1974	14207
+Czech Rep.	Female	1975	14207
+Czech Rep.	Female	1976	14188
+Czech Rep.	Female	1977	14594
+Czech Rep.	Female	1978	14858
+Czech Rep.	Female	1979	14886
+Czech Rep.	Female	1980	15004
+Czech Rep.	Female	1981	14878
+Czech Rep.	Female	1982	14852
+Czech Rep.	Female	1983	15288
+Czech Rep.	Female	1984	15437
+Czech Rep.	Female	1985	15262
+Czech Rep.	Female	1986	27988
+Czech Rep.	Female	1987	27459
+Czech Rep.	Female	1988	28351
+Czech Rep.	Female	1989	28372
+Czech Rep.	Female	1990	28786
+Czech Rep.	Female	1991	28952
+Czech Rep.	Female	1992	12245
+Czech Rep.	Female	1993	12605
+Czech Rep.	Female	1994	12473
+Czech Rep.	Female	1995	12826
+Czech Rep.	Female	1996	12208
+Czech Rep.	Female	1997	12354
+Czech Rep.	Female	1998	12322
+Czech Rep.	Female	1999	12613
+Czech Rep.	Female	2000	12661
+Czech Rep.	Female	2001	12768
+Czech Rep.	Female	2002	12731
+Czech Rep.	Female	2003	12987
+Czech Rep.	Female	2004	12950
+Czech Rep.	Female	2005	12466
+Czech Rep.	Female	2006	12541
+Czech Rep.	Female	2007	12180
+Czech Rep.	Female	2008	12238
+Czech Rep.	Female	2009	12182
+Czech Rep.	Female	2010	12169
+Czech Rep.	Male	1953	10137
+Czech Rep.	Male	1954	10656
+Czech Rep.	Male	1955	11178
+Czech Rep.	Male	1956	11733
+Czech Rep.	Male	1957	12117
+Czech Rep.	Male	1958	12543
+Czech Rep.	Male	1959	13039
+Czech Rep.	Male	1960	13444
+Czech Rep.	Male	1961	13967
+Czech Rep.	Male	1962	14619
+Czech Rep.	Male	1963	15347
+Czech Rep.	Male	1964	15829
+Czech Rep.	Male	1965	16237
+Czech Rep.	Male	1966	16735
+Czech Rep.	Male	1967	17140
+Czech Rep.	Male	1968	17509
+Czech Rep.	Male	1969	17755
+Czech Rep.	Male	1970	17919
+Czech Rep.	Male	1971	18507
+Czech Rep.	Male	1972	18323
+Czech Rep.	Male	1973	18732
+Czech Rep.	Male	1974	19348
+Czech Rep.	Male	1975	19398
+Czech Rep.	Male	1976	19130
+Czech Rep.	Male	1977	19836
+Czech Rep.	Male	1978	19746
+Czech Rep.	Male	1979	19960
+Czech Rep.	Male	1980	20107
+Czech Rep.	Male	1981	20039
+Czech Rep.	Male	1982	20003
+Czech Rep.	Male	1983	20448
+Czech Rep.	Male	1984	20542
+Czech Rep.	Male	1985	20704
+Czech Rep.	Male	1986	36667
+Czech Rep.	Male	1987	36648
+Czech Rep.	Male	1988	37414
+Czech Rep.	Male	1989	37425
+Czech Rep.	Male	1990	37870
+Czech Rep.	Male	1991	37696
+Czech Rep.	Male	1992	15621
+Czech Rep.	Male	1993	15330
+Czech Rep.	Male	1994	15580
+Czech Rep.	Male	1995	15636
+Czech Rep.	Male	1996	15534
+Czech Rep.	Male	1997	15482
+Czech Rep.	Male	1998	15544
+Czech Rep.	Male	1999	15426
+Czech Rep.	Male	2000	15878
+Czech Rep.	Male	2001	15527
+Czech Rep.	Male	2002	15978
+Czech Rep.	Male	2003	16208
+Czech Rep.	Male	2004	16218
+Czech Rep.	Male	2005	15567
+Czech Rep.	Male	2006	15354
+Czech Rep.	Male	2007	15179
+Czech Rep.	Male	2008	15333
+Czech Rep.	Male	2009	15498
+Czech Rep.	Male	2010	15667
+Denmark	Female	1952	3980
+Denmark	Female	1953	4161
+Denmark	Female	1954	4306
+Denmark	Female	1955	4253
+Denmark	Female	1956	4378
+Denmark	Female	1957	4569
+Denmark	Female	1958	4586
+Denmark	Female	1959	4724
+Denmark	Female	1960	4764
+Denmark	Female	1961	4895
+Denmark	Female	1962	4875
+Denmark	Female	1963	5088
+Denmark	Female	1964	5062
+Denmark	Female	1965	5221
+Denmark	Female	1966	5072
+Denmark	Female	1967	4975
+Denmark	Female	1968	5048
+Denmark	Female	1969	5199
+Denmark	Female	1970	5340
+Denmark	Female	1971	5471
+Denmark	Female	1972	5604
+Denmark	Female	1973	5463
+Denmark	Female	1974	5440
+Denmark	Female	1975	5694
+Denmark	Female	1976	6085
+Denmark	Female	1977	5988
+Denmark	Female	1978	6174
+Denmark	Female	1979	6438
+Denmark	Female	1980	6544
+Denmark	Female	1981	6568
+Denmark	Female	1982	6521
+Denmark	Female	1983	6994
+Denmark	Female	1984	6927
+Denmark	Female	1985	6952
+Denmark	Female	1986	7062
+Denmark	Female	1987	7074
+Denmark	Female	1988	7335
+Denmark	Female	1989	7346
+Denmark	Female	1990	7211
+Denmark	Female	1991	7448
+Denmark	Female	1992	7420
+Denmark	Female	1993	7528
+Denmark	Female	1994	7620
+Denmark	Female	1995	7753
+Denmark	Female	1996	7426
+Denmark	Female	1997	7641
+Denmark	Female	1998	7513
+Denmark	Female	1999	7742
+Denmark	Female	2000	7646
+Denmark	Female	2001	7717
+Denmark	Female	2002	7425
+Denmark	Female	2003	7369
+Denmark	Female	2004	7335
+Denmark	Female	2005	7522
+Denmark	Female	2006	7557
+Denmark	Female	2007	7489
+Denmark	Female	2008	7445
+Denmark	Female	2009	7210
+Denmark	Female	2010	7389
+Denmark	Male	1952	3794
+Denmark	Male	1953	3953
+Denmark	Male	1954	4064
+Denmark	Male	1955	4209
+Denmark	Male	1956	4386
+Denmark	Male	1957	4440
+Denmark	Male	1958	4514
+Denmark	Male	1959	4887
+Denmark	Male	1960	4833
+Denmark	Male	1961	4960
+Denmark	Male	1962	5162
+Denmark	Male	1963	5283
+Denmark	Male	1964	5425
+Denmark	Male	1965	5511
+Denmark	Male	1966	5313
+Denmark	Male	1967	5337
+Denmark	Male	1968	5362
+Denmark	Male	1969	5616
+Denmark	Male	1970	5598
+Denmark	Male	1971	6002
+Denmark	Male	1972	6211
+Denmark	Male	1973	6182
+Denmark	Male	1974	6179
+Denmark	Male	1975	6191
+Denmark	Male	1976	6396
+Denmark	Male	1977	6511
+Denmark	Male	1978	6848
+Denmark	Male	1979	6987
+Denmark	Male	1980	7288
+Denmark	Male	1981	7217
+Denmark	Male	1982	7253
+Denmark	Male	1983	7741
+Denmark	Male	1984	7598
+Denmark	Male	1985	7564
+Denmark	Male	1986	7568
+Denmark	Male	1987	7613
+Denmark	Male	1988	7743
+Denmark	Male	1989	7598
+Denmark	Male	1990	7814
+Denmark	Male	1991	7489
+Denmark	Male	1992	7689
+Denmark	Male	1993	7958
+Denmark	Male	1994	8061
+Denmark	Male	1995	7986
+Denmark	Male	1996	7812
+Denmark	Male	1997	7619
+Denmark	Male	1998	7679
+Denmark	Male	1999	7709
+Denmark	Male	2000	7838
+Denmark	Male	2001	7741
+Denmark	Male	2002	7548
+Denmark	Male	2003	7564
+Denmark	Male	2004	7876
+Denmark	Male	2005	7776
+Denmark	Male	2006	8071
+Denmark	Male	2007	7605
+Denmark	Male	2008	7702
+Denmark	Male	2009	7677
+Denmark	Male	2010	7940
+Dominican Rep.	Female	1965	289
+Dominican Rep.	Female	1966	310
+Dominican Rep.	Female	1967	408
+Dominican Rep.	Female	1968	397
+Dominican Rep.	Female	1969	392
+Dominican Rep.	Female	1970	387
+Dominican Rep.	Female	1971	417
+Dominican Rep.	Female	1972	420
+Dominican Rep.	Female	1973	433
+Dominican Rep.	Female	1974	448
+Dominican Rep.	Female	1975	471
+Dominican Rep.	Female	1976	519
+Dominican Rep.	Female	1977	549
+Dominican Rep.	Female	1978	526
+Dominican Rep.	Female	1979	591
+Dominican Rep.	Female	1980	645
+Dominican Rep.	Female	1981	690
+Dominican Rep.	Female	1982	796
+Dominican Rep.	Female	1983	887
+Dominican Rep.	Female	1984	929
+Dominican Rep.	Female	1985	874
+Dominican Rep.	Female	1986	772
+Dominican Rep.	Female	1987	878
+Dominican Rep.	Female	1988	855
+Dominican Rep.	Female	1989	887
+Dominican Rep.	Female	1990	874
+Dominican Rep.	Female	1991	916
+Dominican Rep.	Female	1992	904
+Dominican Rep.	Female	1994	980
+Dominican Rep.	Female	1995	1023
+Dominican Rep.	Female	1996	1135
+Dominican Rep.	Female	1997	1270
+Dominican Rep.	Female	1998	1474
+Dominican Rep.	Female	1999	1181
+Dominican Rep.	Female	2000	1234
+Dominican Rep.	Female	2001	1400
+Dominican Rep.	Female	2003	1508
+Dominican Rep.	Female	2004	1642
+Dominican Rep.	Female	2005	1630
+Dominican Rep.	Female	2006	1580
+Dominican Rep.	Female	2007	1402
+Dominican Rep.	Female	2009	1510
+Dominican Rep.	Female	2010	1844
+Dominican Rep.	Male	1965	257
+Dominican Rep.	Male	1966	290
+Dominican Rep.	Male	1967	356
+Dominican Rep.	Male	1968	388
+Dominican Rep.	Male	1969	373
+Dominican Rep.	Male	1970	426
+Dominican Rep.	Male	1971	465
+Dominican Rep.	Male	1972	439
+Dominican Rep.	Male	1973	422
+Dominican Rep.	Male	1974	434
+Dominican Rep.	Male	1975	494
+Dominican Rep.	Male	1976	528
+Dominican Rep.	Male	1977	555
+Dominican Rep.	Male	1978	553
+Dominican Rep.	Male	1979	565
+Dominican Rep.	Male	1980	603
+Dominican Rep.	Male	1981	732
+Dominican Rep.	Male	1982	785
+Dominican Rep.	Male	1983	822
+Dominican Rep.	Male	1984	914
+Dominican Rep.	Male	1985	886
+Dominican Rep.	Male	1986	820
+Dominican Rep.	Male	1987	941
+Dominican Rep.	Male	1988	852
+Dominican Rep.	Male	1989	919
+Dominican Rep.	Male	1990	988
+Dominican Rep.	Male	1991	939
+Dominican Rep.	Male	1992	959
+Dominican Rep.	Male	1994	1066
+Dominican Rep.	Male	1995	1148
+Dominican Rep.	Male	1996	1293
+Dominican Rep.	Male	1997	1531
+Dominican Rep.	Male	1998	1572
+Dominican Rep.	Male	1999	2025
+Dominican Rep.	Male	2000	1624
+Dominican Rep.	Male	2001	1872
+Dominican Rep.	Male	2003	1962
+Dominican Rep.	Male	2004	2040
+Dominican Rep.	Male	2005	2096
+Dominican Rep.	Male	2006	1897
+Dominican Rep.	Male	2007	1951
+Dominican Rep.	Male	2009	2155
+Dominican Rep.	Male	2010	2317
+Ecuador	Female	1968	1081
+Ecuador	Female	1969	1145
+Ecuador	Female	1970	1208
+Ecuador	Female	1971	1177
+Ecuador	Female	1972	1203
+Ecuador	Female	1973	1290
+Ecuador	Female	1974	1297
+Ecuador	Female	1975	1348
+Ecuador	Female	1977	1395
+Ecuador	Female	1978	1508
+Ecuador	Female	1979	1724
+Ecuador	Female	1980	1790
+Ecuador	Female	1981	1921
+Ecuador	Female	1982	2103
+Ecuador	Female	1983	2113
+Ecuador	Female	1984	2119
+Ecuador	Female	1985	2358
+Ecuador	Female	1986	2380
+Ecuador	Female	1987	2508
+Ecuador	Female	1988	2617
+Ecuador	Female	1989	2624
+Ecuador	Female	1990	2680
+Ecuador	Female	1991	2725
+Ecuador	Female	1992	2828
+Ecuador	Female	1993	2874
+Ecuador	Female	1994	2931
+Ecuador	Female	1995	3180
+Ecuador	Female	1996	3198
+Ecuador	Female	1997	3395
+Ecuador	Female	1998	3362
+Ecuador	Female	1999	3452
+Ecuador	Female	2000	3447
+Ecuador	Female	2001	3566
+Ecuador	Female	2002	3477
+Ecuador	Female	2003	3553
+Ecuador	Female	2004	3738
+Ecuador	Female	2005	4057
+Ecuador	Female	2006	4259
+Ecuador	Female	2007	4307
+Ecuador	Female	2008	4396
+Ecuador	Female	2009	4552
+Ecuador	Female	2010	4732
+Ecuador	Male	1968	853
+Ecuador	Male	1969	979
+Ecuador	Male	1970	944
+Ecuador	Male	1971	973
+Ecuador	Male	1972	967
+Ecuador	Male	1973	1013
+Ecuador	Male	1974	1096
+Ecuador	Male	1975	1097
+Ecuador	Male	1977	1194
+Ecuador	Male	1978	1266
+Ecuador	Male	1979	1470
+Ecuador	Male	1980	1571
+Ecuador	Male	1981	1659
+Ecuador	Male	1982	1831
+Ecuador	Male	1983	1884
+Ecuador	Male	1984	2011
+Ecuador	Male	1985	2106
+Ecuador	Male	1986	2029
+Ecuador	Male	1987	2197
+Ecuador	Male	1988	2304
+Ecuador	Male	1989	2414
+Ecuador	Male	1990	2394
+Ecuador	Male	1991	2510
+Ecuador	Male	1992	2533
+Ecuador	Male	1993	2638
+Ecuador	Male	1994	2586
+Ecuador	Male	1995	2628
+Ecuador	Male	1996	2866
+Ecuador	Male	1997	2942
+Ecuador	Male	1998	3082
+Ecuador	Male	1999	3197
+Ecuador	Male	2000	3240
+Ecuador	Male	2001	3245
+Ecuador	Male	2002	3256
+Ecuador	Male	2003	3308
+Ecuador	Male	2004	3639
+Ecuador	Male	2005	3792
+Ecuador	Male	2006	3970
+Ecuador	Male	2007	4069
+Ecuador	Male	2008	4327
+Ecuador	Male	2009	4272
+Ecuador	Male	2010	4583
+Egypt	Female	1955	1043
+Egypt	Female	1956	1125
+Egypt	Female	1957	1068
+Egypt	Female	1958	1245
+Egypt	Female	1959	1346
+Egypt	Female	1960	1354
+Egypt	Female	1961	1348
+Egypt	Female	1962	1454
+Egypt	Female	2000	6773
+Egypt	Female	2001	7764
+Egypt	Female	2002	8446
+Egypt	Female	2003	9130
+Egypt	Female	2004	9530
+Egypt	Female	2005	9904
+Egypt	Female	2006	10219
+Egypt	Female	2007	10149
+Egypt	Female	2008	10915
+Egypt	Female	2009	11357
+Egypt	Female	2010	12042
+Egypt	Male	1955	1596
+Egypt	Male	1956	1791
+Egypt	Male	1957	1583
+Egypt	Male	1958	1845
+Egypt	Male	1959	1951
+Egypt	Male	1960	1999
+Egypt	Male	1961	2092
+Egypt	Male	1962	2360
+Egypt	Male	2000	9544
+Egypt	Male	2001	10851
+Egypt	Male	2002	11538
+Egypt	Male	2003	12716
+Egypt	Male	2004	12957
+Egypt	Male	2005	13136
+Egypt	Male	2006	13474
+Egypt	Male	2007	13514
+Egypt	Male	2008	14262
+Egypt	Male	2009	15139
+Egypt	Male	2010	15651
+El Salvador	Female	1950	262
+El Salvador	Female	1951	308
+El Salvador	Female	1952	260
+El Salvador	Female	1953	255
+El Salvador	Female	1954	295
+El Salvador	Female	1955	285
+El Salvador	Female	1956	294
+El Salvador	Female	1957	288
+El Salvador	Female	1958	321
+El Salvador	Female	1959	356
+El Salvador	Female	1960	308
+El Salvador	Female	1961	360
+El Salvador	Female	1962	349
+El Salvador	Female	1963	388
+El Salvador	Female	1964	385
+El Salvador	Female	1965	390
+El Salvador	Female	1966	389
+El Salvador	Female	1967	441
+El Salvador	Female	1968	402
+El Salvador	Female	1969	420
+El Salvador	Female	1970	467
+El Salvador	Female	1971	445
+El Salvador	Female	1972	494
+El Salvador	Female	1973	477
+El Salvador	Female	1974	453
+El Salvador	Female	1981	596
+El Salvador	Female	1982	601
+El Salvador	Female	1983	636
+El Salvador	Female	1984	606
+El Salvador	Female	1990	1052
+El Salvador	Female	1991	1103
+El Salvador	Female	1992	1236
+El Salvador	Female	1993	1209
+El Salvador	Female	1995	1250
+El Salvador	Female	1996	1493
+El Salvador	Female	1997	1688
+El Salvador	Female	1998	1576
+El Salvador	Female	1999	1600
+El Salvador	Female	2000	1731
+El Salvador	Female	2001	1808
+El Salvador	Female	2002	1839
+El Salvador	Female	2003	1862
+El Salvador	Female	2004	1903
+El Salvador	Female	2005	1966
+El Salvador	Female	2006	1918
+El Salvador	Female	2007	1978
+El Salvador	Female	2008	1976
+El Salvador	Female	2009	1971
+El Salvador	Female	2010	1959
+El Salvador	Male	1950	135
+El Salvador	Male	1951	145
+El Salvador	Male	1952	141
+El Salvador	Male	1953	138
+El Salvador	Male	1954	153
+El Salvador	Male	1955	141
+El Salvador	Male	1956	144
+El Salvador	Male	1957	168
+El Salvador	Male	1958	172
+El Salvador	Male	1959	185
+El Salvador	Male	1960	186
+El Salvador	Male	1961	201
+El Salvador	Male	1962	218
+El Salvador	Male	1963	189
+El Salvador	Male	1964	218
+El Salvador	Male	1965	204
+El Salvador	Male	1966	244
+El Salvador	Male	1967	239
+El Salvador	Male	1968	228
+El Salvador	Male	1969	234
+El Salvador	Male	1970	238
+El Salvador	Male	1971	246
+El Salvador	Male	1972	289
+El Salvador	Male	1973	290
+El Salvador	Male	1974	276
+El Salvador	Male	1981	362
+El Salvador	Male	1982	392
+El Salvador	Male	1983	359
+El Salvador	Male	1984	420
+El Salvador	Male	1990	648
+El Salvador	Male	1991	765
+El Salvador	Male	1992	774
+El Salvador	Male	1993	853
+El Salvador	Male	1995	783
+El Salvador	Male	1996	989
+El Salvador	Male	1997	1057
+El Salvador	Male	1998	1112
+El Salvador	Male	1999	1128
+El Salvador	Male	2000	1231
+El Salvador	Male	2001	1301
+El Salvador	Male	2002	1341
+El Salvador	Male	2003	1363
+El Salvador	Male	2004	1353
+El Salvador	Male	2005	1433
+El Salvador	Male	2006	1471
+El Salvador	Male	2007	1477
+El Salvador	Male	2008	1455
+El Salvador	Male	2009	1485
+El Salvador	Male	2010	1450
+Estonia	Female	1981	1306
+Estonia	Female	1982	1304
+Estonia	Female	1985	1392
+Estonia	Female	1986	1352
+Estonia	Female	1987	1401
+Estonia	Female	1988	1410
+Estonia	Female	1989	1509
+Estonia	Female	1990	1468
+Estonia	Female	1991	1570
+Estonia	Female	1992	1506
+Estonia	Female	1993	1545
+Estonia	Female	1994	1503
+Estonia	Female	1995	1444
+Estonia	Female	1996	1521
+Estonia	Female	1997	1529
+Estonia	Female	1998	1525
+Estonia	Female	1999	1511
+Estonia	Female	2000	1559
+Estonia	Female	2001	1505
+Estonia	Female	2002	1562
+Estonia	Female	2003	1505
+Estonia	Female	2004	1574
+Estonia	Female	2005	1542
+Estonia	Female	2006	1613
+Estonia	Female	2007	1582
+Estonia	Female	2008	1638
+Estonia	Female	2009	1633
+Estonia	Female	2010	1606
+Estonia	Male	1981	1424
+Estonia	Male	1982	1468
+Estonia	Male	1985	1562
+Estonia	Male	1986	1595
+Estonia	Male	1987	1578
+Estonia	Male	1988	1688
+Estonia	Male	1989	1728
+Estonia	Male	1990	1684
+Estonia	Male	1991	1897
+Estonia	Male	1992	1817
+Estonia	Male	1993	1874
+Estonia	Male	1994	1768
+Estonia	Male	1995	1835
+Estonia	Male	1996	1763
+Estonia	Male	1997	1800
+Estonia	Male	1998	1882
+Estonia	Male	1999	1730
+Estonia	Male	2000	1807
+Estonia	Male	2001	1796
+Estonia	Male	2002	1863
+Estonia	Male	2003	1845
+Estonia	Male	2004	1890
+Estonia	Male	2005	1937
+Estonia	Male	2006	1923
+Estonia	Male	2007	1943
+Estonia	Male	2008	1910
+Estonia	Male	2009	1905
+Estonia	Male	2010	1949
+Finland	Female	1952	2956
+Finland	Female	1953	2978
+Finland	Female	1954	2924
+Finland	Female	1955	2882
+Finland	Female	1956	3002
+Finland	Female	1957	3115
+Finland	Female	1958	3072
+Finland	Female	1959	3083
+Finland	Female	1960	3184
+Finland	Female	1961	3167
+Finland	Female	1962	3025
+Finland	Female	1963	3245
+Finland	Female	1964	3292
+Finland	Female	1965	3240
+Finland	Female	1966	3287
+Finland	Female	1967	3275
+Finland	Female	1968	3398
+Finland	Female	1969	3436
+Finland	Female	1970	3397
+Finland	Female	1971	3508
+Finland	Female	1972	3577
+Finland	Female	1973	3539
+Finland	Female	1974	3656
+Finland	Female	1975	3668
+Finland	Female	1976	3722
+Finland	Female	1977	3856
+Finland	Female	1978	3902
+Finland	Female	1979	4124
+Finland	Female	1980	4041
+Finland	Female	1981	4145
+Finland	Female	1982	4243
+Finland	Female	1983	4414
+Finland	Female	1984	4477
+Finland	Female	1985	4483
+Finland	Female	1986	4600
+Finland	Female	1987	4567
+Finland	Female	1988	4636
+Finland	Female	1989	4739
+Finland	Female	1990	4766
+Finland	Female	1991	4658
+Finland	Female	1992	4830
+Finland	Female	1993	4903
+Finland	Female	1994	4666
+Finland	Female	1995	4869
+Finland	Female	1996	4689
+Finland	Female	1997	4980
+Finland	Female	1998	4930
+Finland	Female	1999	4856
+Finland	Female	2000	5030
+Finland	Female	2001	4967
+Finland	Female	2002	4877
+Finland	Female	2003	5039
+Finland	Female	2004	4982
+Finland	Female	2005	5075
+Finland	Female	2006	5039
+Finland	Female	2007	5144
+Finland	Female	2008	5283
+Finland	Female	2009	5186
+Finland	Female	2010	5465
+Finland	Male	1952	3018
+Finland	Male	1953	3179
+Finland	Male	1954	3167
+Finland	Male	1955	3303
+Finland	Male	1956	3280
+Finland	Male	1957	3503
+Finland	Male	1958	3505
+Finland	Male	1959	3607
+Finland	Male	1960	3736
+Finland	Male	1961	3784
+Finland	Male	1962	3846
+Finland	Male	1963	3888
+Finland	Male	1964	3994
+Finland	Male	1965	3967
+Finland	Male	1966	3992
+Finland	Male	1967	4076
+Finland	Male	1968	4309
+Finland	Male	1969	4379
+Finland	Male	1970	4386
+Finland	Male	1971	4534
+Finland	Male	1972	4368
+Finland	Male	1973	4497
+Finland	Male	1974	4570
+Finland	Male	1975	4513
+Finland	Male	1976	4820
+Finland	Male	1977	4665
+Finland	Male	1978	4894
+Finland	Male	1979	4847
+Finland	Male	1980	4933
+Finland	Male	1981	4955
+Finland	Male	1982	4815
+Finland	Male	1983	5025
+Finland	Male	1984	5025
+Finland	Male	1985	5055
+Finland	Male	1986	4938
+Finland	Male	1987	4976
+Finland	Male	1988	4994
+Finland	Male	1989	5018
+Finland	Male	1990	5043
+Finland	Male	1991	4968
+Finland	Male	1992	5154
+Finland	Male	1993	5172
+Finland	Male	1994	5117
+Finland	Male	1995	5173
+Finland	Male	1996	5375
+Finland	Male	1997	5176
+Finland	Male	1998	5321
+Finland	Male	1999	5334
+Finland	Male	2000	5206
+Finland	Male	2001	5360
+Finland	Male	2002	5347
+Finland	Male	2003	5390
+Finland	Male	2004	5516
+Finland	Male	2005	5519
+Finland	Male	2006	5740
+Finland	Male	2007	5706
+Finland	Male	2008	5680
+Finland	Male	2009	5810
+Finland	Male	2010	6117
+France	Female	1950	36994
+France	Female	1952	38742
+France	Female	1953	38652
+France	Female	1954	39168
+France	Female	1955	39885
+France	Female	1956	40294
+France	Female	1957	40819
+France	Female	1958	41405
+France	Female	1959	42317
+France	Female	1960	42657
+France	Female	1961	42599
+France	Female	1962	43765
+France	Female	1963	44838
+France	Female	1964	45223
+France	Female	1965	45318
+France	Female	1966	46047
+France	Female	1967	46227
+France	Female	1968	46865
+France	Female	1969	46627
+France	Female	1970	46189
+France	Female	1971	47087
+France	Female	1972	47894
+France	Female	1973	48062
+France	Female	1974	48768
+France	Female	1975	49058
+France	Female	1976	49110
+France	Female	1977	48821
+France	Female	1978	49227
+France	Female	1979	49645
+France	Female	1980	49888
+France	Female	1981	50783
+France	Female	1982	50930
+France	Female	1983	51636
+France	Female	1984	51892
+France	Female	1985	51697
+France	Female	1986	52074
+France	Female	1987	52925
+France	Female	1988	53698
+France	Female	1989	54235
+France	Female	1990	53746
+France	Female	1991	54275
+France	Female	1992	55031
+France	Female	1993	55864
+France	Female	1994	55163
+France	Female	1995	56208
+France	Female	1996	56499
+France	Female	1997	55963
+France	Female	1998	56047
+France	Female	1999	56946
+France	Female	2000	56931
+France	Female	2001	57463
+France	Female	2002	58600
+France	Female	2003	59033
+France	Female	2004	58966
+France	Female	2005	60121
+France	Female	2006	60589
+France	Female	2007	60578
+France	Female	2008	62515
+France	Female	2009	63154
+France	Female	2010	63357
+France	Male	1950	35619
+France	Male	1952	37676
+France	Male	1953	38243
+France	Male	1954	38887
+France	Male	1955	39672
+France	Male	1956	41204
+France	Male	1957	42763
+France	Male	1958	44143
+France	Male	1959	44936
+France	Male	1960	46946
+France	Male	1961	48530
+France	Male	1962	49984
+France	Male	1963	52410
+France	Male	1964	53403
+France	Male	1965	54290
+France	Male	1966	55993
+France	Male	1967	57142
+France	Male	1968	58914
+France	Male	1969	59592
+France	Male	1970	59117
+France	Male	1971	61315
+France	Male	1972	63242
+France	Male	1973	64270
+France	Male	1974	66783
+France	Male	1975	67869
+France	Male	1976	70133
+France	Male	1977	70695
+France	Male	1978	72358
+France	Male	1979	73562
+France	Male	1980	74459
+France	Male	1981	75849
+France	Male	1982	76250
+France	Male	1983	77284
+France	Male	1984	79041
+France	Male	1985	80246
+France	Male	1986	80934
+France	Male	1987	82341
+France	Male	1988	83207
+France	Male	1989	84248
+France	Male	1990	84202
+France	Male	1991	85035
+France	Male	1992	85949
+France	Male	1993	86848
+France	Male	1994	85571
+France	Male	1995	86427
+France	Male	1996	87205
+France	Male	1997	86655
+France	Male	1998	87136
+France	Male	1999	86903
+France	Male	2000	86829
+France	Male	2001	87346
+France	Male	2002	87917
+France	Male	2003	88201
+France	Male	2004	87619
+France	Male	2005	88871
+France	Male	2006	88612
+France	Male	2007	89159
+France	Male	2008	89143
+France	Male	2009	90132
+France	Male	2010	89543
+Georgia	Female	1981	2318
+Georgia	Female	1982	2337
+Georgia	Female	1985	2461
+Georgia	Female	1986	2544
+Georgia	Female	1987	2540
+Georgia	Female	1988	2684
+Georgia	Female	1989	2515
+Georgia	Female	1990	2556
+Georgia	Female	1991	2458
+Georgia	Female	1992	2282
+Georgia	Female	1994	1727
+Georgia	Female	1995	1610
+Georgia	Female	1996	1592
+Georgia	Female	1997	1839
+Georgia	Female	1998	1984
+Georgia	Female	1999	2014
+Georgia	Female	2000	2055
+Georgia	Female	2001	2069
+Georgia	Female	2004	2622
+Georgia	Female	2005	2060
+Georgia	Female	2006	2173
+Georgia	Female	2007	1974
+Georgia	Female	2009	2318
+Georgia	Female	2010	1292
+Georgia	Male	1981	2321
+Georgia	Male	1982	2443
+Georgia	Male	1985	2645
+Georgia	Male	1986	2757
+Georgia	Male	1987	2846
+Georgia	Male	1988	2803
+Georgia	Male	1989	2867
+Georgia	Male	1990	2903
+Georgia	Male	1991	2913
+Georgia	Male	1992	2382
+Georgia	Male	1994	1911
+Georgia	Male	1995	1741
+Georgia	Male	1996	1800
+Georgia	Male	1997	1851
+Georgia	Male	1998	2284
+Georgia	Male	1999	2284
+Georgia	Male	2000	2336
+Georgia	Male	2001	2164
+Georgia	Male	2004	2864
+Georgia	Male	2005	2369
+Georgia	Male	2006	2649
+Georgia	Male	2007	2537
+Georgia	Male	2009	2721
+Georgia	Male	2010	1558
+Germany	Female	1973	92224
+Germany	Female	1974	93163
+Germany	Female	1975	94531
+Germany	Female	1976	95004
+Germany	Female	1977	94858
+Germany	Female	1978	95959
+Germany	Female	1980	96757
+Germany	Female	1981	97585
+Germany	Female	1982	98410
+Germany	Female	1983	99123
+Germany	Female	1984	98088
+Germany	Female	1985	99350
+Germany	Female	1986	99902
+Germany	Female	1987	101374
+Germany	Female	1988	102342
+Germany	Female	1989	102630
+Germany	Female	1990	102229
+Germany	Female	1991	105322
+Germany	Female	1992	105758
+Germany	Female	1993	105928
+Germany	Female	1994	105125
+Germany	Female	1995	104579
+Germany	Female	1996	104327
+Germany	Female	1997	102453
+Germany	Female	1998	103922
+Germany	Female	1999	102568
+Germany	Female	2000	101123
+Germany	Female	2001	99256
+Germany	Female	2002	100184
+Germany	Female	2003	98562
+Germany	Female	2004	98319
+Germany	Female	2005	99334
+Germany	Female	2006	98769
+Germany	Female	2007	98367
+Germany	Female	2008	99834
+Germany	Female	2009	99422
+Germany	Female	2010	100699
+Germany	Male	1973	92238
+Germany	Male	1974	93085
+Germany	Male	1975	95061
+Germany	Male	1976	94715
+Germany	Male	1977	95468
+Germany	Male	1978	96090
+Germany	Male	1980	95972
+Germany	Male	1981	96548
+Germany	Male	1982	96876
+Germany	Male	1983	97878
+Germany	Male	1984	96776
+Germany	Male	1985	98395
+Germany	Male	1986	97958
+Germany	Male	1987	99966
+Germany	Male	1988	101741
+Germany	Male	1989	102610
+Germany	Male	1990	102919
+Germany	Male	1991	105212
+Germany	Male	1992	106791
+Germany	Male	1993	107820
+Germany	Male	1994	107266
+Germany	Male	1995	108334
+Germany	Male	1996	108561
+Germany	Male	1997	107600
+Germany	Male	1998	108898
+Germany	Male	1999	108337
+Germany	Male	2000	109680
+Germany	Male	2001	108430
+Germany	Male	2002	109949
+Germany	Male	2003	110754
+Germany	Male	2004	111052
+Germany	Male	2005	112112
+Germany	Male	2006	112827
+Germany	Male	2007	113452
+Germany	Male	2008	116231
+Germany	Male	2009	116748
+Germany	Male	2010	118266
+Greece	Female	1961	3848
+Greece	Female	1962	3885
+Greece	Female	1963	3971
+Greece	Female	1964	4086
+Greece	Female	1965	4262
+Greece	Female	1966	4206
+Greece	Female	1967	4351
+Greece	Female	1968	4542
+Greece	Female	1969	4637
+Greece	Female	1970	4682
+Greece	Female	1971	4812
+Greece	Female	1972	5113
+Greece	Female	1973	5039
+Greece	Female	1974	5333
+Greece	Female	1975	5576
+Greece	Female	1976	6063
+Greece	Female	1977	6140
+Greece	Female	1978	6273
+Greece	Female	1979	6384
+Greece	Female	1980	6539
+Greece	Female	1981	6488
+Greece	Female	1982	6669
+Greece	Female	1983	6748
+Greece	Female	1984	6900
+Greece	Female	1985	7099
+Greece	Female	1986	7132
+Greece	Female	1987	7208
+Greece	Female	1988	7320
+Greece	Female	1989	7472
+Greece	Female	1990	7400
+Greece	Female	1991	7537
+Greece	Female	1992	7851
+Greece	Female	1993	8080
+Greece	Female	1994	8294
+Greece	Female	1995	8361
+Greece	Female	1996	8651
+Greece	Female	1997	8724
+Greece	Female	1998	8652
+Greece	Female	1999	8998
+Greece	Female	2000	9100
+Greece	Female	2001	9429
+Greece	Female	2002	9592
+Greece	Female	2003	9513
+Greece	Female	2004	9795
+Greece	Female	2005	9894
+Greece	Female	2006	9943
+Greece	Female	2007	10463
+Greece	Female	2008	10692
+Greece	Female	2009	10515
+Greece	Female	2010	10752
+Greece	Male	1961	5022
+Greece	Male	1962	5222
+Greece	Male	1963	5465
+Greece	Male	1964	5636
+Greece	Male	1965	5774
+Greece	Male	1966	6043
+Greece	Male	1967	6310
+Greece	Male	1968	6376
+Greece	Male	1969	6686
+Greece	Male	1970	6871
+Greece	Male	1971	7045
+Greece	Male	1972	7398
+Greece	Male	1973	7723
+Greece	Male	1974	8200
+Greece	Male	1975	8488
+Greece	Male	1976	9111
+Greece	Male	1977	9276
+Greece	Male	1978	9520
+Greece	Male	1979	9949
+Greece	Male	1980	9672
+Greece	Male	1981	10133
+Greece	Male	1982	10366
+Greece	Male	1983	10798
+Greece	Male	1984	10707
+Greece	Male	1985	11080
+Greece	Male	1986	11233
+Greece	Male	1987	11391
+Greece	Male	1988	11640
+Greece	Male	1989	11742
+Greece	Male	1990	12032
+Greece	Male	1991	12408
+Greece	Male	1992	12618
+Greece	Male	1993	12920
+Greece	Male	1994	13257
+Greece	Male	1995	13659
+Greece	Male	1996	13699
+Greece	Male	1997	13867
+Greece	Male	1998	13781
+Greece	Male	1999	14421
+Greece	Male	2000	14663
+Greece	Male	2001	14973
+Greece	Male	2002	14788
+Greece	Male	2003	15276
+Greece	Male	2004	15643
+Greece	Male	2005	15990
+Greece	Male	2006	15717
+Greece	Male	2007	16399
+Greece	Male	2008	16687
+Greece	Male	2009	16813
+Greece	Male	2010	16407
+Guatemala	Female	1963	660
+Guatemala	Female	1964	687
+Guatemala	Female	1965	617
+Guatemala	Female	1966	641
+Guatemala	Female	1967	757
+Guatemala	Female	1968	706
+Guatemala	Female	1969	768
+Guatemala	Female	1970	733
+Guatemala	Female	1971	802
+Guatemala	Female	1974	885
+Guatemala	Female	1975	1007
+Guatemala	Female	1976	925
+Guatemala	Female	1977	853
+Guatemala	Female	1978	1039
+Guatemala	Female	1979	1157
+Guatemala	Female	1980	1072
+Guatemala	Female	1981	1104
+Guatemala	Female	1984	1364
+Guatemala	Female	1986	1107
+Guatemala	Female	1987	1146
+Guatemala	Female	1988	1343
+Guatemala	Female	1989	1357
+Guatemala	Female	1990	1366
+Guatemala	Female	1991	1434
+Guatemala	Female	1992	1529
+Guatemala	Female	1993	1708
+Guatemala	Female	1994	2364
+Guatemala	Female	1995	2300
+Guatemala	Female	1996	2154
+Guatemala	Female	1997	2458
+Guatemala	Female	1998	2653
+Guatemala	Female	1999	2734
+Guatemala	Female	2000	2887
+Guatemala	Female	2001	2830
+Guatemala	Female	2002	3156
+Guatemala	Female	2003	3294
+Guatemala	Female	2004	3434
+Guatemala	Female	2005	3362
+Guatemala	Female	2006	3675
+Guatemala	Female	2007	3670
+Guatemala	Female	2008	3689
+Guatemala	Female	2009	3893
+Guatemala	Female	2010	4006
+Guatemala	Male	1963	477
+Guatemala	Male	1964	472
+Guatemala	Male	1965	452
+Guatemala	Male	1966	519
+Guatemala	Male	1967	516
+Guatemala	Male	1968	531
+Guatemala	Male	1969	568
+Guatemala	Male	1970	521
+Guatemala	Male	1971	631
+Guatemala	Male	1974	643
+Guatemala	Male	1975	687
+Guatemala	Male	1976	688
+Guatemala	Male	1977	714
+Guatemala	Male	1978	831
+Guatemala	Male	1979	839
+Guatemala	Male	1980	814
+Guatemala	Male	1981	890
+Guatemala	Male	1984	936
+Guatemala	Male	1986	900
+Guatemala	Male	1987	963
+Guatemala	Male	1988	1034
+Guatemala	Male	1989	1012
+Guatemala	Male	1990	1036
+Guatemala	Male	1991	1167
+Guatemala	Male	1992	1165
+Guatemala	Male	1993	1275
+Guatemala	Male	1994	1791
+Guatemala	Male	1995	1862
+Guatemala	Male	1996	1588
+Guatemala	Male	1997	2004
+Guatemala	Male	1998	2139
+Guatemala	Male	1999	2244
+Guatemala	Male	2000	2391
+Guatemala	Male	2001	2481
+Guatemala	Male	2002	2618
+Guatemala	Male	2003	2678
+Guatemala	Male	2004	2879
+Guatemala	Male	2005	2962
+Guatemala	Male	2006	3039
+Guatemala	Male	2007	3099
+Guatemala	Male	2008	3164
+Guatemala	Male	2009	3274
+Guatemala	Male	2010	3241
+Hungary	Female	1955	7248
+Hungary	Female	1956	7546
+Hungary	Female	1957	7875
+Hungary	Female	1958	7988
+Hungary	Female	1959	8206
+Hungary	Female	1960	8484
+Hungary	Female	1961	8495
+Hungary	Female	1962	8727
+Hungary	Female	1963	8791
+Hungary	Female	1964	9142
+Hungary	Female	1965	9358
+Hungary	Female	1966	9533
+Hungary	Female	1967	9744
+Hungary	Female	1968	9980
+Hungary	Female	1969	10123
+Hungary	Female	1970	10430
+Hungary	Female	1971	10837
+Hungary	Female	1972	10958
+Hungary	Female	1973	11277
+Hungary	Female	1974	11611
+Hungary	Female	1975	11776
+Hungary	Female	1976	11907
+Hungary	Female	1977	11819
+Hungary	Female	1978	12260
+Hungary	Female	1979	11991
+Hungary	Female	1980	12366
+Hungary	Female	1981	12421
+Hungary	Female	1982	12696
+Hungary	Female	1983	12644
+Hungary	Female	1984	12573
+Hungary	Female	1985	12621
+Hungary	Female	1986	12903
+Hungary	Female	1987	13206
+Hungary	Female	1988	13139
+Hungary	Female	1989	13323
+Hungary	Female	1990	13374
+Hungary	Female	1991	13535
+Hungary	Female	1992	14014
+Hungary	Female	1993	14129
+Hungary	Female	1994	14210
+Hungary	Female	1995	14416
+Hungary	Female	1996	14576
+Hungary	Female	1997	14474
+Hungary	Female	1998	14534
+Hungary	Female	1999	14791
+Hungary	Female	2000	14548
+Hungary	Female	2001	14512
+Hungary	Female	2002	14345
+Hungary	Female	2003	14703
+Hungary	Female	2004	14661
+Hungary	Female	2005	13481
+Hungary	Female	2006	13669
+Hungary	Female	2007	13926
+Hungary	Female	2008	14212
+Hungary	Female	2009	14359
+Hungary	Female	2010	14430
+Hungary	Male	1955	6688
+Hungary	Male	1956	7329
+Hungary	Male	1957	7457
+Hungary	Male	1958	7857
+Hungary	Male	1959	8451
+Hungary	Male	1960	8405
+Hungary	Male	1961	8824
+Hungary	Male	1962	9106
+Hungary	Male	1963	9190
+Hungary	Male	1964	9649
+Hungary	Male	1965	10067
+Hungary	Male	1966	10536
+Hungary	Male	1967	10864
+Hungary	Male	1968	10950
+Hungary	Male	1969	11446
+Hungary	Male	1970	11833
+Hungary	Male	1971	12387
+Hungary	Male	1972	12425
+Hungary	Male	1973	12610
+Hungary	Male	1974	13501
+Hungary	Male	1975	13738
+Hungary	Male	1976	13642
+Hungary	Male	1977	14125
+Hungary	Male	1978	14669
+Hungary	Male	1979	14954
+Hungary	Male	1980	15183
+Hungary	Male	1981	15466
+Hungary	Male	1982	15555
+Hungary	Male	1983	15770
+Hungary	Male	1984	15950
+Hungary	Male	1985	15857
+Hungary	Male	1986	16551
+Hungary	Male	1987	16626
+Hungary	Male	1988	16720
+Hungary	Male	1989	17123
+Hungary	Male	1990	17497
+Hungary	Male	1991	17872
+Hungary	Male	1992	18297
+Hungary	Male	1993	18072
+Hungary	Male	1994	18493
+Hungary	Male	1995	18525
+Hungary	Male	1996	18900
+Hungary	Male	1997	18995
+Hungary	Male	1998	19016
+Hungary	Male	1999	19033
+Hungary	Male	2000	18735
+Hungary	Male	2001	18807
+Hungary	Male	2002	18668
+Hungary	Male	2003	18828
+Hungary	Male	2004	18842
+Hungary	Male	2005	17134
+Hungary	Male	2006	17614
+Hungary	Male	2007	17760
+Hungary	Male	2008	17899
+Hungary	Male	2009	18178
+Hungary	Male	2010	18032
+Iceland	Female	1951	116
+Iceland	Female	1952	102
+Iceland	Female	1953	100
+Iceland	Female	1954	93
+Iceland	Female	1955	101
+Iceland	Female	1956	110
+Iceland	Female	1957	103
+Iceland	Female	1958	92
+Iceland	Female	1959	116
+Iceland	Female	1960	155
+Iceland	Female	1961	118
+Iceland	Female	1962	153
+Iceland	Female	1963	134
+Iceland	Female	1964	126
+Iceland	Female	1965	131
+Iceland	Female	1966	152
+Iceland	Female	1967	144
+Iceland	Female	1968	155
+Iceland	Female	1969	152
+Iceland	Female	1970	119
+Iceland	Female	1971	151
+Iceland	Female	1972	162
+Iceland	Female	1973	138
+Iceland	Female	1974	153
+Iceland	Female	1975	150
+Iceland	Female	1976	144
+Iceland	Female	1977	160
+Iceland	Female	1978	162
+Iceland	Female	1979	156
+Iceland	Female	1980	156
+Iceland	Female	1981	174
+Iceland	Female	1982	187
+Iceland	Female	1983	181
+Iceland	Female	1984	196
+Iceland	Female	1985	179
+Iceland	Female	1986	176
+Iceland	Female	1987	222
+Iceland	Female	1988	206
+Iceland	Female	1989	205
+Iceland	Female	1990	210
+Iceland	Female	1991	193
+Iceland	Female	1992	206
+Iceland	Female	1993	244
+Iceland	Female	1994	221
+Iceland	Female	1995	237
+Iceland	Female	1996	246
+Iceland	Female	1997	234
+Iceland	Female	1998	244
+Iceland	Female	1999	246
+Iceland	Female	2000	250
+Iceland	Female	2001	209
+Iceland	Female	2002	244
+Iceland	Female	2003	254
+Iceland	Female	2004	246
+Iceland	Female	2005	224
+Iceland	Female	2006	222
+Iceland	Female	2007	281
+Iceland	Female	2008	282
+Iceland	Female	2009	252
+Iceland	Male	1951	97
+Iceland	Male	1952	113
+Iceland	Male	1953	111
+Iceland	Male	1954	105
+Iceland	Male	1955	109
+Iceland	Male	1956	90
+Iceland	Male	1957	134
+Iceland	Male	1958	118
+Iceland	Male	1959	139
+Iceland	Male	1960	131
+Iceland	Male	1961	139
+Iceland	Male	1962	128
+Iceland	Male	1963	124
+Iceland	Male	1964	136
+Iceland	Male	1965	117
+Iceland	Male	1966	125
+Iceland	Male	1967	148
+Iceland	Male	1968	139
+Iceland	Male	1969	141
+Iceland	Male	1970	148
+Iceland	Male	1971	139
+Iceland	Male	1972	153
+Iceland	Male	1973	145
+Iceland	Male	1974	160
+Iceland	Male	1975	170
+Iceland	Male	1976	153
+Iceland	Male	1977	175
+Iceland	Male	1978	140
+Iceland	Male	1979	160
+Iceland	Male	1980	177
+Iceland	Male	1981	191
+Iceland	Male	1982	204
+Iceland	Male	1983	213
+Iceland	Male	1984	192
+Iceland	Male	1985	215
+Iceland	Male	1986	195
+Iceland	Male	1987	216
+Iceland	Male	1988	238
+Iceland	Male	1989	239
+Iceland	Male	1990	244
+Iceland	Male	1991	253
+Iceland	Male	1992	223
+Iceland	Male	1993	207
+Iceland	Male	1994	222
+Iceland	Male	1995	234
+Iceland	Male	1996	290
+Iceland	Male	1997	291
+Iceland	Male	1998	254
+Iceland	Male	1999	281
+Iceland	Male	2000	245
+Iceland	Male	2001	276
+Iceland	Male	2002	265
+Iceland	Male	2003	237
+Iceland	Male	2004	266
+Iceland	Male	2005	287
+Iceland	Male	2006	272
+Iceland	Male	2007	291
+Iceland	Male	2008	277
+Iceland	Male	2009	310
+Ireland	Female	1950	1970
+Ireland	Female	1951	1999
+Ireland	Female	1952	1958
+Ireland	Female	1953	2024
+Ireland	Female	1954	2136
+Ireland	Female	1955	2089
+Ireland	Female	1956	2079
+Ireland	Female	1957	2242
+Ireland	Female	1958	2194
+Ireland	Female	1959	2160
+Ireland	Female	1960	2215
+Ireland	Female	1961	2111
+Ireland	Female	1962	2198
+Ireland	Female	1963	2290
+Ireland	Female	1964	2276
+Ireland	Female	1965	2239
+Ireland	Female	1966	2351
+Ireland	Female	1967	2340
+Ireland	Female	1968	2456
+Ireland	Female	1969	2550
+Ireland	Female	1970	2557
+Ireland	Female	1971	2581
+Ireland	Female	1972	2613
+Ireland	Female	1973	2655
+Ireland	Female	1974	2865
+Ireland	Female	1975	2850
+Ireland	Female	1976	2810
+Ireland	Female	1977	2764
+Ireland	Female	1978	2817
+Ireland	Female	1979	2787
+Ireland	Female	1980	2864
+Ireland	Female	1981	2778
+Ireland	Female	1982	2895
+Ireland	Female	1983	2952
+Ireland	Female	1984	3077
+Ireland	Female	1985	2966
+Ireland	Female	1986	3122
+Ireland	Female	1987	3173
+Ireland	Female	1988	3276
+Ireland	Female	1989	3481
+Ireland	Female	1990	3261
+Ireland	Female	1991	3354
+Ireland	Female	1992	3461
+Ireland	Female	1993	3429
+Ireland	Female	1994	3440
+Ireland	Female	1995	3422
+Ireland	Female	1996	3402
+Ireland	Female	1997	3503
+Ireland	Female	1998	3454
+Ireland	Female	1999	3488
+Ireland	Female	2000	3587
+Ireland	Female	2001	3594
+Ireland	Female	2002	3449
+Ireland	Female	2003	3587
+Ireland	Female	2004	3642
+Ireland	Female	2005	3734
+Ireland	Female	2006	3817
+Ireland	Female	2007	3724
+Ireland	Female	2008	3899
+Ireland	Female	2009	3779
+Ireland	Female	2010	3785
+Ireland	Male	1950	2243
+Ireland	Male	1951	2425
+Ireland	Male	1952	2399
+Ireland	Male	1953	2453
+Ireland	Male	1954	2458
+Ireland	Male	1955	2606
+Ireland	Male	1956	2491
+Ireland	Male	1957	2577
+Ireland	Male	1958	2488
+Ireland	Male	1959	2617
+Ireland	Male	1960	2546
+Ireland	Male	1961	2593
+Ireland	Male	1962	2699
+Ireland	Male	1963	2648
+Ireland	Male	1964	2686
+Ireland	Male	1965	2740
+Ireland	Male	1966	2822
+Ireland	Male	1967	2756
+Ireland	Male	1968	2835
+Ireland	Male	1969	2984
+Ireland	Male	1970	2987
+Ireland	Male	1971	3099
+Ireland	Male	1972	3149
+Ireland	Male	1973	3148
+Ireland	Male	1974	3233
+Ireland	Male	1975	3302
+Ireland	Male	1976	3474
+Ireland	Male	1977	3381
+Ireland	Male	1978	3401
+Ireland	Male	1979	3374
+Ireland	Male	1980	3423
+Ireland	Male	1981	3442
+Ireland	Male	1982	3437
+Ireland	Male	1983	3519
+Ireland	Male	1984	3589
+Ireland	Male	1985	3723
+Ireland	Male	1986	3764
+Ireland	Male	1987	3793
+Ireland	Male	1988	3878
+Ireland	Male	1989	3858
+Ireland	Male	1990	3854
+Ireland	Male	1991	3906
+Ireland	Male	1992	4078
+Ireland	Male	1993	4160
+Ireland	Male	1994	3972
+Ireland	Male	1995	4097
+Ireland	Male	1996	3987
+Ireland	Male	1997	3983
+Ireland	Male	1998	4026
+Ireland	Male	1999	4053
+Ireland	Male	2000	4079
+Ireland	Male	2001	4038
+Ireland	Male	2002	4054
+Ireland	Male	2003	4016
+Ireland	Male	2004	4186
+Ireland	Male	2005	4015
+Ireland	Male	2006	4249
+Ireland	Male	2007	4193
+Ireland	Male	2008	4303
+Ireland	Male	2009	4622
+Ireland	Male	2010	4188
+Israel	Female	1975	1998
+Israel	Female	1976	2071
+Israel	Female	1977	2130
+Israel	Female	1978	2301
+Israel	Female	1979	2320
+Israel	Female	1980	2353
+Israel	Female	1981	2328
+Israel	Female	1982	2253
+Israel	Female	1983	2510
+Israel	Female	1984	2480
+Israel	Female	1985	2383
+Israel	Female	1986	2557
+Israel	Female	1987	2585
+Israel	Female	1988	2690
+Israel	Female	1989	2676
+Israel	Female	1990	2871
+Israel	Female	1991	3172
+Israel	Female	1992	3286
+Israel	Female	1993	3528
+Israel	Female	1994	3738
+Israel	Female	1995	4070
+Israel	Female	1996	4218
+Israel	Female	1997	4127
+Israel	Female	1998	4321
+Israel	Female	1999	4300
+Israel	Female	2000	4428
+Israel	Female	2001	4555
+Israel	Female	2002	4630
+Israel	Female	2003	4761
+Israel	Female	2004	4595
+Israel	Female	2005	4776
+Israel	Female	2006	4872
+Israel	Female	2007	4924
+Israel	Female	2008	5022
+Israel	Female	2009	4952
+Israel	Female	2010	5181
+Israel	Male	1975	2158
+Israel	Male	1976	2277
+Israel	Male	1977	2389
+Israel	Male	1978	2425
+Israel	Male	1979	2640
+Israel	Male	1980	2506
+Israel	Male	1981	2397
+Israel	Male	1982	2492
+Israel	Male	1983	2596
+Israel	Male	1984	2665
+Israel	Male	1985	2714
+Israel	Male	1986	2771
+Israel	Male	1987	2783
+Israel	Male	1988	2805
+Israel	Male	1989	2792
+Israel	Male	1990	2981
+Israel	Male	1991	3156
+Israel	Male	1992	3276
+Israel	Male	1993	3711
+Israel	Male	1994	3947
+Israel	Male	1995	3983
+Israel	Male	1996	4178
+Israel	Male	1997	4179
+Israel	Male	1998	4547
+Israel	Male	1999	4313
+Israel	Male	2000	4451
+Israel	Male	2001	4579
+Israel	Male	2002	4724
+Israel	Male	2003	4766
+Israel	Male	2004	4686
+Israel	Male	2005	4763
+Israel	Male	2006	4755
+Israel	Male	2007	4915
+Israel	Male	2008	4964
+Israel	Male	2009	4977
+Israel	Male	2010	5204
+Italy	Female	1951	26210
+Italy	Female	1952	27128
+Italy	Female	1953	28007
+Italy	Female	1954	28996
+Italy	Female	1955	29824
+Italy	Female	1956	31262
+Italy	Female	1957	31658
+Italy	Female	1958	32013
+Italy	Female	1959	32881
+Italy	Female	1960	34722
+Italy	Female	1961	34608
+Italy	Female	1962	35592
+Italy	Female	1963	36832
+Italy	Female	1964	37212
+Italy	Female	1965	38759
+Italy	Female	1966	38921
+Italy	Female	1967	39463
+Italy	Female	1968	40484
+Italy	Female	1969	42288
+Italy	Female	1970	41864
+Italy	Female	1971	43008
+Italy	Female	1972	44002
+Italy	Female	1973	44802
+Italy	Female	1974	45413
+Italy	Female	1975	45902
+Italy	Female	1976	47209
+Italy	Female	1977	47758
+Italy	Female	1978	48277
+Italy	Female	1979	49220
+Italy	Female	1980	50046
+Italy	Female	1981	51028
+Italy	Female	1982	51889
+Italy	Female	1983	53575
+Italy	Female	1984	53879
+Italy	Female	1985	55021
+Italy	Female	1986	55689
+Italy	Female	1987	57231
+Italy	Female	1988	58593
+Italy	Female	1989	58947
+Italy	Female	1990	59792
+Italy	Female	1991	61270
+Italy	Female	1992	61591
+Italy	Female	1993	62522
+Italy	Female	1994	63189
+Italy	Female	1995	61507
+Italy	Female	1996	62816
+Italy	Female	1997	62873
+Italy	Female	1998	63313
+Italy	Female	1999	63240
+Italy	Female	2000	65143
+Italy	Female	2001	66994
+Italy	Female	2002	66825
+Italy	Female	2003	67346
+Italy	Female	2006	68723
+Italy	Female	2007	70697
+Italy	Female	2008	71396
+Italy	Female	2009	72519
+Italy	Female	2010	72645
+Italy	Male	1951	26979
+Italy	Male	1952	28423
+Italy	Male	1953	29040
+Italy	Male	1954	30342
+Italy	Male	1955	31710
+Italy	Male	1956	34074
+Italy	Male	1957	34746
+Italy	Male	1958	35296
+Italy	Male	1959	37579
+Italy	Male	1960	39456
+Italy	Male	1961	40385
+Italy	Male	1962	42189
+Italy	Male	1963	43463
+Italy	Male	1964	45461
+Italy	Male	1965	46569
+Italy	Male	1966	48279
+Italy	Male	1967	49125
+Italy	Male	1968	51431
+Italy	Male	1969	53565
+Italy	Male	1970	54079
+Italy	Male	1971	56354
+Italy	Male	1972	57757
+Italy	Male	1973	59526
+Italy	Male	1974	60634
+Italy	Male	1975	62421
+Italy	Male	1976	64201
+Italy	Male	1977	65617
+Italy	Male	1978	67441
+Italy	Male	1979	69869
+Italy	Male	1980	71789
+Italy	Male	1981	72689
+Italy	Male	1982	74197
+Italy	Male	1983	76711
+Italy	Male	1984	76721
+Italy	Male	1985	78749
+Italy	Male	1986	79686
+Italy	Male	1987	82672
+Italy	Male	1988	84081
+Italy	Male	1989	83707
+Italy	Male	1990	85244
+Italy	Male	1991	86684
+Italy	Male	1992	87037
+Italy	Male	1993	88189
+Italy	Male	1994	89399
+Italy	Male	1995	86469
+Italy	Male	1996	87564
+Italy	Male	1997	87953
+Italy	Male	1998	89155
+Italy	Male	1999	88558
+Italy	Male	2000	88288
+Italy	Male	2001	90482
+Italy	Male	2002	90041
+Italy	Male	2003	91779
+Italy	Male	2006	92308
+Italy	Male	2007	93192
+Italy	Male	2008	93537
+Italy	Male	2009	94390
+Italy	Male	2010	94673
+Japan	Female	1950	31754
+Japan	Female	1951	32482
+Japan	Female	1952	33640
+Japan	Female	1953	34192
+Japan	Female	1954	35603
+Japan	Female	1955	36498
+Japan	Female	1956	38250
+Japan	Female	1957	38378
+Japan	Female	1958	40658
+Japan	Female	1959	42071
+Japan	Female	1960	42875
+Japan	Female	1961	44188
+Japan	Female	1962	44725
+Japan	Female	1963	45859
+Japan	Female	1964	46619
+Japan	Female	1965	47637
+Japan	Female	1966	49001
+Japan	Female	1967	50284
+Japan	Female	1968	51202
+Japan	Female	1969	52285
+Japan	Female	1970	52901
+Japan	Female	1971	54449
+Japan	Female	1972	56000
+Japan	Female	1973	57562
+Japan	Female	1974	58292
+Japan	Female	1975	59460
+Japan	Female	1976	60897
+Japan	Female	1977	62683
+Japan	Female	1978	64705
+Japan	Female	1979	66525
+Japan	Female	1980	68262
+Japan	Female	1981	69873
+Japan	Female	1982	71014
+Japan	Female	1983	72875
+Japan	Female	1984	75105
+Japan	Female	1985	77054
+Japan	Female	1986	78063
+Japan	Female	1987	80399
+Japan	Female	1988	83451
+Japan	Female	1989	85412
+Japan	Female	1990	87018
+Japan	Female	1991	89251
+Japan	Female	1992	92233
+Japan	Female	1993	93472
+Japan	Female	1994	96768
+Japan	Female	1995	103399
+Japan	Female	1996	106355
+Japan	Female	1997	108334
+Japan	Female	1998	111614
+Japan	Female	1999	114736
+Japan	Female	2000	116343
+Japan	Female	2001	119263
+Japan	Female	2002	120533
+Japan	Female	2003	122627
+Japan	Female	2004	127259
+Japan	Female	2005	129334
+Japan	Female	2006	131257
+Japan	Female	2007	133720
+Japan	Female	2008	136603
+Japan	Female	2009	137751
+Japan	Female	2010	142064
+Japan	Male	1950	32666
+Japan	Male	1951	33870
+Japan	Male	1952	35845
+Japan	Male	1953	37385
+Japan	Male	1954	39702
+Japan	Male	1955	41223
+Japan	Male	1956	43628
+Japan	Male	1957	44777
+Japan	Male	1958	47237
+Japan	Male	1959	49215
+Japan	Male	1960	50898
+Japan	Male	1961	52254
+Japan	Male	1962	53499
+Japan	Male	1963	55567
+Japan	Male	1964	57705
+Japan	Male	1965	58899
+Japan	Male	1966	60802
+Japan	Male	1967	62308
+Japan	Male	1968	64222
+Japan	Male	1969	66266
+Japan	Male	1970	67070
+Japan	Male	1971	68397
+Japan	Male	1972	71293
+Japan	Male	1973	73398
+Japan	Male	1974	75453
+Japan	Male	1975	76917
+Japan	Male	1976	79993
+Japan	Male	1977	83083
+Japan	Male	1978	85628
+Japan	Male	1979	90135
+Japan	Male	1980	93500
+Japan	Male	1981	96519
+Japan	Male	1982	99110
+Japan	Male	1983	103327
+Japan	Male	1984	107171
+Japan	Male	1985	110657
+Japan	Male	1986	113575
+Japan	Male	1987	119158
+Japan	Male	1988	122005
+Japan	Male	1989	127202
+Japan	Male	1990	130391
+Japan	Male	1991	134471
+Japan	Male	1992	139654
+Japan	Male	1993	142211
+Japan	Male	1994	146881
+Japan	Male	1995	159619
+Japan	Male	1996	164809
+Japan	Male	1997	167066
+Japan	Male	1998	172296
+Japan	Male	1999	175804
+Japan	Male	2000	179129
+Japan	Male	2001	181379
+Japan	Male	2002	184029
+Japan	Male	2003	186902
+Japan	Male	2004	193079
+Japan	Male	2005	196596
+Japan	Male	2006	198039
+Japan	Male	2007	202737
+Japan	Male	2008	206341
+Japan	Male	2009	206347
+Japan	Male	2010	211424
+Kazakhstan	Female	1981	8207
+Kazakhstan	Female	1982	8140
+Kazakhstan	Female	1985	8956
+Kazakhstan	Female	1986	9096
+Kazakhstan	Female	1987	9344
+Kazakhstan	Female	1988	9498
+Kazakhstan	Female	1989	9650
+Kazakhstan	Female	1990	9928
+Kazakhstan	Female	2004	8406
+Kazakhstan	Female	2005	8447
+Kazakhstan	Female	2006	8489
+Kazakhstan	Female	2007	8231
+Kazakhstan	Female	2008	8346
+Kazakhstan	Female	2009	8268
+Kazakhstan	Female	2010	8260
+Kazakhstan	Male	1981	9795
+Kazakhstan	Male	1982	9575
+Kazakhstan	Male	1985	10525
+Kazakhstan	Male	1986	11067
+Kazakhstan	Male	1987	11403
+Kazakhstan	Male	1988	11756
+Kazakhstan	Male	1989	12214
+Kazakhstan	Male	1990	12667
+Kazakhstan	Male	2004	10092
+Kazakhstan	Male	2005	10121
+Kazakhstan	Male	2006	9666
+Kazakhstan	Male	2007	9989
+Kazakhstan	Male	2008	9812
+Kazakhstan	Male	2009	9691
+Kazakhstan	Male	2010	9671
+Korea	Female	1985	11026
+Korea	Female	1986	11378
+Korea	Female	1987	11525
+Korea	Female	1988	12430
+Korea	Female	1989	13037
+Korea	Female	1990	13698
+Korea	Female	1991	13476
+Korea	Female	1992	15684
+Korea	Female	1993	16832
+Korea	Female	1994	17478
+Korea	Female	1995	17997
+Korea	Female	1996	18098
+Korea	Female	1997	18766
+Korea	Female	1998	18207
+Korea	Female	1999	19435
+Korea	Female	2000	20765
+Korea	Female	2001	21294
+Korea	Female	2002	22627
+Korea	Female	2003	23249
+Korea	Female	2004	23293
+Korea	Female	2005	23986
+Korea	Female	2006	23678
+Korea	Female	2007	24781
+Korea	Female	2008	25128
+Korea	Female	2009	25930
+Korea	Female	2010	26839
+Korea	Male	1985	19246
+Korea	Male	1986	19996
+Korea	Male	1987	20802
+Korea	Male	1988	22206
+Korea	Male	1989	23558
+Korea	Male	1990	24724
+Korea	Male	1991	24875
+Korea	Male	1992	27886
+Korea	Male	1993	29698
+Korea	Male	1994	31554
+Korea	Male	1995	32110
+Korea	Male	1996	32304
+Korea	Male	1997	33421
+Korea	Male	1998	32525
+Korea	Male	1999	34654
+Korea	Male	2000	36958
+Korea	Male	2001	37562
+Korea	Male	2002	39976
+Korea	Male	2003	40112
+Korea	Male	2004	41026
+Korea	Male	2005	41135
+Korea	Male	2006	41850
+Korea	Male	2007	42784
+Korea	Male	2008	43788
+Korea	Male	2009	43858
+Korea	Male	2010	45222
+Kuwait	Female	1972	80
+Kuwait	Female	1975	145
+Kuwait	Female	1976	131
+Kuwait	Female	1977	119
+Kuwait	Female	1978	136
+Kuwait	Female	1979	172
+Kuwait	Female	1980	180
+Kuwait	Female	1981	165
+Kuwait	Female	1982	212
+Kuwait	Female	1983	200
+Kuwait	Female	1984	185
+Kuwait	Female	1985	191
+Kuwait	Female	1986	236
+Kuwait	Female	1987	181
+Kuwait	Female	1993	160
+Kuwait	Female	1994	158
+Kuwait	Female	1995	173
+Kuwait	Female	1996	166
+Kuwait	Female	1997	167
+Kuwait	Female	1998	197
+Kuwait	Female	1999	192
+Kuwait	Female	2000	230
+Kuwait	Female	2001	233
+Kuwait	Female	2002	243
+Kuwait	Female	2003	240
+Kuwait	Female	2004	225
+Kuwait	Female	2005	249
+Kuwait	Female	2006	281
+Kuwait	Female	2007	303
+Kuwait	Female	2008	332
+Kuwait	Female	2009	352
+Kuwait	Female	2010	352
+Kuwait	Male	1972	159
+Kuwait	Male	1975	257
+Kuwait	Male	1976	219
+Kuwait	Male	1977	211
+Kuwait	Male	1978	223
+Kuwait	Male	1979	255
+Kuwait	Male	1980	251
+Kuwait	Male	1981	247
+Kuwait	Male	1982	321
+Kuwait	Male	1983	314
+Kuwait	Male	1984	307
+Kuwait	Male	1985	317
+Kuwait	Male	1986	291
+Kuwait	Male	1987	287
+Kuwait	Male	1993	199
+Kuwait	Male	1994	189
+Kuwait	Male	1995	195
+Kuwait	Male	1996	214
+Kuwait	Male	1997	242
+Kuwait	Male	1998	242
+Kuwait	Male	1999	247
+Kuwait	Male	2000	244
+Kuwait	Male	2001	249
+Kuwait	Male	2002	272
+Kuwait	Male	2003	255
+Kuwait	Male	2004	282
+Kuwait	Male	2005	287
+Kuwait	Male	2006	355
+Kuwait	Male	2007	342
+Kuwait	Male	2008	336
+Kuwait	Male	2009	361
+Kuwait	Male	2010	360
+Kyrgyzstan	Female	1981	1213
+Kyrgyzstan	Female	1982	1312
+Kyrgyzstan	Female	1985	1370
+Kyrgyzstan	Female	1986	1377
+Kyrgyzstan	Female	1987	1385
+Kyrgyzstan	Female	1988	1514
+Kyrgyzstan	Female	1989	1353
+Kyrgyzstan	Female	1990	1445
+Kyrgyzstan	Female	1991	1493
+Kyrgyzstan	Female	1992	1534
+Kyrgyzstan	Female	1993	1309
+Kyrgyzstan	Female	1994	1303
+Kyrgyzstan	Female	1995	1262
+Kyrgyzstan	Female	1996	1283
+Kyrgyzstan	Female	1997	1286
+Kyrgyzstan	Female	1998	1347
+Kyrgyzstan	Female	1999	1356
+Kyrgyzstan	Female	2000	1385
+Kyrgyzstan	Female	2001	1327
+Kyrgyzstan	Female	2002	1407
+Kyrgyzstan	Female	2003	1472
+Kyrgyzstan	Female	2004	1447
+Kyrgyzstan	Female	2005	1405
+Kyrgyzstan	Female	2006	1458
+Kyrgyzstan	Female	2007	1404
+Kyrgyzstan	Female	2008	1471
+Kyrgyzstan	Female	2009	1491
+Kyrgyzstan	Female	2010	1507
+Kyrgyzstan	Male	1981	1379
+Kyrgyzstan	Male	1982	1467
+Kyrgyzstan	Male	1985	1628
+Kyrgyzstan	Male	1986	1717
+Kyrgyzstan	Male	1987	1764
+Kyrgyzstan	Male	1988	1728
+Kyrgyzstan	Male	1989	1842
+Kyrgyzstan	Male	1990	1888
+Kyrgyzstan	Male	1991	1895
+Kyrgyzstan	Male	1992	1932
+Kyrgyzstan	Male	1993	1722
+Kyrgyzstan	Male	1994	1684
+Kyrgyzstan	Male	1995	1563
+Kyrgyzstan	Male	1996	1535
+Kyrgyzstan	Male	1997	1574
+Kyrgyzstan	Male	1998	1558
+Kyrgyzstan	Male	1999	1558
+Kyrgyzstan	Male	2000	1579
+Kyrgyzstan	Male	2001	1549
+Kyrgyzstan	Male	2002	1591
+Kyrgyzstan	Male	2003	1583
+Kyrgyzstan	Male	2004	1616
+Kyrgyzstan	Male	2005	1638
+Kyrgyzstan	Male	2006	1596
+Kyrgyzstan	Male	2007	1553
+Kyrgyzstan	Male	2008	1566
+Kyrgyzstan	Male	2009	1733
+Kyrgyzstan	Male	2010	1696
+Latvia	Female	1980	2197
+Latvia	Female	1981	2184
+Latvia	Female	1982	2206
+Latvia	Female	1983	2232
+Latvia	Female	1984	2356
+Latvia	Female	1985	2440
+Latvia	Female	1986	2402
+Latvia	Female	1987	2463
+Latvia	Female	1988	2399
+Latvia	Female	1989	2547
+Latvia	Female	1990	2536
+Latvia	Female	1991	2460
+Latvia	Female	1992	2449
+Latvia	Female	1993	2434
+Latvia	Female	1994	2505
+Latvia	Female	1995	2498
+Latvia	Female	1996	2486
+Latvia	Female	1997	2527
+Latvia	Female	1998	2667
+Latvia	Female	1999	2555
+Latvia	Female	2000	2568
+Latvia	Female	2001	2575
+Latvia	Female	2002	2568
+Latvia	Female	2003	2641
+Latvia	Female	2004	2577
+Latvia	Female	2005	2619
+Latvia	Female	2006	2778
+Latvia	Female	2007	2751
+Latvia	Female	2008	2608
+Latvia	Female	2009	2777
+Latvia	Female	2010	2833
+Latvia	Male	1980	2304
+Latvia	Male	1981	2341
+Latvia	Male	1982	2505
+Latvia	Male	1983	2566
+Latvia	Male	1984	2591
+Latvia	Male	1985	2607
+Latvia	Male	1986	2680
+Latvia	Male	1987	2876
+Latvia	Male	1988	2897
+Latvia	Male	1989	3025
+Latvia	Male	1990	2961
+Latvia	Male	1991	3116
+Latvia	Male	1992	3123
+Latvia	Male	1993	3031
+Latvia	Male	1994	3088
+Latvia	Male	1995	2978
+Latvia	Male	1996	3007
+Latvia	Male	1997	2926
+Latvia	Male	1998	2936
+Latvia	Male	1999	3137
+Latvia	Male	2000	3002
+Latvia	Male	2001	3157
+Latvia	Male	2002	3100
+Latvia	Male	2003	3092
+Latvia	Male	2004	3173
+Latvia	Male	2005	3208
+Latvia	Male	2006	3250
+Latvia	Male	2007	3164
+Latvia	Male	2008	3228
+Latvia	Male	2009	3174
+Latvia	Male	2010	3210
+Lithuania	Female	1981	2505
+Lithuania	Female	1982	2567
+Lithuania	Female	1985	2761
+Lithuania	Female	1986	2754
+Lithuania	Female	1987	2733
+Lithuania	Female	1988	2841
+Lithuania	Female	1989	2935
+Lithuania	Female	1990	3015
+Lithuania	Female	1991	3098
+Lithuania	Female	1992	3101
+Lithuania	Female	1993	3288
+Lithuania	Female	1994	3248
+Lithuania	Female	1995	3240
+Lithuania	Female	1996	3265
+Lithuania	Female	1997	3196
+Lithuania	Female	1998	3327
+Lithuania	Female	1999	3388
+Lithuania	Female	2000	3403
+Lithuania	Female	2001	3432
+Lithuania	Female	2002	3481
+Lithuania	Female	2003	3514
+Lithuania	Female	2004	3506
+Lithuania	Female	2005	3615
+Lithuania	Female	2006	3533
+Lithuania	Female	2007	3536
+Lithuania	Female	2008	3754
+Lithuania	Female	2009	3543
+Lithuania	Female	2010	3538
+Lithuania	Male	1981	3052
+Lithuania	Male	1982	3094
+Lithuania	Male	1985	3313
+Lithuania	Male	1986	3365
+Lithuania	Male	1987	3519
+Lithuania	Male	1988	3668
+Lithuania	Male	1989	3706
+Lithuania	Male	1990	3941
+Lithuania	Male	1991	3991
+Lithuania	Male	1992	4205
+Lithuania	Male	1993	4214
+Lithuania	Male	1994	4219
+Lithuania	Male	1995	4309
+Lithuania	Male	1996	4252
+Lithuania	Male	1997	4205
+Lithuania	Male	1998	4260
+Lithuania	Male	1999	4361
+Lithuania	Male	2000	4320
+Lithuania	Male	2001	4365
+Lithuania	Male	2002	4389
+Lithuania	Male	2003	4325
+Lithuania	Male	2004	4454
+Lithuania	Male	2005	4433
+Lithuania	Male	2006	4615
+Lithuania	Male	2007	4747
+Lithuania	Male	2008	4514
+Lithuania	Male	2009	4588
+Lithuania	Male	2010	4575
+Luxembourg	Female	1967	365
+Luxembourg	Female	1968	341
+Luxembourg	Female	1969	349
+Luxembourg	Female	1970	346
+Luxembourg	Female	1971	333
+Luxembourg	Female	1972	383
+Luxembourg	Female	1973	346
+Luxembourg	Female	1974	336
+Luxembourg	Female	1975	402
+Luxembourg	Female	1976	372
+Luxembourg	Female	1977	377
+Luxembourg	Female	1978	382
+Luxembourg	Female	1979	381
+Luxembourg	Female	1980	436
+Luxembourg	Female	1981	433
+Luxembourg	Female	1982	425
+Luxembourg	Female	1983	401
+Luxembourg	Female	1984	429
+Luxembourg	Female	1985	444
+Luxembourg	Female	1986	389
+Luxembourg	Female	1987	448
+Luxembourg	Female	1988	416
+Luxembourg	Female	1989	434
+Luxembourg	Female	1990	442
+Luxembourg	Female	1991	439
+Luxembourg	Female	1992	437
+Luxembourg	Female	1993	440
+Luxembourg	Female	1994	438
+Luxembourg	Female	1995	434
+Luxembourg	Female	1996	421
+Luxembourg	Female	1997	470
+Luxembourg	Female	1998	448
+Luxembourg	Female	1999	421
+Luxembourg	Female	2000	428
+Luxembourg	Female	2001	438
+Luxembourg	Female	2002	410
+Luxembourg	Female	2003	432
+Luxembourg	Female	2004	372
+Luxembourg	Female	2005	395
+Luxembourg	Female	2006	416
+Luxembourg	Female	2007	450
+Luxembourg	Female	2008	435
+Luxembourg	Female	2009	477
+Luxembourg	Female	2010	443
+Luxembourg	Male	1967	459
+Luxembourg	Male	1968	483
+Luxembourg	Male	1969	492
+Luxembourg	Male	1970	493
+Luxembourg	Male	1971	533
+Luxembourg	Male	1972	452
+Luxembourg	Male	1973	526
+Luxembourg	Male	1974	484
+Luxembourg	Male	1975	522
+Luxembourg	Male	1976	504
+Luxembourg	Male	1977	555
+Luxembourg	Male	1978	521
+Luxembourg	Male	1979	488
+Luxembourg	Male	1980	501
+Luxembourg	Male	1981	540
+Luxembourg	Male	1982	611
+Luxembourg	Male	1983	571
+Luxembourg	Male	1984	526
+Luxembourg	Male	1985	552
+Luxembourg	Male	1986	549
+Luxembourg	Male	1987	578
+Luxembourg	Male	1988	577
+Luxembourg	Male	1989	520
+Luxembourg	Male	1990	527
+Luxembourg	Male	1991	518
+Luxembourg	Male	1992	559
+Luxembourg	Male	1993	573
+Luxembourg	Male	1994	507
+Luxembourg	Male	1995	585
+Luxembourg	Male	1996	557
+Luxembourg	Male	1997	499
+Luxembourg	Male	1998	552
+Luxembourg	Male	1999	491
+Luxembourg	Male	2000	548
+Luxembourg	Male	2001	485
+Luxembourg	Male	2002	494
+Luxembourg	Male	2003	520
+Luxembourg	Male	2004	524
+Luxembourg	Male	2005	494
+Luxembourg	Male	2006	491
+Luxembourg	Male	2007	545
+Luxembourg	Male	2008	499
+Luxembourg	Male	2009	543
+Luxembourg	Male	2010	577
+Mexico	Female	1955	5549
+Mexico	Female	1956	6193
+Mexico	Female	1957	6783
+Mexico	Female	1958	7164
+Mexico	Female	1959	7454
+Mexico	Female	1960	7633
+Mexico	Female	1961	7859
+Mexico	Female	1962	8029
+Mexico	Female	1963	8605
+Mexico	Female	1964	8947
+Mexico	Female	1965	9168
+Mexico	Female	1966	9330
+Mexico	Female	1967	9185
+Mexico	Female	1968	9416
+Mexico	Female	1969	9966
+Mexico	Female	1970	10664
+Mexico	Female	1971	10794
+Mexico	Female	1972	11085
+Mexico	Female	1973	11465
+Mexico	Female	1974	12087
+Mexico	Female	1975	12293
+Mexico	Female	1976	12676
+Mexico	Female	1977	13490
+Mexico	Female	1978	13464
+Mexico	Female	1979	14332
+Mexico	Female	1980	14548
+Mexico	Female	1981	15392
+Mexico	Female	1982	16034
+Mexico	Female	1983	16549
+Mexico	Female	1984	17271
+Mexico	Female	1985	18892
+Mexico	Female	1986	19366
+Mexico	Female	1987	20181
+Mexico	Female	1988	20917
+Mexico	Female	1989	21424
+Mexico	Female	1990	21565
+Mexico	Female	1991	22136
+Mexico	Female	1992	23119
+Mexico	Female	1993	23774
+Mexico	Female	1994	24206
+Mexico	Female	1995	25177
+Mexico	Female	1996	26270
+Mexico	Female	1997	26739
+Mexico	Female	1998	27465
+Mexico	Female	1999	27963
+Mexico	Female	2000	28515
+Mexico	Female	2001	28973
+Mexico	Female	2002	29857
+Mexico	Female	2003	30489
+Mexico	Female	2004	31345
+Mexico	Female	2005	32162
+Mexico	Female	2006	32825
+Mexico	Female	2007	32778
+Mexico	Female	2008	34017
+Mexico	Female	2009	34328
+Mexico	Female	2010	35170
+Mexico	Male	1955	3128
+Mexico	Male	1956	3631
+Mexico	Male	1957	4256
+Mexico	Male	1958	4511
+Mexico	Male	1959	4516
+Mexico	Male	1960	4875
+Mexico	Male	1961	4997
+Mexico	Male	1962	5124
+Mexico	Male	1963	5526
+Mexico	Male	1964	5984
+Mexico	Male	1965	6268
+Mexico	Male	1966	6397
+Mexico	Male	1967	6532
+Mexico	Male	1968	6520
+Mexico	Male	1969	7164
+Mexico	Male	1970	7751
+Mexico	Male	1971	7594
+Mexico	Male	1972	8130
+Mexico	Male	1973	8497
+Mexico	Male	1974	8820
+Mexico	Male	1975	9170
+Mexico	Male	1976	9772
+Mexico	Male	1977	10365
+Mexico	Male	1978	10649
+Mexico	Male	1979	11559
+Mexico	Male	1980	11680
+Mexico	Male	1981	12362
+Mexico	Male	1982	13175
+Mexico	Male	1983	13809
+Mexico	Male	1984	14278
+Mexico	Male	1985	15711
+Mexico	Male	1986	16406
+Mexico	Male	1987	16974
+Mexico	Male	1988	18272
+Mexico	Male	1989	19004
+Mexico	Male	1990	19415
+Mexico	Male	1991	19702
+Mexico	Male	1992	20449
+Mexico	Male	1993	21093
+Mexico	Male	1994	22107
+Mexico	Male	1995	22943
+Mexico	Male	1996	23569
+Mexico	Male	1997	24434
+Mexico	Male	1998	25277
+Mexico	Male	1999	25751
+Mexico	Male	2000	26514
+Mexico	Male	2001	26965
+Mexico	Male	2002	28525
+Mexico	Male	2003	29439
+Mexico	Male	2004	29794
+Mexico	Male	2005	30955
+Mexico	Male	2006	31115
+Mexico	Male	2007	31181
+Mexico	Male	2008	32814
+Mexico	Male	2009	32946
+Mexico	Male	2010	33851
+Moldova	Female	1981	1912
+Moldova	Female	1982	1882
+Moldova	Female	1985	2016
+Moldova	Female	1986	2126
+Moldova	Female	1987	2263
+Moldova	Female	1988	2273
+Moldova	Female	1989	2475
+Moldova	Female	1990	2488
+Moldova	Female	1996	2488
+Moldova	Female	1997	2007
+Moldova	Female	1998	2048
+Moldova	Female	1999	2040
+Moldova	Female	2000	2014
+Moldova	Female	2001	2051
+Moldova	Female	2002	2101
+Moldova	Female	2003	2200
+Moldova	Female	2004	2174
+Moldova	Female	2005	2242
+Moldova	Female	2006	2374
+Moldova	Female	2007	2389
+Moldova	Female	2008	2446
+Moldova	Female	2009	2436
+Moldova	Female	2010	2401
+Moldova	Male	1981	2082
+Moldova	Male	1982	2192
+Moldova	Male	1985	2471
+Moldova	Male	1986	2712
+Moldova	Male	1987	2823
+Moldova	Male	1988	3017
+Moldova	Male	1989	3231
+Moldova	Male	1990	3245
+Moldova	Male	1996	3259
+Moldova	Male	1997	2709
+Moldova	Male	1998	2690
+Moldova	Male	1999	2544
+Moldova	Male	2000	2534
+Moldova	Male	2001	2604
+Moldova	Male	2002	2701
+Moldova	Male	2003	2738
+Moldova	Male	2004	2864
+Moldova	Male	2005	2942
+Moldova	Male	2006	3065
+Moldova	Male	2007	3001
+Moldova	Male	2008	3097
+Moldova	Male	2009	3223
+Moldova	Male	2010	3234
+Netherlands	Female	1950	7312
+Netherlands	Female	1951	7580
+Netherlands	Female	1952	7694
+Netherlands	Female	1953	7686
+Netherlands	Female	1954	7976
+Netherlands	Female	1955	7875
+Netherlands	Female	1956	8190
+Netherlands	Female	1957	8178
+Netherlands	Female	1958	8456
+Netherlands	Female	1959	8441
+Netherlands	Female	1960	8806
+Netherlands	Female	1961	8872
+Netherlands	Female	1962	8999
+Netherlands	Female	1963	9376
+Netherlands	Female	1964	9698
+Netherlands	Female	1965	9882
+Netherlands	Female	1966	10242
+Netherlands	Female	1967	10551
+Netherlands	Female	1968	10772
+Netherlands	Female	1969	10904
+Netherlands	Female	1970	10924
+Netherlands	Female	1971	10887
+Netherlands	Female	1972	11156
+Netherlands	Female	1973	11435
+Netherlands	Female	1974	11523
+Netherlands	Female	1975	11776
+Netherlands	Female	1976	11582
+Netherlands	Female	1977	11804
+Netherlands	Female	1978	12184
+Netherlands	Female	1979	12615
+Netherlands	Female	1980	12458
+Netherlands	Female	1981	13161
+Netherlands	Female	1982	13135
+Netherlands	Female	1983	13381
+Netherlands	Female	1984	13665
+Netherlands	Female	1985	14050
+Netherlands	Female	1986	14256
+Netherlands	Female	1987	14939
+Netherlands	Female	1988	15089
+Netherlands	Female	1989	15293
+Netherlands	Female	1990	15306
+Netherlands	Female	1991	15529
+Netherlands	Female	1992	15557
+Netherlands	Female	1993	15981
+Netherlands	Female	1994	16128
+Netherlands	Female	1995	16054
+Netherlands	Female	1996	16469
+Netherlands	Female	1997	16718
+Netherlands	Female	1998	16767
+Netherlands	Female	1999	17162
+Netherlands	Female	2000	17031
+Netherlands	Female	2001	17056
+Netherlands	Female	2002	17359
+Netherlands	Female	2003	17359
+Netherlands	Female	2004	17732
+Netherlands	Female	2005	18106
+Netherlands	Female	2006	18185
+Netherlands	Female	2007	18086
+Netherlands	Female	2008	18854
+Netherlands	Female	2009	18794
+Netherlands	Female	2010	19232
+Netherlands	Male	1950	7542
+Netherlands	Male	1951	7747
+Netherlands	Male	1952	7981
+Netherlands	Male	1953	8222
+Netherlands	Male	1954	8612
+Netherlands	Male	1955	8765
+Netherlands	Male	1956	9042
+Netherlands	Male	1957	9287
+Netherlands	Male	1958	9729
+Netherlands	Male	1959	10079
+Netherlands	Male	1960	10525
+Netherlands	Male	1961	11061
+Netherlands	Male	1962	11334
+Netherlands	Male	1963	11926
+Netherlands	Male	1964	12418
+Netherlands	Male	1965	12615
+Netherlands	Male	1966	13027
+Netherlands	Male	1967	13470
+Netherlands	Male	1968	14370
+Netherlands	Male	1969	14276
+Netherlands	Male	1970	14443
+Netherlands	Male	1971	14820
+Netherlands	Male	1972	15169
+Netherlands	Male	1973	15772
+Netherlands	Male	1974	16000
+Netherlands	Male	1975	16585
+Netherlands	Male	1976	16896
+Netherlands	Male	1977	16671
+Netherlands	Male	1978	17563
+Netherlands	Male	1979	17593
+Netherlands	Male	1980	18211
+Netherlands	Male	1981	18437
+Netherlands	Male	1982	18676
+Netherlands	Male	1983	18733
+Netherlands	Male	1984	19150
+Netherlands	Male	1985	19170
+Netherlands	Male	1986	19710
+Netherlands	Male	1987	20131
+Netherlands	Male	1988	20333
+Netherlands	Male	1989	20127
+Netherlands	Male	1990	19867
+Netherlands	Male	1991	20116
+Netherlands	Male	1992	20394
+Netherlands	Male	1993	20476
+Netherlands	Male	1994	20350
+Netherlands	Male	1995	20435
+Netherlands	Male	1996	20799
+Netherlands	Male	1997	20451
+Netherlands	Male	1998	20622
+Netherlands	Male	1999	21017
+Netherlands	Male	2000	20735
+Netherlands	Male	2001	20605
+Netherlands	Male	2002	20738
+Netherlands	Male	2003	20863
+Netherlands	Male	2004	21108
+Netherlands	Male	2005	21261
+Netherlands	Male	2006	21323
+Netherlands	Male	2007	21711
+Netherlands	Male	2008	21909
+Netherlands	Male	2009	22543
+Netherlands	Male	2010	23141
+New Zealand	Female	1950	1285
+New Zealand	Female	1951	1401
+New Zealand	Female	1952	1419
+New Zealand	Female	1953	1336
+New Zealand	Female	1954	1401
+New Zealand	Female	1955	1511
+New Zealand	Female	1956	1471
+New Zealand	Female	1957	1461
+New Zealand	Female	1958	1554
+New Zealand	Female	1959	1528
+New Zealand	Female	1960	1566
+New Zealand	Female	1961	1671
+New Zealand	Female	1962	1661
+New Zealand	Female	1963	1708
+New Zealand	Female	1964	1712
+New Zealand	Female	1965	1783
+New Zealand	Female	1966	1774
+New Zealand	Female	1967	1815
+New Zealand	Female	1968	1852
+New Zealand	Female	1969	1887
+New Zealand	Female	1970	2035
+New Zealand	Female	1971	2011
+New Zealand	Female	1972	2126
+New Zealand	Female	1973	2148
+New Zealand	Female	1974	2292
+New Zealand	Female	1975	2291
+New Zealand	Female	1976	2343
+New Zealand	Female	1977	2418
+New Zealand	Female	1978	2421
+New Zealand	Female	1979	2465
+New Zealand	Female	1980	2513
+New Zealand	Female	1981	2527
+New Zealand	Female	1982	2647
+New Zealand	Female	1983	2771
+New Zealand	Female	1984	2651
+New Zealand	Female	1985	2849
+New Zealand	Female	1986	2857
+New Zealand	Female	1987	3035
+New Zealand	Female	1988	3037
+New Zealand	Female	1989	3139
+New Zealand	Female	1990	3198
+New Zealand	Female	1991	3251
+New Zealand	Female	1992	3110
+New Zealand	Female	1993	3282
+New Zealand	Female	1994	3332
+New Zealand	Female	1995	3500
+New Zealand	Female	1996	3587
+New Zealand	Female	1997	3448
+New Zealand	Female	1998	3671
+New Zealand	Female	1999	3611
+New Zealand	Female	2000	3500
+New Zealand	Female	2001	3644
+New Zealand	Female	2002	3675
+New Zealand	Female	2003	3699
+New Zealand	Female	2004	3852
+New Zealand	Female	2005	3737
+New Zealand	Female	2006	3918
+New Zealand	Female	2007	3940
+New Zealand	Female	2008	3950
+New Zealand	Female	2009	3990
+New Zealand	Female	2010	4036
+New Zealand	Male	1950	1432
+New Zealand	Male	1951	1512
+New Zealand	Male	1952	1486
+New Zealand	Male	1953	1553
+New Zealand	Male	1954	1565
+New Zealand	Male	1955	1660
+New Zealand	Male	1956	1684
+New Zealand	Male	1957	1752
+New Zealand	Male	1958	1743
+New Zealand	Male	1959	1811
+New Zealand	Male	1960	1724
+New Zealand	Male	1961	1870
+New Zealand	Male	1962	1936
+New Zealand	Male	1963	2044
+New Zealand	Male	1964	1962
+New Zealand	Male	1965	2034
+New Zealand	Male	1966	2067
+New Zealand	Male	1967	2037
+New Zealand	Male	1968	2233
+New Zealand	Male	1969	2301
+New Zealand	Male	1970	2449
+New Zealand	Male	1971	2493
+New Zealand	Male	1972	2427
+New Zealand	Male	1973	2581
+New Zealand	Male	1974	2696
+New Zealand	Male	1975	2744
+New Zealand	Male	1976	2825
+New Zealand	Male	1977	2860
+New Zealand	Male	1978	2820
+New Zealand	Male	1979	2901
+New Zealand	Male	1980	2952
+New Zealand	Male	1981	3061
+New Zealand	Male	1982	3076
+New Zealand	Male	1983	3166
+New Zealand	Male	1984	3237
+New Zealand	Male	1985	3318
+New Zealand	Male	1986	3361
+New Zealand	Male	1987	3375
+New Zealand	Male	1988	3444
+New Zealand	Male	1989	3492
+New Zealand	Male	1990	3548
+New Zealand	Male	1991	3541
+New Zealand	Male	1992	3771
+New Zealand	Male	1993	3813
+New Zealand	Male	1994	3833
+New Zealand	Male	1995	3916
+New Zealand	Male	1996	3870
+New Zealand	Male	1997	3834
+New Zealand	Male	1998	3910
+New Zealand	Male	1999	4063
+New Zealand	Male	2000	4122
+New Zealand	Male	2001	4168
+New Zealand	Male	2002	4126
+New Zealand	Male	2003	4233
+New Zealand	Male	2004	4178
+New Zealand	Male	2005	4132
+New Zealand	Male	2006	4083
+New Zealand	Male	2007	4479
+New Zealand	Male	2008	4495
+New Zealand	Male	2009	4355
+New Zealand	Male	2010	4445
+Nicaragua	Female	1961	162
+Nicaragua	Female	1962	189
+Nicaragua	Female	1963	180
+Nicaragua	Female	1964	182
+Nicaragua	Female	1965	161
+Nicaragua	Female	1968	229
+Nicaragua	Female	1969	222
+Nicaragua	Female	1973	151
+Nicaragua	Female	1974	204
+Nicaragua	Female	1975	225
+Nicaragua	Female	1976	223
+Nicaragua	Female	1977	261
+Nicaragua	Female	1978	195
+Nicaragua	Female	1988	502
+Nicaragua	Female	1989	563
+Nicaragua	Female	1990	496
+Nicaragua	Female	1991	603
+Nicaragua	Female	1992	649
+Nicaragua	Female	1993	660
+Nicaragua	Female	1994	647
+Nicaragua	Female	1996	758
+Nicaragua	Female	1997	740
+Nicaragua	Female	1998	752
+Nicaragua	Female	1999	788
+Nicaragua	Female	2000	845
+Nicaragua	Female	2001	935
+Nicaragua	Female	2002	971
+Nicaragua	Female	2003	995
+Nicaragua	Female	2004	1089
+Nicaragua	Female	2005	1021
+Nicaragua	Female	2006	1036
+Nicaragua	Female	2007	1148
+Nicaragua	Female	2008	1187
+Nicaragua	Female	2009	1255
+Nicaragua	Female	2010	1236
+Nicaragua	Male	1950	1
+Nicaragua	Male	1961	80
+Nicaragua	Male	1962	91
+Nicaragua	Male	1963	85
+Nicaragua	Male	1964	83
+Nicaragua	Male	1965	89
+Nicaragua	Male	1968	136
+Nicaragua	Male	1969	130
+Nicaragua	Male	1973	105
+Nicaragua	Male	1974	104
+Nicaragua	Male	1975	120
+Nicaragua	Male	1976	133
+Nicaragua	Male	1977	133
+Nicaragua	Male	1978	111
+Nicaragua	Male	1988	391
+Nicaragua	Male	1989	388
+Nicaragua	Male	1990	399
+Nicaragua	Male	1991	400
+Nicaragua	Male	1992	449
+Nicaragua	Male	1993	453
+Nicaragua	Male	1994	521
+Nicaragua	Male	1996	566
+Nicaragua	Male	1997	606
+Nicaragua	Male	1998	689
+Nicaragua	Male	1999	641
+Nicaragua	Male	2000	720
+Nicaragua	Male	2001	752
+Nicaragua	Male	2002	769
+Nicaragua	Male	2003	817
+Nicaragua	Male	2004	863
+Nicaragua	Male	2005	961
+Nicaragua	Male	2006	873
+Nicaragua	Male	2007	983
+Nicaragua	Male	2008	1026
+Nicaragua	Male	2009	1064
+Nicaragua	Male	2010	1143
+Norway	Female	1951	2690
+Norway	Female	1952	2651
+Norway	Female	1953	2659
+Norway	Female	1954	2729
+Norway	Female	1955	2744
+Norway	Female	1956	2749
+Norway	Female	1957	2742
+Norway	Female	1958	2786
+Norway	Female	1959	2807
+Norway	Female	1960	2866
+Norway	Female	1961	2878
+Norway	Female	1962	2870
+Norway	Female	1963	2963
+Norway	Female	1964	2948
+Norway	Female	1965	2946
+Norway	Female	1966	3110
+Norway	Female	1967	3159
+Norway	Female	1968	3350
+Norway	Female	1969	3444
+Norway	Female	1970	3329
+Norway	Female	1971	3327
+Norway	Female	1972	3408
+Norway	Female	1973	3436
+Norway	Female	1974	3403
+Norway	Female	1975	3584
+Norway	Female	1976	3733
+Norway	Female	1977	3824
+Norway	Female	1978	3881
+Norway	Female	1979	3916
+Norway	Female	1980	3955
+Norway	Female	1981	4085
+Norway	Female	1982	4151
+Norway	Female	1983	4180
+Norway	Female	1984	4195
+Norway	Female	1985	4363
+Norway	Female	1986	4377
+Norway	Female	1987	4426
+Norway	Female	1988	4509
+Norway	Female	1989	4484
+Norway	Female	1990	4567
+Norway	Female	1991	4432
+Norway	Female	1992	4418
+Norway	Female	1993	4689
+Norway	Female	1994	4810
+Norway	Female	1995	4792
+Norway	Female	1996	5007
+Norway	Female	1997	4948
+Norway	Female	1998	4727
+Norway	Female	1999	4741
+Norway	Female	2000	4916
+Norway	Female	2001	4976
+Norway	Female	2002	4973
+Norway	Female	2003	4930
+Norway	Female	2004	4900
+Norway	Female	2005	4969
+Norway	Female	2006	4968
+Norway	Female	2007	5011
+Norway	Female	2008	4957
+Norway	Female	2009	4901
+Norway	Female	2010	5110
+Norway	Male	1951	2531
+Norway	Male	1952	2603
+Norway	Male	1953	2607
+Norway	Male	1954	2687
+Norway	Male	1955	2705
+Norway	Male	1956	2790
+Norway	Male	1957	2853
+Norway	Male	1958	2894
+Norway	Male	1959	2988
+Norway	Male	1960	3011
+Norway	Male	1961	3095
+Norway	Male	1962	3129
+Norway	Male	1963	3342
+Norway	Male	1964	3277
+Norway	Male	1965	3457
+Norway	Male	1966	3354
+Norway	Male	1967	3494
+Norway	Male	1968	3793
+Norway	Male	1969	3776
+Norway	Male	1970	3887
+Norway	Male	1971	3995
+Norway	Male	1972	3908
+Norway	Male	1973	3989
+Norway	Male	1974	3943
+Norway	Male	1975	4271
+Norway	Male	1976	4399
+Norway	Male	1977	4447
+Norway	Male	1978	4558
+Norway	Male	1979	4705
+Norway	Male	1980	4672
+Norway	Male	1981	4905
+Norway	Male	1982	4960
+Norway	Male	1983	4997
+Norway	Male	1984	5040
+Norway	Male	1985	5266
+Norway	Male	1986	5216
+Norway	Male	1987	5210
+Norway	Male	1988	5464
+Norway	Male	1989	5317
+Norway	Male	1990	5285
+Norway	Male	1991	5353
+Norway	Male	1992	5371
+Norway	Male	1993	5533
+Norway	Male	1994	5524
+Norway	Male	1995	5579
+Norway	Male	1996	5645
+Norway	Male	1997	5703
+Norway	Male	1998	5616
+Norway	Male	1999	5673
+Norway	Male	2000	5534
+Norway	Male	2001	5592
+Norway	Male	2002	5664
+Norway	Male	2003	5580
+Norway	Male	2004	5590
+Norway	Male	2005	5599
+Norway	Male	2006	5474
+Norway	Male	2007	5684
+Norway	Male	2008	5676
+Norway	Male	2009	5643
+Norway	Male	2010	5815
+Panama	Female	1955	195
+Panama	Female	1956	219
+Panama	Female	1957	224
+Panama	Female	1958	237
+Panama	Female	1959	227
+Panama	Female	1960	252
+Panama	Female	1961	245
+Panama	Female	1962	316
+Panama	Female	1963	256
+Panama	Female	1964	262
+Panama	Female	1965	265
+Panama	Female	1966	262
+Panama	Female	1967	250
+Panama	Female	1968	277
+Panama	Female	1969	351
+Panama	Female	1970	300
+Panama	Female	1971	343
+Panama	Female	1972	367
+Panama	Female	1973	361
+Panama	Female	1974	307
+Panama	Female	1975	401
+Panama	Female	1976	412
+Panama	Female	1977	436
+Panama	Female	1978	382
+Panama	Female	1979	416
+Panama	Female	1980	469
+Panama	Female	1981	457
+Panama	Female	1982	515
+Panama	Female	1983	461
+Panama	Female	1984	487
+Panama	Female	1985	531
+Panama	Female	1986	521
+Panama	Female	1987	567
+Panama	Female	1988	545
+Panama	Female	1989	593
+Panama	Female	1996	715
+Panama	Female	1997	757
+Panama	Female	1998	747
+Panama	Female	1999	760
+Panama	Female	2000	812
+Panama	Female	2001	830
+Panama	Female	2002	834
+Panama	Female	2003	956
+Panama	Female	2004	1061
+Panama	Female	2005	1028
+Panama	Female	2006	1061
+Panama	Female	2007	1105
+Panama	Female	2008	1138
+Panama	Female	2009	1114
+Panama	Female	2010	1163
+Panama	Male	1955	183
+Panama	Male	1956	201
+Panama	Male	1957	197
+Panama	Male	1958	221
+Panama	Male	1959	233
+Panama	Male	1960	213
+Panama	Male	1961	241
+Panama	Male	1962	235
+Panama	Male	1963	278
+Panama	Male	1964	293
+Panama	Male	1965	260
+Panama	Male	1966	292
+Panama	Male	1967	319
+Panama	Male	1968	315
+Panama	Male	1969	299
+Panama	Male	1970	348
+Panama	Male	1971	336
+Panama	Male	1972	362
+Panama	Male	1973	372
+Panama	Male	1974	394
+Panama	Male	1975	417
+Panama	Male	1976	443
+Panama	Male	1977	467
+Panama	Male	1978	431
+Panama	Male	1979	486
+Panama	Male	1980	524
+Panama	Male	1981	544
+Panama	Male	1982	550
+Panama	Male	1983	575
+Panama	Male	1984	570
+Panama	Male	1985	566
+Panama	Male	1986	632
+Panama	Male	1987	662
+Panama	Male	1988	688
+Panama	Male	1989	740
+Panama	Male	1996	842
+Panama	Male	1997	820
+Panama	Male	1998	925
+Panama	Male	1999	947
+Panama	Male	2000	1046
+Panama	Male	2001	1006
+Panama	Male	2002	1091
+Panama	Male	2003	1189
+Panama	Male	2004	1133
+Panama	Male	2005	1223
+Panama	Male	2006	1258
+Panama	Male	2007	1367
+Panama	Male	2008	1383
+Panama	Male	2009	1337
+Panama	Male	2010	1371
+Paraguay	Female	1995	968
+Paraguay	Female	1996	1105
+Paraguay	Female	1997	1093
+Paraguay	Female	1998	1092
+Paraguay	Female	1999	1075
+Paraguay	Female	2000	1127
+Paraguay	Female	2001	1239
+Paraguay	Female	2002	1285
+Paraguay	Female	2003	1328
+Paraguay	Female	2004	1316
+Paraguay	Female	2005	1445
+Paraguay	Female	2006	1492
+Paraguay	Female	2007	1527
+Paraguay	Female	2008	1558
+Paraguay	Female	2009	1575
+Paraguay	Female	2010	1666
+Paraguay	Male	1995	943
+Paraguay	Male	1996	1059
+Paraguay	Male	1997	1092
+Paraguay	Male	1998	1117
+Paraguay	Male	1999	1205
+Paraguay	Male	2000	1242
+Paraguay	Male	2001	1313
+Paraguay	Male	2002	1266
+Paraguay	Male	2003	1351
+Paraguay	Male	2004	1441
+Paraguay	Male	2005	1505
+Paraguay	Male	2006	1547
+Paraguay	Male	2007	1583
+Paraguay	Male	2008	1679
+Paraguay	Male	2009	1775
+Paraguay	Male	2010	1881
+Peru	Female	1966	2471
+Peru	Female	1967	2399
+Peru	Female	1968	2358
+Peru	Female	1969	2583
+Peru	Female	1970	2756
+Peru	Female	1971	2743
+Peru	Female	1972	2799
+Peru	Female	1973	2813
+Peru	Female	1977	2832
+Peru	Female	1978	3065
+Peru	Female	1980	3259
+Peru	Female	1981	3133
+Peru	Female	1982	3294
+Peru	Female	1983	2966
+Peru	Female	1986	3952
+Peru	Female	1987	3251
+Peru	Female	1988	3535
+Peru	Female	1989	3770
+Peru	Female	1990	3199
+Peru	Female	1991	2954
+Peru	Female	1992	4387
+Peru	Female	1994	4370
+Peru	Female	1995	5636
+Peru	Female	1996	6117
+Peru	Female	1997	6032
+Peru	Female	1998	6243
+Peru	Female	1999	6909
+Peru	Female	2000	7164
+Peru	Female	2001	6463
+Peru	Female	2002	7053
+Peru	Female	2003	7358
+Peru	Female	2004	8320
+Peru	Female	2005	9191
+Peru	Female	2006	8196
+Peru	Female	2007	8841
+Peru	Female	2008	9398
+Peru	Female	2009	9540
+Peru	Female	2010	9738
+Peru	Male	1966	1885
+Peru	Male	1967	2022
+Peru	Male	1968	2049
+Peru	Male	1969	2051
+Peru	Male	1970	2181
+Peru	Male	1971	2260
+Peru	Male	1972	2243
+Peru	Male	1973	2284
+Peru	Male	1977	2441
+Peru	Male	1978	2523
+Peru	Male	1980	2687
+Peru	Male	1981	2557
+Peru	Male	1982	2608
+Peru	Male	1983	2571
+Peru	Male	1986	3381
+Peru	Male	1987	2751
+Peru	Male	1988	3184
+Peru	Male	1989	3269
+Peru	Male	1990	2522
+Peru	Male	1991	2608
+Peru	Male	1992	3735
+Peru	Male	1994	3706
+Peru	Male	1995	4825
+Peru	Male	1996	5435
+Peru	Male	1997	5202
+Peru	Male	1998	5538
+Peru	Male	1999	5822
+Peru	Male	2000	6341
+Peru	Male	2001	5605
+Peru	Male	2002	5955
+Peru	Male	2003	6507
+Peru	Male	2004	7217
+Peru	Male	2005	7840
+Peru	Male	2006	7638
+Peru	Male	2007	7725
+Peru	Male	2008	8363
+Peru	Male	2009	8502
+Peru	Male	2010	8673
+Philippines	Female	1963	3030
+Philippines	Female	1964	3256
+Philippines	Female	1965	3427
+Philippines	Female	1966	3631
+Philippines	Female	1968	4230
+Philippines	Female	1969	4437
+Philippines	Female	1992	10958
+Philippines	Female	1993	11595
+Philippines	Female	1994	12754
+Philippines	Female	1995	13020
+Philippines	Female	1996	13812
+Philippines	Female	1997	13722
+Philippines	Female	1998	14364
+Philippines	Female	1999	15776
+Philippines	Female	2000	16817
+Philippines	Female	2001	17645
+Philippines	Female	2002	18381
+Philippines	Female	2003	18665
+Philippines	Female	2008	22336
+Philippines	Male	1963	2873
+Philippines	Male	1964	3392
+Philippines	Male	1965	3741
+Philippines	Male	1966	3743
+Philippines	Male	1968	4451
+Philippines	Male	1969	4779
+Philippines	Male	1992	12727
+Philippines	Male	1993	13550
+Philippines	Male	1994	15119
+Philippines	Male	1995	15159
+Philippines	Male	1996	16193
+Philippines	Male	1997	15886
+Philippines	Male	1998	17170
+Philippines	Male	1999	18257
+Philippines	Male	2000	19597
+Philippines	Male	2001	20187
+Philippines	Male	2002	20441
+Philippines	Male	2003	20635
+Philippines	Male	2008	23928
+Poland	Female	1959	12548
+Poland	Female	1960	13496
+Poland	Female	1961	14931
+Poland	Female	1962	15867
+Poland	Female	1963	17541
+Poland	Female	1964	18597
+Poland	Female	1965	19359
+Poland	Female	1966	19733
+Poland	Female	1967	20127
+Poland	Female	1968	20795
+Poland	Female	1969	21281
+Poland	Female	1970	21186
+Poland	Female	1971	21930
+Poland	Female	1972	22513
+Poland	Female	1973	22753
+Poland	Female	1974	23317
+Poland	Female	1975	23712
+Poland	Female	1976	23897
+Poland	Female	1977	24503
+Poland	Female	1978	24937
+Poland	Female	1979	25483
+Poland	Female	1980	26519
+Poland	Female	1981	26836
+Poland	Female	1982	27250
+Poland	Female	1983	27900
+Poland	Female	1984	29041
+Poland	Female	1985	28894
+Poland	Female	1986	29430
+Poland	Female	1987	29729
+Poland	Female	1988	30332
+Poland	Female	1989	30542
+Poland	Female	1990	30837
+Poland	Female	1991	31432
+Poland	Female	1992	31396
+Poland	Female	1993	32155
+Poland	Female	1994	32438
+Poland	Female	1995	33168
+Poland	Female	1996	33628
+Poland	Female	1999	34684
+Poland	Female	2000	36537
+Poland	Female	2001	37210
+Poland	Female	2002	37462
+Poland	Female	2003	38328
+Poland	Female	2004	38511
+Poland	Female	2005	39348
+Poland	Female	2006	39856
+Poland	Female	2007	40616
+Poland	Female	2008	40842
+Poland	Female	2009	40896
+Poland	Female	2010	40795
+Poland	Male	1959	11541
+Poland	Male	1960	12896
+Poland	Male	1961	14223
+Poland	Male	1962	15604
+Poland	Male	1963	16932
+Poland	Male	1964	18549
+Poland	Male	1965	19597
+Poland	Male	1966	20023
+Poland	Male	1967	20946
+Poland	Male	1968	22165
+Poland	Male	1969	22715
+Poland	Male	1970	23688
+Poland	Male	1971	25094
+Poland	Male	1972	25127
+Poland	Male	1973	26407
+Poland	Male	1974	27092
+Poland	Male	1975	28056
+Poland	Male	1976	29323
+Poland	Male	1977	29703
+Poland	Male	1978	30530
+Poland	Male	1979	31249
+Poland	Male	1980	33183
+Poland	Male	1981	34000
+Poland	Male	1982	34479
+Poland	Male	1983	36147
+Poland	Male	1984	37026
+Poland	Male	1985	38087
+Poland	Male	1986	38652
+Poland	Male	1987	39661
+Poland	Male	1988	40693
+Poland	Male	1989	40966
+Poland	Male	1990	42076
+Poland	Male	1991	42526
+Poland	Male	1992	42467
+Poland	Male	1993	43535
+Poland	Male	1994	43965
+Poland	Male	1995	44926
+Poland	Male	1996	45029
+Poland	Male	1999	46917
+Poland	Male	2000	48021
+Poland	Male	2001	49231
+Poland	Male	2002	50277
+Poland	Male	2003	49980
+Poland	Male	2004	51312
+Poland	Male	2005	51059
+Poland	Male	2006	51784
+Poland	Male	2007	52331
+Poland	Male	2008	52235
+Poland	Male	2009	52409
+Poland	Male	2010	51833
+Portugal	Female	1955	3933
+Portugal	Female	1956	3991
+Portugal	Female	1957	3965
+Portugal	Female	1958	4041
+Portugal	Female	1959	4257
+Portugal	Female	1960	4407
+Portugal	Female	1961	4503
+Portugal	Female	1962	4762
+Portugal	Female	1963	4775
+Portugal	Female	1964	4934
+Portugal	Female	1965	4942
+Portugal	Female	1966	5210
+Portugal	Female	1967	5184
+Portugal	Female	1968	5279
+Portugal	Female	1969	5237
+Portugal	Female	1970	5269
+Portugal	Female	1971	5600
+Portugal	Female	1972	5566
+Portugal	Female	1973	5671
+Portugal	Female	1974	5604
+Portugal	Female	1975	5758
+Portugal	Female	1976	5889
+Portugal	Female	1977	5871
+Portugal	Female	1978	5946
+Portugal	Female	1979	6092
+Portugal	Female	1980	6442
+Portugal	Female	1981	6478
+Portugal	Female	1982	6643
+Portugal	Female	1983	6741
+Portugal	Female	1984	6977
+Portugal	Female	1985	7046
+Portugal	Female	1986	7227
+Portugal	Female	1987	7327
+Portugal	Female	1988	7696
+Portugal	Female	1989	7651
+Portugal	Female	1990	7923
+Portugal	Female	1991	8002
+Portugal	Female	1992	8081
+Portugal	Female	1993	8280
+Portugal	Female	1994	8002
+Portugal	Female	1995	8414
+Portugal	Female	1996	8434
+Portugal	Female	1997	8454
+Portugal	Female	1998	8605
+Portugal	Female	1999	8612
+Portugal	Female	2000	8755
+Portugal	Female	2001	9043
+Portugal	Female	2002	9081
+Portugal	Female	2003	9222
+Portugal	Female	2007	9550
+Portugal	Female	2008	9722
+Portugal	Female	2009	9985
+Portugal	Female	2010	10044
+Portugal	Male	1955	3436
+Portugal	Male	1956	3433
+Portugal	Male	1957	3735
+Portugal	Male	1958	3751
+Portugal	Male	1959	3986
+Portugal	Male	1960	4292
+Portugal	Male	1961	4453
+Portugal	Male	1962	4648
+Portugal	Male	1963	4726
+Portugal	Male	1964	4971
+Portugal	Male	1965	4945
+Portugal	Male	1966	5386
+Portugal	Male	1967	5320
+Portugal	Male	1968	5491
+Portugal	Male	1969	5588
+Portugal	Male	1970	5589
+Portugal	Male	1971	5989
+Portugal	Male	1972	5831
+Portugal	Male	1973	6069
+Portugal	Male	1974	6265
+Portugal	Male	1975	6488
+Portugal	Male	1976	6724
+Portugal	Male	1977	6773
+Portugal	Male	1978	7086
+Portugal	Male	1979	7210
+Portugal	Male	1980	7775
+Portugal	Male	1981	7837
+Portugal	Male	1982	8084
+Portugal	Male	1983	8062
+Portugal	Male	1984	8700
+Portugal	Male	1985	9028
+Portugal	Male	1986	9014
+Portugal	Male	1987	9454
+Portugal	Male	1988	9498
+Portugal	Male	1989	9827
+Portugal	Male	1990	10254
+Portugal	Male	1991	10228
+Portugal	Male	1992	10670
+Portugal	Male	1993	11030
+Portugal	Male	1994	11169
+Portugal	Male	1995	11593
+Portugal	Male	1996	11897
+Portugal	Male	1997	12020
+Portugal	Male	1998	12255
+Portugal	Male	1999	12322
+Portugal	Male	2000	12706
+Portugal	Male	2001	12917
+Portugal	Male	2002	13271
+Portugal	Male	2003	13546
+Portugal	Male	2007	13963
+Portugal	Male	2008	14391
+Portugal	Male	2009	14477
+Portugal	Male	2010	15012
+Romania	Female	1963	10883
+Romania	Female	1969	11062
+Romania	Female	1970	11226
+Romania	Female	1971	11536
+Romania	Female	1972	11531
+Romania	Female	1973	11639
+Romania	Female	1974	11852
+Romania	Female	1975	12040
+Romania	Female	1976	12066
+Romania	Female	1977	12348
+Romania	Female	1978	12839
+Romania	Female	1980	12853
+Romania	Female	1981	12389
+Romania	Female	1982	12586
+Romania	Female	1983	12674
+Romania	Female	1984	12726
+Romania	Female	1985	13162
+Romania	Female	1986	13411
+Romania	Female	1987	13263
+Romania	Female	1988	13655
+Romania	Female	1989	13698
+Romania	Female	1990	13809
+Romania	Female	1991	13947
+Romania	Female	1992	14154
+Romania	Female	1993	14781
+Romania	Female	1994	15129
+Romania	Female	1995	15344
+Romania	Female	1996	15873
+Romania	Female	1997	16267
+Romania	Female	1998	16317
+Romania	Female	1999	16574
+Romania	Female	2000	17241
+Romania	Female	2001	17618
+Romania	Female	2002	17809
+Romania	Female	2003	17960
+Romania	Female	2004	18030
+Romania	Female	2005	18492
+Romania	Female	2006	18679
+Romania	Female	2007	18493
+Romania	Female	2008	18632
+Romania	Female	2009	19153
+Romania	Female	2010	19158
+Romania	Male	1963	11711
+Romania	Male	1969	13363
+Romania	Male	1970	13057
+Romania	Male	1971	13616
+Romania	Male	1972	14023
+Romania	Male	1973	14216
+Romania	Male	1974	14314
+Romania	Male	1975	14589
+Romania	Male	1976	15176
+Romania	Male	1977	15227
+Romania	Male	1978	15915
+Romania	Male	1980	16378
+Romania	Male	1981	15943
+Romania	Male	1982	16069
+Romania	Male	1983	16223
+Romania	Male	1984	16315
+Romania	Male	1985	17560
+Romania	Male	1986	18149
+Romania	Male	1987	17973
+Romania	Male	1988	18630
+Romania	Male	1989	18597
+Romania	Male	1990	18753
+Romania	Male	1991	19197
+Romania	Male	1992	20266
+Romania	Male	1993	20989
+Romania	Male	1994	21390
+Romania	Male	1995	21876
+Romania	Male	1996	22357
+Romania	Male	1997	22627
+Romania	Male	1998	22696
+Romania	Male	1999	22787
+Romania	Male	2000	23736
+Romania	Male	2001	24852
+Romania	Male	2002	25133
+Romania	Male	2003	25326
+Romania	Male	2004	25588
+Romania	Male	2005	26083
+Romania	Male	2006	26353
+Romania	Male	2007	26512
+Romania	Male	2008	27459
+Romania	Male	2009	27932
+Romania	Male	2010	28156
+Russia	Female	1980	108109
+Russia	Female	1981	109569
+Russia	Female	1982	111889
+Russia	Female	1983	114364
+Russia	Female	1984	114338
+Russia	Female	1985	115298
+Russia	Female	1986	118770
+Russia	Female	1987	120801
+Russia	Female	1988	122656
+Russia	Female	1989	124757
+Russia	Female	1990	126959
+Russia	Female	1991	128379
+Russia	Female	1992	130935
+Russia	Female	1993	130606
+Russia	Female	1994	131087
+Russia	Female	1995	129796
+Russia	Female	1996	128475
+Russia	Female	1997	129809
+Russia	Female	1998	130478
+Russia	Female	1999	133301
+Russia	Female	2000	133826
+Russia	Female	2001	132631
+Russia	Female	2002	132007
+Russia	Female	2003	132016
+Russia	Female	2004	132587
+Russia	Female	2005	132036
+Russia	Female	2006	132280
+Russia	Female	2007	133527
+Russia	Female	2008	134389
+Russia	Female	2009	136716
+Russia	Female	2010	136851
+Russia	Male	1980	115302
+Russia	Male	1981	118345
+Russia	Male	1982	122411
+Russia	Male	1983	126616
+Russia	Male	1984	130235
+Russia	Male	1985	132907
+Russia	Male	1986	138585
+Russia	Male	1987	143203
+Russia	Male	1988	148473
+Russia	Male	1989	152651
+Russia	Male	1990	157379
+Russia	Male	1991	162006
+Russia	Male	1992	165888
+Russia	Male	1993	170500
+Russia	Male	1994	169299
+Russia	Male	1995	165644
+Russia	Male	1996	162606
+Russia	Male	1997	162913
+Russia	Male	1998	162629
+Russia	Male	1999	165080
+Russia	Male	2000	163994
+Russia	Male	2001	161323
+Russia	Male	2002	160806
+Russia	Male	2003	158350
+Russia	Male	2004	157306
+Russia	Male	2005	155765
+Russia	Male	2006	153861
+Russia	Male	2007	154923
+Russia	Male	2008	154796
+Russia	Male	2009	156800
+Russia	Male	2010	156238
+Serbia	Female	1998	7423
+Serbia	Female	1999	7508
+Serbia	Female	2000	7694
+Serbia	Female	2001	7743
+Serbia	Female	2002	7913
+Serbia	Female	2003	8170
+Serbia	Female	2004	8379
+Serbia	Female	2005	8572
+Serbia	Female	2006	8722
+Serbia	Female	2007	8681
+Serbia	Female	2008	8764
+Serbia	Female	2009	9048
+Serbia	Female	2010	9018
+Serbia	Male	1998	9756
+Serbia	Male	1999	9872
+Serbia	Male	2000	10178
+Serbia	Male	2001	10174
+Serbia	Male	2002	10636
+Serbia	Male	2003	10692
+Serbia	Male	2004	10984
+Serbia	Male	2005	11169
+Serbia	Male	2006	11497
+Serbia	Male	2007	11731
+Serbia	Male	2008	11809
+Serbia	Male	2009	11987
+Serbia	Male	2010	12124
+Slovakia	Female	1992	4183
+Slovakia	Female	1993	4280
+Slovakia	Female	1994	4343
+Slovakia	Female	1995	4348
+Slovakia	Female	1996	4351
+Slovakia	Female	1997	4558
+Slovakia	Female	1998	4855
+Slovakia	Female	1999	4785
+Slovakia	Female	2000	4886
+Slovakia	Female	2001	4818
+Slovakia	Female	2002	4716
+Slovakia	Female	2003	4770
+Slovakia	Female	2004	4819
+Slovakia	Female	2005	4888
+Slovakia	Female	2006	4883
+Slovakia	Female	2007	5030
+Slovakia	Female	2008	5054
+Slovakia	Female	2009	5123
+Slovakia	Female	2010	5067
+Slovakia	Male	1992	6376
+Slovakia	Male	1993	6375
+Slovakia	Male	1994	6315
+Slovakia	Male	1995	6600
+Slovakia	Male	1996	6698
+Slovakia	Male	1997	6612
+Slovakia	Male	1998	7327
+Slovakia	Male	1999	7113
+Slovakia	Male	2000	6986
+Slovakia	Male	2001	6998
+Slovakia	Male	2002	6729
+Slovakia	Male	2003	6788
+Slovakia	Male	2004	6762
+Slovakia	Male	2005	6906
+Slovakia	Male	2006	6766
+Slovakia	Male	2007	6837
+Slovakia	Male	2008	6837
+Slovakia	Male	2009	6708
+Slovakia	Male	2010	7007
+Slovenia	Female	1985	1748
+Slovenia	Female	1986	1769
+Slovenia	Female	1987	1764
+Slovenia	Female	1988	1716
+Slovenia	Female	1989	1738
+Slovenia	Female	1990	1817
+Slovenia	Female	1991	1937
+Slovenia	Female	1992	1965
+Slovenia	Female	1993	2024
+Slovenia	Female	1994	1974
+Slovenia	Female	1995	2048
+Slovenia	Female	1996	2019
+Slovenia	Female	1997	2145
+Slovenia	Female	1998	2047
+Slovenia	Female	1999	2128
+Slovenia	Female	2000	2080
+Slovenia	Female	2001	2121
+Slovenia	Female	2002	2169
+Slovenia	Female	2003	2241
+Slovenia	Female	2004	2245
+Slovenia	Female	2005	2299
+Slovenia	Female	2006	2342
+Slovenia	Female	2007	2390
+Slovenia	Female	2008	2549
+Slovenia	Female	2009	2516
+Slovenia	Female	2010	2616
+Slovenia	Male	1985	2199
+Slovenia	Male	1986	2116
+Slovenia	Male	1987	2163
+Slovenia	Male	1988	2291
+Slovenia	Male	1989	2249
+Slovenia	Male	1990	2271
+Slovenia	Male	1991	2385
+Slovenia	Male	1992	2426
+Slovenia	Male	1993	2533
+Slovenia	Male	1994	2438
+Slovenia	Male	1995	2525
+Slovenia	Male	1996	2522
+Slovenia	Male	1997	2629
+Slovenia	Male	1998	2657
+Slovenia	Male	1999	2647
+Slovenia	Male	2000	2673
+Slovenia	Male	2001	2692
+Slovenia	Male	2002	2809
+Slovenia	Male	2003	2817
+Slovenia	Male	2004	2811
+Slovenia	Male	2005	2807
+Slovenia	Male	2006	2931
+Slovenia	Male	2007	3146
+Slovenia	Male	2008	3131
+Slovenia	Male	2009	3227
+Slovenia	Male	2010	3227
+South Africa	Female	1993	8988
+South Africa	Female	1994	10614
+South Africa	Female	1995	10427
+South Africa	Female	1996	11941
+South Africa	Female	1997	12179
+South Africa	Female	1998	13104
+South Africa	Female	1999	13826
+South Africa	Female	2000	14030
+South Africa	Female	2001	14355
+South Africa	Female	2002	14892
+South Africa	Female	2003	15443
+South Africa	Female	2004	15818
+South Africa	Female	2005	16351
+South Africa	Female	2006	16427
+South Africa	Female	2007	16640
+South Africa	Female	2008	16626
+South Africa	Female	2009	17361
+South Africa	Female	2010	17655
+South Africa	Male	1993	11545
+South Africa	Male	1994	13078
+South Africa	Male	1995	12743
+South Africa	Male	1996	14444
+South Africa	Male	1997	14695
+South Africa	Male	1998	15272
+South Africa	Male	1999	15757
+South Africa	Male	2000	15720
+South Africa	Male	2001	15953
+South Africa	Male	2002	16335
+South Africa	Male	2003	16688
+South Africa	Male	2004	17056
+South Africa	Male	2005	16829
+South Africa	Male	2006	16908
+South Africa	Male	2007	17278
+South Africa	Male	2008	17075
+South Africa	Male	2009	17566
+South Africa	Male	2010	17824
+Spain	Female	1951	11138
+Spain	Female	1952	11993
+Spain	Female	1953	12088
+Spain	Female	1954	12999
+Spain	Female	1955	14113
+Spain	Female	1956	14649
+Spain	Female	1957	14990
+Spain	Female	1958	14777
+Spain	Female	1959	15507
+Spain	Female	1960	16931
+Spain	Female	1961	17266
+Spain	Female	1962	18093
+Spain	Female	1963	18472
+Spain	Female	1964	19000
+Spain	Female	1965	19046
+Spain	Female	1966	19229
+Spain	Female	1967	20453
+Spain	Female	1968	19699
+Spain	Female	1969	19796
+Spain	Female	1970	20656
+Spain	Female	1971	21278
+Spain	Female	1972	21505
+Spain	Female	1973	22101
+Spain	Female	1974	22551
+Spain	Female	1975	22899
+Spain	Female	1976	22973
+Spain	Female	1977	23264
+Spain	Female	1978	23751
+Spain	Female	1979	23715
+Spain	Female	1980	24269
+Spain	Female	1981	24271
+Spain	Female	1982	24919
+Spain	Female	1983	25413
+Spain	Female	1984	26347
+Spain	Female	1985	26245
+Spain	Female	1986	27050
+Spain	Female	1987	28116
+Spain	Female	1988	28922
+Spain	Female	1989	28986
+Spain	Female	1990	29581
+Spain	Female	1991	30290
+Spain	Female	1992	30556
+Spain	Female	1993	31518
+Spain	Female	1994	32249
+Spain	Female	1995	32757
+Spain	Female	1996	32604
+Spain	Female	1997	33013
+Spain	Female	1998	33383
+Spain	Female	1999	33767
+Spain	Female	2000	34337
+Spain	Female	2001	34979
+Spain	Female	2002	35227
+Spain	Female	2003	35940
+Spain	Female	2004	36020
+Spain	Female	2005	35928
+Spain	Female	2006	36999
+Spain	Female	2007	37444
+Spain	Female	2008	38119
+Spain	Female	2009	38496
+Spain	Female	2010	39371
+Spain	Male	1951	11237
+Spain	Male	1952	11695
+Spain	Male	1953	12400
+Spain	Male	1954	12905
+Spain	Male	1955	14238
+Spain	Male	1956	15042
+Spain	Male	1957	15734
+Spain	Male	1958	15839
+Spain	Male	1959	16585
+Spain	Male	1960	18309
+Spain	Male	1961	19226
+Spain	Male	1962	20238
+Spain	Male	1963	21038
+Spain	Male	1964	21720
+Spain	Male	1965	21863
+Spain	Male	1966	22394
+Spain	Male	1967	23211
+Spain	Male	1968	23641
+Spain	Male	1969	23675
+Spain	Male	1970	24755
+Spain	Male	1971	26096
+Spain	Male	1972	26259
+Spain	Male	1973	27267
+Spain	Male	1974	28144
+Spain	Male	1975	29654
+Spain	Male	1976	30410
+Spain	Male	1977	31126
+Spain	Male	1978	32293
+Spain	Male	1979	33139
+Spain	Male	1980	33976
+Spain	Male	1981	35207
+Spain	Male	1982	36342
+Spain	Male	1983	37640
+Spain	Male	1984	39463
+Spain	Male	1985	40084
+Spain	Male	1986	41019
+Spain	Male	1987	43159
+Spain	Male	1988	44768
+Spain	Male	1989	46019
+Spain	Male	1990	47242
+Spain	Male	1991	48366
+Spain	Male	1992	49903
+Spain	Male	1993	51526
+Spain	Male	1994	53001
+Spain	Male	1995	54147
+Spain	Male	1996	54095
+Spain	Male	1997	55255
+Spain	Male	1998	56282
+Spain	Male	1999	57531
+Spain	Male	2000	57646
+Spain	Male	2001	59538
+Spain	Male	2002	59432
+Spain	Male	2003	60679
+Spain	Male	2004	61271
+Spain	Male	2005	60942
+Spain	Male	2006	61410
+Spain	Male	2007	62667
+Spain	Male	2008	62655
+Spain	Male	2009	63151
+Spain	Male	2010	64058
+Suriname	Female	1963	58
+Suriname	Female	1964	71
+Suriname	Female	1965	72
+Suriname	Female	1966	70
+Suriname	Female	1971	58
+Suriname	Female	1972	59
+Suriname	Female	1973	46
+Suriname	Female	1975	102
+Suriname	Female	1976	70
+Suriname	Female	1977	77
+Suriname	Female	1978	85
+Suriname	Female	1979	80
+Suriname	Female	1980	80
+Suriname	Female	1981	83
+Suriname	Female	1982	99
+Suriname	Female	1984	102
+Suriname	Female	1985	102
+Suriname	Female	1986	99
+Suriname	Female	1987	85
+Suriname	Female	1988	80
+Suriname	Female	1989	79
+Suriname	Female	1990	108
+Suriname	Female	1991	79
+Suriname	Female	1992	93
+Suriname	Female	1995	65
+Suriname	Female	1996	48
+Suriname	Female	1997	71
+Suriname	Female	1998	97
+Suriname	Female	1999	106
+Suriname	Female	2000	126
+Suriname	Female	2001	125
+Suriname	Female	2002	154
+Suriname	Female	2003	149
+Suriname	Female	2004	157
+Suriname	Female	2005	135
+Suriname	Female	2006	164
+Suriname	Female	2007	148
+Suriname	Female	2008	174
+Suriname	Female	2009	160
+Suriname	Female	2010	180
+Suriname	Male	1963	78
+Suriname	Male	1964	75
+Suriname	Male	1965	62
+Suriname	Male	1966	68
+Suriname	Male	1971	48
+Suriname	Male	1972	60
+Suriname	Male	1973	39
+Suriname	Male	1975	90
+Suriname	Male	1976	75
+Suriname	Male	1977	67
+Suriname	Male	1978	77
+Suriname	Male	1979	77
+Suriname	Male	1980	95
+Suriname	Male	1981	84
+Suriname	Male	1982	109
+Suriname	Male	1984	107
+Suriname	Male	1985	86
+Suriname	Male	1986	64
+Suriname	Male	1987	72
+Suriname	Male	1988	72
+Suriname	Male	1989	76
+Suriname	Male	1990	81
+Suriname	Male	1991	93
+Suriname	Male	1992	103
+Suriname	Male	1995	54
+Suriname	Male	1996	71
+Suriname	Male	1997	73
+Suriname	Male	1998	90
+Suriname	Male	1999	114
+Suriname	Male	2000	123
+Suriname	Male	2001	152
+Suriname	Male	2002	171
+Suriname	Male	2003	155
+Suriname	Male	2004	153
+Suriname	Male	2005	155
+Suriname	Male	2006	173
+Suriname	Male	2007	162
+Suriname	Male	2008	195
+Suriname	Male	2009	185
+Suriname	Male	2010	180
+Sweden	Female	1951	5535
+Sweden	Female	1952	5928
+Sweden	Female	1953	6014
+Sweden	Female	1954	5840
+Sweden	Female	1955	6031
+Sweden	Female	1956	6187
+Sweden	Female	1957	6184
+Sweden	Female	1958	6452
+Sweden	Female	1959	6542
+Sweden	Female	1960	6757
+Sweden	Female	1961	6718
+Sweden	Female	1962	6819
+Sweden	Female	1963	6957
+Sweden	Female	1964	7048
+Sweden	Female	1965	6910
+Sweden	Female	1966	7114
+Sweden	Female	1967	7199
+Sweden	Female	1968	7400
+Sweden	Female	1969	7657
+Sweden	Female	1970	7837
+Sweden	Female	1971	8187
+Sweden	Female	1972	8663
+Sweden	Female	1973	8680
+Sweden	Female	1974	8978
+Sweden	Female	1975	9064
+Sweden	Female	1976	9034
+Sweden	Female	1977	9142
+Sweden	Female	1978	9277
+Sweden	Female	1979	9394
+Sweden	Female	1980	9461
+Sweden	Female	1981	9075
+Sweden	Female	1982	9145
+Sweden	Female	1983	8957
+Sweden	Female	1984	9085
+Sweden	Female	1985	9304
+Sweden	Female	1986	9123
+Sweden	Female	1987	9335
+Sweden	Female	1988	9588
+Sweden	Female	1989	9518
+Sweden	Female	1990	9649
+Sweden	Female	1991	9617
+Sweden	Female	1992	9643
+Sweden	Female	1993	9830
+Sweden	Female	1994	9516
+Sweden	Female	1995	9966
+Sweden	Female	1996	9920
+Sweden	Female	1997	10104
+Sweden	Female	1998	9887
+Sweden	Female	1999	9955
+Sweden	Female	2000	10120
+Sweden	Female	2001	10484
+Sweden	Female	2002	10277
+Sweden	Female	2003	10155
+Sweden	Female	2004	10521
+Sweden	Female	2005	10368
+Sweden	Female	2006	10533
+Sweden	Female	2007	10584
+Sweden	Female	2008	10435
+Sweden	Female	2009	10373
+Sweden	Female	2010	10351
+Sweden	Male	1951	5398
+Sweden	Male	1952	5557
+Sweden	Male	1953	5722
+Sweden	Male	1954	5624
+Sweden	Male	1955	5885
+Sweden	Male	1956	6090
+Sweden	Male	1957	6331
+Sweden	Male	1958	6488
+Sweden	Male	1959	6786
+Sweden	Male	1960	7132
+Sweden	Male	1961	7143
+Sweden	Male	1962	7615
+Sweden	Male	1963	7568
+Sweden	Male	1964	7618
+Sweden	Male	1965	7596
+Sweden	Male	1966	7702
+Sweden	Male	1967	7884
+Sweden	Male	1968	8052
+Sweden	Male	1969	8522
+Sweden	Male	1970	8505
+Sweden	Male	1971	9271
+Sweden	Male	1972	9798
+Sweden	Male	1973	9911
+Sweden	Male	1974	10212
+Sweden	Male	1975	10418
+Sweden	Male	1976	10569
+Sweden	Male	1977	10723
+Sweden	Male	1978	10725
+Sweden	Male	1979	10831
+Sweden	Male	1980	10647
+Sweden	Male	1981	10134
+Sweden	Male	1982	9958
+Sweden	Male	1983	9983
+Sweden	Male	1984	10250
+Sweden	Male	1985	10368
+Sweden	Male	1986	10229
+Sweden	Male	1987	10319
+Sweden	Male	1988	10659
+Sweden	Male	1989	10448
+Sweden	Male	1990	10682
+Sweden	Male	1991	10789
+Sweden	Male	1992	10731
+Sweden	Male	1993	10731
+Sweden	Male	1994	10659
+Sweden	Male	1995	10739
+Sweden	Male	1996	10837
+Sweden	Male	1997	11265
+Sweden	Male	1998	11194
+Sweden	Male	1999	11158
+Sweden	Male	2000	11037
+Sweden	Male	2001	11134
+Sweden	Male	2002	11051
+Sweden	Male	2003	11477
+Sweden	Male	2004	11346
+Sweden	Male	2005	11505
+Sweden	Male	2006	11468
+Sweden	Male	2007	11258
+Sweden	Male	2008	11318
+Sweden	Male	2009	11348
+Sweden	Male	2010	11295
+Switzerland	Female	1951	4382
+Switzerland	Female	1952	4409
+Switzerland	Female	1953	4439
+Switzerland	Female	1954	4421
+Switzerland	Female	1955	4474
+Switzerland	Female	1956	4631
+Switzerland	Female	1957	4614
+Switzerland	Female	1958	4779
+Switzerland	Female	1959	4715
+Switzerland	Female	1960	4751
+Switzerland	Female	1961	4780
+Switzerland	Female	1962	4920
+Switzerland	Female	1963	4865
+Switzerland	Female	1964	5048
+Switzerland	Female	1965	5174
+Switzerland	Female	1966	5132
+Switzerland	Female	1967	5353
+Switzerland	Female	1968	5346
+Switzerland	Female	1969	5444
+Switzerland	Female	1970	5565
+Switzerland	Female	1971	5655
+Switzerland	Female	1972	5730
+Switzerland	Female	1973	5872
+Switzerland	Female	1974	5676
+Switzerland	Female	1975	5829
+Switzerland	Female	1976	5863
+Switzerland	Female	1977	5961
+Switzerland	Female	1978	6134
+Switzerland	Female	1979	6085
+Switzerland	Female	1980	6208
+Switzerland	Female	1981	6543
+Switzerland	Female	1982	6682
+Switzerland	Female	1983	6742
+Switzerland	Female	1984	6854
+Switzerland	Female	1985	6976
+Switzerland	Female	1986	6990
+Switzerland	Female	1987	7090
+Switzerland	Female	1988	7087
+Switzerland	Female	1989	7074
+Switzerland	Female	1990	7302
+Switzerland	Female	1991	7353
+Switzerland	Female	1992	7366
+Switzerland	Female	1993	7265
+Switzerland	Female	1994	7172
+Switzerland	Female	1995	7202
+Switzerland	Female	1996	7012
+Switzerland	Female	1997	7094
+Switzerland	Female	1998	6911
+Switzerland	Female	1999	6890
+Switzerland	Female	2000	7198
+Switzerland	Female	2001	7010
+Switzerland	Female	2002	7145
+Switzerland	Female	2003	7176
+Switzerland	Female	2004	7237
+Switzerland	Female	2005	7048
+Switzerland	Female	2006	7311
+Switzerland	Female	2007	7457
+Switzerland	Female	2008	7315
+Switzerland	Female	2009	7505
+Switzerland	Female	2010	7532
+Switzerland	Male	1951	4739
+Switzerland	Male	1952	4628
+Switzerland	Male	1953	4833
+Switzerland	Male	1954	4850
+Switzerland	Male	1955	4962
+Switzerland	Male	1956	4990
+Switzerland	Male	1957	5156
+Switzerland	Male	1958	5202
+Switzerland	Male	1959	5490
+Switzerland	Male	1960	5311
+Switzerland	Male	1961	5582
+Switzerland	Male	1962	5615
+Switzerland	Male	1963	5811
+Switzerland	Male	1964	5806
+Switzerland	Male	1965	5984
+Switzerland	Male	1966	6011
+Switzerland	Male	1967	6266
+Switzerland	Male	1968	6435
+Switzerland	Male	1969	6597
+Switzerland	Male	1970	6590
+Switzerland	Male	1971	7049
+Switzerland	Male	1972	7091
+Switzerland	Male	1973	7345
+Switzerland	Male	1974	7297
+Switzerland	Male	1975	7469
+Switzerland	Male	1976	7635
+Switzerland	Male	1977	7643
+Switzerland	Male	1978	7668
+Switzerland	Male	1979	7693
+Switzerland	Male	1980	7758
+Switzerland	Male	1981	8374
+Switzerland	Male	1982	8350
+Switzerland	Male	1983	8673
+Switzerland	Male	1984	8548
+Switzerland	Male	1985	8959
+Switzerland	Male	1986	8761
+Switzerland	Male	1987	8841
+Switzerland	Male	1988	8963
+Switzerland	Male	1989	9104
+Switzerland	Male	1990	9072
+Switzerland	Male	1991	9218
+Switzerland	Male	1992	9195
+Switzerland	Male	1993	9114
+Switzerland	Male	1994	9060
+Switzerland	Male	1995	8614
+Switzerland	Male	1996	8623
+Switzerland	Male	1997	8504
+Switzerland	Male	1998	8668
+Switzerland	Male	1999	8641
+Switzerland	Male	2000	8780
+Switzerland	Male	2001	8874
+Switzerland	Male	2002	8566
+Switzerland	Male	2003	8732
+Switzerland	Male	2004	8690
+Switzerland	Male	2005	8832
+Switzerland	Male	2006	8854
+Switzerland	Male	2007	9040
+Switzerland	Male	2008	9120
+Switzerland	Male	2009	9008
+Switzerland	Male	2010	9295
+Tajikistan	Female	1981	882
+Tajikistan	Female	1982	864
+Tajikistan	Female	1985	1018
+Tajikistan	Female	1986	1089
+Tajikistan	Female	1987	1117
+Tajikistan	Female	1988	1079
+Tajikistan	Female	1989	1208
+Tajikistan	Female	1990	1144
+Tajikistan	Female	1991	1111
+Tajikistan	Female	1992	1077
+Tajikistan	Female	1993	996
+Tajikistan	Female	1994	899
+Tajikistan	Female	1995	712
+Tajikistan	Female	1996	661
+Tajikistan	Female	1997	676
+Tajikistan	Female	1998	690
+Tajikistan	Female	1999	839
+Tajikistan	Female	2000	756
+Tajikistan	Female	2001	857
+Tajikistan	Female	2002	995
+Tajikistan	Female	2003	979
+Tajikistan	Female	2004	960
+Tajikistan	Female	2005	997
+Tajikistan	Male	1981	1196
+Tajikistan	Male	1982	1195
+Tajikistan	Male	1985	1369
+Tajikistan	Male	1986	1342
+Tajikistan	Male	1987	1408
+Tajikistan	Male	1988	1478
+Tajikistan	Male	1989	1516
+Tajikistan	Male	1990	1505
+Tajikistan	Male	1991	1514
+Tajikistan	Male	1992	1324
+Tajikistan	Male	1993	1298
+Tajikistan	Male	1994	1049
+Tajikistan	Male	1995	886
+Tajikistan	Male	1996	840
+Tajikistan	Male	1997	870
+Tajikistan	Male	1998	868
+Tajikistan	Male	1999	993
+Tajikistan	Male	2000	875
+Tajikistan	Male	2001	920
+Tajikistan	Male	2002	1153
+Tajikistan	Male	2003	1095
+Tajikistan	Male	2004	1147
+Tajikistan	Male	2005	1202
+Thailand	Female	1957	639
+Thailand	Female	1958	744
+Thailand	Female	1959	916
+Thailand	Female	1960	986
+Thailand	Female	1961	1005
+Thailand	Female	1962	1189
+Thailand	Female	1963	1242
+Thailand	Female	1964	1302
+Thailand	Female	1965	1463
+Thailand	Female	1966	1523
+Thailand	Female	1967	1672
+Thailand	Female	1968	1516
+Thailand	Female	1969	1578
+Thailand	Female	1970	1789
+Thailand	Female	1971	1837
+Thailand	Female	1972	2078
+Thailand	Female	1973	2552
+Thailand	Female	1974	2803
+Thailand	Female	1975	3278
+Thailand	Female	1976	2539
+Thailand	Female	1977	3250
+Thailand	Female	1978	3649
+Thailand	Female	1979	4150
+Thailand	Female	1980	4760
+Thailand	Female	1981	4984
+Thailand	Female	1982	5443
+Thailand	Female	1983	5802
+Thailand	Female	1984	5631
+Thailand	Female	1985	6135
+Thailand	Female	1986	6223
+Thailand	Female	1987	7248
+Thailand	Female	1990	9215
+Thailand	Female	1991	9665
+Thailand	Female	1992	10144
+Thailand	Female	1994	11221
+Thailand	Female	1995	11761
+Thailand	Female	1996	11191
+Thailand	Female	1997	10174
+Thailand	Female	1998	11969
+Thailand	Female	1999	14601
+Thailand	Female	2000	16281
+Thailand	Female	2002	19141
+Thailand	Female	2003	20780
+Thailand	Female	2004	21309
+Thailand	Female	2005	20945
+Thailand	Female	2006	21714
+Thailand	Male	1957	753
+Thailand	Male	1958	842
+Thailand	Male	1959	1051
+Thailand	Male	1960	1165
+Thailand	Male	1961	1265
+Thailand	Male	1962	1473
+Thailand	Male	1963	1672
+Thailand	Male	1964	1766
+Thailand	Male	1965	1987
+Thailand	Male	1966	1889
+Thailand	Male	1967	2144
+Thailand	Male	1968	1938
+Thailand	Male	1969	2059
+Thailand	Male	1970	2413
+Thailand	Male	1971	2272
+Thailand	Male	1972	2587
+Thailand	Male	1973	3389
+Thailand	Male	1974	3677
+Thailand	Male	1975	3958
+Thailand	Male	1976	3224
+Thailand	Male	1977	4083
+Thailand	Male	1978	4512
+Thailand	Male	1979	5391
+Thailand	Male	1980	6028
+Thailand	Male	1981	6604
+Thailand	Male	1982	7017
+Thailand	Male	1983	7334
+Thailand	Male	1984	7326
+Thailand	Male	1985	7658
+Thailand	Male	1986	8218
+Thailand	Male	1987	9385
+Thailand	Male	1990	12643
+Thailand	Male	1991	13421
+Thailand	Male	1992	14543
+Thailand	Male	1994	16744
+Thailand	Male	1995	17842
+Thailand	Male	1996	17462
+Thailand	Male	1997	15442
+Thailand	Male	1998	17632
+Thailand	Male	1999	20923
+Thailand	Male	2000	22895
+Thailand	Male	2002	26621
+Thailand	Male	2003	28794
+Thailand	Male	2004	29152
+Thailand	Male	2005	29360
+Thailand	Male	2006	30057
+Trinidad and Tobago	Female	1951	248
+Trinidad and Tobago	Female	1952	287
+Trinidad and Tobago	Female	1953	254
+Trinidad and Tobago	Female	1954	262
+Trinidad and Tobago	Female	1955	309
+Trinidad and Tobago	Female	1956	277
+Trinidad and Tobago	Female	1957	273
+Trinidad and Tobago	Female	1958	299
+Trinidad and Tobago	Female	1960	278
+Trinidad and Tobago	Female	1961	291
+Trinidad and Tobago	Female	1962	336
+Trinidad and Tobago	Female	1963	325
+Trinidad and Tobago	Female	1966	362
+Trinidad and Tobago	Female	1967	366
+Trinidad and Tobago	Female	1968	418
+Trinidad and Tobago	Female	1970	335
+Trinidad and Tobago	Female	1971	356
+Trinidad and Tobago	Female	1972	355
+Trinidad and Tobago	Female	1973	386
+Trinidad and Tobago	Female	1974	383
+Trinidad and Tobago	Female	1975	369
+Trinidad and Tobago	Female	1976	348
+Trinidad and Tobago	Female	1977	334
+Trinidad and Tobago	Female	1978	380
+Trinidad and Tobago	Female	1979	346
+Trinidad and Tobago	Female	1980	410
+Trinidad and Tobago	Female	1981	395
+Trinidad and Tobago	Female	1982	390
+Trinidad and Tobago	Female	1983	413
+Trinidad and Tobago	Female	1984	456
+Trinidad and Tobago	Female	1985	463
+Trinidad and Tobago	Female	1986	493
+Trinidad and Tobago	Female	1987	495
+Trinidad and Tobago	Female	1988	527
+Trinidad and Tobago	Female	1989	458
+Trinidad and Tobago	Female	1990	474
+Trinidad and Tobago	Female	1991	499
+Trinidad and Tobago	Female	1992	512
+Trinidad and Tobago	Female	1993	558
+Trinidad and Tobago	Female	1994	559
+Trinidad and Tobago	Female	1995	579
+Trinidad and Tobago	Female	1996	566
+Trinidad and Tobago	Female	1997	592
+Trinidad and Tobago	Female	1998	581
+Trinidad and Tobago	Female	1999	586
+Trinidad and Tobago	Female	2000	568
+Trinidad and Tobago	Female	2001	559
+Trinidad and Tobago	Female	2002	576
+Trinidad and Tobago	Female	2004	630
+Trinidad and Tobago	Female	2005	623
+Trinidad and Tobago	Female	2006	613
+Trinidad and Tobago	Female	2007	660
+Trinidad and Tobago	Female	2008	674
+Trinidad and Tobago	Female	2009	643
+Trinidad and Tobago	Male	1951	149
+Trinidad and Tobago	Male	1952	132
+Trinidad and Tobago	Male	1953	154
+Trinidad and Tobago	Male	1954	187
+Trinidad and Tobago	Male	1955	194
+Trinidad and Tobago	Male	1956	189
+Trinidad and Tobago	Male	1957	209
+Trinidad and Tobago	Male	1958	203
+Trinidad and Tobago	Male	1960	207
+Trinidad and Tobago	Male	1961	206
+Trinidad and Tobago	Male	1962	237
+Trinidad and Tobago	Male	1963	252
+Trinidad and Tobago	Male	1966	276
+Trinidad and Tobago	Male	1967	300
+Trinidad and Tobago	Male	1968	282
+Trinidad and Tobago	Male	1970	339
+Trinidad and Tobago	Male	1971	292
+Trinidad and Tobago	Male	1972	331
+Trinidad and Tobago	Male	1973	265
+Trinidad and Tobago	Male	1974	292
+Trinidad and Tobago	Male	1975	338
+Trinidad and Tobago	Male	1976	298
+Trinidad and Tobago	Male	1977	339
+Trinidad and Tobago	Male	1978	315
+Trinidad and Tobago	Male	1979	337
+Trinidad and Tobago	Male	1980	377
+Trinidad and Tobago	Male	1981	386
+Trinidad and Tobago	Male	1982	392
+Trinidad and Tobago	Male	1983	407
+Trinidad and Tobago	Male	1984	475
+Trinidad and Tobago	Male	1985	447
+Trinidad and Tobago	Male	1986	508
+Trinidad and Tobago	Male	1987	527
+Trinidad and Tobago	Male	1988	518
+Trinidad and Tobago	Male	1989	549
+Trinidad and Tobago	Male	1990	546
+Trinidad and Tobago	Male	1991	532
+Trinidad and Tobago	Male	1992	574
+Trinidad and Tobago	Male	1993	523
+Trinidad and Tobago	Male	1994	627
+Trinidad and Tobago	Male	1995	647
+Trinidad and Tobago	Male	1996	659
+Trinidad and Tobago	Male	1997	661
+Trinidad and Tobago	Male	1998	634
+Trinidad and Tobago	Male	1999	677
+Trinidad and Tobago	Male	2000	640
+Trinidad and Tobago	Male	2001	653
+Trinidad and Tobago	Male	2002	700
+Trinidad and Tobago	Male	2004	730
+Trinidad and Tobago	Male	2005	746
+Trinidad and Tobago	Male	2006	715
+Trinidad and Tobago	Male	2007	755
+Trinidad and Tobago	Male	2008	754
+Trinidad and Tobago	Male	2009	755
+Turkmenistan	Female	1981	1093
+Turkmenistan	Female	1982	1011
+Turkmenistan	Female	1985	1057
+Turkmenistan	Female	1986	1141
+Turkmenistan	Female	1987	1162
+Turkmenistan	Female	1988	1111
+Turkmenistan	Female	1989	1049
+Turkmenistan	Female	1990	1041
+Turkmenistan	Female	1994	1041
+Turkmenistan	Female	1995	968
+Turkmenistan	Female	1996	1037
+Turkmenistan	Female	1997	992
+Turkmenistan	Female	1998	890
+Turkmenistan	Male	1981	1249
+Turkmenistan	Male	1982	1136
+Turkmenistan	Male	1985	1278
+Turkmenistan	Male	1986	1257
+Turkmenistan	Male	1987	1200
+Turkmenistan	Male	1988	1312
+Turkmenistan	Male	1989	1305
+Turkmenistan	Male	1990	1259
+Turkmenistan	Male	1994	1199
+Turkmenistan	Male	1995	1145
+Turkmenistan	Male	1996	1201
+Turkmenistan	Male	1997	1084
+Turkmenistan	Male	1998	1079
+Ukraine	Female	1981	36501
+Ukraine	Female	1982	37315
+Ukraine	Female	1985	39247
+Ukraine	Female	1986	40975
+Ukraine	Female	1987	41978
+Ukraine	Female	1988	43065
+Ukraine	Female	1989	43921
+Ukraine	Female	1990	44562
+Ukraine	Female	1991	45523
+Ukraine	Female	1992	45266
+Ukraine	Female	1993	44725
+Ukraine	Female	1994	44515
+Ukraine	Female	1995	43777
+Ukraine	Female	1996	42142
+Ukraine	Female	1997	41960
+Ukraine	Female	1998	42071
+Ukraine	Female	1999	42416
+Ukraine	Female	2000	41967
+Ukraine	Female	2001	41098
+Ukraine	Female	2002	40856
+Ukraine	Female	2003	40284
+Ukraine	Female	2004	39905
+Ukraine	Female	2005	40105
+Ukraine	Female	2006	39703
+Ukraine	Female	2007	39900
+Ukraine	Female	2008	39693
+Ukraine	Female	2009	39504
+Ukraine	Female	2010	39780
+Ukraine	Male	1981	40410
+Ukraine	Male	1982	42099
+Ukraine	Male	1985	46434
+Ukraine	Male	1986	48810
+Ukraine	Male	1987	51375
+Ukraine	Male	1988	53466
+Ukraine	Male	1989	55344
+Ukraine	Male	1990	56790
+Ukraine	Male	1991	58713
+Ukraine	Male	1992	59723
+Ukraine	Male	1993	59032
+Ukraine	Male	1994	59222
+Ukraine	Male	1995	57948
+Ukraine	Male	1996	56239
+Ukraine	Male	1997	55297
+Ukraine	Male	1998	54956
+Ukraine	Male	1999	55374
+Ukraine	Male	2000	55143
+Ukraine	Male	2001	53741
+Ukraine	Male	2002	53455
+Ukraine	Male	2003	52188
+Ukraine	Male	2004	51414
+Ukraine	Male	2005	51742
+Ukraine	Male	2006	50656
+Ukraine	Male	2007	50128
+Ukraine	Male	2008	49314
+Ukraine	Male	2009	49089
+Ukraine	Male	2010	48986
+United Kingdom	Female	1950	47773
+United Kingdom	Female	1951	47384
+United Kingdom	Female	1952	48202
+United Kingdom	Female	1953	47904
+United Kingdom	Female	1954	48868
+United Kingdom	Female	1955	49452
+United Kingdom	Female	1956	50062
+United Kingdom	Female	1957	50195
+United Kingdom	Female	1958	51231
+United Kingdom	Female	1959	51602
+United Kingdom	Female	1960	52370
+United Kingdom	Female	1961	52781
+United Kingdom	Female	1962	53269
+United Kingdom	Female	1963	53647
+United Kingdom	Female	1964	55044
+United Kingdom	Female	1965	55519
+United Kingdom	Female	1966	56318
+United Kingdom	Female	1967	57044
+United Kingdom	Female	1968	58661
+United Kingdom	Female	1969	59866
+United Kingdom	Female	1970	60371
+United Kingdom	Female	1971	61133
+United Kingdom	Female	1972	61846
+United Kingdom	Female	1973	62601
+United Kingdom	Female	1974	63521
+United Kingdom	Female	1975	64080
+United Kingdom	Female	1976	65721
+United Kingdom	Female	1977	65826
+United Kingdom	Female	1978	66680
+United Kingdom	Female	1979	67596
+United Kingdom	Female	1980	68307
+United Kingdom	Female	1981	69072
+United Kingdom	Female	1982	69767
+United Kingdom	Female	1983	70442
+United Kingdom	Female	1984	73878
+United Kingdom	Female	1985	74916
+United Kingdom	Female	1986	74820
+United Kingdom	Female	1987	75938
+United Kingdom	Female	1988	76826
+United Kingdom	Female	1989	77992
+United Kingdom	Female	1990	77086
+United Kingdom	Female	1991	77476
+United Kingdom	Female	1992	77771
+United Kingdom	Female	1993	76269
+United Kingdom	Female	1994	76152
+United Kingdom	Female	1995	75558
+United Kingdom	Female	1996	75105
+United Kingdom	Female	1997	74389
+United Kingdom	Female	1998	74292
+United Kingdom	Female	1999	73666
+United Kingdom	Female	2000	73175
+United Kingdom	Female	2001	74741
+United Kingdom	Female	2002	74830
+United Kingdom	Female	2003	74487
+United Kingdom	Female	2004	73490
+United Kingdom	Female	2005	73957
+United Kingdom	Female	2006	73793
+United Kingdom	Female	2007	74758
+United Kingdom	Female	2008	75158
+United Kingdom	Female	2009	74230
+United Kingdom	Female	2010	74949
+United Kingdom	Male	1950	49692
+United Kingdom	Male	1951	50636
+United Kingdom	Male	1952	51660
+United Kingdom	Male	1953	52335
+United Kingdom	Male	1954	53872
+United Kingdom	Male	1955	54708
+United Kingdom	Male	1956	55683
+United Kingdom	Male	1957	56952
+United Kingdom	Male	1958	57745
+United Kingdom	Male	1959	58891
+United Kingdom	Male	1960	59852
+United Kingdom	Male	1961	60645
+United Kingdom	Male	1962	62126
+United Kingdom	Male	1963	62842
+United Kingdom	Male	1964	63848
+United Kingdom	Male	1965	65254
+United Kingdom	Male	1966	66330
+United Kingdom	Male	1967	67622
+United Kingdom	Male	1968	69101
+United Kingdom	Male	1969	70231
+United Kingdom	Male	1970	70789
+United Kingdom	Male	1971	71394
+United Kingdom	Male	1972	72736
+United Kingdom	Male	1973	73304
+United Kingdom	Male	1974	74291
+United Kingdom	Male	1975	74349
+United Kingdom	Male	1976	76128
+United Kingdom	Male	1977	75691
+United Kingdom	Male	1978	76817
+United Kingdom	Male	1979	77463
+United Kingdom	Male	1980	77636
+United Kingdom	Male	1981	77997
+United Kingdom	Male	1982	77932
+United Kingdom	Male	1983	79885
+United Kingdom	Male	1984	82037
+United Kingdom	Male	1985	82592
+United Kingdom	Male	1986	82038
+United Kingdom	Male	1987	82850
+United Kingdom	Male	1988	83768
+United Kingdom	Male	1989	83868
+United Kingdom	Male	1990	84144
+United Kingdom	Male	1991	84498
+United Kingdom	Male	1992	85069
+United Kingdom	Male	1993	83452
+United Kingdom	Male	1994	82443
+United Kingdom	Male	1995	82318
+United Kingdom	Male	1996	81148
+United Kingdom	Male	1997	79733
+United Kingdom	Male	1998	80439
+United Kingdom	Male	1999	78810
+United Kingdom	Male	2000	78013
+United Kingdom	Male	2001	80354
+United Kingdom	Male	2002	80911
+United Kingdom	Male	2003	80392
+United Kingdom	Male	2004	80165
+United Kingdom	Male	2005	79799
+United Kingdom	Male	2006	80762
+United Kingdom	Male	2007	81181
+United Kingdom	Male	2008	81909
+United Kingdom	Male	2009	82277
+United Kingdom	Male	2010	82663
+United States	Female	1950	103690
+United States	Female	1951	105419
+United States	Female	1952	108410
+United States	Female	1953	110194
+United States	Female	1954	112076
+United States	Female	1955	114359
+United States	Female	1956	116555
+United States	Female	1957	118735
+United States	Female	1958	119610
+United States	Female	1959	120941
+United States	Female	1960	124055
+United States	Female	1961	126314
+United States	Female	1962	128530
+United States	Female	1963	131053
+United States	Female	1964	132639
+United States	Female	1965	136150
+United States	Female	1966	138743
+United States	Female	1967	141796
+United States	Female	1968	144830
+United States	Female	1969	146928
+United States	Female	1970	150546
+United States	Female	1971	153503
+United States	Female	1972	157130
+United States	Female	1973	159721
+United States	Female	1974	163711
+United States	Female	1975	166243
+United States	Female	1976	171896
+United States	Female	1977	176209
+United States	Female	1978	180973
+United States	Female	1979	183360
+United States	Female	1980	190549
+United States	Female	1981	194191
+United States	Female	1982	199904
+United States	Female	1983	204575
+United States	Female	1984	210687
+United States	Female	1985	214627
+United States	Female	1986	218793
+United States	Female	1987	222260
+United States	Female	1988	226950
+United States	Female	1989	232832
+United States	Female	1990	237027
+United States	Female	1991	242270
+United States	Female	1992	245727
+United States	Female	1993	250514
+United States	Female	1994	253840
+United States	Female	1995	256833
+United States	Female	1996	257625
+United States	Female	1997	258463
+United States	Female	1998	259462
+United States	Female	1999	264172
+United States	Female	2000	267161
+United States	Female	2001	266857
+United States	Female	2002	268656
+United States	Female	2003	269086
+United States	Female	2004	267211
+United States	Female	2005	269063
+United States	Female	2006	269964
+United States	Female	2007	270172
+United States	Female	2008	270365
+United States	Female	2009	271026
+United States	Female	2010	273897
+United States	Male	1950	106904
+United States	Male	1951	109966
+United States	Male	1952	114762
+United States	Male	1953	118782
+United States	Male	1954	122490
+United States	Male	1955	126214
+United States	Male	1956	130727
+United States	Male	1957	134361
+United States	Male	1958	134752
+United States	Male	1959	139049
+United States	Male	1960	143511
+United States	Male	1961	147116
+United States	Male	1962	149979
+United States	Male	1963	154251
+United States	Male	1964	156888
+United States	Male	1965	161401
+United States	Male	1966	164948
+United States	Male	1967	169147
+United States	Male	1968	173665
+United States	Male	1969	176124
+United States	Male	1970	180126
+United States	Male	1971	183858
+United States	Male	1972	188448
+United States	Male	1973	191300
+United States	Male	1974	196725
+United States	Male	1975	199435
+United States	Male	1976	205387
+United States	Male	1977	210441
+United States	Male	1978	215969
+United States	Male	1979	219996
+United States	Male	1980	225932
+United States	Male	1981	227851
+United States	Male	1982	233827
+United States	Male	1983	238348
+United States	Male	1984	242763
+United States	Male	1985	246893
+United States	Male	1986	250537
+United States	Male	1987	254634
+United States	Male	1988	258072
+United States	Male	1989	263298
+United States	Male	1990	268268
+United States	Male	1991	272366
+United States	Male	1992	274821
+United States	Male	1993	279363
+United States	Male	1994	280454
+United States	Male	1995	281604
+United States	Male	1996	281883
+United States	Male	1997	281103
+United States	Male	1998	282057
+United States	Male	1999	286774
+United States	Male	2000	286935
+United States	Male	2001	287865
+United States	Male	2002	289528
+United States	Male	2003	288699
+United States	Male	2004	287585
+United States	Male	2005	291186
+United States	Male	2006	290759
+United States	Male	2007	293538
+United States	Male	2008	295943
+United States	Male	2009	297405
+United States	Male	2010	301656
+Uruguay	Female	1955	1798
+Uruguay	Female	1956	1733
+Uruguay	Female	1957	1854
+Uruguay	Female	1958	1837
+Uruguay	Female	1959	1942
+Uruguay	Female	1960	1966
+Uruguay	Female	1963	2102
+Uruguay	Female	1964	2140
+Uruguay	Female	1965	2085
+Uruguay	Female	1966	2104
+Uruguay	Female	1967	2217
+Uruguay	Female	1968	2186
+Uruguay	Female	1969	2336
+Uruguay	Female	1970	2346
+Uruguay	Female	1971	2306
+Uruguay	Female	1972	2381
+Uruguay	Female	1973	2402
+Uruguay	Female	1974	2354
+Uruguay	Female	1975	2438
+Uruguay	Female	1976	2416
+Uruguay	Female	1977	2450
+Uruguay	Female	1978	2464
+Uruguay	Female	1980	2570
+Uruguay	Female	1981	2584
+Uruguay	Female	1982	2517
+Uruguay	Female	1983	2563
+Uruguay	Female	1984	2625
+Uruguay	Female	1985	2645
+Uruguay	Female	1986	2807
+Uruguay	Female	1987	2761
+Uruguay	Female	1988	2911
+Uruguay	Female	1989	2882
+Uruguay	Female	1990	2836
+Uruguay	Female	1993	2871
+Uruguay	Female	1994	2957
+Uruguay	Female	1995	2980
+Uruguay	Female	1996	3073
+Uruguay	Female	1997	3148
+Uruguay	Female	1998	3133
+Uruguay	Female	1999	3061
+Uruguay	Female	2000	3148
+Uruguay	Female	2001	3085
+Uruguay	Female	2002	3199
+Uruguay	Female	2003	3195
+Uruguay	Female	2004	3186
+Uruguay	Female	2005	3206
+Uruguay	Female	2006	3184
+Uruguay	Female	2007	3172
+Uruguay	Female	2008	3346
+Uruguay	Female	2009	3189
+Uruguay	Female	2010	3264
+Uruguay	Male	1955	2105
+Uruguay	Male	1956	2265
+Uruguay	Male	1957	2305
+Uruguay	Male	1958	2365
+Uruguay	Male	1959	2435
+Uruguay	Male	1960	2493
+Uruguay	Male	1963	2671
+Uruguay	Male	1964	2706
+Uruguay	Male	1965	2817
+Uruguay	Male	1966	2917
+Uruguay	Male	1967	3019
+Uruguay	Male	1968	3031
+Uruguay	Male	1969	3096
+Uruguay	Male	1970	3112
+Uruguay	Male	1971	3282
+Uruguay	Male	1972	3200
+Uruguay	Male	1973	3215
+Uruguay	Male	1974	3244
+Uruguay	Male	1975	3205
+Uruguay	Male	1976	3386
+Uruguay	Male	1977	3337
+Uruguay	Male	1978	3508
+Uruguay	Male	1980	3343
+Uruguay	Male	1981	3524
+Uruguay	Male	1982	3463
+Uruguay	Male	1983	3540
+Uruguay	Male	1984	3722
+Uruguay	Male	1985	3788
+Uruguay	Male	1986	3833
+Uruguay	Male	1987	3902
+Uruguay	Male	1988	3993
+Uruguay	Male	1989	3955
+Uruguay	Male	1990	4040
+Uruguay	Male	1993	4012
+Uruguay	Male	1994	4022
+Uruguay	Male	1995	4100
+Uruguay	Male	1996	4096
+Uruguay	Male	1997	4191
+Uruguay	Male	1998	4176
+Uruguay	Male	1999	4074
+Uruguay	Male	2000	4166
+Uruguay	Male	2001	4154
+Uruguay	Male	2002	4195
+Uruguay	Male	2003	4253
+Uruguay	Male	2004	4162
+Uruguay	Male	2005	4196
+Uruguay	Male	2006	4145
+Uruguay	Male	2007	4264
+Uruguay	Male	2008	4103
+Uruguay	Male	2009	4146
+Uruguay	Male	2010	4199
+Uzbekistan	Female	1981	4373
+Uzbekistan	Female	1982	4425
+Uzbekistan	Female	1985	4714
+Uzbekistan	Female	1986	5304
+Uzbekistan	Female	1987	5431
+Uzbekistan	Female	1988	5340
+Uzbekistan	Female	1989	5161
+Uzbekistan	Female	1990	5093
+Uzbekistan	Female	1991	5071
+Uzbekistan	Female	1992	5135
+Uzbekistan	Female	1993	4885
+Uzbekistan	Female	1994	4689
+Uzbekistan	Female	1995	4637
+Uzbekistan	Female	1996	4603
+Uzbekistan	Female	1997	4406
+Uzbekistan	Female	1998	4507
+Uzbekistan	Female	1999	4519
+Uzbekistan	Female	2000	4662
+Uzbekistan	Female	2001	4526
+Uzbekistan	Female	2002	4577
+Uzbekistan	Female	2003	4687
+Uzbekistan	Female	2004	4708
+Uzbekistan	Female	2005	4859
+Uzbekistan	Male	1981	4938
+Uzbekistan	Male	1982	5318
+Uzbekistan	Male	1985	5663
+Uzbekistan	Male	1986	6111
+Uzbekistan	Male	1987	6315
+Uzbekistan	Male	1988	5943
+Uzbekistan	Male	1989	6046
+Uzbekistan	Male	1990	5922
+Uzbekistan	Male	1991	6030
+Uzbekistan	Male	1992	5906
+Uzbekistan	Male	1993	5688
+Uzbekistan	Male	1994	5391
+Uzbekistan	Male	1995	5338
+Uzbekistan	Male	1996	5196
+Uzbekistan	Male	1997	4927
+Uzbekistan	Male	1998	4989
+Uzbekistan	Male	1999	5002
+Uzbekistan	Male	2000	4934
+Uzbekistan	Male	2001	4842
+Uzbekistan	Male	2002	4883
+Uzbekistan	Male	2003	4852
+Uzbekistan	Male	2004	4765
+Uzbekistan	Male	2005	4962
+Venezuela	Female	1955	1781
+Venezuela	Female	1956	1947
+Venezuela	Female	1957	1973
+Venezuela	Female	1958	2014
+Venezuela	Female	1959	2065
+Venezuela	Female	1960	2192
+Venezuela	Female	1961	2238
+Venezuela	Female	1962	2351
+Venezuela	Female	1963	2531
+Venezuela	Female	1964	2616
+Venezuela	Female	1965	2682
+Venezuela	Female	1966	2722
+Venezuela	Female	1967	2764
+Venezuela	Female	1968	2859
+Venezuela	Female	1969	2973
+Venezuela	Female	1970	2919
+Venezuela	Female	1971	3042
+Venezuela	Female	1972	3081
+Venezuela	Female	1973	3324
+Venezuela	Female	1974	3201
+Venezuela	Female	1975	3404
+Venezuela	Female	1976	3599
+Venezuela	Female	1977	3563
+Venezuela	Female	1978	3690
+Venezuela	Female	1979	3730
+Venezuela	Female	1980	3910
+Venezuela	Female	1981	3845
+Venezuela	Female	1982	3950
+Venezuela	Female	1983	4615
+Venezuela	Female	1985	4237
+Venezuela	Female	1986	4390
+Venezuela	Female	1987	4857
+Venezuela	Female	1988	5069
+Venezuela	Female	1989	4899
+Venezuela	Female	1990	5816
+Venezuela	Female	1992	6114
+Venezuela	Female	1993	6036
+Venezuela	Female	1994	6521
+Venezuela	Female	1996	6917
+Venezuela	Female	1997	7039
+Venezuela	Female	1998	7032
+Venezuela	Female	1999	7431
+Venezuela	Female	2000	7526
+Venezuela	Female	2001	7812
+Venezuela	Female	2002	8311
+Venezuela	Female	2003	8674
+Venezuela	Female	2004	8685
+Venezuela	Female	2005	9088
+Venezuela	Female	2006	9152
+Venezuela	Female	2007	9381
+Venezuela	Female	2008	9651
+Venezuela	Female	2009	9977
+Venezuela	Male	1955	1253
+Venezuela	Male	1956	1261
+Venezuela	Male	1957	1424
+Venezuela	Male	1958	1454
+Venezuela	Male	1959	1501
+Venezuela	Male	1960	1638
+Venezuela	Male	1961	1727
+Venezuela	Male	1962	1889
+Venezuela	Male	1963	1947
+Venezuela	Male	1964	2002
+Venezuela	Male	1965	2128
+Venezuela	Male	1966	2241
+Venezuela	Male	1967	2314
+Venezuela	Male	1968	2405
+Venezuela	Male	1969	2413
+Venezuela	Male	1970	2593
+Venezuela	Male	1971	2604
+Venezuela	Male	1972	2725
+Venezuela	Male	1973	2744
+Venezuela	Male	1974	2892
+Venezuela	Male	1975	3066
+Venezuela	Male	1976	3232
+Venezuela	Male	1977	3193
+Venezuela	Male	1978	3313
+Venezuela	Male	1979	3300
+Venezuela	Male	1980	3542
+Venezuela	Male	1981	3663
+Venezuela	Male	1982	3705
+Venezuela	Male	1983	4279
+Venezuela	Male	1985	4056
+Venezuela	Male	1986	4105
+Venezuela	Male	1987	4561
+Venezuela	Male	1988	4769
+Venezuela	Male	1989	4757
+Venezuela	Male	1990	5492
+Venezuela	Male	1992	5819
+Venezuela	Male	1993	6017
+Venezuela	Male	1994	6397
+Venezuela	Male	1996	6781
+Venezuela	Male	1997	7052
+Venezuela	Male	1998	7171
+Venezuela	Male	1999	7524
+Venezuela	Male	2000	7738
+Venezuela	Male	2001	7968
+Venezuela	Male	2002	8140
+Venezuela	Male	2003	8617
+Venezuela	Male	2004	8883
+Venezuela	Male	2005	9139
+Venezuela	Male	2006	9478
+Venezuela	Male	2007	9938
+Venezuela	Male	2008	10205
+Venezuela	Male	2009	10393

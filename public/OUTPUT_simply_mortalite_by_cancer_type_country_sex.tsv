@@ -1,0 +1,3140 @@
+cancer	id.cancer	country_name	sex	deaths
+Bladder	C67	Albania	Female	4
+Bladder	C67	Albania	Male	14
+Bladder	C67	Argentina	Female	7827
+Bladder	C67	Argentina	Male	29339
+Bladder	C67	Armenia	Female	111
+Bladder	C67	Armenia	Male	698
+Bladder	C67	Australia	Female	8976
+Bladder	C67	Australia	Male	20571
+Bladder	C67	Austria	Female	7077
+Bladder	C67	Austria	Male	14879
+Bladder	C67	Azerbaijan	Female	99
+Bladder	C67	Azerbaijan	Male	413
+Bladder	C67	Belarus	Female	364
+Bladder	C67	Belarus	Male	1876
+Bladder	C67	Belgium	Female	9637
+Bladder	C67	Belgium	Male	26442
+Bladder	C67	Belize	Female	14
+Bladder	C67	Belize	Male	20
+Bladder	C67	Brazil	Female	16537
+Bladder	C67	Brazil	Male	41249
+Bladder	C67	Bulgaria	Female	3439
+Bladder	C67	Bulgaria	Male	12903
+Bladder	C67	Canada	Female	17459
+Bladder	C67	Canada	Male	42682
+Bladder	C67	Chile	Female	2770
+Bladder	C67	Chile	Male	5079
+Bladder	C67	China	Female	8029
+Bladder	C67	China	Male	21652
+Bladder	C67	Colombia	Female	2654
+Bladder	C67	Colombia	Male	5015
+Bladder	C67	Costa Rica	Female	297
+Bladder	C67	Costa Rica	Male	764
+Bladder	C67	Croatia	Female	1841
+Bladder	C67	Croatia	Male	5293
+Bladder	C67	Cuba	Female	3068
+Bladder	C67	Cuba	Male	9309
+Bladder	C67	Czech Rep.	Female	9181
+Bladder	C67	Czech Rep.	Male	28638
+Bladder	C67	Denmark	Female	6522
+Bladder	C67	Denmark	Male	16376
+Bladder	C67	Dominican Rep.	Female	184
+Bladder	C67	Dominican Rep.	Male	410
+Bladder	C67	Ecuador	Female	581
+Bladder	C67	Ecuador	Male	1024
+Bladder	C67	Egypt	Female	3759
+Bladder	C67	Egypt	Male	15648
+Bladder	C67	El Salvador	Female	196
+Bladder	C67	El Salvador	Male	180
+Bladder	C67	Estonia	Female	414
+Bladder	C67	Estonia	Male	1053
+Bladder	C67	Finland	Female	2860
+Bladder	C67	Finland	Male	7169
+Bladder	C67	France	Female	49684
+Bladder	C67	France	Male	143544
+Bladder	C67	Georgia	Female	221
+Bladder	C67	Georgia	Male	928
+Bladder	C67	Germany	Female	63491
+Bladder	C67	Germany	Male	128468
+Bladder	C67	Greece	Female	5994
+Bladder	C67	Greece	Male	26002
+Bladder	C67	Guatemala	Female	243
+Bladder	C67	Guatemala	Male	352
+Bladder	C67	Hungary	Female	7452
+Bladder	C67	Hungary	Male	22314
+Bladder	C67	Iceland	Female	141
+Bladder	C67	Iceland	Male	310
+Bladder	C67	Ireland	Female	2029
+Bladder	C67	Ireland	Male	4455
+Bladder	C67	Israel	Female	1793
+Bladder	C67	Israel	Male	5904
+Bladder	C67	Italy	Female	42815
+Bladder	C67	Italy	Male	166558
+Bladder	C67	Japan	Female	51656
+Bladder	C67	Japan	Male	109282
+Bladder	C67	Kazakhstan	Female	3064
+Bladder	C67	Kazakhstan	Male	8100
+Bladder	C67	Korea	Female	4004
+Bladder	C67	Korea	Male	12210
+Bladder	C67	Kuwait	Female	151
+Bladder	C67	Kuwait	Male	409
+Bladder	C67	Kyrgyzstan	Female	92
+Bladder	C67	Kyrgyzstan	Male	430
+Bladder	C67	Latvia	Female	631
+Bladder	C67	Latvia	Male	1901
+Bladder	C67	Lithuania	Female	916
+Bladder	C67	Lithuania	Male	3042
+Bladder	C67	Luxembourg	Female	249
+Bladder	C67	Luxembourg	Male	580
+Bladder	C67	Mexico	Female	6252
+Bladder	C67	Mexico	Male	12425
+Bladder	C67	Moldova	Female	544
+Bladder	C67	Moldova	Male	2125
+Bladder	C67	Netherlands	Female	11836
+Bladder	C67	Netherlands	Male	30790
+Bladder	C67	New Zealand	Female	2058
+Bladder	C67	New Zealand	Male	4683
+Bladder	C67	Nicaragua	Female	88
+Bladder	C67	Nicaragua	Male	134
+Bladder	C67	Norway	Female	4154
+Bladder	C67	Norway	Male	9234
+Bladder	C67	Panama	Female	182
+Bladder	C67	Panama	Male	320
+Bladder	C67	Paraguay	Female	88
+Bladder	C67	Paraguay	Male	287
+Bladder	C67	Peru	Female	1114
+Bladder	C67	Peru	Male	2022
+Bladder	C67	Philippines	Female	890
+Bladder	C67	Philippines	Male	2042
+Bladder	C67	Poland	Female	12775
+Bladder	C67	Poland	Male	54390
+Bladder	C67	Portugal	Female	4228
+Bladder	C67	Portugal	Male	11717
+Bladder	C67	Romania	Female	8841
+Bladder	C67	Romania	Male	30146
+Bladder	C67	Russia	Female	16737
+Bladder	C67	Russia	Male	67948
+Bladder	C67	Serbia	Female	1709
+Bladder	C67	Serbia	Male	5285
+Bladder	C67	Slovakia	Female	1222
+Bladder	C67	Slovakia	Male	3739
+Bladder	C67	Slovenia	Female	894
+Bladder	C67	Slovenia	Male	2224
+Bladder	C67	South Africa	Female	2588
+Bladder	C67	South Africa	Male	5367
+Bladder	C67	Spain	Female	23088
+Bladder	C67	Spain	Male	105324
+Bladder	C67	Suriname	Female	19
+Bladder	C67	Suriname	Male	46
+Bladder	C67	Sweden	Female	7995
+Bladder	C67	Sweden	Male	18625
+Bladder	C67	Switzerland	Female	5609
+Bladder	C67	Switzerland	Male	13215
+Bladder	C67	Thailand	Female	839
+Bladder	C67	Thailand	Male	2923
+Bladder	C67	Trinidad and Tobago	Female	155
+Bladder	C67	Trinidad and Tobago	Male	287
+Bladder	C67	Turkmenistan	Female	57
+Bladder	C67	Turkmenistan	Male	118
+Bladder	C67	Ukraine	Female	2225
+Bladder	C67	Ukraine	Male	12279
+Bladder	C67	United Kingdom	Female	69401
+Bladder	C67	United Kingdom	Male	145489
+Bladder	C67	United States	Female	157992
+Bladder	C67	United States	Male	346706
+Bladder	C67	Uruguay	Female	1227
+Bladder	C67	Uruguay	Male	4607
+Bladder	C67	Uzbekistan	Female	80
+Bladder	C67	Uzbekistan	Male	229
+Bladder	C67	Venezuela	Female	2167
+Bladder	C67	Venezuela	Male	3997
+Brain, central nervous system	C70-72	Albania	Female	1013
+Brain, central nervous system	C70-72	Albania	Male	1587
+Brain, central nervous system	C70-72	Argentina	Female	6202
+Brain, central nervous system	C70-72	Argentina	Male	7680
+Brain, central nervous system	C70-72	Armenia	Female	366
+Brain, central nervous system	C70-72	Armenia	Male	381
+Brain, central nervous system	C70-72	Australia	Female	16884
+Brain, central nervous system	C70-72	Australia	Male	23561
+Brain, central nervous system	C70-72	Austria	Female	8417
+Brain, central nervous system	C70-72	Austria	Male	9556
+Brain, central nervous system	C70-72	Azerbaijan	Female	481
+Brain, central nervous system	C70-72	Azerbaijan	Male	721
+Brain, central nervous system	C70-72	Belarus	Female	965
+Brain, central nervous system	C70-72	Belarus	Male	1087
+Brain, central nervous system	C70-72	Belgium	Female	13174
+Brain, central nervous system	C70-72	Belgium	Male	15841
+Brain, central nervous system	C70-72	Belize	Female	31
+Brain, central nervous system	C70-72	Belize	Male	30
+Brain, central nervous system	C70-72	Brazil	Female	40825
+Brain, central nervous system	C70-72	Brazil	Male	45411
+Brain, central nervous system	C70-72	Bulgaria	Female	7783
+Brain, central nervous system	C70-72	Bulgaria	Male	10342
+Brain, central nervous system	C70-72	Canada	Female	27346
+Brain, central nervous system	C70-72	Canada	Male	36755
+Brain, central nervous system	C70-72	Chile	Female	2084
+Brain, central nervous system	C70-72	Chile	Male	2555
+Brain, central nervous system	C70-72	China	Female	1869
+Brain, central nervous system	C70-72	China	Male	2483
+Brain, central nervous system	C70-72	Colombia	Female	5810
+Brain, central nervous system	C70-72	Colombia	Male	6856
+Brain, central nervous system	C70-72	Costa Rica	Female	586
+Brain, central nervous system	C70-72	Costa Rica	Male	744
+Brain, central nervous system	C70-72	Croatia	Female	3881
+Brain, central nervous system	C70-72	Croatia	Male	4710
+Brain, central nervous system	C70-72	Cuba	Female	2353
+Brain, central nervous system	C70-72	Cuba	Male	2899
+Brain, central nervous system	C70-72	Czech Rep.	Female	17500
+Brain, central nervous system	C70-72	Czech Rep.	Male	21440
+Brain, central nervous system	C70-72	Denmark	Female	7514
+Brain, central nervous system	C70-72	Denmark	Male	9531
+Brain, central nervous system	C70-72	Dominican Rep.	Female	436
+Brain, central nervous system	C70-72	Dominican Rep.	Male	542
+Brain, central nervous system	C70-72	Ecuador	Female	1518
+Brain, central nervous system	C70-72	Ecuador	Male	1667
+Brain, central nervous system	C70-72	Egypt	Female	12861
+Brain, central nervous system	C70-72	Egypt	Male	15238
+Brain, central nervous system	C70-72	El Salvador	Female	750
+Brain, central nervous system	C70-72	El Salvador	Male	808
+Brain, central nervous system	C70-72	Estonia	Female	802
+Brain, central nervous system	C70-72	Estonia	Male	802
+Brain, central nervous system	C70-72	Finland	Female	5588
+Brain, central nervous system	C70-72	Finland	Male	6369
+Brain, central nervous system	C70-72	France	Female	45214
+Brain, central nervous system	C70-72	France	Male	59534
+Brain, central nervous system	C70-72	Georgia	Female	440
+Brain, central nervous system	C70-72	Georgia	Male	624
+Brain, central nervous system	C70-72	Germany	Female	63419
+Brain, central nervous system	C70-72	Germany	Male	71002
+Brain, central nervous system	C70-72	Greece	Female	14548
+Brain, central nervous system	C70-72	Greece	Male	20020
+Brain, central nervous system	C70-72	Guatemala	Female	1094
+Brain, central nervous system	C70-72	Guatemala	Male	1136
+Brain, central nervous system	C70-72	Hungary	Female	12596
+Brain, central nervous system	C70-72	Hungary	Male	13910
+Brain, central nervous system	C70-72	Iceland	Female	266
+Brain, central nervous system	C70-72	Iceland	Male	332
+Brain, central nervous system	C70-72	Ireland	Female	3779
+Brain, central nervous system	C70-72	Ireland	Male	5262
+Brain, central nervous system	C70-72	Israel	Female	3218
+Brain, central nervous system	C70-72	Israel	Male	3931
+Brain, central nervous system	C70-72	Italy	Female	53553
+Brain, central nervous system	C70-72	Italy	Male	68817
+Brain, central nervous system	C70-72	Japan	Female	22765
+Brain, central nervous system	C70-72	Japan	Male	29820
+Brain, central nervous system	C70-72	Kazakhstan	Female	1476
+Brain, central nervous system	C70-72	Kazakhstan	Male	1822
+Brain, central nervous system	C70-72	Korea	Female	7877
+Brain, central nervous system	C70-72	Korea	Male	9350
+Brain, central nervous system	C70-72	Kuwait	Female	171
+Brain, central nervous system	C70-72	Kuwait	Male	354
+Brain, central nervous system	C70-72	Kyrgyzstan	Female	354
+Brain, central nervous system	C70-72	Kyrgyzstan	Male	479
+Brain, central nervous system	C70-72	Latvia	Female	1212
+Brain, central nervous system	C70-72	Latvia	Male	1167
+Brain, central nervous system	C70-72	Lithuania	Female	1893
+Brain, central nervous system	C70-72	Lithuania	Male	1878
+Brain, central nervous system	C70-72	Luxembourg	Female	400
+Brain, central nervous system	C70-72	Luxembourg	Male	515
+Brain, central nervous system	C70-72	Mexico	Female	10164
+Brain, central nervous system	C70-72	Mexico	Male	12941
+Brain, central nervous system	C70-72	Moldova	Female	836
+Brain, central nervous system	C70-72	Moldova	Male	998
+Brain, central nervous system	C70-72	Netherlands	Female	14212
+Brain, central nervous system	C70-72	Netherlands	Male	19062
+Brain, central nervous system	C70-72	New Zealand	Female	3783
+Brain, central nervous system	C70-72	New Zealand	Male	5255
+Brain, central nervous system	C70-72	Nicaragua	Female	490
+Brain, central nervous system	C70-72	Nicaragua	Male	521
+Brain, central nervous system	C70-72	Norway	Female	4963
+Brain, central nervous system	C70-72	Norway	Male	6732
+Brain, central nervous system	C70-72	Panama	Female	432
+Brain, central nervous system	C70-72	Panama	Male	527
+Brain, central nervous system	C70-72	Paraguay	Female	422
+Brain, central nervous system	C70-72	Paraguay	Male	539
+Brain, central nervous system	C70-72	Peru	Female	2860
+Brain, central nervous system	C70-72	Peru	Male	3160
+Brain, central nervous system	C70-72	Philippines	Female	6985
+Brain, central nervous system	C70-72	Philippines	Male	8268
+Brain, central nervous system	C70-72	Poland	Female	18767
+Brain, central nervous system	C70-72	Poland	Male	20392
+Brain, central nervous system	C70-72	Portugal	Female	5622
+Brain, central nervous system	C70-72	Portugal	Male	6985
+Brain, central nervous system	C70-72	Romania	Female	7464
+Brain, central nervous system	C70-72	Romania	Male	9187
+Brain, central nervous system	C70-72	Russia	Female	34559
+Brain, central nervous system	C70-72	Russia	Male	37156
+Brain, central nervous system	C70-72	Serbia	Female	3669
+Brain, central nervous system	C70-72	Serbia	Male	4623
+Brain, central nervous system	C70-72	Slovakia	Female	2820
+Brain, central nervous system	C70-72	Slovakia	Male	3227
+Brain, central nervous system	C70-72	Slovenia	Female	1379
+Brain, central nervous system	C70-72	Slovenia	Male	1596
+Brain, central nervous system	C70-72	South Africa	Female	2977
+Brain, central nervous system	C70-72	South Africa	Male	3733
+Brain, central nervous system	C70-72	Spain	Female	41321
+Brain, central nervous system	C70-72	Spain	Male	53656
+Brain, central nervous system	C70-72	Suriname	Female	84
+Brain, central nervous system	C70-72	Suriname	Male	85
+Brain, central nervous system	C70-72	Sweden	Female	11556
+Brain, central nervous system	C70-72	Sweden	Male	14622
+Brain, central nervous system	C70-72	Switzerland	Female	7638
+Brain, central nervous system	C70-72	Switzerland	Male	9869
+Brain, central nervous system	C70-72	Thailand	Female	7333
+Brain, central nervous system	C70-72	Thailand	Male	9400
+Brain, central nervous system	C70-72	Trinidad and Tobago	Female	67
+Brain, central nervous system	C70-72	Trinidad and Tobago	Male	101
+Brain, central nervous system	C70-72	Ukraine	Female	5440
+Brain, central nervous system	C70-72	Ukraine	Male	6501
+Brain, central nervous system	C70-72	United Kingdom	Female	60471
+Brain, central nervous system	C70-72	United Kingdom	Male	81989
+Brain, central nervous system	C70-72	United States	Female	204317
+Brain, central nervous system	C70-72	United States	Male	256285
+Brain, central nervous system	C70-72	Uruguay	Female	721
+Brain, central nervous system	C70-72	Uruguay	Male	938
+Brain, central nervous system	C70-72	Uzbekistan	Female	393
+Brain, central nervous system	C70-72	Uzbekistan	Male	512
+Brain, central nervous system	C70-72	Venezuela	Female	2954
+Brain, central nervous system	C70-72	Venezuela	Male	3501
+Breast	C50	Albania	Female	2193
+Breast	C50	Argentina	Female	154506
+Breast	C50	Armenia	Female	8524
+Breast	C50	Australia	Female	113997
+Breast	C50	Austria	Female	78638
+Breast	C50	Azerbaijan	Female	7112
+Breast	C50	Belarus	Female	24843
+Breast	C50	Belgium	Female	116622
+Breast	C50	Belize	Female	158
+Breast	C50	Brazil	Female	230433
+Breast	C50	Bulgaria	Female	44029
+Breast	C50	Canada	Female	216198
+Breast	C50	Chile	Female	36644
+Breast	C50	China	Female	55918
+Breast	C50	Colombia	Female	43186
+Breast	C50	Costa Rica	Female	5729
+Breast	C50	Croatia	Female	20277
+Breast	C50	Cuba	Female	37147
+Breast	C50	Czech Rep.	Female	117328
+Breast	C50	Denmark	Female	64891
+Breast	C50	Dominican Rep.	Female	4824
+Breast	C50	Ecuador	Female	8362
+Breast	C50	Egypt	Female	20438
+Breast	C50	El Salvador	Female	2189
+Breast	C50	Estonia	Female	6285
+Breast	C50	Finland	Female	35602
+Breast	C50	France	Female	516213
+Breast	C50	Georgia	Female	11535
+Breast	C50	Germany	Female	618430
+Breast	C50	Greece	Female	58009
+Breast	C50	Guatemala	Female	3653
+Breast	C50	Hungary	Female	96284
+Breast	C50	Iceland	Female	1669
+Breast	C50	Ireland	Female	31786
+Breast	C50	Israel	Female	25688
+Breast	C50	Italy	Female	487017
+Breast	C50	Japan	Female	307318
+Breast	C50	Kazakhstan	Female	31222
+Breast	C50	Korea	Female	27857
+Breast	C50	Kuwait	Female	1384
+Breast	C50	Kyrgyzstan	Female	5290
+Breast	C50	Latvia	Female	11773
+Breast	C50	Lithuania	Female	14426
+Breast	C50	Luxembourg	Female	3245
+Breast	C50	Mexico	Female	107732
+Breast	C50	Moldova	Female	11665
+Breast	C50	Netherlands	Female	160849
+Breast	C50	New Zealand	Female	29169
+Breast	C50	Nicaragua	Female	1722
+Breast	C50	Norway	Female	36938
+Breast	C50	Panama	Female	3221
+Breast	C50	Paraguay	Female	3293
+Breast	C50	Peru	Female	16835
+Breast	C50	Philippines	Female	42013
+Breast	C50	Poland	Female	175268
+Breast	C50	Portugal	Female	58278
+Breast	C50	Romania	Female	95125
+Breast	C50	Russia	Female	571078
+Breast	C50	Serbia	Female	19756
+Breast	C50	Slovakia	Female	13991
+Breast	C50	Slovenia	Female	9665
+Breast	C50	South Africa	Female	37973
+Breast	C50	Spain	Female	223259
+Breast	C50	Suriname	Female	571
+Breast	C50	Sweden	Female	81093
+Breast	C50	Switzerland	Female	74470
+Breast	C50	Tajikistan	Female	2042
+Breast	C50	Thailand	Female	17876
+Breast	C50	Trinidad and Tobago	Female	4385
+Breast	C50	Turkmenistan	Female	1539
+Breast	C50	Ukraine	Female	201803
+Breast	C50	United Kingdom	Female	757962
+Breast	C50	United States	Female	2071299
+Breast	C50	Uruguay	Female	25069
+Breast	C50	Uzbekistan	Female	13394
+Breast	C50	Venezuela	Female	30503
+Gallbladder	C23-24	Albania	Female	60
+Gallbladder	C23-24	Albania	Male	100
+Gallbladder	C23-24	Argentina	Female	10866
+Gallbladder	C23-24	Argentina	Male	6382
+Gallbladder	C23-24	Armenia	Female	0
+Gallbladder	C23-24	Armenia	Male	0
+Gallbladder	C23-24	Australia	Female	7810
+Gallbladder	C23-24	Australia	Male	4665
+Gallbladder	C23-24	Austria	Female	15439
+Gallbladder	C23-24	Austria	Male	6069
+Gallbladder	C23-24	Azerbaijan	Female	12
+Gallbladder	C23-24	Azerbaijan	Male	13
+Gallbladder	C23-24	Belgium	Female	6894
+Gallbladder	C23-24	Belgium	Male	3711
+Gallbladder	C23-24	Belize	Female	21
+Gallbladder	C23-24	Belize	Male	6
+Gallbladder	C23-24	Brazil	Female	24118
+Gallbladder	C23-24	Brazil	Male	11249
+Gallbladder	C23-24	Bulgaria	Female	4106
+Gallbladder	C23-24	Bulgaria	Male	2362
+Gallbladder	C23-24	Canada	Female	16309
+Gallbladder	C23-24	Canada	Male	9620
+Gallbladder	C23-24	Chile	Female	18346
+Gallbladder	C23-24	Chile	Male	6734
+Gallbladder	C23-24	China	Female	2680
+Gallbladder	C23-24	China	Male	2462
+Gallbladder	C23-24	Colombia	Female	6929
+Gallbladder	C23-24	Colombia	Male	2819
+Gallbladder	C23-24	Costa Rica	Female	503
+Gallbladder	C23-24	Costa Rica	Male	265
+Gallbladder	C23-24	Croatia	Female	3611
+Gallbladder	C23-24	Croatia	Male	1770
+Gallbladder	C23-24	Cuba	Female	1159
+Gallbladder	C23-24	Cuba	Male	603
+Gallbladder	C23-24	Czech Rep.	Female	31929
+Gallbladder	C23-24	Czech Rep.	Male	13501
+Gallbladder	C23-24	Denmark	Female	4627
+Gallbladder	C23-24	Denmark	Male	2341
+Gallbladder	C23-24	Dominican Rep.	Female	114
+Gallbladder	C23-24	Dominican Rep.	Male	106
+Gallbladder	C23-24	Ecuador	Female	1935
+Gallbladder	C23-24	Ecuador	Male	840
+Gallbladder	C23-24	Egypt	Female	627
+Gallbladder	C23-24	Egypt	Male	573
+Gallbladder	C23-24	El Salvador	Female	729
+Gallbladder	C23-24	El Salvador	Male	263
+Gallbladder	C23-24	Estonia	Female	413
+Gallbladder	C23-24	Estonia	Male	178
+Gallbladder	C23-24	Finland	Female	6681
+Gallbladder	C23-24	Finland	Male	2555
+Gallbladder	C23-24	France	Female	49706
+Gallbladder	C23-24	France	Male	25954
+Gallbladder	C23-24	Georgia	Female	180
+Gallbladder	C23-24	Georgia	Male	139
+Gallbladder	C23-24	Germany	Female	99943
+Gallbladder	C23-24	Germany	Male	40061
+Gallbladder	C23-24	Greece	Female	3425
+Gallbladder	C23-24	Greece	Male	2653
+Gallbladder	C23-24	Guatemala	Female	690
+Gallbladder	C23-24	Guatemala	Male	341
+Gallbladder	C23-24	Hungary	Female	29072
+Gallbladder	C23-24	Hungary	Male	10232
+Gallbladder	C23-24	Iceland	Female	94
+Gallbladder	C23-24	Iceland	Male	66
+Gallbladder	C23-24	Ireland	Female	1586
+Gallbladder	C23-24	Ireland	Male	853
+Gallbladder	C23-24	Israel	Female	1926
+Gallbladder	C23-24	Israel	Male	901
+Gallbladder	C23-24	Italy	Female	66207
+Gallbladder	C23-24	Italy	Male	37633
+Gallbladder	C23-24	Japan	Female	262311
+Gallbladder	C23-24	Japan	Male	212314
+Gallbladder	C23-24	Korea	Female	22937
+Gallbladder	C23-24	Korea	Male	24232
+Gallbladder	C23-24	Kuwait	Female	82
+Gallbladder	C23-24	Kuwait	Male	66
+Gallbladder	C23-24	Kyrgyzstan	Female	226
+Gallbladder	C23-24	Kyrgyzstan	Male	117
+Gallbladder	C23-24	Latvia	Female	462
+Gallbladder	C23-24	Latvia	Male	255
+Gallbladder	C23-24	Lithuania	Female	1181
+Gallbladder	C23-24	Lithuania	Male	456
+Gallbladder	C23-24	Luxembourg	Female	216
+Gallbladder	C23-24	Luxembourg	Male	103
+Gallbladder	C23-24	Mexico	Female	17885
+Gallbladder	C23-24	Mexico	Male	7295
+Gallbladder	C23-24	Moldova	Female	343
+Gallbladder	C23-24	Moldova	Male	191
+Gallbladder	C23-24	Netherlands	Female	13764
+Gallbladder	C23-24	Netherlands	Male	6702
+Gallbladder	C23-24	New Zealand	Female	1778
+Gallbladder	C23-24	New Zealand	Male	1165
+Gallbladder	C23-24	Nicaragua	Female	632
+Gallbladder	C23-24	Nicaragua	Male	175
+Gallbladder	C23-24	Norway	Female	2272
+Gallbladder	C23-24	Norway	Male	1462
+Gallbladder	C23-24	Panama	Female	246
+Gallbladder	C23-24	Panama	Male	128
+Gallbladder	C23-24	Paraguay	Female	366
+Gallbladder	C23-24	Paraguay	Male	179
+Gallbladder	C23-24	Peru	Female	3882
+Gallbladder	C23-24	Peru	Male	1745
+Gallbladder	C23-24	Philippines	Female	863
+Gallbladder	C23-24	Philippines	Male	723
+Gallbladder	C23-24	Poland	Female	19146
+Gallbladder	C23-24	Poland	Male	6253
+Gallbladder	C23-24	Portugal	Female	3804
+Gallbladder	C23-24	Portugal	Male	2760
+Gallbladder	C23-24	Romania	Female	3155
+Gallbladder	C23-24	Romania	Male	2447
+Gallbladder	C23-24	Serbia	Female	2560
+Gallbladder	C23-24	Serbia	Male	1397
+Gallbladder	C23-24	Slovakia	Female	4005
+Gallbladder	C23-24	Slovakia	Male	1743
+Gallbladder	C23-24	Slovenia	Female	1823
+Gallbladder	C23-24	Slovenia	Male	868
+Gallbladder	C23-24	South Africa	Female	1264
+Gallbladder	C23-24	South Africa	Male	838
+Gallbladder	C23-24	Spain	Female	29008
+Gallbladder	C23-24	Spain	Male	14693
+Gallbladder	C23-24	Suriname	Female	16
+Gallbladder	C23-24	Suriname	Male	9
+Gallbladder	C23-24	Sweden	Female	18362
+Gallbladder	C23-24	Sweden	Male	8522
+Gallbladder	C23-24	Switzerland	Female	4923
+Gallbladder	C23-24	Switzerland	Male	2061
+Gallbladder	C23-24	Thailand	Female	5312
+Gallbladder	C23-24	Thailand	Male	9115
+Gallbladder	C23-24	Trinidad and Tobago	Female	75
+Gallbladder	C23-24	Trinidad and Tobago	Male	26
+Gallbladder	C23-24	United Kingdom	Female	25596
+Gallbladder	C23-24	United Kingdom	Male	14566
+Gallbladder	C23-24	United States	Female	122534
+Gallbladder	C23-24	United States	Male	69385
+Gallbladder	C23-24	Uruguay	Female	1611
+Gallbladder	C23-24	Uruguay	Male	829
+Gallbladder	C23-24	Uzbekistan	Female	16
+Gallbladder	C23-24	Uzbekistan	Male	13
+Gallbladder	C23-24	Venezuela	Female	3990
+Gallbladder	C23-24	Venezuela	Male	1880
+Hodgkin lymphoma	C81	Albania	Female	120
+Hodgkin lymphoma	C81	Albania	Male	181
+Hodgkin lymphoma	C81	Argentina	Female	1020
+Hodgkin lymphoma	C81	Argentina	Male	1342
+Hodgkin lymphoma	C81	Armenia	Female	0
+Hodgkin lymphoma	C81	Armenia	Male	0
+Hodgkin lymphoma	C81	Australia	Female	2496
+Hodgkin lymphoma	C81	Australia	Male	3541
+Hodgkin lymphoma	C81	Austria	Female	2854
+Hodgkin lymphoma	C81	Austria	Male	3371
+Hodgkin lymphoma	C81	Azerbaijan	Female	13
+Hodgkin lymphoma	C81	Azerbaijan	Male	26
+Hodgkin lymphoma	C81	Belgium	Female	2746
+Hodgkin lymphoma	C81	Belgium	Male	4495
+Hodgkin lymphoma	C81	Belize	Female	4
+Hodgkin lymphoma	C81	Belize	Male	7
+Hodgkin lymphoma	C81	Brazil	Female	2738
+Hodgkin lymphoma	C81	Brazil	Male	3781
+Hodgkin lymphoma	C81	Bulgaria	Female	1416
+Hodgkin lymphoma	C81	Bulgaria	Male	2743
+Hodgkin lymphoma	C81	Canada	Female	4343
+Hodgkin lymphoma	C81	Canada	Male	6964
+Hodgkin lymphoma	C81	Chile	Female	517
+Hodgkin lymphoma	C81	Chile	Male	873
+Hodgkin lymphoma	C81	China	Female	121
+Hodgkin lymphoma	C81	China	Male	243
+Hodgkin lymphoma	C81	Colombia	Female	856
+Hodgkin lymphoma	C81	Colombia	Male	1222
+Hodgkin lymphoma	C81	Costa Rica	Female	175
+Hodgkin lymphoma	C81	Costa Rica	Male	256
+Hodgkin lymphoma	C81	Croatia	Female	358
+Hodgkin lymphoma	C81	Croatia	Male	480
+Hodgkin lymphoma	C81	Cuba	Female	635
+Hodgkin lymphoma	C81	Cuba	Male	931
+Hodgkin lymphoma	C81	Czech Rep.	Female	5652
+Hodgkin lymphoma	C81	Czech Rep.	Male	8323
+Hodgkin lymphoma	C81	Denmark	Female	1329
+Hodgkin lymphoma	C81	Denmark	Male	2049
+Hodgkin lymphoma	C81	Dominican Rep.	Female	62
+Hodgkin lymphoma	C81	Dominican Rep.	Male	90
+Hodgkin lymphoma	C81	Ecuador	Female	215
+Hodgkin lymphoma	C81	Ecuador	Male	292
+Hodgkin lymphoma	C81	Egypt	Female	14
+Hodgkin lymphoma	C81	Egypt	Male	30
+Hodgkin lymphoma	C81	El Salvador	Female	120
+Hodgkin lymphoma	C81	El Salvador	Male	148
+Hodgkin lymphoma	C81	Estonia	Female	74
+Hodgkin lymphoma	C81	Estonia	Male	98
+Hodgkin lymphoma	C81	Finland	Female	1186
+Hodgkin lymphoma	C81	Finland	Male	1704
+Hodgkin lymphoma	C81	France	Female	10980
+Hodgkin lymphoma	C81	France	Male	16561
+Hodgkin lymphoma	C81	Georgia	Female	178
+Hodgkin lymphoma	C81	Georgia	Male	290
+Hodgkin lymphoma	C81	Germany	Female	10640
+Hodgkin lymphoma	C81	Germany	Male	12336
+Hodgkin lymphoma	C81	Greece	Female	2991
+Hodgkin lymphoma	C81	Greece	Male	4798
+Hodgkin lymphoma	C81	Guatemala	Female	116
+Hodgkin lymphoma	C81	Guatemala	Male	172
+Hodgkin lymphoma	C81	Hungary	Female	1792
+Hodgkin lymphoma	C81	Hungary	Male	2408
+Hodgkin lymphoma	C81	Iceland	Female	39
+Hodgkin lymphoma	C81	Iceland	Male	49
+Hodgkin lymphoma	C81	Ireland	Female	762
+Hodgkin lymphoma	C81	Ireland	Male	1288
+Hodgkin lymphoma	C81	Israel	Female	504
+Hodgkin lymphoma	C81	Israel	Male	593
+Hodgkin lymphoma	C81	Italy	Female	17981
+Hodgkin lymphoma	C81	Italy	Male	26330
+Hodgkin lymphoma	C81	Japan	Female	5343
+Hodgkin lymphoma	C81	Japan	Male	9868
+Hodgkin lymphoma	C81	Korea	Female	165
+Hodgkin lymphoma	C81	Korea	Male	397
+Hodgkin lymphoma	C81	Kuwait	Female	31
+Hodgkin lymphoma	C81	Kuwait	Male	44
+Hodgkin lymphoma	C81	Kyrgyzstan	Female	59
+Hodgkin lymphoma	C81	Kyrgyzstan	Male	94
+Hodgkin lymphoma	C81	Latvia	Female	121
+Hodgkin lymphoma	C81	Latvia	Male	144
+Hodgkin lymphoma	C81	Lithuania	Female	278
+Hodgkin lymphoma	C81	Lithuania	Male	343
+Hodgkin lymphoma	C81	Luxembourg	Female	35
+Hodgkin lymphoma	C81	Luxembourg	Male	40
+Hodgkin lymphoma	C81	Mexico	Female	2702
+Hodgkin lymphoma	C81	Mexico	Male	4178
+Hodgkin lymphoma	C81	Moldova	Female	352
+Hodgkin lymphoma	C81	Moldova	Male	502
+Hodgkin lymphoma	C81	Netherlands	Female	3301
+Hodgkin lymphoma	C81	Netherlands	Male	5005
+Hodgkin lymphoma	C81	New Zealand	Female	671
+Hodgkin lymphoma	C81	New Zealand	Male	910
+Hodgkin lymphoma	C81	Nicaragua	Female	56
+Hodgkin lymphoma	C81	Nicaragua	Male	103
+Hodgkin lymphoma	C81	Norway	Female	1027
+Hodgkin lymphoma	C81	Norway	Male	1401
+Hodgkin lymphoma	C81	Panama	Female	47
+Hodgkin lymphoma	C81	Panama	Male	85
+Hodgkin lymphoma	C81	Paraguay	Female	60
+Hodgkin lymphoma	C81	Paraguay	Male	109
+Hodgkin lymphoma	C81	Peru	Female	251
+Hodgkin lymphoma	C81	Peru	Male	362
+Hodgkin lymphoma	C81	Philippines	Female	444
+Hodgkin lymphoma	C81	Philippines	Male	754
+Hodgkin lymphoma	C81	Poland	Female	5899
+Hodgkin lymphoma	C81	Poland	Male	9710
+Hodgkin lymphoma	C81	Portugal	Female	750
+Hodgkin lymphoma	C81	Portugal	Male	1081
+Hodgkin lymphoma	C81	Romania	Female	2941
+Hodgkin lymphoma	C81	Romania	Male	5043
+Hodgkin lymphoma	C81	Serbia	Female	356
+Hodgkin lymphoma	C81	Serbia	Male	550
+Hodgkin lymphoma	C81	Slovakia	Female	353
+Hodgkin lymphoma	C81	Slovakia	Male	437
+Hodgkin lymphoma	C81	Slovenia	Female	146
+Hodgkin lymphoma	C81	Slovenia	Male	201
+Hodgkin lymphoma	C81	South Africa	Female	539
+Hodgkin lymphoma	C81	South Africa	Male	819
+Hodgkin lymphoma	C81	Spain	Female	6487
+Hodgkin lymphoma	C81	Spain	Male	10389
+Hodgkin lymphoma	C81	Suriname	Female	12
+Hodgkin lymphoma	C81	Suriname	Male	24
+Hodgkin lymphoma	C81	Sweden	Female	2130
+Hodgkin lymphoma	C81	Sweden	Male	3122
+Hodgkin lymphoma	C81	Switzerland	Female	2132
+Hodgkin lymphoma	C81	Switzerland	Male	2777
+Hodgkin lymphoma	C81	Thailand	Female	3
+Hodgkin lymphoma	C81	Thailand	Male	1
+Hodgkin lymphoma	C81	Trinidad and Tobago	Female	16
+Hodgkin lymphoma	C81	Trinidad and Tobago	Male	30
+Hodgkin lymphoma	C81	Turkmenistan	Female	41
+Hodgkin lymphoma	C81	Turkmenistan	Male	55
+Hodgkin lymphoma	C81	United Kingdom	Female	12195
+Hodgkin lymphoma	C81	United Kingdom	Male	17833
+Hodgkin lymphoma	C81	United States	Female	48341
+Hodgkin lymphoma	C81	United States	Male	69406
+Hodgkin lymphoma	C81	Uruguay	Female	108
+Hodgkin lymphoma	C81	Uruguay	Male	193
+Hodgkin lymphoma	C81	Uzbekistan	Female	57
+Hodgkin lymphoma	C81	Uzbekistan	Male	94
+Hodgkin lymphoma	C81	Venezuela	Female	915
+Hodgkin lymphoma	C81	Venezuela	Male	1564
+Intestine	C17-21	Albania	Female	956
+Intestine	C17-21	Albania	Male	1101
+Intestine	C17-21	Argentina	Female	52548
+Intestine	C17-21	Argentina	Male	58135
+Intestine	C17-21	Australia	Female	98824
+Intestine	C17-21	Australia	Male	103335
+Intestine	C17-21	Austria	Female	70667
+Intestine	C17-21	Austria	Male	66027
+Intestine	C17-21	Azerbaijan	Female	121
+Intestine	C17-21	Azerbaijan	Male	116
+Intestine	C17-21	Belgium	Female	93546
+Intestine	C17-21	Belgium	Male	86837
+Intestine	C17-21	Belize	Female	64
+Intestine	C17-21	Belize	Male	63
+Intestine	C17-21	Brazil	Female	77389
+Intestine	C17-21	Brazil	Male	69160
+Intestine	C17-21	Bulgaria	Female	35349
+Intestine	C17-21	Bulgaria	Male	43253
+Intestine	C17-21	Canada	Female	159454
+Intestine	C17-21	Canada	Male	169078
+Intestine	C17-21	Chile	Female	16932
+Intestine	C17-21	Chile	Male	13737
+Intestine	C17-21	China	Female	19375
+Intestine	C17-21	China	Male	23313
+Intestine	C17-21	Colombia	Female	19565
+Intestine	C17-21	Colombia	Male	16083
+Intestine	C17-21	Costa Rica	Female	2596
+Intestine	C17-21	Costa Rica	Male	2417
+Intestine	C17-21	Croatia	Female	16144
+Intestine	C17-21	Croatia	Male	19792
+Intestine	C17-21	Cuba	Female	17315
+Intestine	C17-21	Cuba	Male	13800
+Intestine	C17-21	Czech Rep.	Female	111881
+Intestine	C17-21	Czech Rep.	Male	135580
+Intestine	C17-21	Denmark	Female	54991
+Intestine	C17-21	Denmark	Male	54705
+Intestine	C17-21	Dominican Rep.	Female	1762
+Intestine	C17-21	Dominican Rep.	Male	1841
+Intestine	C17-21	Ecuador	Female	3761
+Intestine	C17-21	Ecuador	Male	2981
+Intestine	C17-21	Egypt	Female	6498
+Intestine	C17-21	Egypt	Male	8269
+Intestine	C17-21	El Salvador	Female	1361
+Intestine	C17-21	El Salvador	Male	983
+Intestine	C17-21	Estonia	Female	3632
+Intestine	C17-21	Estonia	Male	3056
+Intestine	C17-21	Finland	Female	25480
+Intestine	C17-21	Finland	Male	20635
+Intestine	C17-21	France	Female	445024
+Intestine	C17-21	France	Male	437721
+Intestine	C17-21	Georgia	Female	1348
+Intestine	C17-21	Georgia	Male	1531
+Intestine	C17-21	Germany	Female	579202
+Intestine	C17-21	Germany	Male	481623
+Intestine	C17-21	Greece	Female	30943
+Intestine	C17-21	Greece	Male	31462
+Intestine	C17-21	Guatemala	Female	1553
+Intestine	C17-21	Guatemala	Male	1337
+Intestine	C17-21	Hungary	Female	96898
+Intestine	C17-21	Hungary	Male	99151
+Intestine	C17-21	Iceland	Female	1092
+Intestine	C17-21	Iceland	Male	1111
+Intestine	C17-21	Ireland	Female	25237
+Intestine	C17-21	Ireland	Male	29268
+Intestine	C17-21	Israel	Female	16964
+Intestine	C17-21	Israel	Male	17480
+Intestine	C17-21	Italy	Female	341999
+Intestine	C17-21	Italy	Male	361890
+Intestine	C17-21	Japan	Female	551852
+Intestine	C17-21	Japan	Male	635010
+Intestine	C17-21	Kazakhstan	Female	12021
+Intestine	C17-21	Kazakhstan	Male	10168
+Intestine	C17-21	Korea	Female	45154
+Intestine	C17-21	Korea	Male	54643
+Intestine	C17-21	Kuwait	Female	514
+Intestine	C17-21	Kuwait	Male	623
+Intestine	C17-21	Kyrgyzstan	Female	1274
+Intestine	C17-21	Kyrgyzstan	Male	1176
+Intestine	C17-21	Latvia	Female	5556
+Intestine	C17-21	Latvia	Male	4581
+Intestine	C17-21	Lithuania	Female	8046
+Intestine	C17-21	Lithuania	Male	7845
+Intestine	C17-21	Luxembourg	Female	2652
+Intestine	C17-21	Luxembourg	Male	2667
+Intestine	C17-21	Mexico	Female	31728
+Intestine	C17-21	Mexico	Male	29178
+Intestine	C17-21	Moldova	Female	6126
+Intestine	C17-21	Moldova	Male	6842
+Intestine	C17-21	Netherlands	Female	111085
+Intestine	C17-21	Netherlands	Male	105757
+Intestine	C17-21	New Zealand	Female	27405
+Intestine	C17-21	New Zealand	Male	26836
+Intestine	C17-21	Nicaragua	Female	841
+Intestine	C17-21	Nicaragua	Male	687
+Intestine	C17-21	Norway	Female	35783
+Intestine	C17-21	Norway	Male	34884
+Intestine	C17-21	Panama	Female	1563
+Intestine	C17-21	Panama	Male	1638
+Intestine	C17-21	Paraguay	Female	1269
+Intestine	C17-21	Paraguay	Male	1315
+Intestine	C17-21	Peru	Female	7145
+Intestine	C17-21	Peru	Male	6025
+Intestine	C17-21	Philippines	Female	13876
+Intestine	C17-21	Philippines	Male	17134
+Intestine	C17-21	Poland	Female	139499
+Intestine	C17-21	Poland	Male	141077
+Intestine	C17-21	Portugal	Female	50226
+Intestine	C17-21	Portugal	Male	52671
+Intestine	C17-21	Romania	Female	60402
+Intestine	C17-21	Romania	Male	66633
+Intestine	C17-21	Serbia	Female	12877
+Intestine	C17-21	Serbia	Male	17340
+Intestine	C17-21	Slovakia	Female	13548
+Intestine	C17-21	Slovakia	Male	18785
+Intestine	C17-21	Slovenia	Female	7401
+Intestine	C17-21	Slovenia	Male	8425
+Intestine	C17-21	South Africa	Female	14784
+Intestine	C17-21	South Africa	Male	15897
+Intestine	C17-21	Spain	Female	196161
+Intestine	C17-21	Spain	Male	212725
+Intestine	C17-21	Suriname	Female	222
+Intestine	C17-21	Suriname	Male	258
+Intestine	C17-21	Sweden	Female	67935
+Intestine	C17-21	Sweden	Male	70701
+Intestine	C17-21	Switzerland	Female	33007
+Intestine	C17-21	Switzerland	Male	35552
+Intestine	C17-21	Thailand	Female	12314
+Intestine	C17-21	Thailand	Male	17239
+Intestine	C17-21	Trinidad and Tobago	Female	1263
+Intestine	C17-21	Trinidad and Tobago	Male	1358
+Intestine	C17-21	Turkmenistan	Female	187
+Intestine	C17-21	Turkmenistan	Male	188
+Intestine	C17-21	United Kingdom	Female	566837
+Intestine	C17-21	United Kingdom	Male	531130
+Intestine	C17-21	United States	Female	1545677
+Intestine	C17-21	United States	Male	1498351
+Intestine	C17-21	Uruguay	Female	13206
+Intestine	C17-21	Uruguay	Male	11827
+Intestine	C17-21	Uzbekistan	Female	559
+Intestine	C17-21	Uzbekistan	Male	563
+Intestine	C17-21	Venezuela	Female	12091
+Intestine	C17-21	Venezuela	Male	10526
+Kidney	C64	Argentina	Female	6327
+Kidney	C64	Argentina	Male	13435
+Kidney	C64	Armenia	Female	0
+Kidney	C64	Armenia	Male	0
+Kidney	C64	Australia	Female	10788
+Kidney	C64	Australia	Male	16526
+Kidney	C64	Austria	Female	8273
+Kidney	C64	Austria	Male	9762
+Kidney	C64	Azerbaijan	Female	16
+Kidney	C64	Azerbaijan	Male	32
+Kidney	C64	Belgium	Female	7830
+Kidney	C64	Belgium	Male	10642
+Kidney	C64	Belize	Female	16
+Kidney	C64	Belize	Male	13
+Kidney	C64	Brazil	Female	10233
+Kidney	C64	Brazil	Male	15765
+Kidney	C64	Bulgaria	Female	686
+Kidney	C64	Bulgaria	Male	1451
+Kidney	C64	Canada	Female	18800
+Kidney	C64	Canada	Male	31747
+Kidney	C64	Chile	Female	2887
+Kidney	C64	Chile	Male	5021
+Kidney	C64	China	Female	582
+Kidney	C64	China	Male	931
+Kidney	C64	Colombia	Female	1882
+Kidney	C64	Colombia	Male	2503
+Kidney	C64	Costa Rica	Female	252
+Kidney	C64	Costa Rica	Male	421
+Kidney	C64	Croatia	Female	1453
+Kidney	C64	Croatia	Male	2669
+Kidney	C64	Cuba	Female	881
+Kidney	C64	Cuba	Male	1361
+Kidney	C64	Czech Rep.	Female	13105
+Kidney	C64	Czech Rep.	Male	21562
+Kidney	C64	Denmark	Female	6516
+Kidney	C64	Denmark	Male	8343
+Kidney	C64	Dominican Rep.	Female	103
+Kidney	C64	Dominican Rep.	Male	172
+Kidney	C64	Ecuador	Female	574
+Kidney	C64	Ecuador	Male	721
+Kidney	C64	Egypt	Female	589
+Kidney	C64	Egypt	Male	1060
+Kidney	C64	El Salvador	Female	174
+Kidney	C64	El Salvador	Male	178
+Kidney	C64	Estonia	Female	630
+Kidney	C64	Estonia	Male	981
+Kidney	C64	Finland	Female	4547
+Kidney	C64	Finland	Male	5653
+Kidney	C64	France	Female	49916
+Kidney	C64	France	Male	78604
+Kidney	C64	Georgia	Female	196
+Kidney	C64	Georgia	Male	456
+Kidney	C64	Germany	Female	51336
+Kidney	C64	Germany	Male	71947
+Kidney	C64	Greece	Female	4188
+Kidney	C64	Greece	Male	8446
+Kidney	C64	Guatemala	Female	215
+Kidney	C64	Guatemala	Male	244
+Kidney	C64	Hungary	Female	9875
+Kidney	C64	Hungary	Male	14862
+Kidney	C64	Iceland	Female	239
+Kidney	C64	Iceland	Male	352
+Kidney	C64	Ireland	Female	2015
+Kidney	C64	Ireland	Male	3613
+Kidney	C64	Israel	Female	1730
+Kidney	C64	Israel	Male	2640
+Kidney	C64	Italy	Female	37192
+Kidney	C64	Italy	Male	67075
+Kidney	C64	Japan	Female	32945
+Kidney	C64	Japan	Male	67450
+Kidney	C64	Korea	Female	2992
+Kidney	C64	Korea	Male	6466
+Kidney	C64	Kuwait	Female	62
+Kidney	C64	Kuwait	Male	97
+Kidney	C64	Kyrgyzstan	Female	233
+Kidney	C64	Kyrgyzstan	Male	370
+Kidney	C64	Latvia	Female	1215
+Kidney	C64	Latvia	Male	1704
+Kidney	C64	Lithuania	Female	1394
+Kidney	C64	Lithuania	Male	2229
+Kidney	C64	Luxembourg	Female	94
+Kidney	C64	Luxembourg	Male	123
+Kidney	C64	Mexico	Female	7967
+Kidney	C64	Mexico	Male	11975
+Kidney	C64	Moldova	Female	471
+Kidney	C64	Moldova	Male	784
+Kidney	C64	Netherlands	Female	14207
+Kidney	C64	Netherlands	Male	20714
+Kidney	C64	New Zealand	Female	2270
+Kidney	C64	New Zealand	Male	3865
+Kidney	C64	Nicaragua	Female	135
+Kidney	C64	Nicaragua	Male	197
+Kidney	C64	Norway	Female	4690
+Kidney	C64	Norway	Male	7079
+Kidney	C64	Panama	Female	161
+Kidney	C64	Panama	Male	274
+Kidney	C64	Paraguay	Female	198
+Kidney	C64	Paraguay	Male	310
+Kidney	C64	Peru	Female	1033
+Kidney	C64	Peru	Male	1699
+Kidney	C64	Philippines	Female	921
+Kidney	C64	Philippines	Male	1514
+Kidney	C64	Poland	Female	12262
+Kidney	C64	Poland	Male	19718
+Kidney	C64	Portugal	Female	2053
+Kidney	C64	Portugal	Male	3707
+Kidney	C64	Romania	Female	2640
+Kidney	C64	Romania	Male	4620
+Kidney	C64	Serbia	Female	1620
+Kidney	C64	Serbia	Male	2545
+Kidney	C64	Slovakia	Female	2066
+Kidney	C64	Slovakia	Male	3367
+Kidney	C64	Slovenia	Female	986
+Kidney	C64	Slovenia	Male	1538
+Kidney	C64	South Africa	Female	1495
+Kidney	C64	South Africa	Male	2384
+Kidney	C64	Spain	Female	17184
+Kidney	C64	Spain	Male	30310
+Kidney	C64	Suriname	Female	14
+Kidney	C64	Suriname	Male	21
+Kidney	C64	Sweden	Female	9245
+Kidney	C64	Sweden	Male	12477
+Kidney	C64	Switzerland	Female	4345
+Kidney	C64	Switzerland	Male	6498
+Kidney	C64	Thailand	Female	644
+Kidney	C64	Thailand	Male	1178
+Kidney	C64	Trinidad and Tobago	Female	60
+Kidney	C64	Trinidad and Tobago	Male	96
+Kidney	C64	United Kingdom	Female	38988
+Kidney	C64	United Kingdom	Male	61353
+Kidney	C64	United States	Female	151700
+Kidney	C64	United States	Male	248067
+Kidney	C64	Uruguay	Female	966
+Kidney	C64	Uruguay	Male	1930
+Kidney	C64	Uzbekistan	Female	86
+Kidney	C64	Uzbekistan	Male	153
+Kidney	C64	Venezuela	Female	1917
+Kidney	C64	Venezuela	Male	2904
+Larynx	C32	Albania	Female	215
+Larynx	C32	Albania	Male	960
+Larynx	C32	Argentina	Female	2879
+Larynx	C32	Argentina	Male	28501
+Larynx	C32	Armenia	Female	215
+Larynx	C32	Armenia	Male	2237
+Larynx	C32	Australia	Female	1323
+Larynx	C32	Australia	Male	9602
+Larynx	C32	Austria	Female	907
+Larynx	C32	Austria	Male	9218
+Larynx	C32	Azerbaijan	Female	547
+Larynx	C32	Azerbaijan	Male	2389
+Larynx	C32	Belarus	Female	288
+Larynx	C32	Belarus	Male	9987
+Larynx	C32	Belgium	Female	1857
+Larynx	C32	Belgium	Male	16068
+Larynx	C32	Belize	Female	6
+Larynx	C32	Belize	Male	34
+Larynx	C32	Brazil	Female	9079
+Larynx	C32	Brazil	Male	66055
+Larynx	C32	Bulgaria	Female	1069
+Larynx	C32	Bulgaria	Male	12914
+Larynx	C32	Canada	Female	3311
+Larynx	C32	Canada	Male	17777
+Larynx	C32	Chile	Female	789
+Larynx	C32	Chile	Male	4398
+Larynx	C32	China	Female	340
+Larynx	C32	China	Male	3177
+Larynx	C32	Colombia	Female	3544
+Larynx	C32	Colombia	Male	9232
+Larynx	C32	Costa Rica	Female	164
+Larynx	C32	Costa Rica	Male	913
+Larynx	C32	Croatia	Female	403
+Larynx	C32	Croatia	Male	5935
+Larynx	C32	Cuba	Female	2781
+Larynx	C32	Cuba	Male	16027
+Larynx	C32	Czech Rep.	Female	1571
+Larynx	C32	Czech Rep.	Male	19823
+Larynx	C32	Denmark	Female	858
+Larynx	C32	Denmark	Male	4117
+Larynx	C32	Dominican Rep.	Female	287
+Larynx	C32	Dominican Rep.	Male	927
+Larynx	C32	Ecuador	Female	302
+Larynx	C32	Ecuador	Male	1171
+Larynx	C32	Egypt	Female	1051
+Larynx	C32	Egypt	Male	3624
+Larynx	C32	El Salvador	Female	95
+Larynx	C32	El Salvador	Male	366
+Larynx	C32	Estonia	Female	77
+Larynx	C32	Estonia	Male	1186
+Larynx	C32	Finland	Female	296
+Larynx	C32	Finland	Male	2902
+Larynx	C32	France	Female	9952
+Larynx	C32	France	Male	163572
+Larynx	C32	Georgia	Female	390
+Larynx	C32	Georgia	Male	2964
+Larynx	C32	Germany	Female	5987
+Larynx	C32	Germany	Male	50387
+Larynx	C32	Greece	Female	1361
+Larynx	C32	Greece	Male	13614
+Larynx	C32	Guatemala	Female	324
+Larynx	C32	Guatemala	Male	923
+Larynx	C32	Hungary	Female	2598
+Larynx	C32	Hungary	Male	23997
+Larynx	C32	Iceland	Female	16
+Larynx	C32	Iceland	Male	61
+Larynx	C32	Ireland	Female	928
+Larynx	C32	Ireland	Male	2935
+Larynx	C32	Israel	Female	257
+Larynx	C32	Israel	Male	1522
+Larynx	C32	Italy	Female	8003
+Larynx	C32	Italy	Male	108280
+Larynx	C32	Japan	Female	7511
+Larynx	C32	Japan	Male	45619
+Larynx	C32	Kazakhstan	Female	1137
+Larynx	C32	Kazakhstan	Male	8785
+Larynx	C32	Korea	Female	2367
+Larynx	C32	Korea	Male	13842
+Larynx	C32	Kuwait	Female	64
+Larynx	C32	Kuwait	Male	166
+Larynx	C32	Kyrgyzstan	Female	116
+Larynx	C32	Kyrgyzstan	Male	1036
+Larynx	C32	Latvia	Female	167
+Larynx	C32	Latvia	Male	2555
+Larynx	C32	Lithuania	Female	176
+Larynx	C32	Lithuania	Male	3501
+Larynx	C32	Luxembourg	Female	50
+Larynx	C32	Luxembourg	Male	509
+Larynx	C32	Mexico	Female	5879
+Larynx	C32	Mexico	Male	24436
+Larynx	C32	Moldova	Female	178
+Larynx	C32	Moldova	Male	3341
+Larynx	C32	Netherlands	Female	1484
+Larynx	C32	Netherlands	Male	9253
+Larynx	C32	New Zealand	Female	264
+Larynx	C32	New Zealand	Male	1529
+Larynx	C32	Nicaragua	Female	88
+Larynx	C32	Nicaragua	Male	385
+Larynx	C32	Norway	Female	261
+Larynx	C32	Norway	Male	1712
+Larynx	C32	Panama	Female	99
+Larynx	C32	Panama	Male	648
+Larynx	C32	Paraguay	Female	39
+Larynx	C32	Paraguay	Male	429
+Larynx	C32	Peru	Female	440
+Larynx	C32	Peru	Male	1708
+Larynx	C32	Philippines	Female	1148
+Larynx	C32	Philippines	Male	3346
+Larynx	C32	Poland	Female	5494
+Larynx	C32	Poland	Male	53068
+Larynx	C32	Portugal	Female	1430
+Larynx	C32	Portugal	Male	15957
+Larynx	C32	Romania	Female	2692
+Larynx	C32	Romania	Male	31080
+Larynx	C32	Russia	Female	9424
+Larynx	C32	Russia	Male	163897
+Larynx	C32	Serbia	Female	484
+Larynx	C32	Serbia	Male	4902
+Larynx	C32	Slovakia	Female	199
+Larynx	C32	Slovakia	Male	3619
+Larynx	C32	Slovenia	Female	146
+Larynx	C32	Slovenia	Male	1545
+Larynx	C32	South Africa	Female	1235
+Larynx	C32	South Africa	Male	6403
+Larynx	C32	Spain	Female	4276
+Larynx	C32	Spain	Male	86484
+Larynx	C32	Suriname	Female	8
+Larynx	C32	Suriname	Male	45
+Larynx	C32	Sweden	Female	432
+Larynx	C32	Sweden	Male	2800
+Larynx	C32	Switzerland	Female	582
+Larynx	C32	Switzerland	Male	6286
+Larynx	C32	Tajikistan	Female	150
+Larynx	C32	Tajikistan	Male	456
+Larynx	C32	Thailand	Female	384
+Larynx	C32	Thailand	Male	2885
+Larynx	C32	Trinidad and Tobago	Female	75
+Larynx	C32	Trinidad and Tobago	Male	443
+Larynx	C32	Turkmenistan	Female	124
+Larynx	C32	Turkmenistan	Male	579
+Larynx	C32	Ukraine	Female	1963
+Larynx	C32	Ukraine	Male	55754
+Larynx	C32	United Kingdom	Female	11371
+Larynx	C32	United Kingdom	Male	43634
+Larynx	C32	United States	Female	32873
+Larynx	C32	United States	Male	161941
+Larynx	C32	Uruguay	Female	398
+Larynx	C32	Uruguay	Male	5725
+Larynx	C32	Uzbekistan	Female	1160
+Larynx	C32	Uzbekistan	Male	3207
+Larynx	C32	Venezuela	Female	1940
+Larynx	C32	Venezuela	Male	7180
+Leukaemia	C91-95	Albania	Female	747
+Leukaemia	C91-95	Albania	Male	1083
+Leukaemia	C91-95	Argentina	Female	24251
+Leukaemia	C91-95	Argentina	Male	30532
+Leukaemia	C91-95	Armenia	Female	1428
+Leukaemia	C91-95	Armenia	Male	1761
+Leukaemia	C91-95	Australia	Female	23892
+Leukaemia	C91-95	Australia	Male	31868
+Leukaemia	C91-95	Austria	Female	15348
+Leukaemia	C91-95	Austria	Male	16195
+Leukaemia	C91-95	Azerbaijan	Female	2225
+Leukaemia	C91-95	Azerbaijan	Male	2709
+Leukaemia	C91-95	Belarus	Female	6348
+Leukaemia	C91-95	Belarus	Male	7022
+Leukaemia	C91-95	Belgium	Female	19937
+Leukaemia	C91-95	Belgium	Male	23236
+Leukaemia	C91-95	Belize	Female	58
+Leukaemia	C91-95	Belize	Male	77
+Leukaemia	C91-95	Brazil	Female	58556
+Leukaemia	C91-95	Brazil	Male	69822
+Leukaemia	C91-95	Bulgaria	Female	8543
+Leukaemia	C91-95	Bulgaria	Male	11030
+Leukaemia	C91-95	Canada	Female	40310
+Leukaemia	C91-95	Canada	Male	54626
+Leukaemia	C91-95	Chile	Female	10394
+Leukaemia	C91-95	Chile	Male	11626
+Leukaemia	C91-95	China	Female	27786
+Leukaemia	C91-95	China	Male	34979
+Leukaemia	C91-95	Colombia	Female	19253
+Leukaemia	C91-95	Colombia	Male	22339
+Leukaemia	C91-95	Costa Rica	Female	2508
+Leukaemia	C91-95	Costa Rica	Male	2920
+Leukaemia	C91-95	Croatia	Female	3710
+Leukaemia	C91-95	Croatia	Male	4385
+Leukaemia	C91-95	Cuba	Female	8592
+Leukaemia	C91-95	Cuba	Male	11263
+Leukaemia	C91-95	Czech Rep.	Female	26180
+Leukaemia	C91-95	Czech Rep.	Male	31945
+Leukaemia	C91-95	Denmark	Female	10855
+Leukaemia	C91-95	Denmark	Male	14213
+Leukaemia	C91-95	Dominican Rep.	Female	1560
+Leukaemia	C91-95	Dominican Rep.	Male	2066
+Leukaemia	C91-95	Ecuador	Female	5385
+Leukaemia	C91-95	Ecuador	Male	6319
+Leukaemia	C91-95	Egypt	Female	11861
+Leukaemia	C91-95	Egypt	Male	15457
+Leukaemia	C91-95	El Salvador	Female	2047
+Leukaemia	C91-95	El Salvador	Male	2186
+Leukaemia	C91-95	Estonia	Female	1509
+Leukaemia	C91-95	Estonia	Male	1547
+Leukaemia	C91-95	Finland	Female	8468
+Leukaemia	C91-95	Finland	Male	9031
+Leukaemia	C91-95	France	Female	113088
+Leukaemia	C91-95	France	Male	134027
+Leukaemia	C91-95	Georgia	Female	1559
+Leukaemia	C91-95	Georgia	Male	1824
+Leukaemia	C91-95	Germany	Female	117791
+Leukaemia	C91-95	Germany	Male	122582
+Leukaemia	C91-95	Greece	Female	16568
+Leukaemia	C91-95	Greece	Male	23559
+Leukaemia	C91-95	Guatemala	Female	3406
+Leukaemia	C91-95	Guatemala	Male	3934
+Leukaemia	C91-95	Hungary	Female	20260
+Leukaemia	C91-95	Hungary	Male	23589
+Leukaemia	C91-95	Iceland	Female	309
+Leukaemia	C91-95	Iceland	Male	451
+Leukaemia	C91-95	Ireland	Female	4726
+Leukaemia	C91-95	Ireland	Male	6753
+Leukaemia	C91-95	Israel	Female	5429
+Leukaemia	C91-95	Israel	Male	6495
+Leukaemia	C91-95	Italy	Female	105061
+Leukaemia	C91-95	Italy	Male	131596
+Leukaemia	C91-95	Japan	Female	119947
+Leukaemia	C91-95	Japan	Male	163448
+Leukaemia	C91-95	Kazakhstan	Female	6421
+Leukaemia	C91-95	Kazakhstan	Male	7340
+Leukaemia	C91-95	Korea	Female	15071
+Leukaemia	C91-95	Korea	Male	19418
+Leukaemia	C91-95	Kuwait	Female	531
+Leukaemia	C91-95	Kuwait	Male	874
+Leukaemia	C91-95	Kyrgyzstan	Female	1315
+Leukaemia	C91-95	Kyrgyzstan	Male	1544
+Leukaemia	C91-95	Latvia	Female	2636
+Leukaemia	C91-95	Latvia	Male	2671
+Leukaemia	C91-95	Lithuania	Female	3698
+Leukaemia	C91-95	Lithuania	Male	3810
+Leukaemia	C91-95	Luxembourg	Female	649
+Leukaemia	C91-95	Luxembourg	Male	772
+Leukaemia	C91-95	Mexico	Female	50757
+Leukaemia	C91-95	Mexico	Male	58702
+Leukaemia	C91-95	Moldova	Female	2021
+Leukaemia	C91-95	Moldova	Male	2363
+Leukaemia	C91-95	Netherlands	Female	25198
+Leukaemia	C91-95	Netherlands	Male	30944
+Leukaemia	C91-95	New Zealand	Female	5470
+Leukaemia	C91-95	New Zealand	Male	6926
+Leukaemia	C91-95	Nicaragua	Female	1315
+Leukaemia	C91-95	Nicaragua	Male	1502
+Leukaemia	C91-95	Norway	Female	7722
+Leukaemia	C91-95	Norway	Male	9576
+Leukaemia	C91-95	Panama	Female	1356
+Leukaemia	C91-95	Panama	Male	1637
+Leukaemia	C91-95	Paraguay	Female	1076
+Leukaemia	C91-95	Paraguay	Male	1302
+Leukaemia	C91-95	Peru	Female	7648
+Leukaemia	C91-95	Peru	Male	8889
+Leukaemia	C91-95	Philippines	Female	14126
+Leukaemia	C91-95	Philippines	Male	15472
+Leukaemia	C91-95	Poland	Female	43680
+Leukaemia	C91-95	Poland	Male	52495
+Leukaemia	C91-95	Portugal	Female	12881
+Leukaemia	C91-95	Portugal	Male	14973
+Leukaemia	C91-95	Romania	Female	18080
+Leukaemia	C91-95	Romania	Male	23881
+Leukaemia	C91-95	Russia	Female	112457
+Leukaemia	C91-95	Russia	Male	115222
+Leukaemia	C91-95	Serbia	Female	2804
+Leukaemia	C91-95	Serbia	Male	3636
+Leukaemia	C91-95	Slovakia	Female	2845
+Leukaemia	C91-95	Slovakia	Male	3459
+Leukaemia	C91-95	Slovenia	Female	1574
+Leukaemia	C91-95	Slovenia	Male	1819
+Leukaemia	C91-95	South Africa	Female	6500
+Leukaemia	C91-95	South Africa	Male	7774
+Leukaemia	C91-95	Spain	Female	51061
+Leukaemia	C91-95	Spain	Male	63096
+Leukaemia	C91-95	Suriname	Female	143
+Leukaemia	C91-95	Suriname	Male	173
+Leukaemia	C91-95	Sweden	Female	17451
+Leukaemia	C91-95	Sweden	Male	21627
+Leukaemia	C91-95	Switzerland	Female	11911
+Leukaemia	C91-95	Switzerland	Male	14438
+Leukaemia	C91-95	Tajikistan	Female	970
+Leukaemia	C91-95	Tajikistan	Male	1397
+Leukaemia	C91-95	Thailand	Female	10736
+Leukaemia	C91-95	Thailand	Male	12487
+Leukaemia	C91-95	Trinidad and Tobago	Female	752
+Leukaemia	C91-95	Trinidad and Tobago	Male	899
+Leukaemia	C91-95	Turkmenistan	Female	657
+Leukaemia	C91-95	Turkmenistan	Male	772
+Leukaemia	C91-95	Ukraine	Female	37391
+Leukaemia	C91-95	Ukraine	Male	42781
+Leukaemia	C91-95	United Kingdom	Female	100308
+Leukaemia	C91-95	United Kingdom	Male	118977
+Leukaemia	C91-95	United States	Female	438603
+Leukaemia	C91-95	United States	Male	562638
+Leukaemia	C91-95	Uruguay	Female	3957
+Leukaemia	C91-95	Uruguay	Male	4939
+Leukaemia	C91-95	Uzbekistan	Female	5483
+Leukaemia	C91-95	Uzbekistan	Male	6606
+Leukaemia	C91-95	Venezuela	Female	11169
+Leukaemia	C91-95	Venezuela	Male	13181
+Lip, oral cavity and pharynx	C00-14	Albania	Female	426
+Lip, oral cavity and pharynx	C00-14	Albania	Male	877
+Lip, oral cavity and pharynx	C00-14	Argentina	Female	6186
+Lip, oral cavity and pharynx	C00-14	Argentina	Male	21831
+Lip, oral cavity and pharynx	C00-14	Armenia	Female	309
+Lip, oral cavity and pharynx	C00-14	Armenia	Male	1090
+Lip, oral cavity and pharynx	C00-14	Australia	Female	8000
+Lip, oral cavity and pharynx	C00-14	Australia	Male	20510
+Lip, oral cavity and pharynx	C00-14	Austria	Female	4109
+Lip, oral cavity and pharynx	C00-14	Austria	Male	13517
+Lip, oral cavity and pharynx	C00-14	Azerbaijan	Female	470
+Lip, oral cavity and pharynx	C00-14	Azerbaijan	Male	1262
+Lip, oral cavity and pharynx	C00-14	Belarus	Female	1592
+Lip, oral cavity and pharynx	C00-14	Belarus	Male	10289
+Lip, oral cavity and pharynx	C00-14	Belgium	Female	4942
+Lip, oral cavity and pharynx	C00-14	Belgium	Male	15700
+Lip, oral cavity and pharynx	C00-14	Belize	Female	30
+Lip, oral cavity and pharynx	C00-14	Belize	Male	44
+Lip, oral cavity and pharynx	C00-14	Brazil	Female	24378
+Lip, oral cavity and pharynx	C00-14	Brazil	Male	101926
+Lip, oral cavity and pharynx	C00-14	Bulgaria	Female	2531
+Lip, oral cavity and pharynx	C00-14	Bulgaria	Male	9490
+Lip, oral cavity and pharynx	C00-14	Canada	Female	13174
+Lip, oral cavity and pharynx	C00-14	Canada	Male	34331
+Lip, oral cavity and pharynx	C00-14	Chile	Female	2046
+Lip, oral cavity and pharynx	C00-14	Chile	Male	5297
+Lip, oral cavity and pharynx	C00-14	China	Female	6779
+Lip, oral cavity and pharynx	C00-14	China	Male	19721
+Lip, oral cavity and pharynx	C00-14	Colombia	Female	6190
+Lip, oral cavity and pharynx	C00-14	Colombia	Male	8335
+Lip, oral cavity and pharynx	C00-14	Costa Rica	Female	472
+Lip, oral cavity and pharynx	C00-14	Costa Rica	Male	1284
+Lip, oral cavity and pharynx	C00-14	Croatia	Female	1237
+Lip, oral cavity and pharynx	C00-14	Croatia	Male	8582
+Lip, oral cavity and pharynx	C00-14	Cuba	Female	4590
+Lip, oral cavity and pharynx	C00-14	Cuba	Male	15118
+Lip, oral cavity and pharynx	C00-14	Czech Rep.	Female	6979
+Lip, oral cavity and pharynx	C00-14	Czech Rep.	Male	27032
+Lip, oral cavity and pharynx	C00-14	Denmark	Female	3790
+Lip, oral cavity and pharynx	C00-14	Denmark	Male	7264
+Lip, oral cavity and pharynx	C00-14	Dominican Rep.	Female	1106
+Lip, oral cavity and pharynx	C00-14	Dominican Rep.	Male	2053
+Lip, oral cavity and pharynx	C00-14	Ecuador	Female	892
+Lip, oral cavity and pharynx	C00-14	Ecuador	Male	1345
+Lip, oral cavity and pharynx	C00-14	Egypt	Female	1588
+Lip, oral cavity and pharynx	C00-14	Egypt	Male	2386
+Lip, oral cavity and pharynx	C00-14	El Salvador	Female	481
+Lip, oral cavity and pharynx	C00-14	El Salvador	Male	862
+Lip, oral cavity and pharynx	C00-14	Estonia	Female	491
+Lip, oral cavity and pharynx	C00-14	Estonia	Male	1964
+Lip, oral cavity and pharynx	C00-14	Finland	Female	2833
+Lip, oral cavity and pharynx	C00-14	Finland	Male	4249
+Lip, oral cavity and pharynx	C00-14	France	Female	32504
+Lip, oral cavity and pharynx	C00-14	France	Male	225804
+Lip, oral cavity and pharynx	C00-14	Georgia	Female	491
+Lip, oral cavity and pharynx	C00-14	Georgia	Male	1560
+Lip, oral cavity and pharynx	C00-14	Germany	Female	32471
+Lip, oral cavity and pharynx	C00-14	Germany	Male	110885
+Lip, oral cavity and pharynx	C00-14	Greece	Female	2759
+Lip, oral cavity and pharynx	C00-14	Greece	Male	6330
+Lip, oral cavity and pharynx	C00-14	Guatemala	Female	911
+Lip, oral cavity and pharynx	C00-14	Guatemala	Male	1581
+Lip, oral cavity and pharynx	C00-14	Hungary	Female	8482
+Lip, oral cavity and pharynx	C00-14	Hungary	Male	41505
+Lip, oral cavity and pharynx	C00-14	Iceland	Female	126
+Lip, oral cavity and pharynx	C00-14	Iceland	Male	178
+Lip, oral cavity and pharynx	C00-14	Ireland	Female	2366
+Lip, oral cavity and pharynx	C00-14	Ireland	Male	6370
+Lip, oral cavity and pharynx	C00-14	Israel	Female	898
+Lip, oral cavity and pharynx	C00-14	Israel	Male	1456
+Lip, oral cavity and pharynx	C00-14	Italy	Female	28786
+Lip, oral cavity and pharynx	C00-14	Italy	Male	116947
+Lip, oral cavity and pharynx	C00-14	Japan	Female	44947
+Lip, oral cavity and pharynx	C00-14	Japan	Male	108094
+Lip, oral cavity and pharynx	C00-14	Kazakhstan	Female	3764
+Lip, oral cavity and pharynx	C00-14	Kazakhstan	Male	10620
+Lip, oral cavity and pharynx	C00-14	Korea	Female	3676
+Lip, oral cavity and pharynx	C00-14	Korea	Male	12136
+Lip, oral cavity and pharynx	C00-14	Kuwait	Female	131
+Lip, oral cavity and pharynx	C00-14	Kuwait	Male	217
+Lip, oral cavity and pharynx	C00-14	Kyrgyzstan	Female	591
+Lip, oral cavity and pharynx	C00-14	Kyrgyzstan	Male	1654
+Lip, oral cavity and pharynx	C00-14	Latvia	Female	680
+Lip, oral cavity and pharynx	C00-14	Latvia	Male	3012
+Lip, oral cavity and pharynx	C00-14	Lithuania	Female	847
+Lip, oral cavity and pharynx	C00-14	Lithuania	Male	4705
+Lip, oral cavity and pharynx	C00-14	Luxembourg	Female	185
+Lip, oral cavity and pharynx	C00-14	Luxembourg	Male	758
+Lip, oral cavity and pharynx	C00-14	Mexico	Female	9247
+Lip, oral cavity and pharynx	C00-14	Mexico	Male	18694
+Lip, oral cavity and pharynx	C00-14	Moldova	Female	773
+Lip, oral cavity and pharynx	C00-14	Moldova	Male	5469
+Lip, oral cavity and pharynx	C00-14	Netherlands	Female	6556
+Lip, oral cavity and pharynx	C00-14	Netherlands	Male	13118
+Lip, oral cavity and pharynx	C00-14	New Zealand	Female	1722
+Lip, oral cavity and pharynx	C00-14	New Zealand	Male	3693
+Lip, oral cavity and pharynx	C00-14	Nicaragua	Female	151
+Lip, oral cavity and pharynx	C00-14	Nicaragua	Male	384
+Lip, oral cavity and pharynx	C00-14	Norway	Female	2603
+Lip, oral cavity and pharynx	C00-14	Norway	Male	5152
+Lip, oral cavity and pharynx	C00-14	Panama	Female	581
+Lip, oral cavity and pharynx	C00-14	Panama	Male	920
+Lip, oral cavity and pharynx	C00-14	Paraguay	Female	194
+Lip, oral cavity and pharynx	C00-14	Paraguay	Male	852
+Lip, oral cavity and pharynx	C00-14	Peru	Female	1548
+Lip, oral cavity and pharynx	C00-14	Peru	Male	2023
+Lip, oral cavity and pharynx	C00-14	Philippines	Female	10410
+Lip, oral cavity and pharynx	C00-14	Philippines	Male	15997
+Lip, oral cavity and pharynx	C00-14	Poland	Female	14307
+Lip, oral cavity and pharynx	C00-14	Poland	Male	50126
+Lip, oral cavity and pharynx	C00-14	Portugal	Female	3958
+Lip, oral cavity and pharynx	C00-14	Portugal	Male	16805
+Lip, oral cavity and pharynx	C00-14	Romania	Female	7362
+Lip, oral cavity and pharynx	C00-14	Romania	Male	36654
+Lip, oral cavity and pharynx	C00-14	Russia	Female	44072
+Lip, oral cavity and pharynx	C00-14	Russia	Male	188411
+Lip, oral cavity and pharynx	C00-14	Serbia	Female	1244
+Lip, oral cavity and pharynx	C00-14	Serbia	Male	4840
+Lip, oral cavity and pharynx	C00-14	Slovakia	Female	1165
+Lip, oral cavity and pharynx	C00-14	Slovakia	Male	9961
+Lip, oral cavity and pharynx	C00-14	Slovenia	Female	496
+Lip, oral cavity and pharynx	C00-14	Slovenia	Male	3398
+Lip, oral cavity and pharynx	C00-14	South Africa	Female	4847
+Lip, oral cavity and pharynx	C00-14	South Africa	Male	12606
+Lip, oral cavity and pharynx	C00-14	Spain	Female	14002
+Lip, oral cavity and pharynx	C00-14	Spain	Male	64789
+Lip, oral cavity and pharynx	C00-14	Suriname	Female	58
+Lip, oral cavity and pharynx	C00-14	Suriname	Male	115
+Lip, oral cavity and pharynx	C00-14	Sweden	Female	5800
+Lip, oral cavity and pharynx	C00-14	Sweden	Male	9568
+Lip, oral cavity and pharynx	C00-14	Switzerland	Female	3964
+Lip, oral cavity and pharynx	C00-14	Switzerland	Male	15268
+Lip, oral cavity and pharynx	C00-14	Tajikistan	Female	464
+Lip, oral cavity and pharynx	C00-14	Tajikistan	Male	856
+Lip, oral cavity and pharynx	C00-14	Thailand	Female	7525
+Lip, oral cavity and pharynx	C00-14	Thailand	Male	13223
+Lip, oral cavity and pharynx	C00-14	Trinidad and Tobago	Female	291
+Lip, oral cavity and pharynx	C00-14	Trinidad and Tobago	Male	778
+Lip, oral cavity and pharynx	C00-14	Turkmenistan	Female	332
+Lip, oral cavity and pharynx	C00-14	Turkmenistan	Male	918
+Lip, oral cavity and pharynx	C00-14	Ukraine	Female	12549
+Lip, oral cavity and pharynx	C00-14	Ukraine	Male	76041
+Lip, oral cavity and pharynx	C00-14	United Kingdom	Female	44175
+Lip, oral cavity and pharynx	C00-14	United Kingdom	Male	78070
+Lip, oral cavity and pharynx	C00-14	United States	Female	133841
+Lip, oral cavity and pharynx	C00-14	United States	Male	317660
+Lip, oral cavity and pharynx	C00-14	Uruguay	Female	1090
+Lip, oral cavity and pharynx	C00-14	Uruguay	Male	4963
+Lip, oral cavity and pharynx	C00-14	Uzbekistan	Female	2650
+Lip, oral cavity and pharynx	C00-14	Uzbekistan	Male	5642
+Lip, oral cavity and pharynx	C00-14	Venezuela	Female	4078
+Lip, oral cavity and pharynx	C00-14	Venezuela	Male	5966
+Liver	C22	Argentina	Female	22896
+Liver	C22	Argentina	Male	26039
+Liver	C22	Armenia	Female	0
+Liver	C22	Armenia	Male	0
+Liver	C22	Australia	Female	5754
+Liver	C22	Australia	Male	11762
+Liver	C22	Austria	Female	4906
+Liver	C22	Austria	Male	9476
+Liver	C22	Azerbaijan	Female	115
+Liver	C22	Azerbaijan	Male	145
+Liver	C22	Belgium	Female	6606
+Liver	C22	Belgium	Male	8920
+Liver	C22	Belize	Female	101
+Liver	C22	Belize	Male	109
+Liver	C22	Brazil	Female	45909
+Liver	C22	Brazil	Male	56997
+Liver	C22	Bulgaria	Female	6045
+Liver	C22	Bulgaria	Male	8983
+Liver	C22	Canada	Female	11172
+Liver	C22	Canada	Male	19944
+Liver	C22	Chile	Female	6967
+Liver	C22	Chile	Male	8058
+Liver	C22	China	Female	7064
+Liver	C22	China	Male	22894
+Liver	C22	Colombia	Female	14215
+Liver	C22	Colombia	Male	12718
+Liver	C22	Costa Rica	Female	1539
+Liver	C22	Costa Rica	Male	2119
+Liver	C22	Croatia	Female	2513
+Liver	C22	Croatia	Male	4041
+Liver	C22	Cuba	Female	4535
+Liver	C22	Cuba	Male	4830
+Liver	C22	Czech Rep.	Female	9050
+Liver	C22	Czech Rep.	Male	13986
+Liver	C22	Denmark	Female	2565
+Liver	C22	Denmark	Male	3721
+Liver	C22	Dominican Rep.	Female	1974
+Liver	C22	Dominican Rep.	Male	2508
+Liver	C22	Ecuador	Female	5276
+Liver	C22	Ecuador	Male	4498
+Liver	C22	Egypt	Female	15011
+Liver	C22	Egypt	Male	31732
+Liver	C22	El Salvador	Female	1653
+Liver	C22	El Salvador	Male	1237
+Liver	C22	Estonia	Female	528
+Liver	C22	Estonia	Male	664
+Liver	C22	Finland	Female	3646
+Liver	C22	Finland	Male	4312
+Liver	C22	France	Female	36061
+Liver	C22	France	Male	115144
+Liver	C22	Georgia	Female	1023
+Liver	C22	Georgia	Male	1341
+Liver	C22	Germany	Female	41920
+Liver	C22	Germany	Male	71450
+Liver	C22	Greece	Female	2440
+Liver	C22	Greece	Male	4439
+Liver	C22	Guatemala	Female	3356
+Liver	C22	Guatemala	Male	3004
+Liver	C22	Hungary	Female	11861
+Liver	C22	Hungary	Male	17986
+Liver	C22	Iceland	Female	90
+Liver	C22	Iceland	Male	123
+Liver	C22	Ireland	Female	1151
+Liver	C22	Ireland	Male	1432
+Liver	C22	Israel	Female	2323
+Liver	C22	Israel	Male	3120
+Liver	C22	Italy	Female	63689
+Liver	C22	Italy	Male	119547
+Liver	C22	Japan	Female	234473
+Liver	C22	Japan	Male	549490
+Liver	C22	Korea	Female	48621
+Liver	C22	Korea	Male	153046
+Liver	C22	Kuwait	Female	266
+Liver	C22	Kuwait	Male	620
+Liver	C22	Kyrgyzstan	Female	981
+Liver	C22	Kyrgyzstan	Male	1478
+Liver	C22	Latvia	Female	842
+Liver	C22	Latvia	Male	1097
+Liver	C22	Lithuania	Female	848
+Liver	C22	Lithuania	Male	1151
+Liver	C22	Luxembourg	Female	157
+Liver	C22	Luxembourg	Male	290
+Liver	C22	Mexico	Female	37190
+Liver	C22	Mexico	Male	33133
+Liver	C22	Moldova	Female	2087
+Liver	C22	Moldova	Male	3715
+Liver	C22	Netherlands	Female	4608
+Liver	C22	Netherlands	Male	7244
+Liver	C22	New Zealand	Female	1208
+Liver	C22	New Zealand	Male	2419
+Liver	C22	Nicaragua	Female	1390
+Liver	C22	Nicaragua	Male	1285
+Liver	C22	Norway	Female	1169
+Liver	C22	Norway	Male	1476
+Liver	C22	Panama	Female	663
+Liver	C22	Panama	Male	794
+Liver	C22	Paraguay	Female	578
+Liver	C22	Paraguay	Male	659
+Liver	C22	Peru	Female	8816
+Liver	C22	Peru	Male	7575
+Liver	C22	Philippines	Female	8782
+Liver	C22	Philippines	Male	21662
+Liver	C22	Poland	Female	40279
+Liver	C22	Poland	Male	35436
+Liver	C22	Portugal	Female	2987
+Liver	C22	Portugal	Male	6436
+Liver	C22	Romania	Female	16465
+Liver	C22	Romania	Male	28799
+Liver	C22	Serbia	Female	4064
+Liver	C22	Serbia	Male	5841
+Liver	C22	Slovakia	Female	2457
+Liver	C22	Slovakia	Male	3602
+Liver	C22	Slovenia	Female	1108
+Liver	C22	Slovenia	Male	1809
+Liver	C22	South Africa	Female	8867
+Liver	C22	South Africa	Male	15110
+Liver	C22	Spain	Female	34112
+Liver	C22	Spain	Male	61914
+Liver	C22	Suriname	Female	130
+Liver	C22	Suriname	Male	256
+Liver	C22	Sweden	Female	5508
+Liver	C22	Sweden	Male	7694
+Liver	C22	Thailand	Female	32091
+Liver	C22	Thailand	Male	77644
+Liver	C22	Trinidad and Tobago	Female	250
+Liver	C22	Trinidad and Tobago	Male	293
+Liver	C22	United Kingdom	Female	25661
+Liver	C22	United Kingdom	Male	36896
+Liver	C22	United States	Female	109726
+Liver	C22	United States	Male	202336
+Liver	C22	Uruguay	Female	582
+Liver	C22	Uruguay	Male	1141
+Liver	C22	Uzbekistan	Female	581
+Liver	C22	Uzbekistan	Male	760
+Liver	C22	Venezuela	Female	6426
+Liver	C22	Venezuela	Male	6982
+Lung	C33-34	Albania	Female	2158
+Lung	C33-34	Albania	Male	9011
+Lung	C33-34	Argentina	Female	52849
+Lung	C33-34	Argentina	Male	230325
+Lung	C33-34	Armenia	Female	3119
+Lung	C33-34	Armenia	Male	16637
+Lung	C33-34	Australia	Female	69459
+Lung	C33-34	Australia	Male	200575
+Lung	C33-34	Austria	Female	38882
+Lung	C33-34	Austria	Male	136718
+Lung	C33-34	Azerbaijan	Female	3403
+Lung	C33-34	Azerbaijan	Male	14904
+Lung	C33-34	Belarus	Female	9211
+Lung	C33-34	Belarus	Male	68765
+Lung	C33-34	Belgium	Female	41252
+Lung	C33-34	Belgium	Male	258184
+Lung	C33-34	Belize	Female	96
+Lung	C33-34	Belize	Male	265
+Lung	C33-34	Brazil	Female	122958
+Lung	C33-34	Brazil	Male	283962
+Lung	C33-34	Bulgaria	Female	21891
+Lung	C33-34	Bulgaria	Male	110589
+Lung	C33-34	Canada	Female	187607
+Lung	C33-34	Canada	Male	394807
+Lung	C33-34	Chile	Female	20971
+Lung	C33-34	Chile	Male	47531
+Lung	C33-34	China	Female	168017
+Lung	C33-34	China	Male	351870
+Lung	C33-34	Colombia	Female	31291
+Lung	C33-34	Colombia	Male	51756
+Lung	C33-34	Costa Rica	Female	2370
+Lung	C33-34	Costa Rica	Male	4984
+Lung	C33-34	Croatia	Female	11395
+Lung	C33-34	Croatia	Male	51604
+Lung	C33-34	Cuba	Female	39268
+Lung	C33-34	Cuba	Male	97015
+Lung	C33-34	Czech Rep.	Female	57401
+Lung	C33-34	Czech Rep.	Male	319536
+Lung	C33-34	Denmark	Female	47385
+Lung	C33-34	Denmark	Male	97993
+Lung	C33-34	Dominican Rep.	Female	2973
+Lung	C33-34	Dominican Rep.	Male	5538
+Lung	C33-34	Ecuador	Female	5016
+Lung	C33-34	Ecuador	Male	8691
+Lung	C33-34	Egypt	Female	7981
+Lung	C33-34	Egypt	Male	17919
+Lung	C33-34	El Salvador	Female	1857
+Lung	C33-34	El Salvador	Male	2051
+Lung	C33-34	Estonia	Female	3298
+Lung	C33-34	Estonia	Male	15330
+Lung	C33-34	Finland	Female	16435
+Lung	C33-34	Finland	Male	85252
+Lung	C33-34	France	Female	167506
+Lung	C33-34	France	Male	851259
+Lung	C33-34	Georgia	Female	3651
+Lung	C33-34	Georgia	Male	15267
+Lung	C33-34	Germany	Female	289445
+Lung	C33-34	Germany	Male	1023913
+Lung	C33-34	Greece	Female	31235
+Lung	C33-34	Greece	Male	172031
+Lung	C33-34	Guatemala	Female	3248
+Lung	C33-34	Guatemala	Male	4298
+Lung	C33-34	Hungary	Female	71547
+Lung	C33-34	Hungary	Male	229197
+Lung	C33-34	Iceland	Female	1637
+Lung	C33-34	Iceland	Male	1883
+Lung	C33-34	Ireland	Female	21443
+Lung	C33-34	Ireland	Male	48779
+Lung	C33-34	Israel	Female	11046
+Lung	C33-34	Israel	Male	26283
+Lung	C33-34	Italy	Female	200368
+Lung	C33-34	Italy	Male	995406
+Lung	C33-34	Japan	Female	452103
+Lung	C33-34	Japan	Male	1199378
+Lung	C33-34	Kazakhstan	Female	19749
+Lung	C33-34	Kazakhstan	Male	90246
+Lung	C33-34	Korea	Female	64075
+Lung	C33-34	Korea	Male	183449
+Lung	C33-34	Kuwait	Female	478
+Lung	C33-34	Kuwait	Male	1533
+Lung	C33-34	Kyrgyzstan	Female	2540
+Lung	C33-34	Kyrgyzstan	Male	10102
+Lung	C33-34	Latvia	Female	5376
+Lung	C33-34	Latvia	Male	27202
+Lung	C33-34	Lithuania	Female	5466
+Lung	C33-34	Lithuania	Male	33054
+Lung	C33-34	Luxembourg	Female	1428
+Lung	C33-34	Luxembourg	Male	7074
+Lung	C33-34	Mexico	Female	67168
+Lung	C33-34	Mexico	Male	139640
+Lung	C33-34	Moldova	Female	4825
+Lung	C33-34	Moldova	Male	20889
+Lung	C33-34	Netherlands	Female	68109
+Lung	C33-34	Netherlands	Male	325553
+Lung	C33-34	New Zealand	Female	18534
+Lung	C33-34	New Zealand	Male	42891
+Lung	C33-34	Nicaragua	Female	914
+Lung	C33-34	Nicaragua	Male	1469
+Lung	C33-34	Norway	Female	19410
+Lung	C33-34	Norway	Male	45719
+Lung	C33-34	Panama	Female	1480
+Lung	C33-34	Panama	Male	4296
+Lung	C33-34	Paraguay	Female	1001
+Lung	C33-34	Paraguay	Male	3989
+Lung	C33-34	Peru	Female	11708
+Lung	C33-34	Peru	Male	17941
+Lung	C33-34	Philippines	Female	19735
+Lung	C33-34	Philippines	Male	56849
+Lung	C33-34	Poland	Female	123938
+Lung	C33-34	Poland	Male	539287
+Lung	C33-34	Portugal	Female	16980
+Lung	C33-34	Portugal	Male	70029
+Lung	C33-34	Romania	Female	49286
+Lung	C33-34	Romania	Male	224468
+Lung	C33-34	Russia	Female	275265
+Lung	C33-34	Russia	Male	1459764
+Lung	C33-34	Serbia	Female	13073
+Lung	C33-34	Serbia	Male	44533
+Lung	C33-34	Slovakia	Female	6883
+Lung	C33-34	Slovakia	Male	33272
+Lung	C33-34	Slovenia	Female	5141
+Lung	C33-34	Slovenia	Male	18966
+Lung	C33-34	South Africa	Female	23299
+Lung	C33-34	South Africa	Male	54693
+Lung	C33-34	Spain	Female	78666
+Lung	C33-34	Spain	Male	529000
+Lung	C33-34	Suriname	Female	245
+Lung	C33-34	Suriname	Male	592
+Lung	C33-34	Sweden	Female	43251
+Lung	C33-34	Sweden	Male	87953
+Lung	C33-34	Switzerland	Female	24316
+Lung	C33-34	Switzerland	Male	104066
+Lung	C33-34	Tajikistan	Female	1494
+Lung	C33-34	Tajikistan	Male	3700
+Lung	C33-34	Thailand	Female	25875
+Lung	C33-34	Thailand	Male	58975
+Lung	C33-34	Trinidad and Tobago	Female	899
+Lung	C33-34	Trinidad and Tobago	Male	2826
+Lung	C33-34	Turkmenistan	Female	873
+Lung	C33-34	Turkmenistan	Male	2965
+Lung	C33-34	Ukraine	Female	83964
+Lung	C33-34	Ukraine	Male	433746
+Lung	C33-34	United Kingdom	Female	544594
+Lung	C33-34	United Kingdom	Male	1450133
+Lung	C33-34	United States	Female	2012502
+Lung	C33-34	United States	Male	3976783
+Lung	C33-34	Uruguay	Female	5748
+Lung	C33-34	Uruguay	Male	42458
+Lung	C33-34	Uzbekistan	Female	7299
+Lung	C33-34	Uzbekistan	Male	20745
+Lung	C33-34	Venezuela	Female	22025
+Lung	C33-34	Venezuela	Male	39245
+Melanoma of skin	C43	Albania	Female	150
+Melanoma of skin	C43	Albania	Male	207
+Melanoma of skin	C43	Argentina	Female	3998
+Melanoma of skin	C43	Argentina	Male	5706
+Melanoma of skin	C43	Armenia	Female	0
+Melanoma of skin	C43	Armenia	Male	0
+Melanoma of skin	C43	Australia	Female	13160
+Melanoma of skin	C43	Australia	Male	22739
+Melanoma of skin	C43	Austria	Female	4625
+Melanoma of skin	C43	Austria	Male	5097
+Melanoma of skin	C43	Azerbaijan	Female	52
+Melanoma of skin	C43	Azerbaijan	Male	65
+Melanoma of skin	C43	Belarus	Female	596
+Melanoma of skin	C43	Belarus	Male	480
+Melanoma of skin	C43	Belgium	Female	4440
+Melanoma of skin	C43	Belgium	Male	4442
+Melanoma of skin	C43	Belize	Female	2
+Melanoma of skin	C43	Belize	Male	4
+Melanoma of skin	C43	Brazil	Female	11303
+Melanoma of skin	C43	Brazil	Male	15026
+Melanoma of skin	C43	Bulgaria	Female	2116
+Melanoma of skin	C43	Bulgaria	Male	2644
+Melanoma of skin	C43	Canada	Female	9987
+Melanoma of skin	C43	Canada	Male	14359
+Melanoma of skin	C43	Chile	Female	1689
+Melanoma of skin	C43	Chile	Male	1828
+Melanoma of skin	C43	China	Female	331
+Melanoma of skin	C43	China	Male	423
+Melanoma of skin	C43	Colombia	Female	1826
+Melanoma of skin	C43	Colombia	Male	1964
+Melanoma of skin	C43	Costa Rica	Female	225
+Melanoma of skin	C43	Costa Rica	Male	350
+Melanoma of skin	C43	Croatia	Female	1627
+Melanoma of skin	C43	Croatia	Male	1901
+Melanoma of skin	C43	Cuba	Female	674
+Melanoma of skin	C43	Cuba	Male	873
+Melanoma of skin	C43	Czech Rep.	Female	7536
+Melanoma of skin	C43	Czech Rep.	Male	9353
+Melanoma of skin	C43	Denmark	Female	4203
+Melanoma of skin	C43	Denmark	Male	4710
+Melanoma of skin	C43	Dominican Rep.	Female	37
+Melanoma of skin	C43	Dominican Rep.	Male	57
+Melanoma of skin	C43	Ecuador	Female	563
+Melanoma of skin	C43	Ecuador	Male	584
+Melanoma of skin	C43	Egypt	Female	33
+Melanoma of skin	C43	Egypt	Male	53
+Melanoma of skin	C43	El Salvador	Female	18
+Melanoma of skin	C43	El Salvador	Male	18
+Melanoma of skin	C43	Estonia	Female	440
+Melanoma of skin	C43	Estonia	Male	321
+Melanoma of skin	C43	Finland	Female	2578
+Melanoma of skin	C43	Finland	Male	3340
+Melanoma of skin	C43	France	Female	20993
+Melanoma of skin	C43	France	Male	22000
+Melanoma of skin	C43	Georgia	Female	238
+Melanoma of skin	C43	Georgia	Male	203
+Melanoma of skin	C43	Germany	Female	31298
+Melanoma of skin	C43	Germany	Male	33814
+Melanoma of skin	C43	Greece	Female	1703
+Melanoma of skin	C43	Greece	Male	2103
+Melanoma of skin	C43	Guatemala	Female	124
+Melanoma of skin	C43	Guatemala	Male	162
+Melanoma of skin	C43	Hungary	Female	5102
+Melanoma of skin	C43	Hungary	Male	5706
+Melanoma of skin	C43	Iceland	Female	86
+Melanoma of skin	C43	Iceland	Male	94
+Melanoma of skin	C43	Ireland	Female	1484
+Melanoma of skin	C43	Ireland	Male	1385
+Melanoma of skin	C43	Israel	Female	1944
+Melanoma of skin	C43	Israel	Male	2243
+Melanoma of skin	C43	Italy	Female	20294
+Melanoma of skin	C43	Italy	Male	24042
+Melanoma of skin	C43	Japan	Female	7198
+Melanoma of skin	C43	Japan	Male	8197
+Melanoma of skin	C43	Kazakhstan	Female	2095
+Melanoma of skin	C43	Kazakhstan	Male	1940
+Melanoma of skin	C43	Korea	Female	1151
+Melanoma of skin	C43	Korea	Male	1331
+Melanoma of skin	C43	Kuwait	Female	10
+Melanoma of skin	C43	Kuwait	Male	16
+Melanoma of skin	C43	Kyrgyzstan	Female	77
+Melanoma of skin	C43	Kyrgyzstan	Male	95
+Melanoma of skin	C43	Latvia	Female	606
+Melanoma of skin	C43	Latvia	Male	428
+Melanoma of skin	C43	Lithuania	Female	837
+Melanoma of skin	C43	Lithuania	Male	658
+Melanoma of skin	C43	Luxembourg	Female	173
+Melanoma of skin	C43	Luxembourg	Male	152
+Melanoma of skin	C43	Mexico	Female	4194
+Melanoma of skin	C43	Mexico	Male	4854
+Melanoma of skin	C43	Moldova	Female	413
+Melanoma of skin	C43	Moldova	Male	428
+Melanoma of skin	C43	Netherlands	Female	8066
+Melanoma of skin	C43	Netherlands	Male	9462
+Melanoma of skin	C43	New Zealand	Female	3415
+Melanoma of skin	C43	New Zealand	Male	4914
+Melanoma of skin	C43	Nicaragua	Female	52
+Melanoma of skin	C43	Nicaragua	Male	66
+Melanoma of skin	C43	Norway	Female	3489
+Melanoma of skin	C43	Norway	Male	4924
+Melanoma of skin	C43	Panama	Female	104
+Melanoma of skin	C43	Panama	Male	156
+Melanoma of skin	C43	Paraguay	Female	137
+Melanoma of skin	C43	Paraguay	Male	162
+Melanoma of skin	C43	Peru	Female	752
+Melanoma of skin	C43	Peru	Male	884
+Melanoma of skin	C43	Philippines	Female	499
+Melanoma of skin	C43	Philippines	Male	559
+Melanoma of skin	C43	Poland	Female	11809
+Melanoma of skin	C43	Poland	Male	11711
+Melanoma of skin	C43	Portugal	Female	1583
+Melanoma of skin	C43	Portugal	Male	1630
+Melanoma of skin	C43	Romania	Female	4230
+Melanoma of skin	C43	Romania	Male	4539
+Melanoma of skin	C43	Russia	Female	19311
+Melanoma of skin	C43	Russia	Male	15911
+Melanoma of skin	C43	Serbia	Female	1207
+Melanoma of skin	C43	Serbia	Male	1563
+Melanoma of skin	C43	Slovakia	Female	1396
+Melanoma of skin	C43	Slovakia	Male	1484
+Melanoma of skin	C43	Slovenia	Female	1017
+Melanoma of skin	C43	Slovenia	Male	1054
+Melanoma of skin	C43	South Africa	Female	1915
+Melanoma of skin	C43	South Africa	Male	2563
+Melanoma of skin	C43	Spain	Female	8843
+Melanoma of skin	C43	Spain	Male	10446
+Melanoma of skin	C43	Suriname	Female	9
+Melanoma of skin	C43	Suriname	Male	15
+Melanoma of skin	C43	Sweden	Female	6272
+Melanoma of skin	C43	Sweden	Male	8651
+Melanoma of skin	C43	Switzerland	Female	4409
+Melanoma of skin	C43	Switzerland	Male	5570
+Melanoma of skin	C43	Thailand	Female	51
+Melanoma of skin	C43	Thailand	Male	87
+Melanoma of skin	C43	Trinidad and Tobago	Female	37
+Melanoma of skin	C43	Trinidad and Tobago	Male	32
+Melanoma of skin	C43	Turkmenistan	Female	37
+Melanoma of skin	C43	Turkmenistan	Male	32
+Melanoma of skin	C43	Ukraine	Female	3491
+Melanoma of skin	C43	Ukraine	Male	3112
+Melanoma of skin	C43	United Kingdom	Female	29772
+Melanoma of skin	C43	United Kingdom	Male	28541
+Melanoma of skin	C43	United States	Female	91532
+Melanoma of skin	C43	United States	Male	147321
+Melanoma of skin	C43	Uruguay	Female	457
+Melanoma of skin	C43	Uruguay	Male	682
+Melanoma of skin	C43	Uzbekistan	Female	54
+Melanoma of skin	C43	Uzbekistan	Male	57
+Melanoma of skin	C43	Venezuela	Female	823
+Melanoma of skin	C43	Venezuela	Male	1052
+Mesothelioma	C45	Argentina	Female	581
+Mesothelioma	C45	Argentina	Male	914
+Mesothelioma	C45	Armenia	Female	0
+Mesothelioma	C45	Armenia	Male	0
+Mesothelioma	C45	Australia	Female	1032
+Mesothelioma	C45	Australia	Male	5145
+Mesothelioma	C45	Austria	Female	217
+Mesothelioma	C45	Austria	Male	526
+Mesothelioma	C45	Belgium	Female	431
+Mesothelioma	C45	Belgium	Male	2018
+Mesothelioma	C45	Belize	Female	1
+Mesothelioma	C45	Belize	Male	5
+Mesothelioma	C45	Brazil	Female	407
+Mesothelioma	C45	Brazil	Male	569
+Mesothelioma	C45	Bulgaria	Female	26
+Mesothelioma	C45	Bulgaria	Male	28
+Mesothelioma	C45	Canada	Female	673
+Mesothelioma	C45	Canada	Male	3378
+Mesothelioma	C45	Chile	Female	188
+Mesothelioma	C45	Chile	Male	375
+Mesothelioma	C45	China	Female	30
+Mesothelioma	C45	China	Male	103
+Mesothelioma	C45	Colombia	Female	207
+Mesothelioma	C45	Colombia	Male	336
+Mesothelioma	C45	Costa Rica	Female	14
+Mesothelioma	C45	Costa Rica	Male	19
+Mesothelioma	C45	Croatia	Female	126
+Mesothelioma	C45	Croatia	Male	554
+Mesothelioma	C45	Cuba	Female	37
+Mesothelioma	C45	Cuba	Male	45
+Mesothelioma	C45	Czech Rep.	Female	277
+Mesothelioma	C45	Czech Rep.	Male	424
+Mesothelioma	C45	Denmark	Female	211
+Mesothelioma	C45	Denmark	Male	1065
+Mesothelioma	C45	Dominican Rep.	Female	3
+Mesothelioma	C45	Dominican Rep.	Male	10
+Mesothelioma	C45	Ecuador	Female	29
+Mesothelioma	C45	Ecuador	Male	23
+Mesothelioma	C45	Egypt	Female	13
+Mesothelioma	C45	Egypt	Male	10
+Mesothelioma	C45	El Salvador	Female	2
+Mesothelioma	C45	El Salvador	Male	2
+Mesothelioma	C45	Estonia	Female	23
+Mesothelioma	C45	Estonia	Male	29
+Mesothelioma	C45	Finland	Female	286
+Mesothelioma	C45	Finland	Male	841
+Mesothelioma	C45	France	Female	2225
+Mesothelioma	C45	France	Male	7234
+Mesothelioma	C45	Georgia	Female	8
+Mesothelioma	C45	Georgia	Male	9
+Mesothelioma	C45	Germany	Female	3342
+Mesothelioma	C45	Germany	Male	11387
+Mesothelioma	C45	Guatemala	Male	4
+Mesothelioma	C45	Hungary	Female	200
+Mesothelioma	C45	Hungary	Male	325
+Mesothelioma	C45	Iceland	Female	8
+Mesothelioma	C45	Iceland	Male	24
+Mesothelioma	C45	Ireland	Female	17
+Mesothelioma	C45	Ireland	Male	108
+Mesothelioma	C45	Israel	Female	93
+Mesothelioma	C45	Israel	Male	275
+Mesothelioma	C45	Italy	Female	2263
+Mesothelioma	C45	Italy	Male	5512
+Mesothelioma	C45	Japan	Female	3041
+Mesothelioma	C45	Japan	Male	10536
+Mesothelioma	C45	Korea	Female	200
+Mesothelioma	C45	Korea	Male	402
+Mesothelioma	C45	Kuwait	Female	0
+Mesothelioma	C45	Kuwait	Male	3
+Mesothelioma	C45	Kyrgyzstan	Female	6
+Mesothelioma	C45	Kyrgyzstan	Male	11
+Mesothelioma	C45	Latvia	Female	53
+Mesothelioma	C45	Latvia	Male	76
+Mesothelioma	C45	Lithuania	Female	71
+Mesothelioma	C45	Lithuania	Male	80
+Mesothelioma	C45	Luxembourg	Female	9
+Mesothelioma	C45	Luxembourg	Male	51
+Mesothelioma	C45	Mexico	Female	728
+Mesothelioma	C45	Mexico	Male	1443
+Mesothelioma	C45	Moldova	Female	29
+Mesothelioma	C45	Moldova	Male	34
+Mesothelioma	C45	Netherlands	Female	782
+Mesothelioma	C45	Netherlands	Male	5311
+Mesothelioma	C45	New Zealand	Female	114
+Mesothelioma	C45	New Zealand	Male	760
+Mesothelioma	C45	Nicaragua	Female	4
+Mesothelioma	C45	Nicaragua	Male	4
+Mesothelioma	C45	Norway	Female	133
+Mesothelioma	C45	Norway	Male	709
+Mesothelioma	C45	Panama	Female	11
+Mesothelioma	C45	Panama	Male	12
+Mesothelioma	C45	Paraguay	Female	7
+Mesothelioma	C45	Paraguay	Male	4
+Mesothelioma	C45	Peru	Female	375
+Mesothelioma	C45	Peru	Male	495
+Mesothelioma	C45	Philippines	Female	31
+Mesothelioma	C45	Philippines	Male	24
+Mesothelioma	C45	Poland	Female	450
+Mesothelioma	C45	Poland	Male	866
+Mesothelioma	C45	Portugal	Female	52
+Mesothelioma	C45	Portugal	Male	139
+Mesothelioma	C45	Romania	Female	303
+Mesothelioma	C45	Romania	Male	398
+Mesothelioma	C45	Serbia	Female	115
+Mesothelioma	C45	Serbia	Male	225
+Mesothelioma	C45	Slovakia	Female	81
+Mesothelioma	C45	Slovakia	Male	128
+Mesothelioma	C45	Slovenia	Female	103
+Mesothelioma	C45	Slovenia	Male	217
+Mesothelioma	C45	South Africa	Female	682
+Mesothelioma	C45	South Africa	Male	2210
+Mesothelioma	C45	Spain	Female	907
+Mesothelioma	C45	Spain	Male	2623
+Mesothelioma	C45	Suriname	Female	1
+Mesothelioma	C45	Suriname	Male	1
+Mesothelioma	C45	Sweden	Female	282
+Mesothelioma	C45	Sweden	Male	1423
+Mesothelioma	C45	Trinidad and Tobago	Female	2
+Mesothelioma	C45	Trinidad and Tobago	Male	5
+Mesothelioma	C45	United Kingdom	Female	3130
+Mesothelioma	C45	United Kingdom	Male	16847
+Mesothelioma	C45	United States	Female	5869
+Mesothelioma	C45	United States	Male	23795
+Mesothelioma	C45	Uruguay	Female	42
+Mesothelioma	C45	Uruguay	Male	62
+Mesothelioma	C45	Uzbekistan	Female	2
+Mesothelioma	C45	Uzbekistan	Male	9
+Mesothelioma	C45	Venezuela	Female	84
+Mesothelioma	C45	Venezuela	Male	76
+Multiple myeloma	C88+C90	Albania	Female	60
+Multiple myeloma	C88+C90	Albania	Male	112
+Multiple myeloma	C88+C90	Argentina	Female	3994
+Multiple myeloma	C88+C90	Argentina	Male	3952
+Multiple myeloma	C88+C90	Armenia	Female	31
+Multiple myeloma	C88+C90	Armenia	Male	33
+Multiple myeloma	C88+C90	Australia	Female	9914
+Multiple myeloma	C88+C90	Australia	Male	11824
+Multiple myeloma	C88+C90	Austria	Female	5253
+Multiple myeloma	C88+C90	Austria	Male	4177
+Multiple myeloma	C88+C90	Azerbaijan	Female	19
+Multiple myeloma	C88+C90	Azerbaijan	Male	26
+Multiple myeloma	C88+C90	Belarus	Female	535
+Multiple myeloma	C88+C90	Belarus	Male	363
+Multiple myeloma	C88+C90	Belgium	Female	7211
+Multiple myeloma	C88+C90	Belgium	Male	7250
+Multiple myeloma	C88+C90	Belize	Female	6
+Multiple myeloma	C88+C90	Belize	Male	7
+Multiple myeloma	C88+C90	Brazil	Female	12189
+Multiple myeloma	C88+C90	Brazil	Male	12275
+Multiple myeloma	C88+C90	Bulgaria	Female	1188
+Multiple myeloma	C88+C90	Bulgaria	Male	1351
+Multiple myeloma	C88+C90	Canada	Female	18307
+Multiple myeloma	C88+C90	Canada	Male	21295
+Multiple myeloma	C88+C90	Chile	Female	2553
+Multiple myeloma	C88+C90	Chile	Male	2632
+Multiple myeloma	C88+C90	China	Female	1113
+Multiple myeloma	C88+C90	China	Male	1399
+Multiple myeloma	C88+C90	Colombia	Female	2059
+Multiple myeloma	C88+C90	Colombia	Male	2262
+Multiple myeloma	C88+C90	Costa Rica	Female	353
+Multiple myeloma	C88+C90	Costa Rica	Male	441
+Multiple myeloma	C88+C90	Croatia	Female	1578
+Multiple myeloma	C88+C90	Croatia	Male	1403
+Multiple myeloma	C88+C90	Cuba	Female	1396
+Multiple myeloma	C88+C90	Cuba	Male	1627
+Multiple myeloma	C88+C90	Czech Rep.	Female	8311
+Multiple myeloma	C88+C90	Czech Rep.	Male	7880
+Multiple myeloma	C88+C90	Denmark	Female	4663
+Multiple myeloma	C88+C90	Denmark	Male	5431
+Multiple myeloma	C88+C90	Dominican Rep.	Female	209
+Multiple myeloma	C88+C90	Dominican Rep.	Male	250
+Multiple myeloma	C88+C90	Ecuador	Female	363
+Multiple myeloma	C88+C90	Ecuador	Male	415
+Multiple myeloma	C88+C90	Egypt	Female	100
+Multiple myeloma	C88+C90	Egypt	Male	135
+Multiple myeloma	C88+C90	El Salvador	Female	8
+Multiple myeloma	C88+C90	El Salvador	Male	12
+Multiple myeloma	C88+C90	Estonia	Female	359
+Multiple myeloma	C88+C90	Estonia	Male	312
+Multiple myeloma	C88+C90	Finland	Female	4668
+Multiple myeloma	C88+C90	Finland	Male	3791
+Multiple myeloma	C88+C90	France	Female	43527
+Multiple myeloma	C88+C90	France	Male	41262
+Multiple myeloma	C88+C90	Georgia	Female	40
+Multiple myeloma	C88+C90	Georgia	Male	76
+Multiple myeloma	C88+C90	Germany	Female	45535
+Multiple myeloma	C88+C90	Germany	Male	41462
+Multiple myeloma	C88+C90	Greece	Female	4246
+Multiple myeloma	C88+C90	Greece	Male	4740
+Multiple myeloma	C88+C90	Guatemala	Female	72
+Multiple myeloma	C88+C90	Guatemala	Male	69
+Multiple myeloma	C88+C90	Hungary	Female	4713
+Multiple myeloma	C88+C90	Hungary	Male	4103
+Multiple myeloma	C88+C90	Iceland	Female	172
+Multiple myeloma	C88+C90	Iceland	Male	178
+Multiple myeloma	C88+C90	Ireland	Female	2412
+Multiple myeloma	C88+C90	Ireland	Male	2895
+Multiple myeloma	C88+C90	Israel	Female	2275
+Multiple myeloma	C88+C90	Israel	Male	2546
+Multiple myeloma	C88+C90	Italy	Female	39470
+Multiple myeloma	C88+C90	Italy	Male	39101
+Multiple myeloma	C88+C90	Japan	Female	46453
+Multiple myeloma	C88+C90	Japan	Male	49408
+Multiple myeloma	C88+C90	Kazakhstan	Female	197
+Multiple myeloma	C88+C90	Kazakhstan	Male	185
+Multiple myeloma	C88+C90	Korea	Female	3187
+Multiple myeloma	C88+C90	Korea	Male	3781
+Multiple myeloma	C88+C90	Kuwait	Female	51
+Multiple myeloma	C88+C90	Kuwait	Male	66
+Multiple myeloma	C88+C90	Kyrgyzstan	Female	17
+Multiple myeloma	C88+C90	Kyrgyzstan	Male	20
+Multiple myeloma	C88+C90	Latvia	Female	517
+Multiple myeloma	C88+C90	Latvia	Male	391
+Multiple myeloma	C88+C90	Lithuania	Female	981
+Multiple myeloma	C88+C90	Lithuania	Male	719
+Multiple myeloma	C88+C90	Luxembourg	Female	242
+Multiple myeloma	C88+C90	Luxembourg	Male	204
+Multiple myeloma	C88+C90	Mexico	Female	4492
+Multiple myeloma	C88+C90	Mexico	Male	5264
+Multiple myeloma	C88+C90	Moldova	Female	193
+Multiple myeloma	C88+C90	Moldova	Male	178
+Multiple myeloma	C88+C90	Netherlands	Female	12927
+Multiple myeloma	C88+C90	Netherlands	Male	14194
+Multiple myeloma	C88+C90	New Zealand	Female	2415
+Multiple myeloma	C88+C90	New Zealand	Male	2846
+Multiple myeloma	C88+C90	Nicaragua	Female	57
+Multiple myeloma	C88+C90	Nicaragua	Male	83
+Multiple myeloma	C88+C90	Norway	Female	4952
+Multiple myeloma	C88+C90	Norway	Male	5786
+Multiple myeloma	C88+C90	Panama	Female	215
+Multiple myeloma	C88+C90	Panama	Male	294
+Multiple myeloma	C88+C90	Paraguay	Female	148
+Multiple myeloma	C88+C90	Paraguay	Male	165
+Multiple myeloma	C88+C90	Peru	Female	732
+Multiple myeloma	C88+C90	Peru	Male	1107
+Multiple myeloma	C88+C90	Philippines	Female	645
+Multiple myeloma	C88+C90	Philippines	Male	631
+Multiple myeloma	C88+C90	Poland	Female	7343
+Multiple myeloma	C88+C90	Poland	Male	6675
+Multiple myeloma	C88+C90	Portugal	Female	3334
+Multiple myeloma	C88+C90	Portugal	Male	3340
+Multiple myeloma	C88+C90	Romania	Female	1741
+Multiple myeloma	C88+C90	Romania	Male	1795
+Multiple myeloma	C88+C90	Russia	Female	11930
+Multiple myeloma	C88+C90	Russia	Male	8604
+Multiple myeloma	C88+C90	Serbia	Female	937
+Multiple myeloma	C88+C90	Serbia	Male	1044
+Multiple myeloma	C88+C90	Slovakia	Female	1373
+Multiple myeloma	C88+C90	Slovakia	Male	1183
+Multiple myeloma	C88+C90	Slovenia	Female	867
+Multiple myeloma	C88+C90	Slovenia	Male	753
+Multiple myeloma	C88+C90	South Africa	Female	3164
+Multiple myeloma	C88+C90	South Africa	Male	3222
+Multiple myeloma	C88+C90	Spain	Female	20599
+Multiple myeloma	C88+C90	Spain	Male	20747
+Multiple myeloma	C88+C90	Suriname	Female	19
+Multiple myeloma	C88+C90	Suriname	Male	44
+Multiple myeloma	C88+C90	Sweden	Female	10017
+Multiple myeloma	C88+C90	Sweden	Male	11371
+Multiple myeloma	C88+C90	Switzerland	Female	5859
+Multiple myeloma	C88+C90	Switzerland	Male	5967
+Multiple myeloma	C88+C90	Thailand	Female	8
+Multiple myeloma	C88+C90	Thailand	Male	7
+Multiple myeloma	C88+C90	Trinidad and Tobago	Female	154
+Multiple myeloma	C88+C90	Trinidad and Tobago	Male	139
+Multiple myeloma	C88+C90	Ukraine	Female	1625
+Multiple myeloma	C88+C90	Ukraine	Male	1331
+Multiple myeloma	C88+C90	United Kingdom	Female	49094
+Multiple myeloma	C88+C90	United Kingdom	Male	49862
+Multiple myeloma	C88+C90	United States	Female	180547
+Multiple myeloma	C88+C90	United States	Male	195032
+Multiple myeloma	C88+C90	Uruguay	Female	762
+Multiple myeloma	C88+C90	Uruguay	Male	673
+Multiple myeloma	C88+C90	Uzbekistan	Female	9
+Multiple myeloma	C88+C90	Uzbekistan	Male	25
+Multiple myeloma	C88+C90	Venezuela	Female	1696
+Multiple myeloma	C88+C90	Venezuela	Male	1802
+Non-Hodgkin lymphoma	C82-85,C96	Albania	Female	166
+Non-Hodgkin lymphoma	C82-85,C96	Albania	Male	305
+Non-Hodgkin lymphoma	C82-85,C96	Argentina	Female	8386
+Non-Hodgkin lymphoma	C82-85,C96	Argentina	Male	10195
+Non-Hodgkin lymphoma	C82-85,C96	Armenia	Female	50
+Non-Hodgkin lymphoma	C82-85,C96	Armenia	Male	125
+Non-Hodgkin lymphoma	C82-85,C96	Australia	Female	22232
+Non-Hodgkin lymphoma	C82-85,C96	Australia	Male	26249
+Non-Hodgkin lymphoma	C82-85,C96	Austria	Female	8006
+Non-Hodgkin lymphoma	C82-85,C96	Austria	Male	7808
+Non-Hodgkin lymphoma	C82-85,C96	Azerbaijan	Female	103
+Non-Hodgkin lymphoma	C82-85,C96	Azerbaijan	Male	149
+Non-Hodgkin lymphoma	C82-85,C96	Belarus	Female	598
+Non-Hodgkin lymphoma	C82-85,C96	Belarus	Male	676
+Non-Hodgkin lymphoma	C82-85,C96	Belgium	Female	9293
+Non-Hodgkin lymphoma	C82-85,C96	Belgium	Male	11013
+Non-Hodgkin lymphoma	C82-85,C96	Belize	Female	11
+Non-Hodgkin lymphoma	C82-85,C96	Belize	Male	22
+Non-Hodgkin lymphoma	C82-85,C96	Brazil	Female	20738
+Non-Hodgkin lymphoma	C82-85,C96	Brazil	Male	26317
+Non-Hodgkin lymphoma	C82-85,C96	Bulgaria	Female	3155
+Non-Hodgkin lymphoma	C82-85,C96	Bulgaria	Male	4980
+Non-Hodgkin lymphoma	C82-85,C96	Canada	Female	37313
+Non-Hodgkin lymphoma	C82-85,C96	Canada	Male	44432
+Non-Hodgkin lymphoma	C82-85,C96	Chile	Female	3757
+Non-Hodgkin lymphoma	C82-85,C96	Chile	Male	4405
+Non-Hodgkin lymphoma	C82-85,C96	China	Female	3266
+Non-Hodgkin lymphoma	C82-85,C96	China	Male	4575
+Non-Hodgkin lymphoma	C82-85,C96	Colombia	Female	4815
+Non-Hodgkin lymphoma	C82-85,C96	Colombia	Male	6143
+Non-Hodgkin lymphoma	C82-85,C96	Costa Rica	Female	688
+Non-Hodgkin lymphoma	C82-85,C96	Costa Rica	Male	915
+Non-Hodgkin lymphoma	C82-85,C96	Croatia	Female	2351
+Non-Hodgkin lymphoma	C82-85,C96	Croatia	Male	2668
+Non-Hodgkin lymphoma	C82-85,C96	Cuba	Female	1917
+Non-Hodgkin lymphoma	C82-85,C96	Cuba	Male	2674
+Non-Hodgkin lymphoma	C82-85,C96	Czech Rep.	Female	12699
+Non-Hodgkin lymphoma	C82-85,C96	Czech Rep.	Male	15699
+Non-Hodgkin lymphoma	C82-85,C96	Denmark	Female	6809
+Non-Hodgkin lymphoma	C82-85,C96	Denmark	Male	8222
+Non-Hodgkin lymphoma	C82-85,C96	Dominican Rep.	Female	228
+Non-Hodgkin lymphoma	C82-85,C96	Dominican Rep.	Male	358
+Non-Hodgkin lymphoma	C82-85,C96	Ecuador	Female	1421
+Non-Hodgkin lymphoma	C82-85,C96	Ecuador	Male	1699
+Non-Hodgkin lymphoma	C82-85,C96	Egypt	Female	529
+Non-Hodgkin lymphoma	C82-85,C96	Egypt	Male	810
+Non-Hodgkin lymphoma	C82-85,C96	El Salvador	Female	211
+Non-Hodgkin lymphoma	C82-85,C96	El Salvador	Male	214
+Non-Hodgkin lymphoma	C82-85,C96	Estonia	Female	566
+Non-Hodgkin lymphoma	C82-85,C96	Estonia	Male	553
+Non-Hodgkin lymphoma	C82-85,C96	Finland	Female	7503
+Non-Hodgkin lymphoma	C82-85,C96	Finland	Male	7430
+Non-Hodgkin lymphoma	C82-85,C96	France	Female	62437
+Non-Hodgkin lymphoma	C82-85,C96	France	Male	73578
+Non-Hodgkin lymphoma	C82-85,C96	Georgia	Female	141
+Non-Hodgkin lymphoma	C82-85,C96	Georgia	Male	176
+Non-Hodgkin lymphoma	C82-85,C96	Germany	Female	67318
+Non-Hodgkin lymphoma	C82-85,C96	Germany	Male	67947
+Non-Hodgkin lymphoma	C82-85,C96	Greece	Female	3877
+Non-Hodgkin lymphoma	C82-85,C96	Greece	Male	5468
+Non-Hodgkin lymphoma	C82-85,C96	Guatemala	Female	283
+Non-Hodgkin lymphoma	C82-85,C96	Guatemala	Male	365
+Non-Hodgkin lymphoma	C82-85,C96	Hungary	Female	9387
+Non-Hodgkin lymphoma	C82-85,C96	Hungary	Male	11055
+Non-Hodgkin lymphoma	C82-85,C96	Iceland	Female	131
+Non-Hodgkin lymphoma	C82-85,C96	Iceland	Male	223
+Non-Hodgkin lymphoma	C82-85,C96	Ireland	Female	3371
+Non-Hodgkin lymphoma	C82-85,C96	Ireland	Male	4206
+Non-Hodgkin lymphoma	C82-85,C96	Israel	Female	5091
+Non-Hodgkin lymphoma	C82-85,C96	Israel	Male	5355
+Non-Hodgkin lymphoma	C82-85,C96	Italy	Female	61773
+Non-Hodgkin lymphoma	C82-85,C96	Italy	Male	75282
+Non-Hodgkin lymphoma	C82-85,C96	Japan	Female	98670
+Non-Hodgkin lymphoma	C82-85,C96	Japan	Male	141710
+Non-Hodgkin lymphoma	C82-85,C96	Kazakhstan	Female	441
+Non-Hodgkin lymphoma	C82-85,C96	Kazakhstan	Male	558
+Non-Hodgkin lymphoma	C82-85,C96	Korea	Female	7699
+Non-Hodgkin lymphoma	C82-85,C96	Korea	Male	11944
+Non-Hodgkin lymphoma	C82-85,C96	Kuwait	Female	227
+Non-Hodgkin lymphoma	C82-85,C96	Kuwait	Male	419
+Non-Hodgkin lymphoma	C82-85,C96	Kyrgyzstan	Female	155
+Non-Hodgkin lymphoma	C82-85,C96	Kyrgyzstan	Male	244
+Non-Hodgkin lymphoma	C82-85,C96	Latvia	Female	719
+Non-Hodgkin lymphoma	C82-85,C96	Latvia	Male	771
+Non-Hodgkin lymphoma	C82-85,C96	Lithuania	Female	1017
+Non-Hodgkin lymphoma	C82-85,C96	Lithuania	Male	1057
+Non-Hodgkin lymphoma	C82-85,C96	Luxembourg	Female	329
+Non-Hodgkin lymphoma	C82-85,C96	Luxembourg	Male	356
+Non-Hodgkin lymphoma	C82-85,C96	Mexico	Female	11371
+Non-Hodgkin lymphoma	C82-85,C96	Mexico	Male	14284
+Non-Hodgkin lymphoma	C82-85,C96	Moldova	Female	658
+Non-Hodgkin lymphoma	C82-85,C96	Moldova	Male	795
+Non-Hodgkin lymphoma	C82-85,C96	Netherlands	Female	18567
+Non-Hodgkin lymphoma	C82-85,C96	Netherlands	Male	21796
+Non-Hodgkin lymphoma	C82-85,C96	New Zealand	Female	4645
+Non-Hodgkin lymphoma	C82-85,C96	New Zealand	Male	5296
+Non-Hodgkin lymphoma	C82-85,C96	Nicaragua	Female	235
+Non-Hodgkin lymphoma	C82-85,C96	Nicaragua	Male	358
+Non-Hodgkin lymphoma	C82-85,C96	Norway	Female	5734
+Non-Hodgkin lymphoma	C82-85,C96	Norway	Male	6955
+Non-Hodgkin lymphoma	C82-85,C96	Panama	Female	354
+Non-Hodgkin lymphoma	C82-85,C96	Panama	Male	478
+Non-Hodgkin lymphoma	C82-85,C96	Paraguay	Female	400
+Non-Hodgkin lymphoma	C82-85,C96	Paraguay	Male	533
+Non-Hodgkin lymphoma	C82-85,C96	Peru	Female	2955
+Non-Hodgkin lymphoma	C82-85,C96	Peru	Male	3751
+Non-Hodgkin lymphoma	C82-85,C96	Philippines	Female	3548
+Non-Hodgkin lymphoma	C82-85,C96	Philippines	Male	5344
+Non-Hodgkin lymphoma	C82-85,C96	Poland	Female	9177
+Non-Hodgkin lymphoma	C82-85,C96	Poland	Male	11532
+Non-Hodgkin lymphoma	C82-85,C96	Portugal	Female	5156
+Non-Hodgkin lymphoma	C82-85,C96	Portugal	Male	6195
+Non-Hodgkin lymphoma	C82-85,C96	Romania	Female	3306
+Non-Hodgkin lymphoma	C82-85,C96	Romania	Male	4580
+Non-Hodgkin lymphoma	C82-85,C96	Russia	Female	18450
+Non-Hodgkin lymphoma	C82-85,C96	Russia	Male	21473
+Non-Hodgkin lymphoma	C82-85,C96	Serbia	Female	1535
+Non-Hodgkin lymphoma	C82-85,C96	Serbia	Male	1884
+Non-Hodgkin lymphoma	C82-85,C96	Slovakia	Female	1680
+Non-Hodgkin lymphoma	C82-85,C96	Slovakia	Male	2020
+Non-Hodgkin lymphoma	C82-85,C96	Slovenia	Female	1215
+Non-Hodgkin lymphoma	C82-85,C96	Slovenia	Male	1253
+Non-Hodgkin lymphoma	C82-85,C96	South Africa	Female	6301
+Non-Hodgkin lymphoma	C82-85,C96	South Africa	Male	7690
+Non-Hodgkin lymphoma	C82-85,C96	Spain	Female	29148
+Non-Hodgkin lymphoma	C82-85,C96	Spain	Male	35375
+Non-Hodgkin lymphoma	C82-85,C96	Suriname	Female	50
+Non-Hodgkin lymphoma	C82-85,C96	Suriname	Male	73
+Non-Hodgkin lymphoma	C82-85,C96	Sweden	Female	13320
+Non-Hodgkin lymphoma	C82-85,C96	Sweden	Male	15857
+Non-Hodgkin lymphoma	C82-85,C96	Switzerland	Female	8830
+Non-Hodgkin lymphoma	C82-85,C96	Switzerland	Male	9977
+Non-Hodgkin lymphoma	C82-85,C96	Thailand	Female	1385
+Non-Hodgkin lymphoma	C82-85,C96	Thailand	Male	2331
+Non-Hodgkin lymphoma	C82-85,C96	Trinidad and Tobago	Female	164
+Non-Hodgkin lymphoma	C82-85,C96	Trinidad and Tobago	Male	224
+Non-Hodgkin lymphoma	C82-85,C96	Ukraine	Female	2978
+Non-Hodgkin lymphoma	C82-85,C96	Ukraine	Male	3771
+Non-Hodgkin lymphoma	C82-85,C96	United Kingdom	Female	75586
+Non-Hodgkin lymphoma	C82-85,C96	United Kingdom	Male	84898
+Non-Hodgkin lymphoma	C82-85,C96	United States	Female	320128
+Non-Hodgkin lymphoma	C82-85,C96	United States	Male	357484
+Non-Hodgkin lymphoma	C82-85,C96	Uruguay	Female	1310
+Non-Hodgkin lymphoma	C82-85,C96	Uruguay	Male	1540
+Non-Hodgkin lymphoma	C82-85,C96	Uzbekistan	Female	179
+Non-Hodgkin lymphoma	C82-85,C96	Uzbekistan	Male	298
+Non-Hodgkin lymphoma	C82-85,C96	Venezuela	Female	3852
+Non-Hodgkin lymphoma	C82-85,C96	Venezuela	Male	5217
+Oesophagus	C15	Albania	Female	211
+Oesophagus	C15	Albania	Male	459
+Oesophagus	C15	Argentina	Female	19670
+Oesophagus	C15	Argentina	Male	50665
+Oesophagus	C15	Armenia	Female	431
+Oesophagus	C15	Armenia	Male	809
+Oesophagus	C15	Australia	Female	11921
+Oesophagus	C15	Australia	Male	24386
+Oesophagus	C15	Austria	Female	3030
+Oesophagus	C15	Austria	Male	11891
+Oesophagus	C15	Azerbaijan	Female	3520
+Oesophagus	C15	Azerbaijan	Male	4804
+Oesophagus	C15	Belarus	Female	1068
+Oesophagus	C15	Belarus	Male	6298
+Oesophagus	C15	Belgium	Female	7056
+Oesophagus	C15	Belgium	Male	19287
+Oesophagus	C15	Belize	Female	16
+Oesophagus	C15	Belize	Male	60
+Oesophagus	C15	Brazil	Female	35607
+Oesophagus	C15	Brazil	Male	119632
+Oesophagus	C15	Bulgaria	Female	2079
+Oesophagus	C15	Bulgaria	Male	5778
+Oesophagus	C15	Canada	Female	13705
+Oesophagus	C15	Canada	Male	37264
+Oesophagus	C15	Chile	Female	11575
+Oesophagus	C15	Chile	Male	18918
+Oesophagus	C15	China	Female	70180
+Oesophagus	C15	China	Male	144649
+Oesophagus	C15	Colombia	Female	8102
+Oesophagus	C15	Colombia	Male	14145
+Oesophagus	C15	Costa Rica	Female	538
+Oesophagus	C15	Costa Rica	Male	1363
+Oesophagus	C15	Croatia	Female	906
+Oesophagus	C15	Croatia	Male	4463
+Oesophagus	C15	Cuba	Female	3845
+Oesophagus	C15	Cuba	Male	11962
+Oesophagus	C15	Czech Rep.	Female	4202
+Oesophagus	C15	Czech Rep.	Male	18465
+Oesophagus	C15	Denmark	Female	4408
+Oesophagus	C15	Denmark	Male	10073
+Oesophagus	C15	Dominican Rep.	Female	476
+Oesophagus	C15	Dominican Rep.	Male	925
+Oesophagus	C15	Ecuador	Female	823
+Oesophagus	C15	Ecuador	Male	2479
+Oesophagus	C15	Egypt	Female	1013
+Oesophagus	C15	Egypt	Male	1986
+Oesophagus	C15	El Salvador	Female	419
+Oesophagus	C15	El Salvador	Male	712
+Oesophagus	C15	Estonia	Female	253
+Oesophagus	C15	Estonia	Male	1214
+Oesophagus	C15	Finland	Female	6409
+Oesophagus	C15	Finland	Male	6708
+Oesophagus	C15	France	Female	37131
+Oesophagus	C15	France	Male	237002
+Oesophagus	C15	Georgia	Female	424
+Oesophagus	C15	Georgia	Male	1082
+Oesophagus	C15	Germany	Female	31865
+Oesophagus	C15	Germany	Male	103433
+Oesophagus	C15	Greece	Female	2354
+Oesophagus	C15	Greece	Male	6361
+Oesophagus	C15	Guatemala	Female	776
+Oesophagus	C15	Guatemala	Male	1304
+Oesophagus	C15	Hungary	Female	3732
+Oesophagus	C15	Hungary	Male	19666
+Oesophagus	C15	Iceland	Female	243
+Oesophagus	C15	Iceland	Male	410
+Oesophagus	C15	Ireland	Female	5866
+Oesophagus	C15	Ireland	Male	8470
+Oesophagus	C15	Israel	Female	1201
+Oesophagus	C15	Israel	Male	1888
+Oesophagus	C15	Italy	Female	23567
+Oesophagus	C15	Italy	Male	88297
+Oesophagus	C15	Japan	Female	76310
+Oesophagus	C15	Japan	Male	317523
+Oesophagus	C15	Kazakhstan	Female	23132
+Oesophagus	C15	Kazakhstan	Male	26964
+Oesophagus	C15	Korea	Female	3603
+Oesophagus	C15	Korea	Male	30071
+Oesophagus	C15	Kuwait	Female	119
+Oesophagus	C15	Kuwait	Male	176
+Oesophagus	C15	Kyrgyzstan	Female	1595
+Oesophagus	C15	Kyrgyzstan	Male	2869
+Oesophagus	C15	Latvia	Female	507
+Oesophagus	C15	Latvia	Male	2358
+Oesophagus	C15	Lithuania	Female	533
+Oesophagus	C15	Lithuania	Male	3229
+Oesophagus	C15	Luxembourg	Female	221
+Oesophagus	C15	Luxembourg	Male	747
+Oesophagus	C15	Mexico	Female	8636
+Oesophagus	C15	Mexico	Male	19247
+Oesophagus	C15	Moldova	Female	396
+Oesophagus	C15	Moldova	Male	1782
+Oesophagus	C15	Netherlands	Female	12873
+Oesophagus	C15	Netherlands	Male	28677
+Oesophagus	C15	New Zealand	Female	3025
+Oesophagus	C15	New Zealand	Male	5389
+Oesophagus	C15	Nicaragua	Female	88
+Oesophagus	C15	Nicaragua	Male	255
+Oesophagus	C15	Norway	Female	1998
+Oesophagus	C15	Norway	Male	5414
+Oesophagus	C15	Panama	Female	262
+Oesophagus	C15	Panama	Male	656
+Oesophagus	C15	Paraguay	Female	267
+Oesophagus	C15	Paraguay	Male	972
+Oesophagus	C15	Peru	Female	1103
+Oesophagus	C15	Peru	Male	3140
+Oesophagus	C15	Philippines	Female	1766
+Oesophagus	C15	Philippines	Male	3522
+Oesophagus	C15	Poland	Female	12492
+Oesophagus	C15	Poland	Male	43992
+Oesophagus	C15	Portugal	Female	6034
+Oesophagus	C15	Portugal	Male	17009
+Oesophagus	C15	Romania	Female	3333
+Oesophagus	C15	Romania	Male	13036
+Oesophagus	C15	Russia	Female	67021
+Oesophagus	C15	Russia	Male	170517
+Oesophagus	C15	Serbia	Female	653
+Oesophagus	C15	Serbia	Male	2565
+Oesophagus	C15	Slovakia	Female	554
+Oesophagus	C15	Slovakia	Male	4241
+Oesophagus	C15	Slovenia	Female	391
+Oesophagus	C15	Slovenia	Male	1975
+Oesophagus	C15	South Africa	Female	19831
+Oesophagus	C15	South Africa	Male	36521
+Oesophagus	C15	Spain	Female	14337
+Oesophagus	C15	Spain	Male	65225
+Oesophagus	C15	Suriname	Female	28
+Oesophagus	C15	Suriname	Male	56
+Oesophagus	C15	Sweden	Female	5526
+Oesophagus	C15	Sweden	Male	12445
+Oesophagus	C15	Switzerland	Female	4426
+Oesophagus	C15	Switzerland	Male	18862
+Oesophagus	C15	Tajikistan	Female	2030
+Oesophagus	C15	Tajikistan	Male	3054
+Oesophagus	C15	Thailand	Female	2189
+Oesophagus	C15	Thailand	Male	8189
+Oesophagus	C15	Trinidad and Tobago	Female	224
+Oesophagus	C15	Trinidad and Tobago	Male	605
+Oesophagus	C15	Turkmenistan	Female	4091
+Oesophagus	C15	Turkmenistan	Male	4554
+Oesophagus	C15	Ukraine	Female	7727
+Oesophagus	C15	Ukraine	Male	41925
+Oesophagus	C15	United Kingdom	Female	116036
+Oesophagus	C15	United Kingdom	Male	175614
+Oesophagus	C15	United States	Female	121559
+Oesophagus	C15	United States	Male	384627
+Oesophagus	C15	Uruguay	Female	4480
+Oesophagus	C15	Uruguay	Male	10919
+Oesophagus	C15	Uzbekistan	Female	12223
+Oesophagus	C15	Uzbekistan	Male	16467
+Oesophagus	C15	Venezuela	Female	3055
+Oesophagus	C15	Venezuela	Male	6109
+Ovary	C56	Argentina	Female	14632
+Ovary	C56	Armenia	Female	0
+Ovary	C56	Australia	Female	21598
+Ovary	C56	Austria	Female	17800
+Ovary	C56	Azerbaijan	Female	53
+Ovary	C56	Belgium	Female	14634
+Ovary	C56	Belize	Female	15
+Ovary	C56	Brazil	Female	34116
+Ovary	C56	Bulgaria	Female	2477
+Ovary	C56	Canada	Female	42215
+Ovary	C56	Chile	Female	4696
+Ovary	C56	China	Female	1429
+Ovary	C56	Colombia	Female	8071
+Ovary	C56	Costa Rica	Female	788
+Ovary	C56	Croatia	Female	4383
+Ovary	C56	Cuba	Female	2498
+Ovary	C56	Czech Rep.	Female	19709
+Ovary	C56	Denmark	Female	7177
+Ovary	C56	Dominican Rep.	Female	303
+Ovary	C56	Ecuador	Female	1571
+Ovary	C56	Egypt	Female	1834
+Ovary	C56	El Salvador	Female	613
+Ovary	C56	Estonia	Female	1516
+Ovary	C56	Finland	Female	4524
+Ovary	C56	France	Female	98722
+Ovary	C56	Georgia	Female	649
+Ovary	C56	Germany	Female	141548
+Ovary	C56	Greece	Female	11040
+Ovary	C56	Guatemala	Female	377
+Ovary	C56	Hungary	Female	20371
+Ovary	C56	Iceland	Female	416
+Ovary	C56	Ireland	Female	6737
+Ovary	C56	Israel	Female	5493
+Ovary	C56	Italy	Female	77622
+Ovary	C56	Japan	Female	114649
+Ovary	C56	Korea	Female	10323
+Ovary	C56	Kuwait	Female	212
+Ovary	C56	Kyrgyzstan	Female	800
+Ovary	C56	Latvia	Female	2860
+Ovary	C56	Lithuania	Female	3520
+Ovary	C56	Luxembourg	Female	335
+Ovary	C56	Mexico	Female	18807
+Ovary	C56	Moldova	Female	1547
+Ovary	C56	Netherlands	Female	30655
+Ovary	C56	New Zealand	Female	5413
+Ovary	C56	Nicaragua	Female	426
+Ovary	C56	Norway	Female	7823
+Ovary	C56	Panama	Female	507
+Ovary	C56	Paraguay	Female	641
+Ovary	C56	Peru	Female	3000
+Ovary	C56	Philippines	Female	5329
+Ovary	C56	Poland	Female	27655
+Ovary	C56	Portugal	Female	7021
+Ovary	C56	Romania	Female	11226
+Ovary	C56	Serbia	Female	4656
+Ovary	C56	Slovakia	Female	4374
+Ovary	C56	Slovenia	Female	3093
+Ovary	C56	South Africa	Female	7474
+Ovary	C56	Spain	Female	42053
+Ovary	C56	Suriname	Female	110
+Ovary	C56	Sweden	Female	14907
+Ovary	C56	Thailand	Female	3710
+Ovary	C56	Trinidad and Tobago	Female	453
+Ovary	C56	United Kingdom	Female	138484
+Ovary	C56	United States	Female	417362
+Ovary	C56	Uruguay	Female	1730
+Ovary	C56	Uzbekistan	Female	247
+Ovary	C56	Venezuela	Female	4671
+Pancreas	C25	Albania	Female	629
+Pancreas	C25	Albania	Male	1092
+Pancreas	C25	Argentina	Female	24032
+Pancreas	C25	Argentina	Male	23019
+Pancreas	C25	Armenia	Female	660
+Pancreas	C25	Armenia	Male	673
+Pancreas	C25	Australia	Female	31289
+Pancreas	C25	Australia	Male	36188
+Pancreas	C25	Austria	Female	29430
+Pancreas	C25	Austria	Male	26105
+Pancreas	C25	Azerbaijan	Female	403
+Pancreas	C25	Azerbaijan	Male	514
+Pancreas	C25	Belarus	Female	1711
+Pancreas	C25	Belarus	Male	2131
+Pancreas	C25	Belgium	Female	26138
+Pancreas	C25	Belgium	Male	28049
+Pancreas	C25	Belize	Female	61
+Pancreas	C25	Belize	Male	43
+Pancreas	C25	Brazil	Female	39407
+Pancreas	C25	Brazil	Male	39878
+Pancreas	C25	Bulgaria	Female	11343
+Pancreas	C25	Bulgaria	Male	16942
+Pancreas	C25	Canada	Female	60492
+Pancreas	C25	Canada	Male	68400
+Pancreas	C25	Chile	Female	7691
+Pancreas	C25	Chile	Male	6461
+Pancreas	C25	China	Female	4631
+Pancreas	C25	China	Male	5691
+Pancreas	C25	Colombia	Female	7837
+Pancreas	C25	Colombia	Male	6593
+Pancreas	C25	Costa Rica	Female	1098
+Pancreas	C25	Costa Rica	Male	1094
+Pancreas	C25	Croatia	Female	6124
+Pancreas	C25	Croatia	Male	6879
+Pancreas	C25	Cuba	Female	3889
+Pancreas	C25	Cuba	Male	4084
+Pancreas	C25	Czech Rep.	Female	40013
+Pancreas	C25	Czech Rep.	Male	45635
+Pancreas	C25	Denmark	Female	18169
+Pancreas	C25	Denmark	Male	18585
+Pancreas	C25	Dominican Rep.	Female	628
+Pancreas	C25	Dominican Rep.	Male	673
+Pancreas	C25	Ecuador	Female	1987
+Pancreas	C25	Ecuador	Male	1747
+Pancreas	C25	Egypt	Female	2535
+Pancreas	C25	Egypt	Male	4544
+Pancreas	C25	El Salvador	Female	738
+Pancreas	C25	El Salvador	Male	568
+Pancreas	C25	Estonia	Female	1572
+Pancreas	C25	Estonia	Male	1649
+Pancreas	C25	Finland	Female	16781
+Pancreas	C25	Finland	Male	15279
+Pancreas	C25	France	Female	132720
+Pancreas	C25	France	Male	152630
+Pancreas	C25	Georgia	Female	540
+Pancreas	C25	Georgia	Male	669
+Pancreas	C25	Germany	Female	190345
+Pancreas	C25	Germany	Male	170435
+Pancreas	C25	Greece	Female	15883
+Pancreas	C25	Greece	Male	20775
+Pancreas	C25	Guatemala	Female	976
+Pancreas	C25	Guatemala	Male	777
+Pancreas	C25	Hungary	Female	28292
+Pancreas	C25	Hungary	Male	29559
+Pancreas	C25	Iceland	Female	518
+Pancreas	C25	Iceland	Male	540
+Pancreas	C25	Ireland	Female	8631
+Pancreas	C25	Ireland	Male	9743
+Pancreas	C25	Israel	Female	7652
+Pancreas	C25	Israel	Male	8548
+Pancreas	C25	Italy	Female	129728
+Pancreas	C25	Italy	Male	141167
+Pancreas	C25	Japan	Female	273010
+Pancreas	C25	Japan	Male	333142
+Pancreas	C25	Kazakhstan	Female	2771
+Pancreas	C25	Kazakhstan	Male	3150
+Pancreas	C25	Korea	Female	25443
+Pancreas	C25	Korea	Male	34015
+Pancreas	C25	Kuwait	Female	245
+Pancreas	C25	Kuwait	Male	374
+Pancreas	C25	Kyrgyzstan	Female	609
+Pancreas	C25	Kyrgyzstan	Male	646
+Pancreas	C25	Latvia	Female	2540
+Pancreas	C25	Latvia	Male	2581
+Pancreas	C25	Lithuania	Female	3457
+Pancreas	C25	Lithuania	Male	3956
+Pancreas	C25	Luxembourg	Female	775
+Pancreas	C25	Luxembourg	Male	784
+Pancreas	C25	Mexico	Female	22807
+Pancreas	C25	Mexico	Male	20357
+Pancreas	C25	Moldova	Female	2263
+Pancreas	C25	Moldova	Male	3102
+Pancreas	C25	Netherlands	Female	39083
+Pancreas	C25	Netherlands	Male	41315
+Pancreas	C25	New Zealand	Female	6543
+Pancreas	C25	New Zealand	Male	7549
+Pancreas	C25	Nicaragua	Female	503
+Pancreas	C25	Nicaragua	Male	415
+Pancreas	C25	Norway	Female	12744
+Pancreas	C25	Norway	Male	13664
+Pancreas	C25	Panama	Female	529
+Pancreas	C25	Panama	Male	543
+Pancreas	C25	Paraguay	Female	749
+Pancreas	C25	Paraguay	Male	746
+Pancreas	C25	Peru	Female	3778
+Pancreas	C25	Peru	Male	3302
+Pancreas	C25	Philippines	Female	4468
+Pancreas	C25	Philippines	Male	5054
+Pancreas	C25	Poland	Female	54083
+Pancreas	C25	Poland	Male	57404
+Pancreas	C25	Portugal	Female	10295
+Pancreas	C25	Portugal	Male	12229
+Pancreas	C25	Romania	Female	22713
+Pancreas	C25	Romania	Male	33157
+Pancreas	C25	Russia	Female	81762
+Pancreas	C25	Russia	Male	85848
+Pancreas	C25	Serbia	Female	5307
+Pancreas	C25	Serbia	Male	6295
+Pancreas	C25	Slovakia	Female	5076
+Pancreas	C25	Slovakia	Male	6032
+Pancreas	C25	Slovenia	Female	3084
+Pancreas	C25	Slovenia	Male	2871
+Pancreas	C25	South Africa	Female	8731
+Pancreas	C25	South Africa	Male	9611
+Pancreas	C25	Spain	Female	61453
+Pancreas	C25	Spain	Male	70290
+Pancreas	C25	Suriname	Female	79
+Pancreas	C25	Suriname	Male	100
+Pancreas	C25	Sweden	Female	34058
+Pancreas	C25	Sweden	Male	34022
+Pancreas	C25	Switzerland	Female	18866
+Pancreas	C25	Switzerland	Male	18875
+Pancreas	C25	Thailand	Female	2400
+Pancreas	C25	Thailand	Male	3475
+Pancreas	C25	Trinidad and Tobago	Female	297
+Pancreas	C25	Trinidad and Tobago	Male	342
+Pancreas	C25	Ukraine	Female	11247
+Pancreas	C25	Ukraine	Male	14272
+Pancreas	C25	United Kingdom	Female	159894
+Pancreas	C25	United Kingdom	Male	159741
+Pancreas	C25	United States	Female	606341
+Pancreas	C25	United States	Male	644385
+Pancreas	C25	Uruguay	Female	3145
+Pancreas	C25	Uruguay	Male	3005
+Pancreas	C25	Uzbekistan	Female	201
+Pancreas	C25	Uzbekistan	Male	205
+Pancreas	C25	Venezuela	Female	5748
+Pancreas	C25	Venezuela	Male	5633
+Prostate	C61	Albania	Male	2425
+Prostate	C61	Argentina	Male	97656
+Prostate	C61	Armenia	Male	1977
+Prostate	C61	Australia	Male	95268
+Prostate	C61	Austria	Male	51969
+Prostate	C61	Azerbaijan	Male	2652
+Prostate	C61	Belarus	Male	11331
+Prostate	C61	Belgium	Male	76977
+Prostate	C61	Belize	Male	373
+Prostate	C61	Brazil	Male	198795
+Prostate	C61	Bulgaria	Male	25446
+Prostate	C61	Canada	Male	144431
+Prostate	C61	Chile	Male	37530
+Prostate	C61	China	Male	5071
+Prostate	C61	Colombia	Male	47892
+Prostate	C61	Costa Rica	Male	6991
+Prostate	C61	Croatia	Male	12664
+Prostate	C61	Cuba	Male	57925
+Prostate	C61	Czech Rep.	Male	67645
+Prostate	C61	Denmark	Male	44794
+Prostate	C61	Dominican Rep.	Male	11698
+Prostate	C61	Ecuador	Male	14235
+Prostate	C61	Egypt	Male	5928
+Prostate	C61	El Salvador	Male	3239
+Prostate	C61	Estonia	Male	4213
+Prostate	C61	Finland	Male	27884
+Prostate	C61	France	Male	409931
+Prostate	C61	Georgia	Male	2397
+Prostate	C61	Germany	Male	387773
+Prostate	C61	Greece	Male	40670
+Prostate	C61	Guatemala	Male	6525
+Prostate	C61	Hungary	Male	60378
+Prostate	C61	Iceland	Male	1540
+Prostate	C61	Ireland	Male	21822
+Prostate	C61	Israel	Male	11341
+Prostate	C61	Italy	Male	271963
+Prostate	C61	Japan	Male	198199
+Prostate	C61	Kazakhstan	Male	8057
+Prostate	C61	Korea	Male	13082
+Prostate	C61	Kuwait	Male	400
+Prostate	C61	Kyrgyzstan	Male	1307
+Prostate	C61	Latvia	Male	7055
+Prostate	C61	Lithuania	Male	10223
+Prostate	C61	Luxembourg	Male	2077
+Prostate	C61	Mexico	Male	111840
+Prostate	C61	Moldova	Male	2925
+Prostate	C61	Netherlands	Male	100888
+Prostate	C61	New Zealand	Male	21204
+Prostate	C61	Nicaragua	Male	2439
+Prostate	C61	Norway	Male	45090
+Prostate	C61	Panama	Male	5242
+Prostate	C61	Paraguay	Male	3564
+Prostate	C61	Peru	Male	21548
+Prostate	C61	Philippines	Male	13133
+Prostate	C61	Poland	Male	99332
+Prostate	C61	Portugal	Male	50306
+Prostate	C61	Romania	Male	51348
+Prostate	C61	Russia	Male	178917
+Prostate	C61	Serbia	Male	10257
+Prostate	C61	Slovakia	Male	9049
+Prostate	C61	Slovenia	Male	6274
+Prostate	C61	South Africa	Male	32285
+Prostate	C61	Spain	Male	200546
+Prostate	C61	Suriname	Male	654
+Prostate	C61	Sweden	Male	102008
+Prostate	C61	Switzerland	Male	58714
+Prostate	C61	Tajikistan	Male	621
+Prostate	C61	Thailand	Male	3318
+Prostate	C61	Trinidad and Tobago	Male	6010
+Prostate	C61	Turkmenistan	Male	210
+Prostate	C61	Ukraine	Male	65426
+Prostate	C61	United Kingdom	Male	406447
+Prostate	C61	United States	Male	1402614
+Prostate	C61	Uruguay	Male	19360
+Prostate	C61	Uzbekistan	Male	2119
+Prostate	C61	Venezuela	Male	34574
+Stomach	C16	Albania	Female	2189
+Stomach	C16	Albania	Male	4256
+Stomach	C16	Argentina	Female	42933
+Stomach	C16	Argentina	Male	77881
+Stomach	C16	Armenia	Female	4147
+Stomach	C16	Armenia	Male	6797
+Stomach	C16	Australia	Female	33901
+Stomach	C16	Australia	Male	53324
+Stomach	C16	Austria	Female	65349
+Stomach	C16	Austria	Male	73837
+Stomach	C16	Azerbaijan	Female	8826
+Stomach	C16	Azerbaijan	Male	14505
+Stomach	C16	Belarus	Female	30414
+Stomach	C16	Belarus	Male	42906
+Stomach	C16	Belgium	Female	52265
+Stomach	C16	Belgium	Male	68507
+Stomach	C16	Belize	Female	131
+Stomach	C16	Belize	Male	216
+Stomach	C16	Brazil	Female	114295
+Stomach	C16	Brazil	Male	222784
+Stomach	C16	Bulgaria	Female	42806
+Stomach	C16	Bulgaria	Male	64399
+Stomach	C16	Canada	Female	52248
+Stomach	C16	Canada	Male	91487
+Stomach	C16	Chile	Female	57446
+Stomach	C16	Chile	Male	95844
+Stomach	C16	China	Female	121206
+Stomach	C16	China	Male	226071
+Stomach	C16	Colombia	Female	63829
+Stomach	C16	Colombia	Male	86790
+Stomach	C16	Costa Rica	Female	8414
+Stomach	C16	Costa Rica	Male	15281
+Stomach	C16	Croatia	Female	10320
+Stomach	C16	Croatia	Male	16412
+Stomach	C16	Cuba	Female	10595
+Stomach	C16	Cuba	Male	19971
+Stomach	C16	Czech Rep.	Female	98719
+Stomach	C16	Czech Rep.	Male	136745
+Stomach	C16	Denmark	Female	21387
+Stomach	C16	Denmark	Male	30055
+Stomach	C16	Dominican Rep.	Female	2277
+Stomach	C16	Dominican Rep.	Male	3414
+Stomach	C16	Ecuador	Female	21127
+Stomach	C16	Ecuador	Male	27304
+Stomach	C16	Egypt	Female	5685
+Stomach	C16	Egypt	Male	7093
+Stomach	C16	El Salvador	Female	5847
+Stomach	C16	El Salvador	Male	6029
+Stomach	C16	Estonia	Female	5150
+Stomach	C16	Estonia	Male	6110
+Stomach	C16	Finland	Female	29381
+Stomach	C16	Finland	Male	34660
+Stomach	C16	France	Female	230639
+Stomach	C16	France	Male	306909
+Stomach	C16	Georgia	Female	5497
+Stomach	C16	Georgia	Male	7621
+Stomach	C16	Germany	Female	304118
+Stomach	C16	Germany	Male	334978
+Stomach	C16	Greece	Female	27370
+Stomach	C16	Greece	Male	40753
+Stomach	C16	Guatemala	Female	16899
+Stomach	C16	Guatemala	Male	15514
+Stomach	C16	Hungary	Female	78402
+Stomach	C16	Hungary	Male	113029
+Stomach	C16	Iceland	Female	1029
+Stomach	C16	Iceland	Male	1964
+Stomach	C16	Ireland	Female	15811
+Stomach	C16	Ireland	Male	22027
+Stomach	C16	Israel	Female	6050
+Stomach	C16	Israel	Male	9106
+Stomach	C16	Italy	Female	352765
+Stomach	C16	Italy	Male	500861
+Stomach	C16	Japan	Female	1070333
+Stomach	C16	Japan	Male	1786729
+Stomach	C16	Kazakhstan	Female	35035
+Stomach	C16	Kazakhstan	Male	50513
+Stomach	C16	Korea	Female	104958
+Stomach	C16	Korea	Male	187877
+Stomach	C16	Kuwait	Female	267
+Stomach	C16	Kuwait	Male	412
+Stomach	C16	Kyrgyzstan	Female	6121
+Stomach	C16	Kyrgyzstan	Male	11049
+Stomach	C16	Latvia	Female	9608
+Stomach	C16	Latvia	Male	11979
+Stomach	C16	Lithuania	Female	10241
+Stomach	C16	Lithuania	Male	14775
+Stomach	C16	Luxembourg	Female	1120
+Stomach	C16	Luxembourg	Male	1551
+Stomach	C16	Mexico	Female	93330
+Stomach	C16	Mexico	Male	102478
+Stomach	C16	Moldova	Female	6261
+Stomach	C16	Moldova	Male	10316
+Stomach	C16	Netherlands	Female	62972
+Stomach	C16	Netherlands	Male	97696
+Stomach	C16	New Zealand	Female	8119
+Stomach	C16	New Zealand	Male	13058
+Stomach	C16	Nicaragua	Female	2161
+Stomach	C16	Nicaragua	Male	2689
+Stomach	C16	Norway	Female	21655
+Stomach	C16	Norway	Male	31361
+Stomach	C16	Panama	Female	2509
+Stomach	C16	Panama	Male	4398
+Stomach	C16	Paraguay	Female	1352
+Stomach	C16	Paraguay	Male	2261
+Stomach	C16	Peru	Female	30774
+Stomach	C16	Peru	Male	34752
+Stomach	C16	Philippines	Female	9914
+Stomach	C16	Philippines	Male	13668
+Stomach	C16	Poland	Female	146406
+Stomach	C16	Poland	Male	248335
+Stomach	C16	Portugal	Female	59105
+Stomach	C16	Portugal	Male	82482
+Stomach	C16	Romania	Female	63734
+Stomach	C16	Romania	Male	118705
+Stomach	C16	Russia	Female	658590
+Stomach	C16	Russia	Male	828043
+Stomach	C16	Serbia	Female	5593
+Stomach	C16	Serbia	Male	9714
+Stomach	C16	Slovakia	Female	5754
+Stomach	C16	Slovakia	Male	9252
+Stomach	C16	Slovenia	Female	4377
+Stomach	C16	Slovenia	Male	6456
+Stomach	C16	South Africa	Female	8994
+Stomach	C16	South Africa	Male	14015
+Stomach	C16	Spain	Female	183279
+Stomach	C16	Spain	Male	255671
+Stomach	C16	Suriname	Female	255
+Stomach	C16	Suriname	Male	398
+Stomach	C16	Sweden	Female	40148
+Stomach	C16	Sweden	Male	59164
+Stomach	C16	Switzerland	Female	32398
+Stomach	C16	Switzerland	Male	41705
+Stomach	C16	Tajikistan	Female	4241
+Stomach	C16	Tajikistan	Male	7083
+Stomach	C16	Thailand	Female	6767
+Stomach	C16	Thailand	Male	10310
+Stomach	C16	Trinidad and Tobago	Female	1931
+Stomach	C16	Trinidad and Tobago	Male	2686
+Stomach	C16	Turkmenistan	Female	2327
+Stomach	C16	Turkmenistan	Male	3325
+Stomach	C16	Ukraine	Female	148856
+Stomach	C16	Ukraine	Male	219827
+Stomach	C16	United Kingdom	Female	298018
+Stomach	C16	United Kingdom	Male	411480
+Stomach	C16	United States	Female	379305
+Stomach	C16	United States	Male	586373
+Stomach	C16	Uruguay	Female	11396
+Stomach	C16	Uruguay	Male	19298
+Stomach	C16	Uzbekistan	Female	14793
+Stomach	C16	Uzbekistan	Male	22648
+Stomach	C16	Venezuela	Female	28664
+Stomach	C16	Venezuela	Male	41921
+Testis	C62	Albania	Male	118
+Testis	C62	Argentina	Male	2133
+Testis	C62	Armenia	Male	0
+Testis	C62	Australia	Male	2029
+Testis	C62	Austria	Male	1641
+Testis	C62	Azerbaijan	Male	4
+Testis	C62	Belgium	Male	1126
+Testis	C62	Belize	Male	1
+Testis	C62	Brazil	Male	3338
+Testis	C62	Bulgaria	Male	1986
+Testis	C62	Canada	Male	2972
+Testis	C62	Chile	Male	1786
+Testis	C62	China	Male	216
+Testis	C62	Colombia	Male	1027
+Testis	C62	Costa Rica	Male	135
+Testis	C62	Croatia	Male	343
+Testis	C62	Cuba	Male	178
+Testis	C62	Czech Rep.	Male	3805
+Testis	C62	Denmark	Male	1850
+Testis	C62	Dominican Rep.	Male	26
+Testis	C62	Ecuador	Male	319
+Testis	C62	Egypt	Male	221
+Testis	C62	El Salvador	Male	49
+Testis	C62	Estonia	Male	74
+Testis	C62	Finland	Male	513
+Testis	C62	France	Male	8878
+Testis	C62	Georgia	Male	190
+Testis	C62	Germany	Male	9599
+Testis	C62	Greece	Male	925
+Testis	C62	Guatemala	Male	213
+Testis	C62	Hungary	Male	2409
+Testis	C62	Iceland	Male	13
+Testis	C62	Ireland	Male	524
+Testis	C62	Israel	Male	176
+Testis	C62	Italy	Male	8626
+Testis	C62	Japan	Male	7251
+Testis	C62	Kazakhstan	Male	704
+Testis	C62	Korea	Male	332
+Testis	C62	Kuwait	Male	40
+Testis	C62	Kyrgyzstan	Male	83
+Testis	C62	Latvia	Male	145
+Testis	C62	Lithuania	Male	192
+Testis	C62	Luxembourg	Male	29
+Testis	C62	Mexico	Male	4941
+Testis	C62	Moldova	Male	203
+Testis	C62	Netherlands	Male	2829
+Testis	C62	New Zealand	Male	691
+Testis	C62	Nicaragua	Male	71
+Testis	C62	Norway	Male	999
+Testis	C62	Panama	Male	65
+Testis	C62	Paraguay	Male	141
+Testis	C62	Peru	Male	572
+Testis	C62	Philippines	Male	635
+Testis	C62	Poland	Male	4802
+Testis	C62	Portugal	Male	487
+Testis	C62	Romania	Male	2670
+Testis	C62	Serbia	Male	375
+Testis	C62	Slovakia	Male	406
+Testis	C62	Slovenia	Male	144
+Testis	C62	South Africa	Male	691
+Testis	C62	Spain	Male	2372
+Testis	C62	Suriname	Male	7
+Testis	C62	Sweden	Male	1312
+Testis	C62	Switzerland	Male	1390
+Testis	C62	Thailand	Male	184
+Testis	C62	Trinidad and Tobago	Male	15
+Testis	C62	Turkmenistan	Male	33
+Testis	C62	United Kingdom	Male	8555
+Testis	C62	United States	Male	17638
+Testis	C62	Uruguay	Male	213
+Testis	C62	Uzbekistan	Male	65
+Testis	C62	Venezuela	Male	744
+Thyroid	C73	Albania	Female	89
+Thyroid	C73	Albania	Male	61
+Thyroid	C73	Argentina	Female	1589
+Thyroid	C73	Argentina	Male	812
+Thyroid	C73	Armenia	Female	0
+Thyroid	C73	Armenia	Male	0
+Thyroid	C73	Australia	Female	2488
+Thyroid	C73	Australia	Male	1428
+Thyroid	C73	Austria	Female	4931
+Thyroid	C73	Austria	Male	2442
+Thyroid	C73	Azerbaijan	Female	12
+Thyroid	C73	Azerbaijan	Male	3
+Thyroid	C73	Belgium	Female	2717
+Thyroid	C73	Belgium	Male	1305
+Thyroid	C73	Belize	Female	2
+Thyroid	C73	Belize	Male	1
+Thyroid	C73	Brazil	Female	4971
+Thyroid	C73	Brazil	Male	2326
+Thyroid	C73	Bulgaria	Female	1567
+Thyroid	C73	Bulgaria	Male	901
+Thyroid	C73	Canada	Female	4314
+Thyroid	C73	Canada	Male	2522
+Thyroid	C73	Chile	Female	1154
+Thyroid	C73	Chile	Male	509
+Thyroid	C73	China	Female	873
+Thyroid	C73	China	Male	437
+Thyroid	C73	Colombia	Female	1910
+Thyroid	C73	Colombia	Male	775
+Thyroid	C73	Costa Rica	Female	154
+Thyroid	C73	Costa Rica	Male	65
+Thyroid	C73	Croatia	Female	616
+Thyroid	C73	Croatia	Male	319
+Thyroid	C73	Cuba	Female	399
+Thyroid	C73	Cuba	Male	212
+Thyroid	C73	Czech Rep.	Female	5631
+Thyroid	C73	Czech Rep.	Male	2452
+Thyroid	C73	Denmark	Female	1710
+Thyroid	C73	Denmark	Male	879
+Thyroid	C73	Dominican Rep.	Female	71
+Thyroid	C73	Dominican Rep.	Male	66
+Thyroid	C73	Ecuador	Female	710
+Thyroid	C73	Ecuador	Male	296
+Thyroid	C73	Egypt	Female	909
+Thyroid	C73	Egypt	Male	600
+Thyroid	C73	El Salvador	Female	150
+Thyroid	C73	El Salvador	Male	68
+Thyroid	C73	Estonia	Female	180
+Thyroid	C73	Estonia	Male	79
+Thyroid	C73	Finland	Female	1894
+Thyroid	C73	Finland	Male	763
+Thyroid	C73	France	Female	16332
+Thyroid	C73	France	Male	7640
+Thyroid	C73	Georgia	Female	84
+Thyroid	C73	Georgia	Male	43
+Thyroid	C73	Germany	Female	17596
+Thyroid	C73	Germany	Male	8690
+Thyroid	C73	Greece	Female	1438
+Thyroid	C73	Greece	Male	820
+Thyroid	C73	Guatemala	Female	195
+Thyroid	C73	Guatemala	Male	70
+Thyroid	C73	Hungary	Female	3221
+Thyroid	C73	Hungary	Male	1642
+Thyroid	C73	Iceland	Female	81
+Thyroid	C73	Iceland	Male	58
+Thyroid	C73	Ireland	Female	977
+Thyroid	C73	Ireland	Male	438
+Thyroid	C73	Israel	Female	960
+Thyroid	C73	Israel	Male	513
+Thyroid	C73	Italy	Female	18057
+Thyroid	C73	Italy	Male	9524
+Thyroid	C73	Japan	Female	31461
+Thyroid	C73	Japan	Male	14101
+Thyroid	C73	Korea	Female	3292
+Thyroid	C73	Korea	Male	1364
+Thyroid	C73	Kuwait	Female	88
+Thyroid	C73	Kuwait	Male	35
+Thyroid	C73	Kyrgyzstan	Female	123
+Thyroid	C73	Kyrgyzstan	Male	27
+Thyroid	C73	Latvia	Female	321
+Thyroid	C73	Latvia	Male	120
+Thyroid	C73	Lithuania	Female	405
+Thyroid	C73	Lithuania	Male	190
+Thyroid	C73	Luxembourg	Female	86
+Thyroid	C73	Luxembourg	Male	39
+Thyroid	C73	Mexico	Female	4603
+Thyroid	C73	Mexico	Male	1996
+Thyroid	C73	Moldova	Female	184
+Thyroid	C73	Moldova	Male	100
+Thyroid	C73	Netherlands	Female	3601
+Thyroid	C73	Netherlands	Male	1771
+Thyroid	C73	New Zealand	Female	707
+Thyroid	C73	New Zealand	Male	358
+Thyroid	C73	Nicaragua	Female	125
+Thyroid	C73	Nicaragua	Male	49
+Thyroid	C73	Norway	Female	1498
+Thyroid	C73	Norway	Male	751
+Thyroid	C73	Panama	Female	97
+Thyroid	C73	Panama	Male	59
+Thyroid	C73	Paraguay	Female	182
+Thyroid	C73	Paraguay	Male	113
+Thyroid	C73	Peru	Female	979
+Thyroid	C73	Peru	Male	389
+Thyroid	C73	Philippines	Female	3741
+Thyroid	C73	Philippines	Male	1695
+Thyroid	C73	Poland	Female	3551
+Thyroid	C73	Poland	Male	1444
+Thyroid	C73	Portugal	Female	1138
+Thyroid	C73	Portugal	Male	550
+Thyroid	C73	Romania	Female	1147
+Thyroid	C73	Romania	Male	591
+Thyroid	C73	Serbia	Female	559
+Thyroid	C73	Serbia	Male	258
+Thyroid	C73	Slovakia	Female	514
+Thyroid	C73	Slovakia	Male	240
+Thyroid	C73	Slovenia	Female	322
+Thyroid	C73	Slovenia	Male	157
+Thyroid	C73	South Africa	Female	1015
+Thyroid	C73	South Africa	Male	462
+Thyroid	C73	Spain	Female	6934
+Thyroid	C73	Spain	Male	3145
+Thyroid	C73	Suriname	Female	11
+Thyroid	C73	Suriname	Male	2
+Thyroid	C73	Sweden	Female	3278
+Thyroid	C73	Sweden	Male	1724
+Thyroid	C73	Switzerland	Female	2747
+Thyroid	C73	Switzerland	Male	1665
+Thyroid	C73	Thailand	Female	836
+Thyroid	C73	Thailand	Male	535
+Thyroid	C73	Trinidad and Tobago	Female	46
+Thyroid	C73	Trinidad and Tobago	Male	24
+Thyroid	C73	United Kingdom	Female	13656
+Thyroid	C73	United Kingdom	Male	5946
+Thyroid	C73	United States	Female	38808
+Thyroid	C73	United States	Male	23053
+Thyroid	C73	Uruguay	Female	219
+Thyroid	C73	Uruguay	Male	111
+Thyroid	C73	Uzbekistan	Female	15
+Thyroid	C73	Uzbekistan	Male	10
+Thyroid	C73	Venezuela	Female	1101
+Thyroid	C73	Venezuela	Male	543
+Uterus	C53-55	Albania	Female	1225
+Uterus	C53-55	Argentina	Female	67342
+Uterus	C53-55	Armenia	Female	4399
+Uterus	C53-55	Australia	Female	31886
+Uterus	C53-55	Austria	Female	29247
+Uterus	C53-55	Azerbaijan	Female	4586
+Uterus	C53-55	Belarus	Female	16181
+Uterus	C53-55	Belgium	Female	40465
+Uterus	C53-55	Belize	Female	345
+Uterus	C53-55	Brazil	Female	189546
+Uterus	C53-55	Bulgaria	Female	27340
+Uterus	C53-55	Canada	Female	58547
+Uterus	C53-55	Chile	Female	34619
+Uterus	C53-55	China	Female	8518
+Uterus	C53-55	Colombia	Female	51606
+Uterus	C53-55	Costa Rica	Female	4871
+Uterus	C53-55	Croatia	Female	8519
+Uterus	C53-55	Cuba	Female	27532
+Uterus	C53-55	Czech Rep.	Female	72144
+Uterus	C53-55	Denmark	Female	25415
+Uterus	C53-55	Dominican Rep.	Female	6171
+Uterus	C53-55	Ecuador	Female	20090
+Uterus	C53-55	Egypt	Female	3917
+Uterus	C53-55	El Salvador	Female	7224
+Uterus	C53-55	Estonia	Female	3914
+Uterus	C53-55	Finland	Female	13850
+Uterus	C53-55	France	Female	204638
+Uterus	C53-55	Georgia	Female	6728
+Uterus	C53-55	Germany	Female	171432
+Uterus	C53-55	Greece	Female	17310
+Uterus	C53-55	Guatemala	Female	12044
+Uterus	C53-55	Hungary	Female	45768
+Uterus	C53-55	Iceland	Female	362
+Uterus	C53-55	Ireland	Female	8215
+Uterus	C53-55	Israel	Female	5008
+Uterus	C53-55	Italy	Female	205509
+Uterus	C53-55	Japan	Female	316082
+Uterus	C53-55	Kazakhstan	Female	26107
+Uterus	C53-55	Korea	Female	34439
+Uterus	C53-55	Kuwait	Female	381
+Uterus	C53-55	Kyrgyzstan	Female	5666
+Uterus	C53-55	Latvia	Female	7565
+Uterus	C53-55	Lithuania	Female	9984
+Uterus	C53-55	Luxembourg	Female	741
+Uterus	C53-55	Mexico	Female	165238
+Uterus	C53-55	Moldova	Female	8074
+Uterus	C53-55	Netherlands	Female	38871
+Uterus	C53-55	New Zealand	Female	8405
+Uterus	C53-55	Nicaragua	Female	4953
+Uterus	C53-55	Norway	Female	14074
+Uterus	C53-55	Panama	Female	3271
+Uterus	C53-55	Paraguay	Female	5386
+Uterus	C53-55	Peru	Female	28508
+Uterus	C53-55	Philippines	Female	24707
+Uterus	C53-55	Poland	Female	117496
+Uterus	C53-55	Portugal	Female	17406
+Uterus	C53-55	Romania	Female	94809
+Uterus	C53-55	Russia	Female	379406
+Uterus	C53-55	Serbia	Female	10412
+Uterus	C53-55	Slovakia	Female	8198
+Uterus	C53-55	Slovenia	Female	3773
+Uterus	C53-55	South Africa	Female	47966
+Uterus	C53-55	Spain	Female	105868
+Uterus	C53-55	Suriname	Female	703
+Uterus	C53-55	Sweden	Female	29773
+Uterus	C53-55	Switzerland	Female	24441
+Uterus	C53-55	Tajikistan	Female	2166
+Uterus	C53-55	Thailand	Female	27092
+Uterus	C53-55	Trinidad and Tobago	Female	3058
+Uterus	C53-55	Turkmenistan	Female	1563
+Uterus	C53-55	Ukraine	Female	130865
+Uterus	C53-55	United Kingdom	Female	181199
+Uterus	C53-55	United States	Female	457662
+Uterus	C53-55	Uruguay	Female	7331
+Uterus	C53-55	Uzbekistan	Female	11530
+Uterus	C53-55	Venezuela	Female	51464
