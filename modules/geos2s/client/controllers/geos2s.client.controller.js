@@ -295,7 +295,7 @@
       chart_geo_world_map
       // .width(1000)
       // .height(500)
-          .width(640) // 2/3 of 960
+          .width(940) // 2/3 of 960
           .height(400) // < 2/3 of 500 = 367
           // default scale: 150
           // default center: [0, 0]
@@ -576,17 +576,18 @@
           break;
       }
 
+      var width_div_bar_evolution_by_sex = document.getElementById('div_bar_evolution_by_sex').offsetWidth;
 
       switch (dc_chart_id) {
         case '#chart_series_evolution_by_sex':
           dc_chart
-              .width(600)
+              .width(width_div_bar_evolution_by_sex)
               .height(120)
           ;
           break;
         case '#chart_row_breakdown_by_cancer_type':
           dc_chart
-              .width(300)
+              .width(600)
               .height(400)
               .ordering(function(d) {
                 return -d.value;
@@ -596,7 +597,7 @@
           break;
         case '#chart_row_breakdown_by_age_range':
           dc_chart
-              .width(300)
+              .width(600)
               .height(400)
               .ordering(function(d) {
                 return -AGE_RANGE_ORDER.indexOf(d.key);
@@ -688,6 +689,6 @@
     vm.load_detailed_data = load_detailed_data;
     // Remove existing Geos2
 
-    
+
   }
 })();
