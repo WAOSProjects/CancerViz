@@ -1,34 +1,19 @@
 <div class="section">
 
   <div class="row" id="row_global_map">
-    <div class="col s12 m9 l10">
+    <div class="col s7">
       <div class="base" id="geo_world_map">
         <h5 class="center-align">Breakdown of worldwide reported deaths by country</h5>
         <h6 class="center-align">Sélectionner les pays souhaités pour regénérer les graphs ! :)</h6>
+
         <div class="center-align" id="chart_geo_world_map">
-          <span class="reset" style="display: none;">Countries selected: <span class="filter"></span></span>
-          <a class="reset" href="" ng-click="vm.reset()" style="display: none;">Reset </a>
-          <a class="reset" href=""  style="display: none;"> / </a>
-          <a class="reset" href="" ng-click="vm.resetAll()" style="display: none;"> Reset All</a>
+          <span class="reset" style="display: none;"><span class="filter"></span> - <a href="" ng-click="vm.reset()">reset</a> / <a class="reset" href="" ng-click="vm.resetAll()" style="display: none;"> Reset All</a></span><br />
         </div>
 
       </div>
     </div>
-    <div class="col hide-on-small-only m3 l2">
-      <p class="intro">
-        Select the country you wish to re-generate the graphs below . Two types of graphics are available today , Global and Multi. </p>
-      <ul class="section table-of-contents">
-        <li><a class="big active" ui-sref="geos2s.global">Global Graph</a></li>
-        <li><a class="small" href="#row_evolution_by_sex">Deaths / Sex</a></li>
-        <li><a class="small" href="#1">Deaths / Cancers</a></li>
-        <li><a class="small" href="#2">Deaths / Range</a></li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col s12">
-      <div class="base" id="row_evolution_by_sex">
+    <div class="col s5">
+      <div class="row base" id="row_evolution_by_sex">
         <div id="div_bar_evolution_by_sex">
           <div class="col s12" id="BIG_BUTTON" align="center">
             <a class="waves-effect waves-light btn BIG_BTN"  ng-click="vm.load_detailed_data()">Load detailed data (env. 30 seconds) to filter by year range</a>
@@ -50,41 +35,33 @@
         <div id="chart_series_evolution_by_sex">
         </div>
       </div>
-    </div>
-  </div>
 
-
-
-
-  <div class="row" id="row_global_map2">
-    <div  id="global_charts">
-    <div>
-      <div class="col s6" id="1">
-        <div class="base" id="row_breakdown1">
-          <h6 class="center-align">By cancer type</h6>
-          <div class="row" id="chart_row_breakdown_by_cancer_type_buttons" align="center">
-            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_cancer_type', 'pie')">pie</a>
-            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_cancer_type', 'row')">row</a>
+        <div class="row">
+          <div class="col s6" >
+            <div class="base" id="row_breakdown1">
+              <h6 class="center-align">By cancer type</h6>
+              <div class="row" id="chart_row_breakdown_by_cancer_type_buttons" align="center">
+                <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_cancer_type', 'pie')">pie</a>
+                <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_cancer_type', 'row')">row</a>
+              </div>
+              <div id="chart_row_breakdown_by_cancer_type"></div>
+            </div>
           </div>
-          <div id="chart_row_breakdown_by_cancer_type"></div>
-        </div>
-      </div>
-    </div>
-
-    <div>
-
-      <div class="col s6" id="2">
-        <div class="base" id="row_breakdown2">
-          <h6 class="center-align">By age range</h6>
-          <div class="row" id="chart_row_breakdown_by_age_range_buttons" align="center">
-            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_age_range', 'pie')">pie</a>
-            <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_age_range', 'row')">row</a>
+          <div class="col s6" id="2">
+            <div class="base" id="row_breakdown2">
+              <h6 class="center-align">By age range</h6>
+              <div class="row" id="chart_row_breakdown_by_age_range_buttons" align="center">
+                <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_age_range', 'pie')">pie</a>
+                <a class="waves-effect waves-light btn" ng-click="vm.switch_chart_type('#chart_row_breakdown_by_age_range', 'row')">row</a>
+              </div>
+              <div id="chart_row_breakdown_by_age_range"></div>
+            </div>
           </div>
-          <div id="chart_row_breakdown_by_age_range"></div>
+
         </div>
-      </div>
     </div>
   </div>
-  </div>
+
+
 
 </div>

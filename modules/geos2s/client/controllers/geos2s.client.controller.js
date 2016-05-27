@@ -16,6 +16,7 @@
     dvdf.timer.utils.init_console_log(true);
     dvdf.timer.utils.start("Start loading page ...");
 
+
     /*
      ********************************************************************************
      ********************************************************************************
@@ -293,10 +294,10 @@
        */
 
       chart_geo_world_map
-      // .width(1000)
-      // .height(500)
-          .width(940) // 2/3 of 960
-          .height(400) // < 2/3 of 500 = 367
+       .width(1000)
+       .height(500)
+      //    .width(400) // 2/3 of 960
+      //    .height(200) // < 2/3 of 500 = 367
           // default scale: 150
           // default center: [0, 0]
           // default translate: [480, 250]
@@ -669,6 +670,8 @@
       });
     };
 
+
+
     vm.reset = function() {
       chart_geo_world_map.filterAll();
       dc.redrawAll();
@@ -684,6 +687,7 @@
       dc.filterAll();
       dc.redrawAll();
     }
+
 
     vm.switch_chart_type = switch_chart_type ;
     vm.load_detailed_data = load_detailed_data;
