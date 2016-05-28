@@ -2,8 +2,8 @@
   'use strict';
 
   angular
-    .module('explores')
-    .factory('ExploresServiceMustCancers', ExploresServiceMustCancers);
+      .module('explores')
+      .factory('ExploresServiceMustCancers', ExploresServiceMustCancers);
 
   ExploresServiceMustCancers.$inject = ['$resource'];
 

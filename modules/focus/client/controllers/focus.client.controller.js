@@ -3,8 +3,8 @@
 
   // Focus controller
   angular
-  .module('focus')
-  .controller('FocusController', FocusController);
+      .module('focus')
+      .controller('FocusController', FocusController);
 
   FocusController.$inject = ['$scope', '$state', 'Authentication', 'ExploresServiceMustCancers'];
 

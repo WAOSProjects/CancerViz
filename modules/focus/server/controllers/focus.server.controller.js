@@ -1,18 +1,18 @@
 'use strict';
 
 /**
-* Module dependencies.
-*/
+ * Module dependencies.
+ */
 var path = require('path'),
-  mongoose = require('mongoose'),
-  Explore = mongoose.model('Explore'),
-  errorHandler = require(path.resolve('./modules/core/server/controllers/errors.server.controller')),
-  _ = require('lodash');
+    mongoose = require('mongoose'),
+    Explore = mongoose.model('Explore'),
+    errorHandler = require(path.resolve('./modules/core/server/controllers/errors.server.controller')),
+    _ = require('lodash');
 
 
 
 exports.mustCancers = function(req, res) {
-  if (!req.lung || !req.stomach || req.colon || req.intestine || req.breast) {
+  if (!req.lung || !req.stomach) {
     return res.status(400).send({
       message: 'Failed to create Graph'
     });
@@ -20,18 +20,9 @@ exports.mustCancers = function(req, res) {
   res.json([req.lung, req.stomach, req.colon, req.intestine, req.breast]);
 };
 
-exports.tree = function(req, res) {
-  if (!req.test) {
-    return res.status(400).send({
-      message: 'Failed to create Graph'
-    });
-  }
-  res.json([req.test]);
-};
-
 /**
-* middleware
-*/
+ * middleware
+ */
 
 exports.lungCancers = function(req, res, next) {
   console.log('test');
@@ -223,51 +214,6 @@ exports.breastCancers = function(req, res, next) {
       req.breast = {
         'key': 'Breast',
         'values': _.orderBy(table, ['x'], ['asc'])
-      };
-      next();
-    }
-  });
-};
-
-
-
-
-exports.test = function(req, res, next) {
-  Explore.aggregate([{
-    '$match': {
-      'cancer': 'Breast',
-      'year': {
-        '$lte': 2010,
-        '$gte': 1990
-      }
-    }
-  }, {
-    '$group': {
-      '_id': {
-        'year': '$year'
-      },
-      'dead': {
-        '$sum': '$deaths'
-      },
-      'toto': {
-        '$sum': '$deaths'
-      }
-    }
-  }]).exec(function(err, results) {
-    if (err) {
-      return res.status(400).send({
-        message: errorHandler.getErrorMessage(err)
-      });
-    } else {
-      var table = _.map(results, function(v) {
-        return {
-          'x': v._id.year,
-          'y': v.dead
-        };
-      });
-      req.test = {
-        'key': 'Deaths',
-        'values': results
       };
       next();
     }
