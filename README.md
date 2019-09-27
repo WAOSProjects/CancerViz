@@ -1,4 +1,8 @@
-# Projet epidemium CancerViz
+# Projet epidemium CancerViz : 2ème prix
+
+* [Medium](https://medium.com/epidemium/annexe-3-epidemium-les-résultats-du-challenge4cancer-7bbd5c7d647c)
+* [Twitter](https://twitter.com/hashtag/cancerviz)
+* [Les Echos](https://www.lesechos.fr/2017/02/cancer-roche-va-financer-trois-projets-de-recherche-collaboratifs-en-france-160646)
 
 * http://www.epidemium.cc/project/38/view
 * http://wiki.epidemium.cc/wiki/CancerViz
